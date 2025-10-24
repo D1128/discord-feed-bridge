@@ -40,20 +40,27 @@ jobs:
           RSSHUB_BASES:         ${{ secrets.RSSHUB_BASES }}     # ← 追加（任意）
         run: python fetch_and_post.py
 
-
       - name: (TEMP) Probe Nitter mirrors from runner
         run: |
-           set -e
-           for u in \
-             "https://nitter.net/SuguruKun_ai/rss" \
-             "https://nitter.poast.org/SuguruKun_ai/rss" \
-             "https://nitter.privacydev.net/SuguruKun_ai/rss" \
-             "https://nitter.fdn.fr/SuguruKun_ai/rss" \
-             ; do
-             echo "=== $u"
-             curl -I --max-time 8 "$u" || true
-             echo        
-           done
+          set -e
+          list="
+          https://nitter.net
+          https://nitter.poast.org
+          https://nitter.privacydev.net
+          https://nitter.fdn.fr
+          https://nitter.ca
+          https://nitter.skrep.in
+          https://nitter.weiler.rocks
+          https://nitter.kylrth.com
+          https://nitter.uni-sonia.com
+          https://nitter.eu.projectsegfau.lt
+          "
+          for b in $list; do
+            echo "=== $b"
+            curl -sS -I --max-time 8 "$b/SuguruKun_ai/rss" || true
+            echo
+          done
+
 
       - name: Save state (commit back safely)
         if: always()
