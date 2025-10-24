@@ -1,26 +1,24 @@
-# fetch_and_post.py（チャンネル別 Webhook 版・UA/ミラーフォールバック付き）
+# fetch_and_post.py（UA + RSSHubミラー優先 + フィード中身チェック + ログ強化）
 import os, json, time, hashlib, sys
 import requests, feedparser, yaml
 
 STATE_FILE = "state.json"
 
-# 共通ヘッダ（403 回避に有効）
 BASE_HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
         "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/124.0.0.0 Safari/537.36 "
-        "(GitHubActions FeedBridge)"
+        "Chrome/124.0.0.0 Safari/537.36 (GitHubActions FeedBridge)"
     ),
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
     "Accept-Language": "ja,en-US;q=0.7,en;q=0.3",
 }
 
-# RSSHub が落ち/ブロックされることがあるので、順に試す
+# ← moeyy.cn を最優先に（重要）
 RSSHUB_MIRRORS = [
-    "https://rsshub.app",             # 元
-    "https://rsshub.moeyy.cn",        # ミラー1
-    "https://rsshub.rssforever.com",  # ミラー2
+    "https://rsshub.moeyy.cn",
+    "https://rsshub.rssforever.com",
+    "https://rsshub.app",
 ]
 
 def load_yaml(path):
@@ -37,57 +35,68 @@ def save_state(state):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
         json.dump(state, f, ensure_ascii=False, indent=2)
 
-def iter_with_rsshub_mirrors(url: str):
-    """url が rsshub のとき、ミラーに差し替えた候補を順に返す。"""
+def _looks_like_feed(content: bytes) -> bool:
+    """レスポンスがRSS/Atomっぽいかの簡易判定（Cloudflare等のHTMLを弾く）"""
+    sniff = content[:4096].lower()
+    return (
+        b"<rss" in sniff or
+        b"<feed" in sniff or
+        b"<entry" in sniff or
+        b"<item" in sniff
+    )
+
+def _iter_rsshub_candidates(url: str):
     if "rsshub." not in url:
         yield url
         return
+    # どのベースが来ても優先順に置換
     for base in RSSHUB_MIRRORS:
-        # どのベースでも置換できるように、すべての候補を試す
         u = url
-        for b in RSSHUB_MIRRORS:
-            u = u.replace(b, base)
+        for any_base in RSSHUB_MIRRORS:
+            u = u.replace(any_base, base)
         yield u
 
-def parse_feed_with_ua(url: str, timeout: int = 20):
-    """
-    User-Agent 付きで取得 → feedparser で解析。
-    - 403/429 は短いバックオフ付きで数回リトライ
-    - rsshub はミラーを順に試す
-    - AndroPlus など一部サイトは Referer を付与
-    """
-    # 参照付与などの個別対応
-    def make_headers(u: str):
-        h = dict(BASE_HEADERS)
-        if u.startswith("https://androplus.org/"):
-            h["Referer"] = "https://androplus.org/"
-        return h
+def _headers_for(url: str):
+    h = dict(BASE_HEADERS)
+    if url.startswith("https://androplus.org/"):
+        h["Referer"] = "https://androplus.org/"
+    return h
 
-    # rsshub ミラーを順に試す
-    for candidate in iter_with_rsshub_mirrors(url):
-        headers = make_headers(candidate)
-        # 軽いリトライ（最大3回）
+def fetch_and_parse(url: str, timeout: int = 20):
+    """UA付きで取得→中身確認→feedparser、rsshubはミラーを順に試す"""
+    last_err = None
+    for candidate in _iter_rsshub_candidates(url):
+        headers = _headers_for(candidate)
         for attempt in range(3):
             try:
                 r = requests.get(candidate, headers=headers, timeout=timeout)
-                # 特定のステータスは待って再試行
-                if r.status_code in (403, 429, 502, 503, 504) and attempt < 2:
+                status = r.status_code
+                if status in (403, 429, 502, 503, 504) and attempt < 2:
                     time.sleep(2 * (attempt + 1))
                     continue
                 r.raise_for_status()
-                # bytes をそのまま解析（UA/Referer 判定をすり抜けやすい）
-                return feedparser.parse(r.content)
+                # 中身がフィードっぽくなければ次を試す
+                if not _looks_like_feed(r.content):
+                    last_err = f"non-feed body (status={status})"
+                    break  # 次のミラーへ
+                feed = feedparser.parse(r.content)
+                if getattr(feed, "entries", None):
+                    print(f"[INFO] rsshub_ok: {candidate} entries={len(feed.entries)}")
+                    return feed
+                else:
+                    print(f"[INFO] rsshub_empty: {candidate} entries=0")
+                    break  # 次のミラーへ
             except Exception as ex:
-                # 次の試行へ（最後の試行だったら次のミラーへ）
-                if attempt >= 2:
-                    break
-
-    # すべて失敗時の最後のフォールバック（feedparser 内蔵フェッチ）
+                last_err = str(ex)
+                # 次の試行 or 次のミラーへ
+        # 次のミラーへ
+    # すべてダメ→最後に素のURLでフォールバック
     try:
-        return feedparser.parse(url, request_headers=BASE_HEADERS)
-    except Exception:
-        # ここで完全に失敗したら呼び出し元で例外処理
-        raise
+        headers = _headers_for(url)
+        feed = feedparser.parse(url, request_headers=headers)
+        return feed
+    except Exception as ex:
+        raise RuntimeError(last_err or str(ex))
 
 def post_discord(webhook, content):
     data = {"content": content}
@@ -117,39 +126,39 @@ def main(shard_idx=0, shard_total=1):
     sources = cfg["sources"]
     posted = 0
 
-    # 並列分割（複数ワークフローで分担）
+    # シャーディング対応（並列時の重複防止）
     targets = [s for i, s in enumerate(sources) if i % shard_total == shard_idx]
 
     for s in targets:
         url = s["url"]
         name = s.get("name", url)
-        # webhook名（news/yt/x/xkw）→ 環境変数 DISCORD_WEBHOOK_NEWS / _YT / _X / _XKW を優先
+
+        # webhook解決（ENV最優先 → feeds.yamlのwebhooksセクション）
         name_key = s.get("webhook", "news").upper()
         webhook = (
             os.environ.get(f"DISCORD_WEBHOOK_{name_key}")
-            or os.environ.get("DISCORD_WEBHOOK")               # 予備
-            or (cfg.get("webhooks") or {}).get(s.get("webhook", "news"))   # feeds.yaml の値
+            or os.environ.get("DISCORD_WEBHOOK")
+            or (cfg.get("webhooks") or {}).get(s.get("webhook", "news"))
         )
         if not webhook:
             print(f"[WARN] no webhook for {name} ({url})", file=sys.stderr)
             continue
 
         try:
-            feed = parse_feed_with_ua(url)
-            count = len(getattr(feed, "entries", []))
-            print(f"[INFO] fetched: {name} ({url}) entries={count}")
+            feed = fetch_and_parse(url)
         except Exception as ex:
             print(f"[WARN] fetch failed: {url} -> {ex}", file=sys.stderr)
             continue
 
+        entries = getattr(feed, "entries", []) or []
+        print(f"[INFO] fetched: {name} ({url}) entries={len(entries)}")
+
         last_ids = state.get(url, [])
         new_items = []
-        # 取り過ぎ防止（最新10件のみチェック）
-        for e in feed.entries[:10]:
+        for e in entries[:10]:  # 直近10件だけ判定
             uid = entry_uid(e)
             if uid not in last_ids:
                 new_items.append((uid, e))
-        # 古い順に流す
         new_items.reverse()
         print(f"[INFO] new_items={len(new_items)} -> post to {s.get('webhook','news')}")
 
@@ -162,11 +171,7 @@ def main(shard_idx=0, shard_total=1):
             except Exception as ex:
                 print(f"[WARN] post failed: {url} -> {ex}", file=sys.stderr)
 
-        # 既読管理（直近50件）
-        if new_items:
-            state[url] = ([u for u, _ in new_items] + last_ids)[:50]
-        else:
-            state[url] = last_ids[:50]
+        state[url] = ([u for u, _ in new_items] + last_ids)[:50] if new_items else last_ids[:50]
 
     save_state(state)
     print(f"done: posted={posted}")
