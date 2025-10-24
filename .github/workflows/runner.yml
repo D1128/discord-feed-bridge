@@ -38,6 +38,20 @@ jobs:
           DISCORD_WEBHOOK_XKW:  ${{ secrets.DISCORD_WEBHOOK_XKW }}
         run: python fetch_and_post.py
 
+      - name: (TEMP) Probe Nitter mirrors from runner
+        run: |
+           set -e
+           for u in \
+             "https://nitter.net/SuguruKun_ai/rss" \
+             "https://nitter.poast.org/SuguruKun_ai/rss" \
+             "https://nitter.privacydev.net/SuguruKun_ai/rss" \
+             "https://nitter.fdn.fr/SuguruKun_ai/rss" \
+             ; do
+             echo "=== $u"
+             curl -I --max-time 8 "$u" || true
+             echo        
+           done
+
       - name: Save state (commit back safely)
         if: always()
         run: |
