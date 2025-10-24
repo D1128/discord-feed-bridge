@@ -1,28 +1,4 @@
 {
-  "https://www.digital.go.jp/rss/news.xml": [
-    "bb600dd7-d3a6-44a1-8138-b7bba052ac9c",
-    "bcaad66a-659d-46f8-9733-53ac1bdde1bb",
-    "61e4951f-f184-4126-8faf-d9db52e9dce6",
-    "bbc7d864-b5c3-4cc9-8a05-6674ce74c181",
-    "b958eb1e-8bb5-428d-a819-204f45096c95",
-    "65890e75-aa43-4337-a3fc-4e00830fd226",
-    "368bf896-1fe4-4c53-bccb-3167cd06eac8",
-    "27039db0-c4bd-42cb-8efa-e0b9a0f76f5b",
-    "f3bc03b4-c381-495c-95d6-001f9b10b344",
-    "24ec5581-6e67-4334-9a14-d35ea0862e48"
-  ],
-  "https://www.cao.go.jp/rss/news.rdf": [
-    "https://www.esri.cao.go.jp/jp/esri/archive/e_dis/2025/e_dis404.html",
-    "https://survey.gov-online.go.jp",
-    "https://www.cao.go.jp/cool_japan/koujunkan.html",
-    "https://www.esri.cao.go.jp/jp/esri/workshop/menu.html",
-    "https://www.cao.go.jp/consumer/iinkai/2025/473/kaisai/index.html",
-    "https://www.cao.go.jp/consumer/iinkai/2025/472/shiryou/index.html",
-    "https://www.fsc.go.jp/senmon/hisiryou/annai/hisiryou_annai_211.html",
-    "https://www.fsc.go.jp/senmon/nouyaku/annai/nouyaku_annai_dai4_senmon_44.html",
-    "https://www.fsc.go.jp/iinkai_annai/annai/annai1001.html",
-    "https://www.esri.cao.go.jp/jp/stat/di/di.html"
-  ],
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
     "https://pc.watch.impress.co.jp/docs/news/2057844.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2057808.html?ref=rss",
