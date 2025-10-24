@@ -38,6 +38,13 @@ jobs:
           DISCORD_WEBHOOK_XKW:  ${{ secrets.DISCORD_WEBHOOK_XKW }}
         run: python fetch_and_post.py
 
+      - name: (TEMP) Test X webhook
+        run: |
+          curl -H "Content-Type: application/json" \
+             -d '{"content":"✅ X webhook 単体テスト"}' \
+             "${{ secrets.DISCORD_WEBHOOK_X }}"
+
+
       - name: Save state (commit back safely)
         if: always()
         run: |
