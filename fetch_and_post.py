@@ -1,4 +1,4 @@
-# fetch_and_post.py（UA + RSSHub→Nitterフォールバック + 中身判定 + RT除外）
+# fetch_and_post.py（UA + RSSHub→Nitterフォールバック + 中身判定 + RT除外 + 429対策）
 import os, json, time, hashlib, sys, re, urllib.parse
 import requests, feedparser, yaml
 
@@ -38,6 +38,8 @@ _DEFAULT_NITTER = [
 RSSHUB_MIRRORS = _bases_from_env("RSSHUB_BASES", _DEFAULT_RSSHUB)
 NITTER_MIRRORS = _bases_from_env("NITTER_BASES", _DEFAULT_NITTER)
 
+# 追加：Nitter 呼び出し間隔（秒）をENVで調整（429対策）
+NITTER_DELAY = float(os.environ.get("NITTER_DELAY", "0"))  # 例: "2.5"
 
 def load_yaml(path):
     with open(path, "r", encoding="utf-8") as f:
@@ -68,8 +70,10 @@ def _http_get(url: str, timeout=20, retries=3):
     for i in range(retries):
         try:
             r = requests.get(url, headers=_headers_for(url), timeout=timeout)
+            # 429 は待ち時間を長めに、5xx/403 も軽くバックオフ
             if r.status_code in (403, 429, 502, 503, 504) and i < retries - 1:
-                time.sleep(2 * (i + 1))
+                wait = (3 if r.status_code == 429 else 2) * (i + 1)
+                time.sleep(wait)
                 continue
             r.raise_for_status()
             return r
@@ -80,7 +84,7 @@ def _http_get(url: str, timeout=20, retries=3):
 # --------- X (Twitter) URL の判定 & Nitter URL 生成 ---------
 def _parse_x_user(url: str):
     m = re.search(r"/twitter/user/([^/?]+)", url)
-    if not m: 
+    if not m:
         return None
     user = m.group(1)
     qs = urllib.parse.urlparse(url).query
@@ -90,7 +94,7 @@ def _parse_x_user(url: str):
 
 def _parse_x_keyword(url: str):
     m = re.search(r"/twitter/keyword/([^/?]+)", url)
-    if not m: 
+    if not m:
         return None
     kw_decoded = urllib.parse.unquote(m.group(1))
     qs = urllib.parse.urlparse(url).query
@@ -147,7 +151,9 @@ def fetch_via_nitter_for_x(url: str):
     if info_user:
         for cand in _nitter_user_feeds(info_user["user"]):
             try:
-                r = _http_get(cand)
+                if NITTER_DELAY > 0:
+                    time.sleep(NITTER_DELAY)          # 429回避の間引き
+                r = _http_get(cand, retries=5)        # 粘り強く取得
                 if not _looks_like_feed(r.content):
                     continue
                 feed = feedparser.parse(r.content)
@@ -162,7 +168,9 @@ def fetch_via_nitter_for_x(url: str):
     elif info_kw:
         for cand in _nitter_search_feeds(info_kw["q"]):
             try:
-                r = _http_get(cand)
+                if NITTER_DELAY > 0:
+                    time.sleep(NITTER_DELAY)          # 429回避の間引き
+                r = _http_get(cand, retries=5)        # 粘り強く取得
                 if not _looks_like_feed(r.content):
                     continue
                 feed = feedparser.parse(r.content)
