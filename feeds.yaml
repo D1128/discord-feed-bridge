@@ -4,31 +4,271 @@ webhooks:
   x: ${{ secrets.DISCORD_WEBHOOK_X }}
   xkw: ${{ secrets.DISCORD_WEBHOOK_XKW }}
 sources:
-- name: デジタル庁
-  url: https://www.digital.go.jp/rss/news.xml
+- name: PC Watch
+  url: https://pc.watch.impress.co.jp/sublink/pc.rdf
   webhook: news
   kind: rss
-- name: 内閣府
-  url: https://www.cao.go.jp/rss/news.rdf
+- name: ITmedia Top
+  url: https://rss.itmedia.co.jp/rss/1.0/topstory.xml
   webhook: news
   kind: rss
-- name: '例: OfficialChannel'
-  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxxxxxxxxxx
+- name: Lifehacker Japan
+  url: https://feeds.lifehacker.jp/rss/lifehacker/index.xml
+  webhook: news
+  kind: rss
+- name: GIGAZINE
+  url: https://gigazine.net/news/rss_2.0/
+  webhook: news
+  kind: rss
+- name: Gigafree
+  url: https://feeds2.feedburner.com/gigafree
+  webhook: news
+  kind: rss
+- name: AI Market
+  url: https://ai-market.jp/feed/
+  webhook: news
+  kind: rss
+- name: BOCEK Media
+  url: https://bocek.co.jp/media/feed/
+  webhook: news
+  kind: rss
+- name: AIsmiley ニュース
+  url: https://aismiley.co.jp/ai_news/feed/
+  webhook: news
+  kind: rss
+- name: AINOW
+  url: https://ainow.ai/feed/
+  webhook: news
+  kind: rss
+- name: すまほん!!
+  url: https://smhn.info/feed
+  webhook: news
+  kind: rss
+- name: tabkul
+  url: https://feeds.feedburner.com/tabkul
+  webhook: news
+  kind: rss
+- name: AndroPlus
+  url: https://androplus.org/feed/
+  webhook: news
+  kind: rss
+- name: 物欲ガジェット
+  url: https://butsuyoku-gadget.com/feed/
+  webhook: news
+  kind: rss
+- name: デイリーガジェット
+  url: https://daily-gadget.net/feed/
+  webhook: news
+  kind: rss
+- name: chinadap.jp
+  url: https://chinadap.jp/feed
+  webhook: news
+  kind: rss
+- name: ガルマックス
+  url: https://rsshub.app/twitter/user/feed?includeRts=0
+  webhook: news
+  kind: rss
+- name: telektlist
+  url: https://telektlist.com/feed/
+  webhook: news
+  kind: rss
+- name: スマホダイジェスト
+  url: https://sumahodigest.com/?feed=rss2
+  webhook: news
+  kind: rss
+- name: juggly.cn
+  url: https://feeds.feedburner.com/Jugglycn
+  webhook: news
+  kind: rss
+- name: Win-Tab
+  url: https://win-tab.net/feed/
+  webhook: news
+  kind: rss
+- name: CodeZine 新着20
+  url: https://codezine.jp/rss/new/20/index.xml
+  webhook: news
+  kind: rss
+- name: はてなブログ yachin29
+  url: https://yachin29.hatenablog.com/feed
+  webhook: news
+  kind: rss
+- name: LIGブログ
+  url: https://liginc.co.jp/blog/feed
+  webhook: news
+  kind: rss
+- name: Webクリエイターボックス
+  url: https://rsshub.app/twitter/user/feed?includeRts=0
+  webhook: news
+  kind: rss
+- name: TechAcademyマガジン
+  url: https://techacademy.jp/magazine/feed
+  webhook: news
+  kind: rss
+- name: GFS Tokyo 公式ブログ
+  url: https://official.gfs.tokyo/blog/feed
+  webhook: news
+  kind: rss
+- name: YouTube UC8yHePe_RgUBE-waRWy6olw
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw
   webhook: yt
   kind: rss
-- name: 'X user: example'
-  url: https://rsshub.app/twitter/user/example?includeRts=0
+- name: YouTube UC9V4eJBNx_hOieGG51NZ6nA
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA
+  webhook: yt
+  kind: rss
+- name: YouTube UCcdd3kS52T9Zyo-SWfj86bA
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA
+  webhook: yt
+  kind: rss
+- name: YouTube UCVx34dwwm34Rs9rxyHDZzIg
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg
+  webhook: yt
+  kind: rss
+- name: YouTube UCOXJK1wFGm22f4_9ZtPJqQA
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA
+  webhook: yt
+  kind: rss
+- name: YouTube UCphTq6mefx_15CjD35qgXgA
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA
+  webhook: yt
+  kind: rss
+- name: YouTube UCJsEBx7hV04Q02Yz9iAgXuQ
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ
+  webhook: yt
+  kind: rss
+- name: YouTube UCfElKzihodObRfXusuixUPw
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCfElKzihodObRfXusuixUPw
+  webhook: yt
+  kind: rss
+- name: YouTube UC9yE5zNQtT-sItF53GfQs7w
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9yE5zNQtT-sItF53GfQs7w
+  webhook: yt
+  kind: rss
+- name: YouTube UCtu3QGmMXAVjc6UFbTOIVGQ
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ
+  webhook: yt
+  kind: rss
+- name: YouTube UC8UXXTaoP6Xf-zGRLf0R46w
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w
+  webhook: yt
+  kind: rss
+- name: YouTube UCY57OrR5CWVgyJav7UZ5XEg
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg
+  webhook: yt
+  kind: rss
+- name: YouTube UCVPz_nauEJpqPxxvYiOpCHQ
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ
+  webhook: yt
+  kind: rss
+- name: YouTube UC4ZIJCbH0InZipbtfZ0EbEA
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA
+  webhook: yt
+  kind: rss
+- name: YouTube UCLS3KYdyKEoChkXVs7DyMEA
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA
+  webhook: yt
+  kind: rss
+- name: YouTube UCZQVTC3uLCyuJUOcRlguazA
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA
+  webhook: yt
+  kind: rss
+- name: YouTube UCOoAKiMQqNdUMmJe1N_U1Qw
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw
+  webhook: yt
+  kind: rss
+- name: YouTube UCXo1SsIDZ_dke2Nr1r3qk6w
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w
+  webhook: yt
+  kind: rss
+- name: YouTube UCtiDTuG40ZOarubtFm1fbzg
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCtiDTuG40ZOarubtFm1fbzg
+  webhook: yt
+  kind: rss
+- name: YouTube UCL68L-bhupBuuVhAfCN8VlQ
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCL68L-bhupBuuVhAfCN8VlQ
+  webhook: yt
+  kind: rss
+- name: YouTube UCpUQnk6MaY4o3NdgJmv10cw
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCpUQnk6MaY4o3NdgJmv10cw
+  webhook: yt
+  kind: rss
+- name: YouTube UCvHpETRVi1tXeRJoYiXHJqw
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw
+  webhook: yt
+  kind: rss
+- name: YouTube UC_kTlZMryHFPMc7QMi4g0VQ
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ
+  webhook: yt
+  kind: rss
+- name: YouTube UC8FwuifT73FtnO93ZUNSoLg
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UC8FwuifT73FtnO93ZUNSoLg
+  webhook: yt
+  kind: rss
+- name: YouTube UC9buL3Iph_f7AZxdzmiBL8Q
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9buL3Iph_f7AZxdzmiBL8Q
+  webhook: yt
+  kind: rss
+- name: X user SuguruKun_ai
+  url: https://rsshub.app/twitter/user/SuguruKun_ai?includeRts=0
   webhook: x
   kind: rss
-- name: 'X keyword: AI'
-  url: https://rsshub.app/twitter/keyword/AI%20lang%3Aja?includeRts=0&limit=5
+- name: X user AIMIRAI46487
+  url: https://rsshub.app/twitter/user/AIMIRAI46487?includeRts=0
   webhook: x
   kind: rss
-- name: 'X kw: AI'
-  url: https://rsshub.app/twitter/keyword/AI%20lang%3Aja?includeRts=0&limit=5
+- name: X user ctgptlb
+  url: https://rsshub.app/twitter/user/ctgptlb?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user pop_ikeda
+  url: https://rsshub.app/twitter/user/pop_ikeda?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user envader_plus
+  url: https://rsshub.app/twitter/user/envader_plus?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user chatgpt_ai_bard
+  url: https://rsshub.app/twitter/user/chatgpt_ai_bard?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user masahirochaen
+  url: https://rsshub.app/twitter/user/masahirochaen?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user showheyohtaki
+  url: https://rsshub.app/twitter/user/showheyohtaki?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user daily_trial
+  url: https://rsshub.app/twitter/user/daily_trial?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user haniwa008
+  url: https://rsshub.app/twitter/user/haniwa008?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user codejump_com
+  url: https://rsshub.app/twitter/user/codejump_com?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user chibimana
+  url: https://rsshub.app/twitter/user/chibimana?includeRts=0
+  webhook: x
+  kind: rss
+- name: X user ninjacodeee
+  url: https://rsshub.app/twitter/user/ninjacodeee?includeRts=0
+  webhook: x
+  kind: rss
+- name: X keyword OnePlus15 ja
+  url: https://rsshub.app/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5
   webhook: xkw
   kind: rss
-- name: 'X kw: サイバーセキュリティ'
-  url: https://rsshub.app/twitter/keyword/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%20lang%3Aja?includeRts=0&limit=5
+- name: X keyword Pixel10Pro ja
+  url: https://rsshub.app/twitter/keyword/Pixel10Pro%20lang%3Aja?includeRts=0&limit=5
+  webhook: xkw
+  kind: rss
+- name: X keyword プロンプト ja
+  url: https://rsshub.app/twitter/keyword/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20lang%3Aja?includeRts=0&limit=5
   webhook: xkw
   kind: rss
