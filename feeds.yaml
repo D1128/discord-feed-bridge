@@ -209,66 +209,66 @@ sources:
   webhook: yt
   kind: rss
 - name: X user SuguruKun_ai
-  url: https://rsshub.app/twitter/user/SuguruKun_ai?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0
   webhook: x
   kind: rss
 - name: X user AIMIRAI46487
-  url: https://rsshub.app/twitter/user/AIMIRAI46487?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/AIMIRAI46487?includeRts=0
   webhook: x
   kind: rss
 - name: X user ctgptlb
-  url: https://rsshub.app/twitter/user/ctgptlb?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/ctgptlb?includeRts=0
   webhook: x
   kind: rss
 - name: X user pop_ikeda
-  url: https://rsshub.app/twitter/user/pop_ikeda?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/pop_ikeda?includeRts=0
   webhook: x
   kind: rss
 - name: X user envader_plus
-  url: https://rsshub.app/twitter/user/envader_plus?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0
   webhook: x
   kind: rss
 - name: X user chatgpt_ai_bard
-  url: https://rsshub.app/twitter/user/chatgpt_ai_bard?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/chatgpt_ai_bard?includeRts=0
   webhook: x
   kind: rss
 - name: X user masahirochaen
-  url: https://rsshub.app/twitter/user/masahirochaen?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/masahirochaen?includeRts=0
   webhook: x
   kind: rss
 - name: X user showheyohtaki
-  url: https://rsshub.app/twitter/user/showheyohtaki?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/showheyohtaki?includeRts=0
   webhook: x
   kind: rss
 - name: X user daily_trial
-  url: https://rsshub.app/twitter/user/daily_trial?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/daily_trial?includeRts=0
   webhook: x
   kind: rss
 - name: X user haniwa008
-  url: https://rsshub.app/twitter/user/haniwa008?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0
   webhook: x
   kind: rss
 - name: X user codejump_com
-  url: https://rsshub.app/twitter/user/codejump_com?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/codejump_com?includeRts=0
   webhook: x
   kind: rss
 - name: X user chibimana
-  url: https://rsshub.app/twitter/user/chibimana?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/chibimana?includeRts=0
   webhook: x
   kind: rss
 - name: X user ninjacodeee
-  url: https://rsshub.app/twitter/user/ninjacodeee?includeRts=0
+  url: https://rsshub.rssforever.com/twitter/user/ninjacodeee?includeRts=0
   webhook: x
   kind: rss
 - name: X keyword OnePlus15 ja
-  url: https://rsshub.app/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5
+  url: https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5
   webhook: xkw
   kind: rss
 - name: X keyword Pixel10Pro ja
-  url: https://rsshub.app/twitter/keyword/Pixel10Pro%20lang%3Aja?includeRts=0&limit=5
+  url: https://rsshub.rssforever.com/twitter/keyword/Pixel10Pro%20lang%3Aja?includeRts=0&limit=5
   webhook: xkw
   kind: rss
 - name: X keyword プロンプト ja
-  url: https://rsshub.app/twitter/keyword/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20lang%3Aja?includeRts=0&limit=5
+  url: https://rsshub.rssforever.com/twitter/keyword/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20lang%3Aja?includeRts=0&limit=5
   webhook: xkw
   kind: rss
