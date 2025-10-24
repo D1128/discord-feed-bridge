@@ -65,7 +65,7 @@ sources:
   webhook: news
   kind: rss
 - name: ガルマックス
-  url: https://rsshub.app/twitter/user/feed?includeRts=0
+  url: https://garumax.com/feed
   webhook: news
   kind: rss
 - name: telektlist
@@ -97,7 +97,7 @@ sources:
   webhook: news
   kind: rss
 - name: Webクリエイターボックス
-  url: https://rsshub.app/twitter/user/feed?includeRts=0
+  url: https://www.webcreatorbox.com/feed/
   webhook: news
   kind: rss
 - name: TechAcademyマガジン
