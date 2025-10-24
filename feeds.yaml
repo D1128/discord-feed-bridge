@@ -1,0 +1,34 @@
+webhooks:
+  news: ${{ secrets.DISCORD_WEBHOOK_NEWS }}
+  yt: ${{ secrets.DISCORD_WEBHOOK_YT }}
+  x: ${{ secrets.DISCORD_WEBHOOK_X }}
+  xkw: ${{ secrets.DISCORD_WEBHOOK_XKW }}
+sources:
+- name: デジタル庁
+  url: https://www.digital.go.jp/rss/news.xml
+  webhook: news
+  kind: rss
+- name: 内閣府
+  url: https://www.cao.go.jp/rss/news.rdf
+  webhook: news
+  kind: rss
+- name: '例: OfficialChannel'
+  url: https://www.youtube.com/feeds/videos.xml?channel_id=UCxxxxxxxxxxxxxxxx
+  webhook: yt
+  kind: rss
+- name: 'X user: example'
+  url: https://rsshub.app/twitter/user/example?includeRts=0
+  webhook: x
+  kind: rss
+- name: 'X keyword: AI'
+  url: https://rsshub.app/twitter/keyword/AI%20lang%3Aja?includeRts=0&limit=5
+  webhook: x
+  kind: rss
+- name: 'X kw: AI'
+  url: https://rsshub.app/twitter/keyword/AI%20lang%3Aja?includeRts=0&limit=5
+  webhook: xkw
+  kind: rss
+- name: 'X kw: サイバーセキュリティ'
+  url: https://rsshub.app/twitter/keyword/%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%20lang%3Aja?includeRts=0&limit=5
+  webhook: xkw
+  kind: rss
