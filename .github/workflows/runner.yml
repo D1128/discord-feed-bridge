@@ -2,20 +2,22 @@ name: Feed → Discord (multi-webhook)
 
 on:
   schedule:
-    - cron: "*/10 * * * *" # 10分おき（5分にしたい時は */5 に）
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}
 
 permissions:
-  contents: write # state.json をコミットするため
+  contents: write
 
 jobs:
   run:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        shard: [0, 1, 2, 3] # 4分割で並列処理
+        shard: [0, 1, 2, 3]   # まずは [0] にして単発運転→安定後に [0,1,2,3] に戻すのもOK
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0      # ← rebase/pull が使えるように履歴を取得（重要）
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -29,20 +31,37 @@ jobs:
         env:
           SHARD_INDEX: ${{ matrix.shard }}
           SHARD_TOTAL: 4
-          # 予備の既定（すべてここに落ちる設定があれば使う）
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
-          # チャンネル別（news / yt / x）
+          DISCORD_WEBHOOK:      ${{ secrets.DISCORD_WEBHOOK }}
           DISCORD_WEBHOOK_NEWS: ${{ secrets.DISCORD_WEBHOOK_NEWS }}
-          DISCORD_WEBHOOK_YT: ${{ secrets.DISCORD_WEBHOOK_YT }}
-          DISCORD_WEBHOOK_X: ${{ secrets.DISCORD_WEBHOOK_X }}
-          DISCORD_WEBHOOK_XKW: ${{ secrets.DISCORD_WEBHOOK_XKW }}
+          DISCORD_WEBHOOK_YT:   ${{ secrets.DISCORD_WEBHOOK_YT }}
+          DISCORD_WEBHOOK_X:    ${{ secrets.DISCORD_WEBHOOK_X }}
+          DISCORD_WEBHOOK_XKW:  ${{ secrets.DISCORD_WEBHOOK_XKW }}
         run: python fetch_and_post.py
 
-      - name: Save state (commit back)
+      - name: Save state (commit back safely)
         if: always()
         run: |
+          set -e
           git config user.name "actions-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add state.json
+
+          BRANCH="${{ github.ref_name }}"
+          git fetch origin "$BRANCH"
+          git checkout "$BRANCH"
+          git pull --rebase origin "$BRANCH" || true
+
+          git add state.json || true
           git commit -m "update state [skip ci]" || echo "no changes"
-          git push
+
+          n=0
+          until [ $n -ge 5 ]
+          do
+            git pull --rebase origin "$BRANCH" || true
+            if git push origin HEAD:"$BRANCH"; then
+              echo "push succeeded"
+              break
+            fi
+            n=$((n+1))
+            echo "push retry $n/5..."
+            sleep 2
+          done
