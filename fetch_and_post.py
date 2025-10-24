@@ -14,20 +14,30 @@ BASE_HEADERS = {
     "Accept-Language": "ja,en-US;q=0.7,en;q=0.3",
 }
 
-# ← moeyy.cn を先頭に（優先）
-RSSHUB_MIRRORS = [
+def _bases_from_env(key, defaults):
+    """環境変数 key（カンマ区切り）でミラーを上書き。未設定なら defaults。"""
+    v = os.environ.get(key, "").strip()
+    if not v:
+        return defaults
+    return [s.strip() for s in v.split(",") if s.strip()]
+
+# 既定リスト（未設定時に使う）
+_DEFAULT_RSSHUB = [
     "https://rsshub.moeyy.cn",
     "https://rsshub.rssforever.com",
     "https://rsshub.app",
 ]
-
-# Nitter の候補（動かない物もあるので複数用意）
-NITTER_MIRRORS = [
+_DEFAULT_NITTER = [
     "https://nitter.net",
-    "https://nitter.privacydev.net",
     "https://nitter.poast.org",
+    "https://nitter.privacydev.net",
     "https://nitter.fdn.fr",
 ]
+
+# ← 環境変数で上書き可能に（カンマ区切り）
+RSSHUB_MIRRORS = _bases_from_env("RSSHUB_BASES", _DEFAULT_RSSHUB)
+NITTER_MIRRORS = _bases_from_env("NITTER_BASES", _DEFAULT_NITTER)
+
 
 def load_yaml(path):
     with open(path, "r", encoding="utf-8") as f:
