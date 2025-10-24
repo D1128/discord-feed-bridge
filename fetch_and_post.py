@@ -136,6 +136,8 @@ def main(shard_idx=0, shard_total=1):
 
         try:
             feed = parse_feed_with_ua(url)
+            count = len(getattr(feed, "entries", []))
+            print(f"[INFO] fetched: {name} ({url}) entries={count}")
         except Exception as ex:
             print(f"[WARN] fetch failed: {url} -> {ex}", file=sys.stderr)
             continue
@@ -149,6 +151,7 @@ def main(shard_idx=0, shard_total=1):
                 new_items.append((uid, e))
         # 古い順に流す
         new_items.reverse()
+        print(f"[INFO] new_items={len(new_items)} -> post to {s.get('webhook','news')}")
 
         for uid, e in new_items:
             msg = format_message(name, e)
