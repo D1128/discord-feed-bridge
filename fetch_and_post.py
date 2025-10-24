@@ -1,5 +1,5 @@
-# fetch_and_post.py（UA + RSSHubミラー優先 + フィード中身チェック + ログ強化）
-import os, json, time, hashlib, sys
+# fetch_and_post.py（UA + RSSHub→Nitterフォールバック + 中身判定 + RT除外）
+import os, json, time, hashlib, sys, re, urllib.parse
 import requests, feedparser, yaml
 
 STATE_FILE = "state.json"
@@ -14,11 +14,19 @@ BASE_HEADERS = {
     "Accept-Language": "ja,en-US;q=0.7,en;q=0.3",
 }
 
-# ← moeyy.cn を最優先に（重要）
+# ← moeyy.cn を先頭に（優先）
 RSSHUB_MIRRORS = [
     "https://rsshub.moeyy.cn",
     "https://rsshub.rssforever.com",
     "https://rsshub.app",
+]
+
+# Nitter の候補（動かない物もあるので複数用意）
+NITTER_MIRRORS = [
+    "https://nitter.net",
+    "https://nitter.privacydev.net",
+    "https://nitter.poast.org",
+    "https://nitter.fdn.fr",
 ]
 
 def load_yaml(path):
@@ -36,25 +44,8 @@ def save_state(state):
         json.dump(state, f, ensure_ascii=False, indent=2)
 
 def _looks_like_feed(content: bytes) -> bool:
-    """レスポンスがRSS/Atomっぽいかの簡易判定（Cloudflare等のHTMLを弾く）"""
     sniff = content[:4096].lower()
-    return (
-        b"<rss" in sniff or
-        b"<feed" in sniff or
-        b"<entry" in sniff or
-        b"<item" in sniff
-    )
-
-def _iter_rsshub_candidates(url: str):
-    if "rsshub." not in url:
-        yield url
-        return
-    # どのベースが来ても優先順に置換
-    for base in RSSHUB_MIRRORS:
-        u = url
-        for any_base in RSSHUB_MIRRORS:
-            u = u.replace(any_base, base)
-        yield u
+    return b"<rss" in sniff or b"<feed" in sniff or b"<entry" in sniff or b"<item" in sniff
 
 def _headers_for(url: str):
     h = dict(BASE_HEADERS)
@@ -62,41 +53,135 @@ def _headers_for(url: str):
         h["Referer"] = "https://androplus.org/"
     return h
 
-def fetch_and_parse(url: str, timeout: int = 20):
-    """UA付きで取得→中身確認→feedparser、rsshubはミラーを順に試す"""
-    last_err = None
-    for candidate in _iter_rsshub_candidates(url):
-        headers = _headers_for(candidate)
-        for attempt in range(3):
+def _http_get(url: str, timeout=20, retries=3):
+    last = None
+    for i in range(retries):
+        try:
+            r = requests.get(url, headers=_headers_for(url), timeout=timeout)
+            if r.status_code in (403, 429, 502, 503, 504) and i < retries - 1:
+                time.sleep(2 * (i + 1))
+                continue
+            r.raise_for_status()
+            return r
+        except Exception as e:
+            last = e
+    raise last or RuntimeError("request failed")
+
+# --------- X (Twitter) URL の判定 & Nitter URL 生成 ---------
+def _parse_x_user(url: str):
+    m = re.search(r"/twitter/user/([^/?]+)", url)
+    if not m: 
+        return None
+    user = m.group(1)
+    qs = urllib.parse.urlparse(url).query
+    params = urllib.parse.parse_qs(qs)
+    include_rts = params.get("includeRts", ["0"])[0] != "0"
+    return {"user": user, "include_rts": include_rts}
+
+def _parse_x_keyword(url: str):
+    m = re.search(r"/twitter/keyword/([^/?]+)", url)
+    if not m: 
+        return None
+    kw_decoded = urllib.parse.unquote(m.group(1))
+    qs = urllib.parse.urlparse(url).query
+    params = urllib.parse.parse_qs(qs)
+    include_rts = params.get("includeRts", ["0"])[0] != "0"
+    limit = int(params.get("limit", ["5"])[0])
+    return {"q": kw_decoded, "include_rts": include_rts, "limit": limit}
+
+def _nitter_user_feeds(user: str):
+    for base in NITTER_MIRRORS:
+        yield f"{base}/{user}/rss"
+
+def _nitter_search_feeds(q: str):
+    q_param = urllib.parse.quote(q, safe="")
+    for base in NITTER_MIRRORS:
+        yield f"{base}/search/rss?f=tweets&q={q_param}"
+
+def _strip_retweets(entries, include_rts: bool):
+    if include_rts:
+        return entries
+    filtered = []
+    for e in entries:
+        title = (e.get("title") or "").strip()
+        if title.startswith("RT ") or title.startswith("RT@") or title.startswith("RT @"):
+            continue
+        filtered.append(e)
+    return filtered
+# ------------------------------------------------------------
+
+def fetch_via_rsshub(url: str):
+    # rsshub を優先順に試す（中身がフィードで entries>0 なら採用）
+    for base in RSSHUB_MIRRORS:
+        cand = url
+        for any_base in RSSHUB_MIRRORS:
+            cand = cand.replace(any_base, base)
+        try:
+            r = _http_get(cand)
+            if not _looks_like_feed(r.content):
+                print(f"[INFO] rsshub_nonfeed: {cand}")
+                continue
+            feed = feedparser.parse(r.content)
+            if getattr(feed, "entries", None):
+                print(f"[INFO] rsshub_ok: {cand} entries={len(feed.entries)}")
+                return feed
+            print(f"[INFO] rsshub_empty: {cand}")
+        except Exception as e:
+            print(f"[INFO] rsshub_err: {cand} -> {e}")
+    return None
+
+def fetch_via_nitter_for_x(url: str):
+    # ユーザー or キーワードに応じて Nitter を試す
+    info_user = _parse_x_user(url)
+    info_kw = _parse_x_keyword(url)
+    if info_user:
+        for cand in _nitter_user_feeds(info_user["user"]):
             try:
-                r = requests.get(candidate, headers=headers, timeout=timeout)
-                status = r.status_code
-                if status in (403, 429, 502, 503, 504) and attempt < 2:
-                    time.sleep(2 * (attempt + 1))
-                    continue
-                r.raise_for_status()
-                # 中身がフィードっぽくなければ次を試す
+                r = _http_get(cand)
                 if not _looks_like_feed(r.content):
-                    last_err = f"non-feed body (status={status})"
-                    break  # 次のミラーへ
+                    continue
                 feed = feedparser.parse(r.content)
-                if getattr(feed, "entries", None):
-                    print(f"[INFO] rsshub_ok: {candidate} entries={len(feed.entries)}")
+                entries = _strip_retweets(feed.entries or [], include_rts=info_user["include_rts"])
+                if entries:
+                    feed.entries = entries
+                    print(f"[INFO] nitter_ok(user): {cand} entries={len(entries)}")
                     return feed
-                else:
-                    print(f"[INFO] rsshub_empty: {candidate} entries=0")
-                    break  # 次のミラーへ
-            except Exception as ex:
-                last_err = str(ex)
-                # 次の試行 or 次のミラーへ
-        # 次のミラーへ
-    # すべてダメ→最後に素のURLでフォールバック
-    try:
-        headers = _headers_for(url)
-        feed = feedparser.parse(url, request_headers=headers)
+                print(f"[INFO] nitter_empty(user): {cand}")
+            except Exception as e:
+                print(f"[INFO] nitter_err(user): {cand} -> {e}")
+    elif info_kw:
+        for cand in _nitter_search_feeds(info_kw["q"]):
+            try:
+                r = _http_get(cand)
+                if not _looks_like_feed(r.content):
+                    continue
+                feed = feedparser.parse(r.content)
+                entries = _strip_retweets(feed.entries or [], include_rts=info_kw["include_rts"])
+                if entries:
+                    # limit を軽く尊重（Nitterは件数絞りが無いので上から切る）
+                    feed.entries = entries[: max(1, info_kw["limit"])]
+                    print(f"[INFO] nitter_ok(search): {cand} entries={len(feed.entries)}")
+                    return feed
+                print(f"[INFO] nitter_empty(search): {cand}")
+            except Exception as e:
+                print(f"[INFO] nitter_err(search): {cand} -> {e}")
+    return None
+
+def fetch_and_parse(url: str):
+    # まず rsshub を試す
+    feed = fetch_via_rsshub(url) if "rsshub." in url else None
+    if feed is not None:
         return feed
-    except Exception as ex:
-        raise RuntimeError(last_err or str(ex))
+    # rsshub でダメ/空 → X系なら Nitter を試す
+    if "twitter/user/" in url or "twitter/keyword/" in url:
+        feed = fetch_via_nitter_for_x(url)
+        if feed is not None:
+            return feed
+    # 最後の保険：そのまま feedparser に渡す
+    try:
+        return feedparser.parse(url, request_headers=_headers_for(url))
+    except Exception as e:
+        raise RuntimeError(str(e))
 
 def post_discord(webhook, content):
     data = {"content": content}
@@ -126,14 +211,13 @@ def main(shard_idx=0, shard_total=1):
     sources = cfg["sources"]
     posted = 0
 
-    # シャーディング対応（並列時の重複防止）
     targets = [s for i, s in enumerate(sources) if i % shard_total == shard_idx]
 
     for s in targets:
         url = s["url"]
         name = s.get("name", url)
 
-        # webhook解決（ENV最優先 → feeds.yamlのwebhooksセクション）
+        # webhook解決（ENV最優先 → feeds.yaml）
         name_key = s.get("webhook", "news").upper()
         webhook = (
             os.environ.get(f"DISCORD_WEBHOOK_{name_key}")
@@ -155,7 +239,7 @@ def main(shard_idx=0, shard_total=1):
 
         last_ids = state.get(url, [])
         new_items = []
-        for e in entries[:10]:  # 直近10件だけ判定
+        for e in entries[:10]:
             uid = entry_uid(e)
             if uid not in last_ids:
                 new_items.append((uid, e))
