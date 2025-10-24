@@ -2,27 +2,33 @@ name: Feed → Discord (multi-webhook)
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "*/10 * * * *"   # （UTC基準。必要なら後で */15 に）
   workflow_dispatch: {}
 
 permissions:
   contents: write
+
+# ★ 並走防止（任意だが推奨）
+concurrency:
+  group: feed-to-discord
+  cancel-in-progress: true
 
 jobs:
   run:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        shard: [0, 1, 2, 3]   # まずは [0] にして単発運転→安定後に [0,1,2,3] に戻すのもOK
+        shard: [0, 1, 2, 3]   # テスト時は [0]、安定後に戻すでOK
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0      # ← rebase/pull が使えるように履歴を取得（重要）
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+          # cache: 'pip'   # （任意）依存のキャッシュが欲しければ有効化
 
       - name: Install deps
         run: pip install feedparser pyyaml requests
@@ -36,8 +42,10 @@ jobs:
           DISCORD_WEBHOOK_YT:   ${{ secrets.DISCORD_WEBHOOK_YT }}
           DISCORD_WEBHOOK_X:    ${{ secrets.DISCORD_WEBHOOK_X }}
           DISCORD_WEBHOOK_XKW:  ${{ secrets.DISCORD_WEBHOOK_XKW }}
-          NITTER_BASES:         ${{ secrets.NITTER_BASES }}     # ← 追加
-          RSSHUB_BASES:         ${{ secrets.RSSHUB_BASES }}     # ← 追加（任意）
+          NITTER_BASES:         ${{ secrets.NITTER_BASES }}     # 例: https://nitter.net
+          RSSHUB_BASES:         ${{ secrets.RSSHUB_BASES }}     # （無ければ空でOK）
+          # ★ 429回避の間引き（まず 2.5秒。状況に応じて 4〜8秒へ）
+          NITTER_DELAY:         "2.5"
         run: python fetch_and_post.py
 
       - name: Save state (commit back safely)
