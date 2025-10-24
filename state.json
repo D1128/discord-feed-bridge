@@ -482,6 +482,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251024-headline/",
     "https://gigazine.net/news/20251024-doritos-gun-ai-omnilert/",
     "https://gigazine.net/news/20251024-tencent-hunyuan-world-mirror/",
     "https://gigazine.net/news/20251024-aws-incident-amazon-dynamodb-dns/",
@@ -593,5 +594,29 @@
     "yt:video:rPKY0n9RRtw",
     "yt:video:vsYAB872OOU",
     "yt:video:vdmJfGspFfM"
+  ],
+  "https://garumax.com/feed": [
+    "https://garumax.com/?p=245846",
+    "https://garumax.com/?p=245607",
+    "https://garumax.com/?p=245584",
+    "https://garumax.com/?p=245682",
+    "https://garumax.com/?p=245913",
+    "https://garumax.com/?p=246082",
+    "https://garumax.com/?p=246171",
+    "https://garumax.com/?p=246242",
+    "https://garumax.com/?p=246109",
+    "https://garumax.com/?p=245961"
+  ],
+  "https://www.webcreatorbox.com/feed/": [
+    "https://www.webcreatorbox.com//blog/wcb-book7",
+    "https://www.webcreatorbox.com//blog/skill-visualization",
+    "https://www.webcreatorbox.com//blog/giveaway-animationbook",
+    "https://www.webcreatorbox.com//blog/technical-book-writing",
+    "https://www.webcreatorbox.com//blog/fujihill-generator",
+    "https://www.webcreatorbox.com//blog/design-process-guide",
+    "https://www.webcreatorbox.com//blog/liquid-glass",
+    "https://www.webcreatorbox.com//blog/clueso",
+    "https://www.webcreatorbox.com//blog/pyconjp2025",
+    "https://www.webcreatorbox.com//blog/design-boost-2025"
   ]
 }
