@@ -36,7 +36,10 @@ jobs:
           DISCORD_WEBHOOK_YT:   ${{ secrets.DISCORD_WEBHOOK_YT }}
           DISCORD_WEBHOOK_X:    ${{ secrets.DISCORD_WEBHOOK_X }}
           DISCORD_WEBHOOK_XKW:  ${{ secrets.DISCORD_WEBHOOK_XKW }}
+          NITTER_BASES:         ${{ secrets.NITTER_BASES }}     # ← 追加
+          RSSHUB_BASES:         ${{ secrets.RSSHUB_BASES }}     # ← 追加（任意）
         run: python fetch_and_post.py
+
 
       - name: (TEMP) Probe Nitter mirrors from runner
         run: |
