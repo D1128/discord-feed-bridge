@@ -208,67 +208,67 @@ sources:
   url: https://www.youtube.com/feeds/videos.xml?channel_id=UC9buL3Iph_f7AZxdzmiBL8Q
   webhook: yt
   kind: rss
+# ===== X（Nitter直RSS版）ここから貼り付け =====
 - name: X user SuguruKun_ai
-  url: https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0
+  url: https://nitter.net/SuguruKun_ai/rss
   webhook: x
   kind: rss
 - name: X user AIMIRAI46487
-  url: https://rsshub.rssforever.com/twitter/user/AIMIRAI46487?includeRts=0
+  url: https://nitter.net/AIMIRAI46487/rss
   webhook: x
   kind: rss
 - name: X user ctgptlb
-  url: https://rsshub.rssforever.com/twitter/user/ctgptlb?includeRts=0
+  url: https://nitter.net/ctgptlb/rss
   webhook: x
   kind: rss
 - name: X user pop_ikeda
-  url: https://rsshub.rssforever.com/twitter/user/pop_ikeda?includeRts=0
+  url: https://nitter.net/pop_ikeda/rss
   webhook: x
   kind: rss
 - name: X user envader_plus
-  url: https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0
+  url: https://nitter.net/envader_plus/rss
   webhook: x
   kind: rss
 - name: X user chatgpt_ai_bard
-  url: https://rsshub.rssforever.com/twitter/user/chatgpt_ai_bard?includeRts=0
+  url: https://nitter.net/chatgpt_ai_bard/rss
   webhook: x
   kind: rss
 - name: X user masahirochaen
-  url: https://rsshub.rssforever.com/twitter/user/masahirochaen?includeRts=0
+  url: https://nitter.net/masahirochaen/rss
   webhook: x
   kind: rss
 - name: X user showheyohtaki
-  url: https://rsshub.rssforever.com/twitter/user/showheyohtaki?includeRts=0
+  url: https://nitter.net/showheyohtaki/rss
   webhook: x
   kind: rss
 - name: X user daily_trial
-  url: https://rsshub.rssforever.com/twitter/user/daily_trial?includeRts=0
+  url: https://nitter.net/daily_trial/rss
   webhook: x
   kind: rss
 - name: X user haniwa008
-  url: https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0
+  url: https://nitter.net/haniwa008/rss
   webhook: x
   kind: rss
 - name: X user codejump_com
-  url: https://rsshub.rssforever.com/twitter/user/codejump_com?includeRts=0
+  url: https://nitter.net/codejump_com/rss
   webhook: x
   kind: rss
 - name: X user chibimana
-  url: https://rsshub.rssforever.com/twitter/user/chibimana?includeRts=0
+  url: https://nitter.net/chibimana/rss
   webhook: x
   kind: rss
 - name: X user ninjacodeee
-  url: https://rsshub.rssforever.com/twitter/user/ninjacodeee?includeRts=0
+  url: https://nitter.net/ninjacodeee/rss
   webhook: x
   kind: rss
+
+# キーワード（日本語OK）
 - name: X keyword OnePlus15 ja
-  url: https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5
+  url: https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja
   webhook: xkw
   kind: rss
 - name: X keyword Pixel10Pro ja
-  url: https://rsshub.rssforever.com/twitter/keyword/Pixel10Pro%20lang%3Aja?includeRts=0&limit=5
+  url: https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja
   webhook: xkw
   kind: rss
-- name: X keyword プロンプト ja
-  url: https://rsshub.rssforever.com/twitter/keyword/%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%20lang%3Aja?includeRts=0&limit=5
-  webhook: xkw
-  kind: rss
+# ===== X（Nitter直RSS版）ここまで =====
