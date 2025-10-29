@@ -1,5 +1,13 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2058758.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2058820.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2058838.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2058812.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2058813.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2058814.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2058821.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2058825.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2058539.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2057957.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/kaimono/2057962.html?ref=rss",
@@ -41,15 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2058102.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2058006.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2056315.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/hothot/2057849.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/config/2057929.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2057844.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2057808.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2057752.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2057608.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2057586.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2057605.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2057641.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/hothot/2057849.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/papier/",
@@ -112,6 +112,11 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22459",
+    "http://codezine.jp/article/detail/22454",
+    "http://codezine.jp/article/detail/22420",
+    "http://codezine.jp/article/detail/22388",
+    "http://codezine.jp/article/detail/22089",
     "http://codezine.jp/article/detail/22467",
     "http://codezine.jp/article/detail/22468",
     "http://codezine.jp/article/detail/22460",
