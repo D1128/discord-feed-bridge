@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2058907.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2058887.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2058758.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2058820.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2058838.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2058062.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2058089.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2058102.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2058006.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/special/2056315.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/hothot/2057849.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2058006.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/papier/",
@@ -76,6 +76,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=89304",
     "https://butsuyoku-gadget.com/?p=89324",
     "https://butsuyoku-gadget.com/?p=89298",
     "https://butsuyoku-gadget.com/?p=89289",
