@@ -760,6 +760,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251030-openai-gpt-oss-safeguard/",
+    "https://gigazine.net/news/20251030-microsoft-azure-down-365-xbox-minecraft/",
     "https://gigazine.net/news/20251030-sfp-wizard/",
     "https://gigazine.net/news/20251030-airpods-pro-3-flight/",
     "https://gigazine.net/news/20251029-headline/",
@@ -807,11 +809,10 @@
     "https://gigazine.net/news/20251027-headline/",
     "https://gigazine.net/news/20251027-acecook-nobrock-tv-curry-keema/",
     "https://gigazine.net/news/20251027-roc-camera-zero-knowledge-proof/",
-    "https://gigazine.net/news/20251027-terrapower-approval/",
-    "https://gigazine.net/news/20251027-sam-altman-merge-labs-brain-computer-interface/",
-    "https://gigazine.net/news/20251027-amd-image-generation-nitro-e/"
+    "https://gigazine.net/news/20251027-terrapower-approval/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=193577",
     "https://aismiley.co.jp/?post_type=ai_news&p=194064",
     "https://aismiley.co.jp/?post_type=ai_news&p=193708",
     "https://aismiley.co.jp/?post_type=ai_news&p=194099",
@@ -836,6 +837,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=193453"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=179909",
     "https://win-tab.net/?p=179866",
     "https://win-tab.net/?p=179855",
     "https://win-tab.net/?p=179849",
@@ -951,6 +953,9 @@
     "yt:video:vdmJfGspFfM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=246525",
+    "https://garumax.com/?p=246670",
+    "https://garumax.com/?p=246355",
     "https://garumax.com/?p=245658",
     "https://garumax.com/?p=246621",
     "https://garumax.com/?p=245859",
