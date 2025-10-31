@@ -492,6 +492,8 @@
     "yt:video:q4MQVNVC3MA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2510/31/news080.html",
+    "https://www.itmedia.co.jp/business/articles/2510/31/news033.html",
     "https://www.itmedia.co.jp/news/articles/2510/31/news023.html",
     "https://www.itmedia.co.jp/news/articles/2510/31/news022.html",
     "https://www.itmedia.co.jp/business/articles/2510/31/news018.html",
@@ -539,12 +541,11 @@
     "https://www.itmedia.co.jp/business/articles/2510/30/news005.html",
     "https://www.itmedia.co.jp/news/articles/2510/29/news128.html",
     "https://www.itmedia.co.jp/news/articles/2510/29/news127.html",
-    "https://www.itmedia.co.jp/news/articles/2510/29/news125.html",
-    "https://www.itmedia.co.jp/news/articles/2510/29/news119.html",
-    "https://www.itmedia.co.jp/news/articles/2510/29/news120.html"
+    "https://www.itmedia.co.jp/news/articles/2510/29/news125.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=264808",
     "https://smhn.info/?p=258259",
     "https://smhn.info/?p=265376",
     "https://smhn.info/?p=265858",
