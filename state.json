@@ -869,6 +869,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251104-brain-activity/",
+    "https://gigazine.net/news/20251104-rbx-sue-spotify/",
+    "https://gigazine.net/news/20251104-apple-ios-26-1-release/",
+    "https://gigazine.net/news/20251104-app-store-pc/",
     "https://gigazine.net/news/20251104-pat-gelsinger-gloo/",
     "https://gigazine.net/news/20251103-remind-mail-n8n/",
     "https://gigazine.net/news/20251103-adhd-women-premenstrual-dysphoric-disorder/",
@@ -914,11 +918,7 @@
     "https://gigazine.net/news/20251031-meta-tiktok-obstructing-researchers-access-data/",
     "https://gigazine.net/news/20251030-keep-android-open/",
     "https://gigazine.net/news/20251030-granite-4-0-nano-ai/",
-    "https://gigazine.net/news/20251030-headline/",
-    "https://gigazine.net/news/20251030-board/",
-    "https://gigazine.net/news/20251030-googles-message-about-sideloading-is-false/",
-    "https://gigazine.net/news/20251030-minecraft-java-edition-removing-obfuscation/",
-    "https://gigazine.net/news/20251030-youtube-5-new-features-tv-screens/"
+    "https://gigazine.net/news/20251030-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=193903",
@@ -1086,6 +1086,7 @@
     "yt:video:vdmJfGspFfM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=247138",
     "https://garumax.com/?p=246523",
     "https://garumax.com/?p=246825",
     "https://garumax.com/?p=247020",
