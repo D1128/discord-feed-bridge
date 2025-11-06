@@ -891,6 +891,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251106-headline/",
     "https://gigazine.net/news/20251106-ps-portal-streaming/",
     "https://gigazine.net/news/20251106-sesameop-backdoor-openai-assistants-api/",
     "https://gigazine.net/news/20251106-epic-google-agree/",
@@ -939,10 +940,11 @@
     "https://gigazine.net/news/20251104-rbx-sue-spotify/",
     "https://gigazine.net/news/20251104-apple-ios-26-1-release/",
     "https://gigazine.net/news/20251104-app-store-pc/",
-    "https://gigazine.net/news/20251104-pat-gelsinger-gloo/",
-    "https://gigazine.net/news/20251103-remind-mail-n8n/"
+    "https://gigazine.net/news/20251104-pat-gelsinger-gloo/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=194569",
+    "https://aismiley.co.jp/?post_type=ai_news&p=194712",
     "https://aismiley.co.jp/?post_type=ai_news&p=194171",
     "https://aismiley.co.jp/?post_type=ai_news&p=194461",
     "https://aismiley.co.jp/?post_type=ai_news&p=191823",
