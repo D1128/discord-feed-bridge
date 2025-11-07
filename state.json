@@ -901,6 +901,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251107-narwal-flow/",
     "https://gigazine.net/news/20251107-chinese-buses/",
     "https://gigazine.net/news/20251106-housefoods-redcurry/",
     "https://gigazine.net/news/20251106-smart-vacuum-remote-kill-command/",
@@ -949,8 +950,7 @@
     "https://gigazine.net/news/20251104-france-threatens-block-shein-childlike-doll/",
     "https://gigazine.net/news/20251104-openai-amazon-38billion-deal/",
     "https://gigazine.net/news/20251104-intel-arc-gpu-overclock-antifreeze/",
-    "https://gigazine.net/news/20251104-google-removes-gemma-from-ai-studio/",
-    "https://gigazine.net/news/20251104-windows-kb5067036-shut-down-task-manager/"
+    "https://gigazine.net/news/20251104-google-removes-gemma-from-ai-studio/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=194569",
@@ -1049,6 +1049,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:bAq3GPVNkG0",
     "yt:video:sMq8Rlcm0oE",
     "yt:video:K6nY777nlCg",
     "yt:video:M8_JzoTv4ns",
@@ -1147,6 +1148,7 @@
     "yt:video:vdmJfGspFfM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=247339",
     "https://garumax.com/?p=247266",
     "https://garumax.com/?p=247291",
     "https://garumax.com/?p=247254",
@@ -1195,10 +1197,10 @@
     "https://garumax.com/?p=245913",
     "https://garumax.com/?p=246082",
     "https://garumax.com/?p=246171",
-    "https://garumax.com/?p=246242",
-    "https://garumax.com/?p=246109"
+    "https://garumax.com/?p=246242"
   ],
   "https://www.webcreatorbox.com/feed/": [
+    "https://www.webcreatorbox.com//blog/webtan-forum-2025",
     "https://www.webcreatorbox.com//blog/wcb-book7",
     "https://www.webcreatorbox.com//blog/skill-visualization",
     "https://www.webcreatorbox.com//blog/giveaway-animationbook",
