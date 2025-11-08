@@ -920,6 +920,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251108-easing-wizard/",
     "https://gigazine.net/news/20251108-internet-archive-founder/",
     "https://gigazine.net/news/20251108-obese-children-men-shorter-penises/",
     "https://gigazine.net/news/20251108-bakudan-osaka-greeting/",
@@ -968,8 +969,7 @@
     "https://gigazine.net/news/20251105-common-crawl-web-scraping/",
     "https://gigazine.net/news/20251105-gaza-genocide-wikipedia/",
     "https://gigazine.net/news/20251105-headline/",
-    "https://gigazine.net/news/20251105-amazon-fastnet/",
-    "https://gigazine.net/news/20251105-apple-low-cost-laptops-with-iphone-chip/"
+    "https://gigazine.net/news/20251105-amazon-fastnet/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=194805",
@@ -1016,6 +1016,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=193453"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=180171",
     "https://win-tab.net/?p=180114",
     "https://win-tab.net/?p=180104",
     "https://win-tab.net/?p=180077",
