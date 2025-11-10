@@ -931,6 +931,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251110-10-worst-pokemon/",
+    "https://gigazine.net/news/20251110-arxiv-update-practice-for-review-articles/",
+    "https://gigazine.net/news/20251110-samsung-detachable-ssd/",
+    "https://gigazine.net/news/20251110-ai-love-hate-perceive-risk-trust/",
     "https://gigazine.net/news/20251110-apple-iphone-satellite-plans/",
     "https://gigazine.net/news/20251110-aiarty-image-enhancer/",
     "https://gigazine.net/news/20251110-off-target-effects-drug/",
@@ -976,11 +980,7 @@
     "https://gigazine.net/news/20251106-smart-vacuum-remote-kill-command/",
     "https://gigazine.net/news/20251106-biomimetic-supramolecular-protein-gel/",
     "https://gigazine.net/news/20251106-why-solarpunk-happening-africa/",
-    "https://gigazine.net/news/20251106-headline/",
-    "https://gigazine.net/news/20251106-ps-portal-streaming/",
-    "https://gigazine.net/news/20251106-sesameop-backdoor-openai-assistants-api/",
-    "https://gigazine.net/news/20251106-epic-google-agree/",
-    "https://gigazine.net/news/20251106-steam-game-monopoly/"
+    "https://gigazine.net/news/20251106-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=194805",
@@ -1027,6 +1027,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=193453"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=180203",
     "https://win-tab.net/?p=180145",
     "https://win-tab.net/?p=180118",
     "https://win-tab.net/?p=180171",
@@ -1200,6 +1201,7 @@
     "yt:video:vdmJfGspFfM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=247850",
     "https://garumax.com/?p=247521",
     "https://garumax.com/?p=247737",
     "https://garumax.com/?p=247708",
@@ -1248,8 +1250,7 @@
     "https://garumax.com/?p=246361",
     "https://garumax.com/?p=246014",
     "https://garumax.com/?p=245987",
-    "https://garumax.com/?p=245949",
-    "https://garumax.com/?p=245846"
+    "https://garumax.com/?p=245949"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/simplify-your-creation-2025",
