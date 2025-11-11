@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/nishikawa/2062248.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2062058.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2062385.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2062319.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2062339.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2061802.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2060896.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2061720.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/config/2061654.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2061459.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/ubuntu/2061369.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/config/2061654.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/faq/Microsoft-Store-apppack/",
