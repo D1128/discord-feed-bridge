@@ -944,6 +944,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251111-facebook-social-plugins-discontinued/",
+    "https://gigazine.net/news/20251111-wikipedia-urges-paid-api/",
+    "https://gigazine.net/news/20251111-bell-labs-unix-v4-storage-found/",
+    "https://gigazine.net/news/20251111-android-battery-performance/",
+    "https://gigazine.net/news/20251111-protein-camels-llamas-protect-alzheimers/",
     "https://gigazine.net/news/20251111-apple-delayed-iphone-air-2-indefinitely/",
     "https://gigazine.net/news/20251111-meta-omnilingual-asr/",
     "https://gigazine.net/news/20251111-sued-by-nintendo/",
@@ -988,12 +993,7 @@
     "https://gigazine.net/news/20251107-nissin-black-chicken-ramen/",
     "https://gigazine.net/news/20251107-valetudo/",
     "https://gigazine.net/news/20251107-e-kanji-san/",
-    "https://gigazine.net/news/20251107-headline/",
-    "https://gigazine.net/news/20251107-sony-ai-dataset-fhibe/",
-    "https://gigazine.net/news/20251107-british-airways-owner-deal-starlink/",
-    "https://gigazine.net/news/20251107-new-map-reveals-ancient-roman-roads/",
-    "https://gigazine.net/news/20251107-google-ironwood-tpu-general-availability/",
-    "https://gigazine.net/news/20251107-tesla-1-trillion-pay-package-for-eron-musk/"
+    "https://gigazine.net/news/20251107-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=194677",
@@ -1044,6 +1044,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=193453"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=180240",
     "https://win-tab.net/?p=180220",
     "https://win-tab.net/?p=180203",
     "https://win-tab.net/?p=180145",
@@ -1221,6 +1222,7 @@
     "yt:video:vdmJfGspFfM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=247913",
     "https://garumax.com/?p=247365",
     "https://garumax.com/?p=247280",
     "https://garumax.com/?p=247850",
@@ -1269,8 +1271,7 @@
     "https://garumax.com/?p=246423",
     "https://garumax.com/?p=246001",
     "https://garumax.com/?p=246314",
-    "https://garumax.com/?p=246361",
-    "https://garumax.com/?p=246014"
+    "https://garumax.com/?p=246361"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/simplify-your-creation-2025",
