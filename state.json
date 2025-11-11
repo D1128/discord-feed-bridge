@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2062319.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2062339.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2062298.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2062282.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2062319.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/column/config/2061654.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2061459.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/ubuntu/2061369.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/news_flash/2061600.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/biz/2061544.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2061511.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/news_flash/2061600.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/faq/Microsoft-Store-apppack/",
@@ -78,6 +78,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=89662",
     "https://butsuyoku-gadget.com/?p=89655",
     "https://butsuyoku-gadget.com/?p=89648",
     "https://butsuyoku-gadget.com/?p=89639",
@@ -149,6 +150,7 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22542",
     "http://codezine.jp/article/detail/22546",
     "http://codezine.jp/article/detail/22539",
     "http://codezine.jp/article/detail/22538",
@@ -197,8 +199,7 @@
     "http://codezine.jp/article/detail/22498",
     "http://codezine.jp/article/detail/22502",
     "http://codezine.jp/article/detail/22463",
-    "http://codezine.jp/article/detail/22501",
-    "http://codezine.jp/article/detail/22434"
+    "http://codezine.jp/article/detail/22501"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
