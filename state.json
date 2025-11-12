@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2062744.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2062710.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2062737.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2062652.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2062637.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2061966.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2061974.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2061935.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2061856.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2061872.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2061831.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2061856.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/faq/Microsoft-Store-apppack/",
@@ -153,6 +153,7 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22556",
     "http://codezine.jp/article/detail/22554",
     "http://codezine.jp/article/detail/22476",
     "http://codezine.jp/article/detail/22544",
@@ -201,8 +202,7 @@
     "http://codezine.jp/article/detail/22505",
     "http://codezine.jp/article/detail/22506",
     "http://codezine.jp/article/detail/22507",
-    "http://codezine.jp/article/detail/22433",
-    "http://codezine.jp/article/detail/22504"
+    "http://codezine.jp/article/detail/22433"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -253,6 +253,7 @@
     "yt:video:6GS-1j0tLrY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:g5igeZF1564",
     "yt:video:qlMQ5CvfLdU",
     "yt:video:qZdvExLXNAk",
     "yt:video:TziCThM8qBI",
