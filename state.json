@@ -964,6 +964,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251113-waymo-freeway/",
     "https://gigazine.net/news/20251113-google-will-allow-sideloading/",
     "https://gigazine.net/news/20251113-voyager-light-day-away-from-earth/",
     "https://gigazine.net/news/20251113-iphone-aurora/",
@@ -1012,10 +1013,14 @@
     "https://gigazine.net/news/20251111-ai-generated-song-billboard/",
     "https://gigazine.net/news/20251111-facebook-social-plugins-discontinued/",
     "https://gigazine.net/news/20251111-wikipedia-urges-paid-api/",
-    "https://gigazine.net/news/20251111-bell-labs-unix-v4-storage-found/",
-    "https://gigazine.net/news/20251111-android-battery-performance/"
+    "https://gigazine.net/news/20251111-bell-labs-unix-v4-storage-found/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=193913",
+    "https://aismiley.co.jp/?post_type=ai_news&p=195103",
+    "https://aismiley.co.jp/?post_type=ai_news&p=195087",
+    "https://aismiley.co.jp/?post_type=ai_news&p=195123",
+    "https://aismiley.co.jp/?post_type=ai_news&p=195200",
     "https://aismiley.co.jp/?post_type=ai_news&p=195068",
     "https://aismiley.co.jp/?post_type=ai_news&p=194977",
     "https://aismiley.co.jp/?post_type=ai_news&p=194506",
@@ -1060,12 +1065,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=193451",
     "https://aismiley.co.jp/?post_type=ai_news&p=193635",
     "https://aismiley.co.jp/?post_type=ai_news&p=193632",
-    "https://aismiley.co.jp/?post_type=ai_news&p=193401",
-    "https://aismiley.co.jp/?post_type=ai_news&p=192997",
-    "https://aismiley.co.jp/?post_type=ai_news&p=192378",
-    "https://aismiley.co.jp/?post_type=ai_news&p=193566",
-    "https://aismiley.co.jp/?post_type=ai_news&p=193449",
-    "https://aismiley.co.jp/?post_type=ai_news&p=193536"
+    "https://aismiley.co.jp/?post_type=ai_news&p=193401"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=180302",
