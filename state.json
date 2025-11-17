@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2063880.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2063872.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2063837.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2063861.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2063216.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2063083.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2063122.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2063108.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2063046.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2063108.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/firefox/auto-youtube-shorts-scroller/",
@@ -329,6 +329,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:IZHsLovznUQ",
     "yt:video:uO2MqV4RxRw",
     "yt:video:K2M4PAOSfEE",
     "yt:video:lIA7T8b9Yuo",
