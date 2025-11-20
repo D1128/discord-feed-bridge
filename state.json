@@ -1028,6 +1028,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251120-gpt-5.1-codex-max/",
+    "https://gigazine.net/news/20251120-bluesky-v-1-110-update/",
+    "https://gigazine.net/news/20251120-larry-summers-resigns-from-openai-board/",
     "https://gigazine.net/news/20251120-jackery-1500-new/",
     "https://gigazine.net/news/20251120-hetzner-data-center/",
     "https://gigazine.net/news/20251120-killer-shark-jaws/",
@@ -1074,10 +1077,7 @@
     "https://gigazine.net/news/20251117-heretic/",
     "https://gigazine.net/news/20251117-eu-chat-control-2/",
     "https://gigazine.net/news/20251117-ai-world-clocks/",
-    "https://gigazine.net/news/20251117-airpods-librepods/",
-    "https://gigazine.net/news/20251117-suspicious-pressure-on-archive-today/",
-    "https://gigazine.net/news/20251117-haagen-dazs-ganache-chocolat/",
-    "https://gigazine.net/news/20251117-beloved-cat-death-waymo-criticism/"
+    "https://gigazine.net/news/20251117-airpods-librepods/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=194645",
@@ -1347,6 +1347,7 @@
     "yt:video:vdmJfGspFfM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=248355",
     "https://garumax.com/?p=248342",
     "https://garumax.com/?p=248331",
     "https://garumax.com/?p=248040",
@@ -1395,8 +1396,7 @@
     "https://garumax.com/?p=247020",
     "https://garumax.com/?p=246734",
     "https://garumax.com/?p=247004",
-    "https://garumax.com/?p=246683",
-    "https://garumax.com/?p=246520"
+    "https://garumax.com/?p=246683"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/podcast-meetup-2",
