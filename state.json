@@ -1,5 +1,11 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065320.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065324.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065300.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065328.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065341.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2065333.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065246.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065254.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2065251.html?ref=rss",
@@ -43,13 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2064673.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2064650.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2064647.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2064612.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2064533.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2064564.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2064545.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2064482.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2064484.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2064501.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2064612.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/firefox/auto-youtube-shorts-scroller/",
@@ -79,6 +79,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=89964",
     "https://butsuyoku-gadget.com/?p=89961",
     "https://butsuyoku-gadget.com/?p=89914",
     "https://butsuyoku-gadget.com/?p=89951",
@@ -127,8 +128,7 @@
     "https://butsuyoku-gadget.com/?p=89417",
     "https://butsuyoku-gadget.com/?p=89428",
     "https://butsuyoku-gadget.com/?p=89424",
-    "https://butsuyoku-gadget.com/?p=89399",
-    "https://butsuyoku-gadget.com/?p=89397"
+    "https://butsuyoku-gadget.com/?p=89399"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=136679",
