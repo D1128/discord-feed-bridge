@@ -1078,6 +1078,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251125-amazon-leo-enterprise-preview/",
+    "https://gigazine.net/news/20251125-trump-administration-disbanded-doge/",
+    "https://gigazine.net/news/20251125-disney-robot-olaf/",
+    "https://gigazine.net/news/20251125-anthropic-claude-opus-4-5/",
     "https://gigazine.net/news/20251125-gigazine-user-smart-home/",
     "https://gigazine.net/news/20251125-unsolved-picasso/",
     "https://gigazine.net/news/20251125-maya-predicted-eclipses-table/",
@@ -1123,13 +1127,10 @@
     "https://gigazine.net/news/20251121-gemini-check-synthid/",
     "https://gigazine.net/news/20251121-wild-female-bonobos-attack-male/",
     "https://gigazine.net/news/20251121-ukraine-jamming-russia-missile/",
-    "https://gigazine.net/news/20251121-android-quick-share-apple-airdrop/",
-    "https://gigazine.net/news/20251121-matter-1-5-smart-home/",
-    "https://gigazine.net/news/20251121-sunday-memo-robot-ai/",
-    "https://gigazine.net/news/20251121-ai-sacrifice/",
-    "https://gigazine.net/news/20251121-grok-elon-musk-better-everyone-except-shohei-ohtani/"
+    "https://gigazine.net/news/20251121-android-quick-share-apple-airdrop/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=195723",
     "https://aismiley.co.jp/?post_type=ai_news&p=195848",
     "https://aismiley.co.jp/?post_type=ai_news&p=195891",
     "https://aismiley.co.jp/?post_type=ai_news&p=195494",
@@ -1178,10 +1179,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=194569",
     "https://aismiley.co.jp/?post_type=ai_news&p=194712",
     "https://aismiley.co.jp/?post_type=ai_news&p=194171",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194461",
-    "https://aismiley.co.jp/?post_type=ai_news&p=191823"
+    "https://aismiley.co.jp/?post_type=ai_news&p=194461"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=182629",
     "https://win-tab.net/?p=182348",
     "https://win-tab.net/?p=180423",
     "https://win-tab.net/?p=180911",
@@ -1230,8 +1231,7 @@
     "https://win-tab.net/?p=179983",
     "https://win-tab.net/?p=179844",
     "https://win-tab.net/?p=179922",
-    "https://win-tab.net/?p=179696",
-    "https://win-tab.net/?p=179965"
+    "https://win-tab.net/?p=179696"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:GJDhLusR3Kw",
@@ -1372,6 +1372,7 @@
     "yt:video:OX9b9hrMQCk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:pe4izKdMveA",
     "yt:video:phnzvUNmth0",
     "yt:video:mA00ScGrlWs",
     "yt:video:D6f-YpNevLU",
@@ -1422,6 +1423,8 @@
     "yt:video:vdmJfGspFfM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=248792",
+    "https://garumax.com/?p=248799",
     "https://garumax.com/?p=248750",
     "https://garumax.com/?p=248731",
     "https://garumax.com/?p=248472",
@@ -1469,9 +1472,7 @@
     "https://garumax.com/?p=247280",
     "https://garumax.com/?p=247850",
     "https://garumax.com/?p=247521",
-    "https://garumax.com/?p=247737",
-    "https://garumax.com/?p=247708",
-    "https://garumax.com/?p=247535"
+    "https://garumax.com/?p=247737"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/podcast-meetup-2",
