@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2066063.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2066049.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2066003.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2066044.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2065967.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2065381.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065347.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065360.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065320.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065324.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065300.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065320.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/microsoft-edge/internet-explorer-mode-in-microsoft-edge/",
@@ -80,6 +80,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=90049",
     "https://butsuyoku-gadget.com/?p=89912",
     "https://butsuyoku-gadget.com/?p=90029",
     "https://butsuyoku-gadget.com/?p=90034",
@@ -128,8 +129,7 @@
     "https://butsuyoku-gadget.com/?p=89624",
     "https://butsuyoku-gadget.com/?p=89516",
     "https://butsuyoku-gadget.com/?p=89377",
-    "https://butsuyoku-gadget.com/?p=89577",
-    "https://butsuyoku-gadget.com/?p=89581"
+    "https://butsuyoku-gadget.com/?p=89577"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=136702",
