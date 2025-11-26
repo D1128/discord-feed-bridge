@@ -1087,6 +1087,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251126-google-begins-showing-ads-ai-mode/",
+    "https://gigazine.net/news/20251126-win-10-retirement-zorin-os/",
     "https://gigazine.net/news/20251126-gibberifier-stun-llm-random-unicode/",
     "https://gigazine.net/news/20251125-roger-rabbit-copyright-reverts-creator-gary-k-wolf/",
     "https://gigazine.net/news/20251125-superbox-android-tv-streaming/",
@@ -1134,9 +1136,7 @@
     "https://gigazine.net/news/20251123-titan-submersible-camera-found/",
     "https://gigazine.net/news/20251122-mosquito-proboscis-3d-nozzle/",
     "https://gigazine.net/news/20251122-lazygit/",
-    "https://gigazine.net/news/20251122-expelled-from-paradise-resonance-kv/",
-    "https://gigazine.net/news/20251122-temporary-containers-plus/",
-    "https://gigazine.net/news/20251122-g-shock-ring-watch-dwn-5600/"
+    "https://gigazine.net/news/20251122-expelled-from-paradise-resonance-kv/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=196018",
@@ -1262,6 +1262,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:uo4XM0XCLXw",
     "yt:video:HP7DZKkN6sE",
     "yt:video:PKNrr3Rwpdg",
     "yt:video:DLdmJagInuo",
@@ -1435,6 +1436,7 @@
     "yt:video:vdmJfGspFfM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=248835",
     "https://garumax.com/?p=248816",
     "https://garumax.com/?p=248792",
     "https://garumax.com/?p=248799",
@@ -1483,8 +1485,7 @@
     "https://garumax.com/?p=247913",
     "https://garumax.com/?p=247365",
     "https://garumax.com/?p=247280",
-    "https://garumax.com/?p=247850",
-    "https://garumax.com/?p=247521"
+    "https://garumax.com/?p=247850"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/podcast-meetup-2",
