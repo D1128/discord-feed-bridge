@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2066299.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2066242.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2066247.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2066258.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065654.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065655.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065653.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065656.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065657.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065656.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/microsoft-edge/internet-explorer-mode-in-microsoft-edge/",
@@ -163,6 +163,10 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22657",
+    "http://codezine.jp/article/detail/22524",
+    "http://codezine.jp/article/detail/21745",
+    "http://codezine.jp/article/detail/22656",
     "http://codezine.jp/article/detail/22655",
     "http://codezine.jp/article/detail/22653",
     "http://codezine.jp/article/detail/22654",
@@ -208,11 +212,7 @@
     "http://codezine.jp/article/detail/22627",
     "http://codezine.jp/article/detail/22625",
     "http://codezine.jp/article/detail/22599",
-    "http://codezine.jp/article/detail/22605",
-    "http://codezine.jp/article/detail/22603",
-    "http://codezine.jp/article/detail/22629",
-    "http://codezine.jp/article/detail/22631",
-    "http://codezine.jp/article/detail/22630"
+    "http://codezine.jp/article/detail/22605"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
