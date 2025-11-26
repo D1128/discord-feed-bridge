@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2066476.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2066496.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2066488.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2066412.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2066282.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065676.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065672.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065668.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065665.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065666.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065660.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2065665.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/microsoft-edge/internet-explorer-mode-in-microsoft-edge/",
@@ -356,6 +356,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:YpEiTf4a5WQ",
     "yt:video:SQjQBeAjHoI",
     "yt:video:Vz2_-9eRDC0",
     "yt:video:IZHsLovznUQ",
