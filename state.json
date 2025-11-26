@@ -1087,6 +1087,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251126-windows-11-explorer-speed-up/",
+    "https://gigazine.net/news/20251126-flux-2-released/",
+    "https://gigazine.net/news/20251126-windows-notepad-roll-out/",
     "https://gigazine.net/news/20251126-google-begins-showing-ads-ai-mode/",
     "https://gigazine.net/news/20251126-win-10-retirement-zorin-os/",
     "https://gigazine.net/news/20251126-gibberifier-stun-llm-random-unicode/",
@@ -1133,12 +1136,11 @@
     "https://gigazine.net/news/20251123-how-to-win-rock-paper-scissors/",
     "https://gigazine.net/news/20251123-spotify-simplifies-importing-playlists-from-other/",
     "https://gigazine.net/news/20251123-eshima-san-11/",
-    "https://gigazine.net/news/20251123-titan-submersible-camera-found/",
-    "https://gigazine.net/news/20251122-mosquito-proboscis-3d-nozzle/",
-    "https://gigazine.net/news/20251122-lazygit/",
-    "https://gigazine.net/news/20251122-expelled-from-paradise-resonance-kv/"
+    "https://gigazine.net/news/20251123-titan-submersible-camera-found/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=194725",
+    "https://aismiley.co.jp/?post_type=ai_news&p=195746",
     "https://aismiley.co.jp/?post_type=ai_news&p=196018",
     "https://aismiley.co.jp/?post_type=ai_news&p=196262",
     "https://aismiley.co.jp/?post_type=ai_news&p=195612",
@@ -1186,9 +1188,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=194590",
     "https://aismiley.co.jp/?post_type=ai_news&p=194805",
     "https://aismiley.co.jp/?post_type=ai_news&p=194222",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194483",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194544",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194569"
+    "https://aismiley.co.jp/?post_type=ai_news&p=194483"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=180917",
@@ -1436,6 +1436,9 @@
     "yt:video:vdmJfGspFfM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=248870",
+    "https://garumax.com/?p=248882",
+    "https://garumax.com/?p=248894",
     "https://garumax.com/?p=248835",
     "https://garumax.com/?p=248816",
     "https://garumax.com/?p=248792",
@@ -1482,10 +1485,7 @@
     "https://garumax.com/?p=247727",
     "https://garumax.com/?p=247938",
     "https://garumax.com/?p=242297",
-    "https://garumax.com/?p=247913",
-    "https://garumax.com/?p=247365",
-    "https://garumax.com/?p=247280",
-    "https://garumax.com/?p=247850"
+    "https://garumax.com/?p=247913"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/podcast-meetup-2",
