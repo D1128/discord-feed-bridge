@@ -1101,6 +1101,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251127-apple-3d-printed-titanium/",
     "https://gigazine.net/news/20251127-headline/",
     "https://gigazine.net/news/20251127-dram-prices-spiking-industry-reasons/",
     "https://gigazine.net/news/20251127-hokkahokkatei-chuukadon/",
@@ -1149,10 +1150,12 @@
     "https://gigazine.net/news/20251125-grapheneos-france/",
     "https://gigazine.net/news/20251125-google-ad-tech-monopoly-judge/",
     "https://gigazine.net/news/20251125-synthetic-tongue-rates-chillies-heat/",
-    "https://gigazine.net/news/20251125-sam-altman-jony-ive-openai-hardware-prototype/",
-    "https://gigazine.net/news/20251125-shai-hulud-1k-npm-packages-27k-github-infected/"
+    "https://gigazine.net/news/20251125-sam-altman-jony-ive-openai-hardware-prototype/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=196415",
+    "https://aismiley.co.jp/?post_type=ai_news&p=196331",
+    "https://aismiley.co.jp/?post_type=ai_news&p=195857",
     "https://aismiley.co.jp/?post_type=ai_news&p=196245",
     "https://aismiley.co.jp/?post_type=ai_news&p=195804",
     "https://aismiley.co.jp/?post_type=ai_news&p=195920",
@@ -1199,12 +1202,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=194506",
     "https://aismiley.co.jp/?post_type=ai_news&p=193766",
     "https://aismiley.co.jp/?post_type=ai_news&p=195057",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194677",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194786",
-    "https://aismiley.co.jp/?post_type=ai_news&p=193195",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194590"
+    "https://aismiley.co.jp/?post_type=ai_news&p=194677"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=182691",
     "https://win-tab.net/?p=182680",
     "https://win-tab.net/?p=182666",
     "https://win-tab.net/?p=182653",
@@ -1253,8 +1254,7 @@
     "https://win-tab.net/?p=180050",
     "https://win-tab.net/?p=180041",
     "https://win-tab.net/?p=180029",
-    "https://win-tab.net/?p=180019",
-    "https://win-tab.net/?p=180011"
+    "https://win-tab.net/?p=180019"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:wmS6jcEdgFQ",
