@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2066843.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2066879.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2066828.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2066801.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2066762.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2066124.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2066101.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2066108.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2066068.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2066063.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2066049.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2066068.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/microsoft-edge/internet-explorer-mode-in-microsoft-edge/",
