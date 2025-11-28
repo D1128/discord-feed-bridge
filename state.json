@@ -1108,6 +1108,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251128-doom-on-receipt-printer/",
     "https://gigazine.net/news/20251128-ai-bubble-llm-fundamental-mistake/",
     "https://gigazine.net/news/20251128-group-explosive-contagion/",
     "https://gigazine.net/news/20251128-chatgpt-lawsuit/",
@@ -1156,10 +1157,13 @@
     "https://gigazine.net/news/20251126-tsmc-sue-ex-executive-who-joined-intel/",
     "https://gigazine.net/news/20251126-warner-music-group-and-suno-partnership/",
     "https://gigazine.net/news/20251126-campbell-soups-3d-printed-meat/",
-    "https://gigazine.net/news/20251126-atok-update/",
-    "https://gigazine.net/news/20251126-environmental-mismatch-chronic-stress/"
+    "https://gigazine.net/news/20251126-atok-update/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=194944",
+    "https://aismiley.co.jp/?post_type=ai_news&p=194771",
+    "https://aismiley.co.jp/?post_type=ai_news&p=196764",
+    "https://aismiley.co.jp/?post_type=ai_news&p=196793",
     "https://aismiley.co.jp/?post_type=ai_news&p=195158",
     "https://aismiley.co.jp/?post_type=ai_news&p=196036",
     "https://aismiley.co.jp/?post_type=ai_news&p=196720",
@@ -1205,11 +1209,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=194902",
     "https://aismiley.co.jp/?post_type=ai_news&p=195086",
     "https://aismiley.co.jp/?post_type=ai_news&p=193913",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195103",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195087",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195123",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195200",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195068"
+    "https://aismiley.co.jp/?post_type=ai_news&p=195103"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=182718",
@@ -1463,6 +1463,7 @@
     "yt:video:rPKY0n9RRtw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=249309",
     "https://garumax.com/?p=249265",
     "https://garumax.com/?p=249133",
     "https://garumax.com/?p=249130",
@@ -1511,8 +1512,7 @@
     "https://garumax.com/?p=247585",
     "https://garumax.com/?p=247542",
     "https://garumax.com/?p=248096",
-    "https://garumax.com/?p=248054",
-    "https://garumax.com/?p=247502"
+    "https://garumax.com/?p=248054"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slack-notion-app",
