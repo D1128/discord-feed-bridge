@@ -1107,6 +1107,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251128-alibaba-z-image/",
+    "https://gigazine.net/news/20251128-make-people-kinder-add-batman/",
+    "https://gigazine.net/news/20251128-alibaba-quark-ai-glasses-s1-g1/",
+    "https://gigazine.net/news/20251128-game-store-ai-tag/",
     "https://gigazine.net/news/20251128-china-reusable-rockets/",
     "https://gigazine.net/news/20251128-42500-copy-fortnite/",
     "https://gigazine.net/news/20251128-deepseek-math-v2/",
@@ -1152,13 +1156,12 @@
     "https://gigazine.net/news/20251126-windows-11-explorer-speed-up/",
     "https://gigazine.net/news/20251126-flux-2-released/",
     "https://gigazine.net/news/20251126-windows-notepad-roll-out/",
-    "https://gigazine.net/news/20251126-google-begins-showing-ads-ai-mode/",
-    "https://gigazine.net/news/20251126-win-10-retirement-zorin-os/",
-    "https://gigazine.net/news/20251126-gibberifier-stun-llm-random-unicode/",
-    "https://gigazine.net/news/20251125-roger-rabbit-copyright-reverts-creator-gary-k-wolf/",
-    "https://gigazine.net/news/20251125-superbox-android-tv-streaming/"
+    "https://gigazine.net/news/20251126-google-begins-showing-ads-ai-mode/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=195158",
+    "https://aismiley.co.jp/?post_type=ai_news&p=196036",
+    "https://aismiley.co.jp/?post_type=ai_news&p=196720",
     "https://aismiley.co.jp/?post_type=ai_news&p=195233",
     "https://aismiley.co.jp/?post_type=ai_news&p=196164",
     "https://aismiley.co.jp/?post_type=ai_news&p=196415",
@@ -1205,12 +1208,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=195087",
     "https://aismiley.co.jp/?post_type=ai_news&p=195123",
     "https://aismiley.co.jp/?post_type=ai_news&p=195200",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195068",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194977",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194506",
-    "https://aismiley.co.jp/?post_type=ai_news&p=193766"
+    "https://aismiley.co.jp/?post_type=ai_news&p=195068"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=182718",
     "https://win-tab.net/?p=182691",
     "https://win-tab.net/?p=182680",
     "https://win-tab.net/?p=182666",
@@ -1259,8 +1260,7 @@
     "https://win-tab.net/?p=180065",
     "https://win-tab.net/?p=180050",
     "https://win-tab.net/?p=180041",
-    "https://win-tab.net/?p=180029",
-    "https://win-tab.net/?p=180019"
+    "https://win-tab.net/?p=180029"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:wmS6jcEdgFQ",
@@ -1462,6 +1462,7 @@
     "yt:video:rPKY0n9RRtw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=249265",
     "https://garumax.com/?p=249133",
     "https://garumax.com/?p=249130",
     "https://garumax.com/?p=249093",
@@ -1510,8 +1511,7 @@
     "https://garumax.com/?p=247542",
     "https://garumax.com/?p=248096",
     "https://garumax.com/?p=248054",
-    "https://garumax.com/?p=247502",
-    "https://garumax.com/?p=247677"
+    "https://garumax.com/?p=247502"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slack-notion-app",
