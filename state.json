@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2067696.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/news_flash/2067692.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2067625.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2067630.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2067027.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2066959.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2067023.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2066990.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2067044.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2066990.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/window/WindowTabs.html",
@@ -168,6 +168,7 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22688",
     "http://codezine.jp/article/detail/22687",
     "http://codezine.jp/article/detail/22679",
     "http://codezine.jp/article/detail/22684",
@@ -216,8 +217,7 @@
     "http://codezine.jp/article/detail/22646",
     "http://codezine.jp/article/detail/22648",
     "http://codezine.jp/article/detail/22624",
-    "http://codezine.jp/article/detail/22645",
-    "http://codezine.jp/article/detail/22622"
+    "http://codezine.jp/article/detail/22645"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -366,6 +366,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:qa8vuMpX6NM",
     "yt:video:CdAhxcbYsMc",
     "yt:video:YpEiTf4a5WQ",
     "yt:video:SQjQBeAjHoI",
