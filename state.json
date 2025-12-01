@@ -1308,6 +1308,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:IZDSoT-dOMc",
     "yt:video:r9gh3FlCfu8",
     "yt:video:Y7sAkZBYI-o",
     "yt:video:v3yTceqjYQk",
@@ -1495,6 +1496,9 @@
     "yt:video:VdN0gafKjYI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=248840",
+    "https://garumax.com/?p=248852",
+    "https://garumax.com/?p=248672",
     "https://garumax.com/?p=249623",
     "https://garumax.com/?p=249492",
     "https://garumax.com/?p=248493",
@@ -1541,10 +1545,7 @@
     "https://garumax.com/?p=248534",
     "https://garumax.com/?p=248457",
     "https://garumax.com/?p=248526",
-    "https://garumax.com/?p=248374",
-    "https://garumax.com/?p=248435",
-    "https://garumax.com/?p=248447",
-    "https://garumax.com/?p=248355"
+    "https://garumax.com/?p=248374"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slack-notion-app",
