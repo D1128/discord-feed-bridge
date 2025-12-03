@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068157.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068160.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068165.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2068123.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2068132.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2068131.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2067476.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2067498.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2067428.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/ebook/2067243.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2067300.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2067354.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2067351.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/ebook/2067243.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/window/WindowTabs.html",
@@ -169,6 +169,7 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22702",
     "http://codezine.jp/article/detail/22701",
     "http://codezine.jp/article/detail/22695",
     "http://codezine.jp/article/detail/22700",
@@ -217,8 +218,7 @@
     "http://codezine.jp/article/detail/22654",
     "http://codezine.jp/article/detail/22621",
     "http://codezine.jp/article/detail/22510",
-    "http://codezine.jp/article/detail/22650",
-    "http://codezine.jp/article/detail/22613"
+    "http://codezine.jp/article/detail/22650"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
