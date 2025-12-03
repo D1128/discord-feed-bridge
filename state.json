@@ -1148,6 +1148,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251203-google-chrome-143/",
+    "https://gigazine.net/news/20251203-ai-model-build-fps/",
     "https://gigazine.net/news/20251203-google-review-jpeg-xl-format/",
     "https://gigazine.net/news/20251202-argument-risa-bo-seo/",
     "https://gigazine.net/news/20251202-4-year-collage-degrees-worth/",
@@ -1195,11 +1197,10 @@
     "https://gigazine.net/news/20251130-ai-blood-analyzer-leukemia/",
     "https://gigazine.net/news/20251130-linux-kernel-explorer/",
     "https://gigazine.net/news/20251130-taiwan-economy-ai-demand/",
-    "https://gigazine.net/news/20251130-zotac-magnus-en275060tc-appearance/",
-    "https://gigazine.net/news/20251130-amazon-black-friday-cyber-scams/",
-    "https://gigazine.net/news/20251130-states-emerged/"
+    "https://gigazine.net/news/20251130-zotac-magnus-en275060tc-appearance/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=196822",
     "https://aismiley.co.jp/?post_type=ai_news&p=195644",
     "https://aismiley.co.jp/?post_type=ai_news&p=196850",
     "https://aismiley.co.jp/?post_type=ai_news&p=196905",
@@ -1248,8 +1249,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=195585",
     "https://aismiley.co.jp/?post_type=ai_news&p=195242",
     "https://aismiley.co.jp/?post_type=ai_news&p=195080",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195399",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195406"
+    "https://aismiley.co.jp/?post_type=ai_news&p=195399"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=182155",
@@ -1324,6 +1324,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:Ks9X9PzDdzo",
     "yt:video:D6L6pUGLLMM",
     "yt:video:JjqJhxtGXnw",
     "yt:video:IZDSoT-dOMc",
@@ -1515,6 +1516,7 @@
     "yt:video:A0VH31mkCt8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=249873",
     "https://garumax.com/?p=249849",
     "https://garumax.com/?p=249802",
     "https://garumax.com/?p=249800",
@@ -1563,8 +1565,7 @@
     "https://garumax.com/?p=248593",
     "https://garumax.com/?p=248662",
     "https://garumax.com/?p=248695",
-    "https://garumax.com/?p=248569",
-    "https://garumax.com/?p=248479"
+    "https://garumax.com/?p=248569"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slido",
