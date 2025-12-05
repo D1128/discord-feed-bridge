@@ -1160,6 +1160,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251205-gemini-3-deep-think/",
+    "https://gigazine.net/news/20251205-google-search-2025/",
     "https://gigazine.net/news/20251205-valve-brings-windows-games-to-arm/",
     "https://gigazine.net/news/20251205-cats-adjust-communication-strategy-meowing-more-men/",
     "https://gigazine.net/news/20251204-helldivers-2-install-size-from-154gb-to-23gb/",
@@ -1207,11 +1209,15 @@
     "https://gigazine.net/news/20251203-ai-model-build-fps/",
     "https://gigazine.net/news/20251203-google-review-jpeg-xl-format/",
     "https://gigazine.net/news/20251202-argument-risa-bo-seo/",
-    "https://gigazine.net/news/20251202-4-year-collage-degrees-worth/",
-    "https://gigazine.net/news/20251202-vampire-squid-largest-cephalopod-genome/",
-    "https://gigazine.net/news/20251202-india-state-owned-cyber-safety-app-preload/"
+    "https://gigazine.net/news/20251202-4-year-collage-degrees-worth/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=197434",
+    "https://aismiley.co.jp/?post_type=ai_news&p=196979",
+    "https://aismiley.co.jp/?post_type=ai_news&p=196673",
+    "https://aismiley.co.jp/?post_type=ai_news&p=197415",
+    "https://aismiley.co.jp/?post_type=ai_news&p=197380",
+    "https://aismiley.co.jp/?post_type=ai_news&p=196526",
     "https://aismiley.co.jp/?post_type=ai_news&p=197411",
     "https://aismiley.co.jp/?post_type=ai_news&p=196822",
     "https://aismiley.co.jp/?post_type=ai_news&p=195644",
@@ -1255,13 +1261,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=195436",
     "https://aismiley.co.jp/?post_type=ai_news&p=195571",
     "https://aismiley.co.jp/?post_type=ai_news&p=195423",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195367",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195410",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195552",
-    "https://aismiley.co.jp/?post_type=ai_news&p=194950",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195585",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195242",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195080"
+    "https://aismiley.co.jp/?post_type=ai_news&p=195367"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=182875",
@@ -1530,6 +1530,7 @@
     "yt:video:F25_p0QzV6w"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=250038",
     "https://garumax.com/?p=250003",
     "https://garumax.com/?p=250004",
     "https://garumax.com/?p=249971",
@@ -1578,8 +1579,7 @@
     "https://garumax.com/?p=248882",
     "https://garumax.com/?p=248894",
     "https://garumax.com/?p=248835",
-    "https://garumax.com/?p=248816",
-    "https://garumax.com/?p=248792"
+    "https://garumax.com/?p=248816"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slido",
