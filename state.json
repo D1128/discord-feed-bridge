@@ -1342,6 +1342,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:TKjQBsv8oxM",
     "yt:video:s8fF0IfbcjM",
     "yt:video:GlRmAgnkw-M",
     "yt:video:Ks9X9PzDdzo",
@@ -1390,8 +1391,7 @@
     "yt:video:CWCbPuOqLzs",
     "yt:video:31wexizzvwg",
     "yt:video:KxVDLrNNoCg",
-    "yt:video:bZCI4-4GWXE",
-    "yt:video:laQ8HDBRP_s"
+    "yt:video:bZCI4-4GWXE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:-eehTyANlVY",
@@ -1538,6 +1538,8 @@
     "yt:video:nqHibypV4tk"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=250111",
+    "https://garumax.com/?p=250142",
     "https://garumax.com/?p=250091",
     "https://garumax.com/?p=249557",
     "https://garumax.com/?p=250043",
@@ -1585,9 +1587,7 @@
     "https://garumax.com/?p=248913",
     "https://garumax.com/?p=248999",
     "https://garumax.com/?p=248919",
-    "https://garumax.com/?p=248944",
-    "https://garumax.com/?p=248870",
-    "https://garumax.com/?p=248882"
+    "https://garumax.com/?p=248944"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slido",
