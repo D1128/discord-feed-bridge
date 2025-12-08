@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2069366.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2068722.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069304.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069308.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069315.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2068496.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068498.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068500.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068513.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068530.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2068489.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068513.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/game/steamdb/",
