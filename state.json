@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2069812.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2069790.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2069742.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2069804.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2068961.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2068936.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2068918.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068883.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2068886.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068883.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/game/steamdb/",
@@ -287,6 +287,7 @@
     "yt:video:6GS-1j0tLrY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:wC5yoHiG0wg",
     "yt:video:lnoLBxhvhoE",
     "yt:video:9rC7J5tL2h8",
     "yt:video:behNQrK7J6I",
@@ -335,8 +336,7 @@
     "yt:video:LvOjDaUpEoo",
     "yt:video:DtC0I1AxzjA",
     "yt:video:8yN9gmm4aug",
-    "yt:video:w4omw8vaMS8",
-    "yt:video:de1-CoObU4A"
+    "yt:video:w4omw8vaMS8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:xZJN-wTsBFE",
