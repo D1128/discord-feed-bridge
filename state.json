@@ -790,6 +790,7 @@
     "yt:video:XB1x7ebNmH8"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2512/09/news060.html",
     "https://www.itmedia.co.jp/business/articles/2512/09/news023.html",
     "https://monoist.itmedia.co.jp/mn/articles/2512/09/news016.html",
     "https://www.itmedia.co.jp/business/articles/2512/09/news004.html",
@@ -838,8 +839,7 @@
     "https://www.itmedia.co.jp/mobile/articles/2512/05/news075.html",
     "https://www.itmedia.co.jp/pcuser/articles/2512/05/news020.html",
     "https://www.itmedia.co.jp/aiplus/articles/2512/05/news015.html",
-    "https://www.itmedia.co.jp/news/articles/2512/05/news008.html",
-    "https://www.itmedia.co.jp/business/articles/2512/05/news031.html"
+    "https://www.itmedia.co.jp/news/articles/2512/05/news008.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -999,6 +999,9 @@
     "https://sumahodigest.com/?p=48449"
   ],
   "https://yachin29.hatenablog.com/feed": [
+    "hatenablog://entry/6802340630900245202",
+    "hatenablog://entry/13574176438043494367",
+    "hatenablog://entry/6802418398335939635",
     "hatenablog://entry/17179246901327821648",
     "hatenablog://entry/6802418398547085679",
     "hatenablog://entry/6802418398524576463",
