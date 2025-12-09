@@ -1181,6 +1181,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251209-aiarty-image-matting/",
     "https://gigazine.net/news/20251209-av2-codec-will-released/",
     "https://gigazine.net/news/20251209-laptops-in-the-long-run/",
     "https://gigazine.net/news/20251209-customers-pay-more-dollar-store/",
@@ -1229,8 +1230,7 @@
     "https://gigazine.net/news/20251205-eshima-san-12-gsc/",
     "https://gigazine.net/news/20251205-svg-clickjacking/",
     "https://gigazine.net/news/20251205-ai-trade-arena/",
-    "https://gigazine.net/news/20251205-internet-down/",
-    "https://gigazine.net/news/20251205-headline/"
+    "https://gigazine.net/news/20251205-internet-down/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=197108",
@@ -1359,6 +1359,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:z95jYU5RF6M",
     "yt:video:3bv6ZE09vok",
     "yt:video:ByxmvVpxnZY",
     "yt:video:TKjQBsv8oxM",
@@ -1407,8 +1408,7 @@
     "yt:video:ytRUmZ7Kq0Q",
     "yt:video:R6JavG8Eepw",
     "yt:video:ZtWoasjuA74",
-    "yt:video:CWCbPuOqLzs",
-    "yt:video:31wexizzvwg"
+    "yt:video:CWCbPuOqLzs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:-eehTyANlVY",
@@ -1558,6 +1558,7 @@
     "yt:video:mKh3B0xt7is"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=250420",
     "https://garumax.com/?p=250086",
     "https://garumax.com/?p=250403",
     "https://garumax.com/?p=248430",
@@ -1606,8 +1607,7 @@
     "https://garumax.com/?p=249309",
     "https://garumax.com/?p=249265",
     "https://garumax.com/?p=249133",
-    "https://garumax.com/?p=249130",
-    "https://garumax.com/?p=249093"
+    "https://garumax.com/?p=249130"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slido",
