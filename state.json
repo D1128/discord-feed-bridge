@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2069605.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069603.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069609.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2069564.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2069309.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2068991.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2068830.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2068818.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2068819.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2068789.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/nishikawa/2068546.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/ubiq/2068625.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2068735.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2068745.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2068723.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/nishikawa/2068546.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/game/steamdb/",
