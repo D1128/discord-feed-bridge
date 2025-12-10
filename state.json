@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2070050.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2070052.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2070074.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2070079.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2070002.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069941.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069942.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2068722.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069304.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069308.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069315.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069296.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069297.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/special/2066950.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/semicon/2068938.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2069315.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/game/steamdb/",
@@ -82,6 +82,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=90360",
     "https://butsuyoku-gadget.com/?p=90410",
     "https://butsuyoku-gadget.com/?p=90405",
     "https://butsuyoku-gadget.com/?p=90399",
@@ -130,8 +131,7 @@
     "https://butsuyoku-gadget.com/?p=89941",
     "https://butsuyoku-gadget.com/?p=89931",
     "https://butsuyoku-gadget.com/?p=89905",
-    "https://butsuyoku-gadget.com/?p=89884",
-    "https://butsuyoku-gadget.com/?p=89878"
+    "https://butsuyoku-gadget.com/?p=89884"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=136822",
