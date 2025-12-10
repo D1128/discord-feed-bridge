@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2070249.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2070201.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/popular/2068835.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2068836.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2069564.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2069309.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2068991.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2068830.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/gyokai/2069327.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2068830.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/game/steamdb/",
