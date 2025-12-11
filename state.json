@@ -797,6 +797,10 @@
     "yt:video:fDBNuZvnO6c"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2512/11/news079.html",
+    "https://www.itmedia.co.jp/pcuser/articles/2512/11/news064.html",
+    "https://www.itmedia.co.jp/news/articles/2512/11/news085.html",
+    "https://www.itmedia.co.jp/mobile/articles/2512/11/news074.html",
     "https://www.itmedia.co.jp/news/articles/2512/11/news073.html",
     "https://monoist.itmedia.co.jp/mn/articles/2512/11/news029.html",
     "https://www.itmedia.co.jp/business/articles/2512/11/news012.html",
@@ -842,11 +846,7 @@
     "https://www.itmedia.co.jp/pcuser/articles/2512/09/news086.html",
     "https://www.itmedia.co.jp/news/articles/2512/09/news087.html",
     "https://www.itmedia.co.jp/news/articles/2512/09/news084.html",
-    "https://www.itmedia.co.jp/news/articles/2512/09/news083.html",
-    "https://www.itmedia.co.jp/news/articles/2512/09/news076.html",
-    "https://www.itmedia.co.jp/business/articles/2512/09/news068.html",
-    "https://www.itmedia.co.jp/news/articles/2512/09/news078.html",
-    "https://www.itmedia.co.jp/news/articles/2512/09/news063.html"
+    "https://www.itmedia.co.jp/news/articles/2512/09/news083.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -954,6 +954,8 @@
     "https://daily-gadget.net/?p=100748"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=48887",
+    "https://sumahodigest.com/?p=48893",
     "https://sumahodigest.com/?p=48878",
     "https://sumahodigest.com/?p=48874",
     "https://sumahodigest.com/?p=48870",
@@ -1001,11 +1003,10 @@
     "https://sumahodigest.com/?p=48659",
     "https://sumahodigest.com/?p=48645",
     "https://sumahodigest.com/?p=48650",
-    "https://sumahodigest.com/?p=48630",
-    "https://sumahodigest.com/?p=48634",
-    "https://sumahodigest.com/?p=48640"
+    "https://sumahodigest.com/?p=48630"
   ],
   "https://yachin29.hatenablog.com/feed": [
+    "hatenablog://entry/17179246901331379108",
     "hatenablog://entry/6802340630900245202",
     "hatenablog://entry/13574176438043494367",
     "hatenablog://entry/6802418398335939635",
