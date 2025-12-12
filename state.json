@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/config/2070811.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2070977.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/news_flash/2070984.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2070948.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2070314.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2070346.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2070249.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2070201.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/popular/2068835.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2070201.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/media/mic/Toggle-Mic-Listen.html",
