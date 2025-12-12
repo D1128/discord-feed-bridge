@@ -1199,6 +1199,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251212-china-nvidia-gpu-black-market/",
+    "https://gigazine.net/news/20251212-disney-openai-reach-landmark-agreement-sora/",
+    "https://gigazine.net/news/20251212-amazon-fallout-ai-recap/",
+    "https://gigazine.net/news/20251212-apple-contempt/",
+    "https://gigazine.net/news/20251212-openai-gpt-5-2-released/",
     "https://gigazine.net/news/20251212-qwen3-omni-flash/",
     "https://gigazine.net/news/20251211-linux-kernel-rust/",
     "https://gigazine.net/news/20251211-super-mario-64-playstation/",
@@ -1243,12 +1248,7 @@
     "https://gigazine.net/news/20251210-mistral-ai-devstral-2-vibe-cli/",
     "https://gigazine.net/news/20251210-genai-mil-gemini-for-government/",
     "https://gigazine.net/news/20251210-eshima-san-12/",
-    "https://gigazine.net/news/20251210-north-korea-fiber-optic-network/",
-    "https://gigazine.net/news/20251210-mad-men-4k-hbo-max-debacle/",
-    "https://gigazine.net/news/20251210-firefox-146/",
-    "https://gigazine.net/news/20251209-menu-icons/",
-    "https://gigazine.net/news/20251209-engines-horses-ai-chess/",
-    "https://gigazine.net/news/20251209-desktop-mate-yukari-akari/"
+    "https://gigazine.net/news/20251210-north-korea-fiber-optic-network/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=197649",
@@ -1303,6 +1303,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=195723"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=183133",
     "https://win-tab.net/?p=183189",
     "https://win-tab.net/?p=183164",
     "https://win-tab.net/?p=183152",
@@ -1351,8 +1352,7 @@
     "https://win-tab.net/?p=180477",
     "https://win-tab.net/?p=180521",
     "https://win-tab.net/?p=180537",
-    "https://win-tab.net/?p=180523",
-    "https://win-tab.net/?p=180514"
+    "https://win-tab.net/?p=180523"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:UL-s3RgVAUU",
