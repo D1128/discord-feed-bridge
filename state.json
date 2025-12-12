@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2070977.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/news_flash/2070984.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2070948.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2070958.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2070794.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2070346.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2070249.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2070201.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/popular/2068835.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2068836.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2070297.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/popular/2068835.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/media/mic/Toggle-Mic-Listen.html",
@@ -266,6 +266,7 @@
     "yt:video:5mgcuUHSf4A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:rgZF2msd-Ks",
     "yt:video:WieLZIrV3Gk",
     "yt:video:3mPSXyZvJ0s",
     "yt:video:c4xODsLMPlo",
@@ -291,6 +292,7 @@
     "yt:video:6GS-1j0tLrY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:ZKBfHEUGuoo",
     "yt:video:VZW_UQXN9Ac",
     "yt:video:D8fWLX9S8n8",
     "yt:video:QJZkOIIpXkQ",
@@ -339,8 +341,7 @@
     "yt:video:RmoUuNkY-m0",
     "yt:video:y5VmqcPBZME",
     "yt:video:OipYWVFG2_s",
-    "yt:video:MGnamqEDy64",
-    "yt:video:LvOjDaUpEoo"
+    "yt:video:MGnamqEDy64"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:xZJN-wTsBFE",
@@ -380,6 +381,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:FzapCcXbx1Y",
     "yt:video:YQBuyU39o-E",
     "yt:video:zW4IX80Yp54",
     "yt:video:XYZXHU3GNqI",
