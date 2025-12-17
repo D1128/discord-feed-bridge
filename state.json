@@ -1,5 +1,13 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2071896.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2071893.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2071895.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2071899.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2071918.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2071924.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2071905.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2071856.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2071821.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2071775.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2070920.html?ref=rss",
@@ -41,15 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2071188.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2071166.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2071167.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/semicon/2070604.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2070906.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2070905.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2071150.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/config/2070811.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2070977.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/news_flash/2070984.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2070948.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2070958.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/semicon/2070604.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/media/mic/Toggle-Mic-Listen.html",
@@ -178,6 +178,7 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22818",
     "http://codezine.jp/article/detail/22817",
     "http://codezine.jp/article/detail/22816",
     "http://codezine.jp/article/detail/22807",
@@ -226,8 +227,7 @@
     "http://codezine.jp/article/detail/22767",
     "http://codezine.jp/article/detail/22763",
     "http://codezine.jp/article/detail/22764",
-    "http://codezine.jp/article/detail/22752",
-    "http://codezine.jp/article/detail/22751"
+    "http://codezine.jp/article/detail/22752"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
