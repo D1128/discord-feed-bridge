@@ -1228,6 +1228,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251217-x-sues-operation-bluebird-twitter-brand/",
+    "https://gigazine.net/news/20251217-flux-2-max-image-generation-ai/",
+    "https://gigazine.net/news/20251217-taiyaki-ice-pudding/",
+    "https://gigazine.net/news/20251217-ancient-bees-use-bones-nests/",
+    "https://gigazine.net/news/20251217-mozilla-new-ceo-talk-about-firefox/",
     "https://gigazine.net/news/20251217-meta-sam-audio-ai/",
     "https://gigazine.net/news/20251217-chatgpt-images-1-5/",
     "https://gigazine.net/news/20251217-apple-battery-only-replacements-m5-14-macbook-pro/",
@@ -1272,12 +1277,7 @@
     "https://gigazine.net/news/20251215-ios-26-bug-red-photos/",
     "https://gigazine.net/news/20251215-desktop-mate-yoshi-shigotoneko/",
     "https://gigazine.net/news/20251215-irobot-bankruptcy/",
-    "https://gigazine.net/news/20251215-microsoft-copilot-lg-tv/",
-    "https://gigazine.net/news/20251215-ancient-china-cats-different-species/",
-    "https://gigazine.net/news/20251215-3d-chip/",
-    "https://gigazine.net/news/20251215-sphotonix-5d-memory-crystal/",
-    "https://gigazine.net/news/20251215-grok-spreading-misinformation-bondi-beach-shooting/",
-    "https://gigazine.net/news/20251215-starlink-home-100mbps/"
+    "https://gigazine.net/news/20251215-microsoft-copilot-lg-tv/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=197408",
@@ -1332,6 +1332,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=196720"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=183337",
     "https://win-tab.net/?p=183317",
     "https://win-tab.net/?p=183311",
     "https://win-tab.net/?p=183303",
@@ -1380,8 +1381,7 @@
     "https://win-tab.net/?p=180917",
     "https://win-tab.net/?p=182629",
     "https://win-tab.net/?p=182348",
-    "https://win-tab.net/?p=180423",
-    "https://win-tab.net/?p=180911"
+    "https://win-tab.net/?p=180423"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:w4Ta5nRlZHU",
@@ -1407,6 +1407,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:cPdMCxvBKdg",
     "yt:video:tNmyy4h3iFo",
     "yt:video:GvGPzwwrDR0",
     "yt:video:ID_o973dtuk",
@@ -1455,8 +1456,7 @@
     "yt:video:HEzvyx8osJw",
     "yt:video:TV4X3cl48j8",
     "yt:video:H5dNG_GSmAo",
-    "yt:video:MQ8wfU1cg9c",
-    "yt:video:mU_VWJVRHCc"
+    "yt:video:MQ8wfU1cg9c"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:xELeOkl6j9A",
@@ -1615,6 +1615,7 @@
     "yt:video:ofYw36uAjJI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=251193",
     "https://garumax.com/?p=251086",
     "https://garumax.com/?p=250978",
     "https://garumax.com/?p=250916",
@@ -1663,8 +1664,7 @@
     "https://garumax.com/?p=249800",
     "https://garumax.com/?p=249603",
     "https://garumax.com/?p=249653",
-    "https://garumax.com/?p=249642",
-    "https://garumax.com/?p=248840"
+    "https://garumax.com/?p=249642"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/card-one",
