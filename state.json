@@ -1235,6 +1235,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251218-bluesky-find-friends/",
+    "https://gigazine.net/news/20251218-micron-2026q1-reports/",
+    "https://gigazine.net/news/20251218-google-gemini-3-flash-released/",
     "https://gigazine.net/news/20251218-seven-critical-technologies-winning-war/",
     "https://gigazine.net/news/20251218-sega-channel-archive-vghf/",
     "https://gigazine.net/news/20251218-access/",
@@ -1281,10 +1284,7 @@
     "https://gigazine.net/news/20251216-lets-encrypt-certificates-changes/",
     "https://gigazine.net/news/20251216-russian-roblox-ban/",
     "https://gigazine.net/news/20251216-nvidia-acquire-schedmd-slurm/",
-    "https://gigazine.net/news/20251216-sns-account-price/",
-    "https://gigazine.net/news/20251216-claude-code-cli-mac-deleted/",
-    "https://gigazine.net/news/20251215-seauto-sweeping-pool-robot-market/",
-    "https://gigazine.net/news/20251215-europeans-data-sold-us-firm-ex-israeli-spies/"
+    "https://gigazine.net/news/20251216-sns-account-price/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=197744",
@@ -1339,6 +1339,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=195158"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=183369",
     "https://win-tab.net/?p=183359",
     "https://win-tab.net/?p=183337",
     "https://win-tab.net/?p=183317",
@@ -1387,8 +1388,7 @@
     "https://win-tab.net/?p=182653",
     "https://win-tab.net/?p=182646",
     "https://win-tab.net/?p=180917",
-    "https://win-tab.net/?p=182629",
-    "https://win-tab.net/?p=182348"
+    "https://win-tab.net/?p=182629"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:w4Ta5nRlZHU",
@@ -1623,6 +1623,8 @@
     "yt:video:rabg7HVxrsk"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=250689",
+    "https://garumax.com/?p=250921",
     "https://garumax.com/?p=251272",
     "https://garumax.com/?p=251230",
     "https://garumax.com/?p=251207",
@@ -1670,9 +1672,7 @@
     "https://garumax.com/?p=249913",
     "https://garumax.com/?p=249946",
     "https://garumax.com/?p=249873",
-    "https://garumax.com/?p=249849",
-    "https://garumax.com/?p=249802",
-    "https://garumax.com/?p=249800"
+    "https://garumax.com/?p=249849"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/card-one",
