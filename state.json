@@ -1236,6 +1236,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251218-tiktok-track/",
+    "https://gigazine.net/news/20251218-msca-apple-google/",
     "https://gigazine.net/news/20251218-amazon-openai-10-billion/",
     "https://gigazine.net/news/20251218-nvidia-reduce-gpu/",
     "https://gigazine.net/news/20251218-time-going-so-fast/",
@@ -1283,11 +1285,10 @@
     "https://gigazine.net/news/20251216-nvidia-nemotron-3/",
     "https://gigazine.net/news/20251216-memory-price-smartphone-ram/",
     "https://gigazine.net/news/20251216-ask-this-book/",
-    "https://gigazine.net/news/20251216-poo-anxiety-parcopresis/",
-    "https://gigazine.net/news/20251216-starlink-china-satellite/",
-    "https://gigazine.net/news/20251216-soundcloud-data-breach/"
+    "https://gigazine.net/news/20251216-poo-anxiety-parcopresis/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=199116",
     "https://aismiley.co.jp/?post_type=ai_news&p=199159",
     "https://aismiley.co.jp/?post_type=ai_news&p=197744",
     "https://aismiley.co.jp/?post_type=ai_news&p=197999",
@@ -1336,8 +1337,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=195944",
     "https://aismiley.co.jp/?post_type=ai_news&p=194944",
     "https://aismiley.co.jp/?post_type=ai_news&p=194771",
-    "https://aismiley.co.jp/?post_type=ai_news&p=196764",
-    "https://aismiley.co.jp/?post_type=ai_news&p=196793"
+    "https://aismiley.co.jp/?post_type=ai_news&p=196764"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=183387",
