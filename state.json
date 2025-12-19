@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2072949.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2072888.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2072810.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2072831.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2072144.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2072132.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2072134.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2072111.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2072068.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2072111.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/icon/ICO-Henkan-Syokunin.html",
@@ -272,6 +272,7 @@
     "yt:video:5mgcuUHSf4A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:DeJ6l2ByTLo",
     "yt:video:aGPcStufdFs",
     "yt:video:rgZF2msd-Ks",
     "yt:video:WieLZIrV3Gk",
@@ -390,6 +391,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:AWGy4SsGzIU",
     "yt:video:BNdvoS7SnUA",
     "yt:video:ps2HN13P-Qw",
     "yt:video:FzapCcXbx1Y",
