@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2073140.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2073144.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2073145.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2071339.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/macinfo/2073114.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2072125.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2072261.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2072262.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2072044.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2072192.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2070921.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/hothot/2071665.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2070922.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2072192.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/icon/ICO-Henkan-Syokunin.html",
@@ -181,6 +181,7 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22859",
     "http://codezine.jp/article/detail/22858",
     "http://codezine.jp/article/detail/22843",
     "http://codezine.jp/article/detail/22686",
@@ -229,8 +230,7 @@
     "http://codezine.jp/article/detail/22820",
     "http://codezine.jp/article/detail/22818",
     "http://codezine.jp/article/detail/22817",
-    "http://codezine.jp/article/detail/22816",
-    "http://codezine.jp/article/detail/22807"
+    "http://codezine.jp/article/detail/22816"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
