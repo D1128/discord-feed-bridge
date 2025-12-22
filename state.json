@@ -1260,6 +1260,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251222-headline/",
     "https://gigazine.net/news/20251222-maruchan-seimen-moyashi-karamiso/",
     "https://gigazine.net/news/20251222-qwen-image-layered/",
     "https://gigazine.net/news/20251222-co2-battery-energy-storage/",
@@ -1308,10 +1309,11 @@
     "https://gigazine.net/news/20251219-google-ai-video-gemini-synth-id/",
     "https://gigazine.net/news/20251219-father-daughter-incest-italy-skeleton/",
     "https://gigazine.net/news/20251219-mistral-ocr-3/",
-    "https://gigazine.net/news/20251219-openai-gpt-5-2-codex/",
-    "https://gigazine.net/news/20251219-monero-hacking-mining/"
+    "https://gigazine.net/news/20251219-openai-gpt-5-2-codex/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=199497",
+    "https://aismiley.co.jp/?post_type=ai_news&p=199514",
     "https://aismiley.co.jp/?post_type=ai_news&p=199047",
     "https://aismiley.co.jp/?post_type=ai_news&p=198884",
     "https://aismiley.co.jp/?post_type=ai_news&p=199314",
@@ -1359,9 +1361,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=197415",
     "https://aismiley.co.jp/?post_type=ai_news&p=197380",
     "https://aismiley.co.jp/?post_type=ai_news&p=196526",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197411",
-    "https://aismiley.co.jp/?post_type=ai_news&p=196822",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195644"
+    "https://aismiley.co.jp/?post_type=ai_news&p=197411"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=183511",
