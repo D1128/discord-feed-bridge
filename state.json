@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2073199.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2073248.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2073151.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2073153.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2073159.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2072312.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2072297.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2072320.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2072345.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2072250.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2072160.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2072345.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/icon/ICO-Henkan-Syokunin.html",
@@ -181,6 +181,7 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22651",
     "http://codezine.jp/article/detail/22861",
     "http://codezine.jp/article/detail/22811",
     "http://codezine.jp/article/detail/22859",
@@ -229,8 +230,7 @@
     "http://codezine.jp/article/detail/22813",
     "http://codezine.jp/article/detail/22760",
     "http://codezine.jp/article/detail/22759",
-    "http://codezine.jp/article/detail/22820",
-    "http://codezine.jp/article/detail/22818"
+    "http://codezine.jp/article/detail/22820"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -302,6 +302,7 @@
     "yt:video:6GS-1j0tLrY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:K2CnJ5AFC-0",
     "yt:video:XH0_9fXcElk",
     "yt:video:9NVP6hEW9_k",
     "yt:video:vyPTBFHAgVI",
@@ -350,8 +351,7 @@
     "yt:video:rOH6k8jmucg",
     "yt:video:g5igeZF1564",
     "yt:video:qlMQ5CvfLdU",
-    "yt:video:qZdvExLXNAk",
-    "yt:video:TziCThM8qBI"
+    "yt:video:qZdvExLXNAk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:DbfqPdaG1zo",
