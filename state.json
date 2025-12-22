@@ -1258,6 +1258,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251222-clair-obscur-expedition-33-gen-ai/",
+    "https://gigazine.net/news/20251222-nist-ntp-primary-time-scale/",
     "https://gigazine.net/news/20251222-classical-paint/",
     "https://gigazine.net/news/20251222-why-outsourcing-ai-software-development-bad/",
     "https://gigazine.net/news/20251222-mac-rdma-over-thunderbolt-1-5tb/",
@@ -1305,9 +1307,7 @@
     "https://gigazine.net/news/20251219-github-actions-pricing-change/",
     "https://gigazine.net/news/20251218-doublespeed-ai-promoting/",
     "https://gigazine.net/news/20251218-china-built-euv-asml/",
-    "https://gigazine.net/news/20251218-facebook-testing-link-posting-limit/",
-    "https://gigazine.net/news/20251218-headline/",
-    "https://gigazine.net/news/20251218-black-thunder-tappuri-nuts-fruits/"
+    "https://gigazine.net/news/20251218-facebook-testing-link-posting-limit/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=199414",
@@ -1651,6 +1651,7 @@
     "yt:video:efYC3T9_lcI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=251313",
     "https://garumax.com/?p=251499",
     "https://garumax.com/?p=251445",
     "https://garumax.com/?p=251325",
@@ -1699,8 +1700,7 @@
     "https://garumax.com/?p=249557",
     "https://garumax.com/?p=250043",
     "https://garumax.com/?p=250038",
-    "https://garumax.com/?p=250003",
-    "https://garumax.com/?p=250004"
+    "https://garumax.com/?p=250003"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/applewatch-1000days",
