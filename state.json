@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/tidbit/2073493.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2073515.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2073374.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2073397.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/hothot/2073221.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/column/tidbit/2071822.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2072584.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2072571.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2070925.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2072561.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2072462.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2070925.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/icon/ICO-Henkan-Syokunin.html",
@@ -181,6 +181,8 @@
     "https://telektlist.com/?p=136464"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "http://codezine.jp/article/detail/22869",
+    "http://codezine.jp/article/detail/21994",
     "http://codezine.jp/article/detail/22865",
     "http://codezine.jp/article/detail/22866",
     "http://codezine.jp/article/detail/22864",
@@ -228,9 +230,7 @@
     "http://codezine.jp/article/detail/22826",
     "http://codezine.jp/article/detail/22822",
     "http://codezine.jp/article/detail/22821",
-    "http://codezine.jp/article/detail/22828",
-    "http://codezine.jp/article/detail/22823",
-    "http://codezine.jp/article/detail/22815"
+    "http://codezine.jp/article/detail/22828"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
