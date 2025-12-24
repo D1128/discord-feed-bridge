@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/macinfo/2074164.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2074217.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2074073.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2074005.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2074047.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2073277.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2073285.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2073278.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2073279.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2073250.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2073199.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2073279.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/icon/ICO-Henkan-Syokunin.html",
