@@ -1,5 +1,11 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2074271.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2074283.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2074307.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2074317.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2074310.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2074327.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2074229.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2074236.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2073262.html?ref=rss",
@@ -43,13 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2073586.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2073591.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2073589.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2073588.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2073573.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2073544.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2073529.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2073559.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2073574.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/tidbit/2073493.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2073588.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/icon/ICO-Henkan-Syokunin.html",
@@ -275,6 +275,7 @@
     "yt:video:5mgcuUHSf4A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:AoxYKl9uk2c",
     "yt:video:8k3KZpQo5m4",
     "yt:video:DeJ6l2ByTLo",
     "yt:video:aGPcStufdFs",
