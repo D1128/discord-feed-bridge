@@ -1272,6 +1272,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251225-ai-image-generators/",
+    "https://gigazine.net/news/20251225-mario-yoshi-reduced-burnout-links/",
     "https://gigazine.net/news/20251225-iphone-18-usa-samsung-camera/",
     "https://gigazine.net/news/20251225-waymo-test-gemini-in-car-ai/",
     "https://gigazine.net/news/20251225-openai-chatgpt-skills/",
@@ -1319,11 +1321,14 @@
     "https://gigazine.net/news/20251223-starbucks-yuzu-honey-tea-latte/",
     "https://gigazine.net/news/20251223-hybrid-aerial-underwater-drone/",
     "https://gigazine.net/news/20251223-glp-1-novo-nordisk-wegovy-fda/",
-    "https://gigazine.net/news/20251223-ai-coding-agent-test-minesweeper/",
-    "https://gigazine.net/news/20251223-us-blocks-offshore-wind-construction/",
-    "https://gigazine.net/news/20251223-dji-blacklist/"
+    "https://gigazine.net/news/20251223-ai-coding-agent-test-minesweeper/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=199999",
+    "https://aismiley.co.jp/?post_type=ai_news&p=199681",
+    "https://aismiley.co.jp/?post_type=ai_news&p=199964",
+    "https://aismiley.co.jp/?post_type=ai_news&p=199936",
+    "https://aismiley.co.jp/?post_type=ai_news&p=199952",
     "https://aismiley.co.jp/?post_type=ai_news&p=199224",
     "https://aismiley.co.jp/?post_type=ai_news&p=199671",
     "https://aismiley.co.jp/?post_type=ai_news&p=199836",
@@ -1368,12 +1373,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=197600",
     "https://aismiley.co.jp/?post_type=ai_news&p=197820",
     "https://aismiley.co.jp/?post_type=ai_news&p=197702",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197221",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197372",
-    "https://aismiley.co.jp/?post_type=ai_news&p=196980",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197108",
-    "https://aismiley.co.jp/?post_type=ai_news&p=196469",
-    "https://aismiley.co.jp/?post_type=ai_news&p=195487"
+    "https://aismiley.co.jp/?post_type=ai_news&p=197221"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=183558",
