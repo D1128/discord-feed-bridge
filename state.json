@@ -1277,6 +1277,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251226-headline/",
     "https://gigazine.net/news/20251226-nissin-saikyou-donbei-kamo/",
     "https://gigazine.net/news/20251226-undisclosed-bug-diabetes-patients/",
     "https://gigazine.net/news/20251226-toys-highest-play-time-lowest-clean-time/",
@@ -1325,10 +1326,12 @@
     "https://gigazine.net/news/20251225-heat-leaking-cryptocurrency-mining-center/",
     "https://gigazine.net/news/20251225-why-wake-up-before-alarm/",
     "https://gigazine.net/news/20251224-remote-work-is-officially-dead/",
-    "https://gigazine.net/news/20251224-resistors/",
-    "https://gigazine.net/news/20251224-helix-ml-h-264/"
+    "https://gigazine.net/news/20251224-resistors/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=199626",
+    "https://aismiley.co.jp/?post_type=ai_news&p=200244",
+    "https://aismiley.co.jp/?post_type=ai_news&p=200196",
     "https://aismiley.co.jp/?post_type=ai_news&p=200014",
     "https://aismiley.co.jp/?post_type=ai_news&p=199977",
     "https://aismiley.co.jp/?post_type=ai_news&p=199999",
@@ -1375,10 +1378,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=197649",
     "https://aismiley.co.jp/?post_type=ai_news&p=197640",
     "https://aismiley.co.jp/?post_type=ai_news&p=197796",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197583",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197137",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197600",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197820"
+    "https://aismiley.co.jp/?post_type=ai_news&p=197583"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=183590",
@@ -1569,6 +1569,7 @@
     "yt:video:5gsIPzYw8Ec"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:OcNjpV_fXa8",
     "yt:video:eBQiCic0oEA",
     "yt:video:T5ry8nlFAkg",
     "yt:video:lvNnuD0bLto",
@@ -1617,8 +1618,7 @@
     "yt:video:JJxYFfE-5Y8",
     "yt:video:B-o-LKZnqUk",
     "yt:video:K1WMvlIVOTA",
-    "yt:video:3EYbIvkB0ec",
-    "yt:video:v7LjykIe3cc"
+    "yt:video:3EYbIvkB0ec"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:G5z6x-YgAHg",
