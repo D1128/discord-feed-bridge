@@ -1286,6 +1286,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20251228-landnotes/",
+    "https://gigazine.net/news/20251228-china-singles-day/",
     "https://gigazine.net/news/20251228-ebook-sale/",
     "https://gigazine.net/news/20251228-why-venus-so-bright/",
     "https://gigazine.net/news/20251227-new-york-state-warning-labels-on-sns/",
@@ -1333,9 +1335,7 @@
     "https://gigazine.net/news/20251225-headline/",
     "https://gigazine.net/news/20251225-countrymaam-shiro-jiwaru/",
     "https://gigazine.net/news/20251225-microsoft-rust-coding/",
-    "https://gigazine.net/news/20251225-ai-image-generators/",
-    "https://gigazine.net/news/20251225-mario-yoshi-reduced-burnout-links/",
-    "https://gigazine.net/news/20251225-iphone-18-usa-samsung-camera/"
+    "https://gigazine.net/news/20251225-ai-image-generators/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=198651",
@@ -1390,6 +1390,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=197796"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=183631",
     "https://win-tab.net/?p=183271",
     "https://win-tab.net/?p=183610",
     "https://win-tab.net/?p=183598",
@@ -1438,8 +1439,7 @@
     "https://win-tab.net/?p=183027",
     "https://win-tab.net/?p=183009",
     "https://win-tab.net/?p=182968",
-    "https://win-tab.net/?p=182875",
-    "https://win-tab.net/?p=182997"
+    "https://win-tab.net/?p=182875"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:DZ7A5BKRmhw",
@@ -1683,6 +1683,8 @@
     "yt:video:Z4C7yx3J8Mw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=251548",
+    "https://garumax.com/?p=251859",
     "https://garumax.com/?p=251524",
     "https://garumax.com/?p=251558",
     "https://garumax.com/?p=251846",
@@ -1730,9 +1732,7 @@
     "https://garumax.com/?p=250580",
     "https://garumax.com/?p=250321",
     "https://garumax.com/?p=250506",
-    "https://garumax.com/?p=250491",
-    "https://garumax.com/?p=250472",
-    "https://garumax.com/?p=250458"
+    "https://garumax.com/?p=250491"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-2025",
