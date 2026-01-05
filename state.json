@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2075562.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2075583.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2075543.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2075458.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2075428.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2074947.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2074945.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/config/2074919.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2074699.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2074748.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2074728.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2074699.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/matome/best-freesoft-2025/",
