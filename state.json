@@ -1313,6 +1313,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260106-boston-dynamics-google-deepmind-ai-partnership/",
+    "https://gigazine.net/news/20260106-intel-core-ultra-series-3-18a/",
+    "https://gigazine.net/news/20260106-lego-smart-play/",
     "https://gigazine.net/news/20260106-kapwing-ai-slop-report-youtube/",
     "https://gigazine.net/news/20260106-gigazine-manga/",
     "https://gigazine.net/news/20260106-brain-language-network/",
@@ -1359,12 +1362,10 @@
     "https://gigazine.net/news/20260103-cat-meow-encode/",
     "https://gigazine.net/news/20260103-strudel-music-code/",
     "https://gigazine.net/news/20260103-overengineered-solution-pigeons/",
-    "https://gigazine.net/news/20260103-ps5-bootrom-key-leaked/",
-    "https://gigazine.net/news/20260103-million-depth/",
-    "https://gigazine.net/news/20260102-physically-based-rendering/",
-    "https://gigazine.net/news/20260102-open-space/"
+    "https://gigazine.net/news/20260103-ps5-bootrom-key-leaked/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=199877",
     "https://aismiley.co.jp/?post_type=ai_news&p=200265",
     "https://aismiley.co.jp/?post_type=ai_news&p=200365",
     "https://aismiley.co.jp/?post_type=ai_news&p=198651",
@@ -1413,8 +1414,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=197865",
     "https://aismiley.co.jp/?post_type=ai_news&p=198407",
     "https://aismiley.co.jp/?post_type=ai_news&p=197942",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197850",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197649"
+    "https://aismiley.co.jp/?post_type=ai_news&p=197850"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=168753",
@@ -1719,6 +1719,9 @@
     "yt:video:svvpnHRlUG8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=252301",
+    "https://garumax.com/?p=252425",
+    "https://garumax.com/?p=252346",
     "https://garumax.com/?p=252342",
     "https://garumax.com/?p=252095",
     "https://garumax.com/?p=252287",
@@ -1765,10 +1768,7 @@
     "https://garumax.com/?p=251086",
     "https://garumax.com/?p=250978",
     "https://garumax.com/?p=250916",
-    "https://garumax.com/?p=250950",
-    "https://garumax.com/?p=250874",
-    "https://garumax.com/?p=250783",
-    "https://garumax.com/?p=250725"
+    "https://garumax.com/?p=250950"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-book8",
