@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2076151.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2076164.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2075879.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2076053.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2076054.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2075726.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2075737.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2075739.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2075762.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2075627.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2075638.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2075762.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/matome/best-freesoft-2025/",
@@ -87,6 +87,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=90773",
     "https://butsuyoku-gadget.com/?p=90769",
     "https://butsuyoku-gadget.com/?p=90557",
     "https://butsuyoku-gadget.com/?p=90686",
@@ -135,8 +136,7 @@
     "https://butsuyoku-gadget.com/?p=90278",
     "https://butsuyoku-gadget.com/?p=90256",
     "https://butsuyoku-gadget.com/?p=90234",
-    "https://butsuyoku-gadget.com/?p=90228",
-    "https://butsuyoku-gadget.com/?p=90222"
+    "https://butsuyoku-gadget.com/?p=90228"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=136953",
@@ -320,6 +320,7 @@
     "yt:video:6GS-1j0tLrY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:IcPWQaD-1d8",
     "yt:video:XvOkC-fbJVY",
     "yt:video:u4iHpXSY_6k",
     "yt:video:pmxMiln_CyQ",
@@ -368,8 +369,7 @@
     "yt:video:jEPuMYBCThU",
     "yt:video:4TCAnT0JI9s",
     "yt:video:Mi6huf4Nr2Y",
-    "yt:video:dsS8ITDDklo",
-    "yt:video:oNqZhcr5NzQ"
+    "yt:video:dsS8ITDDklo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:L-wTDeRWH8w",
