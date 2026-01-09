@@ -1322,6 +1322,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260109-cubeauthn/",
     "https://gigazine.net/news/20260109-avoid-an-injury-in-outdoor/",
     "https://gigazine.net/news/20260109-alien-civilizations-communicating-like-fireflies/",
     "https://gigazine.net/news/20260109-eric-and-wendy-schmidt-observatory-system/",
@@ -1370,10 +1371,11 @@
     "https://gigazine.net/news/20260107-amazon-sidewalk-japan/",
     "https://gigazine.net/news/20260107-cfs-nvidia-siemens-sparc/",
     "https://gigazine.net/news/20260107-headline/",
-    "https://gigazine.net/news/20260107-yoshinoya-atsugiri-kakuni/",
-    "https://gigazine.net/news/20260107-brave-overhauls-adblock-engine/"
+    "https://gigazine.net/news/20260107-yoshinoya-atsugiri-kakuni/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=200426",
+    "https://aismiley.co.jp/?post_type=ai_news&p=200701",
     "https://aismiley.co.jp/?post_type=ai_news&p=200865",
     "https://aismiley.co.jp/?post_type=ai_news&p=200279",
     "https://aismiley.co.jp/?post_type=ai_news&p=200681",
@@ -1421,9 +1423,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=199347",
     "https://aismiley.co.jp/?post_type=ai_news&p=198879",
     "https://aismiley.co.jp/?post_type=ai_news&p=197667",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199116",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199159",
-    "https://aismiley.co.jp/?post_type=ai_news&p=197744"
+    "https://aismiley.co.jp/?post_type=ai_news&p=199116"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=183910",
