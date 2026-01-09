@@ -1324,6 +1324,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260109-purrtran/",
+    "https://gigazine.net/news/20260109-headline/",
     "https://gigazine.net/news/20260109-burgerking-mushroom-whopper-winter/",
     "https://gigazine.net/news/20260109-cubeauthn/",
     "https://gigazine.net/news/20260109-avoid-an-injury-in-outdoor/",
@@ -1371,9 +1373,7 @@
     "https://gigazine.net/news/20260108-amazon-buy-for-me-scraping/",
     "https://gigazine.net/news/20260107-macos-tahoe-menu-icons/",
     "https://gigazine.net/news/20260107-neuralink-bci-breakthrough/",
-    "https://gigazine.net/news/20260107-amazon-sidewalk-japan/",
-    "https://gigazine.net/news/20260107-cfs-nvidia-siemens-sparc/",
-    "https://gigazine.net/news/20260107-headline/"
+    "https://gigazine.net/news/20260107-amazon-sidewalk-japan/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=200461",
@@ -1593,6 +1593,7 @@
     "yt:video:AJY9U2BYXTc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:ub4v70k2eRA",
     "yt:video:BhwYGAHMINs",
     "yt:video:vxLnz29imVU",
     "yt:video:_pK_gqUWe6A",
@@ -1679,6 +1680,7 @@
     "yt:video:PxiE8Vkk0gU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:BDbtGWcLYuw",
     "yt:video:GepmC3TfBQw",
     "yt:video:YrkScmDpadw",
     "yt:video:Jc6X-DwY6KI",
@@ -1727,8 +1729,7 @@
     "yt:video:rBY5UeWMcHg",
     "yt:video:nXJn-3YqN1g",
     "yt:video:wGEfcu1AcWU",
-    "yt:video:1OMG-XXVOUA",
-    "yt:video:JHx8c1YpzBE"
+    "yt:video:1OMG-XXVOUA"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=252775",
