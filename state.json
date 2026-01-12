@@ -900,6 +900,7 @@
     "yt:video:x9wBDxkejbk"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2601/12/news019.html",
     "https://www.itmedia.co.jp/business/articles/2601/12/news006.html",
     "https://www.itmedia.co.jp/news/articles/2601/12/news015.html",
     "https://www.itmedia.co.jp/pcuser/articles/2601/12/news018.html",
@@ -948,8 +949,7 @@
     "https://www.itmedia.co.jp/news/articles/2601/08/news069.html",
     "https://www.itmedia.co.jp/news/articles/2601/08/news056.html",
     "https://www.itmedia.co.jp/news/articles/2601/08/news059.html",
-    "https://www.itmedia.co.jp/news/articles/2601/08/news062.html",
-    "https://www.itmedia.co.jp/business/articles/2601/08/news025.html"
+    "https://www.itmedia.co.jp/news/articles/2601/08/news062.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1005,6 +1005,8 @@
     "https://smhn.info/?p=269181"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=105477",
+    "https://daily-gadget.net/?p=105480",
     "https://daily-gadget.net/?p=105471",
     "https://daily-gadget.net/?p=105465",
     "https://daily-gadget.net/?p=105436",
@@ -1052,11 +1054,10 @@
     "https://daily-gadget.net/?p=104897",
     "https://daily-gadget.net/?p=104692",
     "https://daily-gadget.net/?p=104695",
-    "https://daily-gadget.net/?p=104767",
-    "https://daily-gadget.net/?p=104703",
-    "https://daily-gadget.net/?p=104774"
+    "https://daily-gadget.net/?p=104767"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=51400",
     "https://sumahodigest.com/?p=51396",
     "https://sumahodigest.com/?p=51389",
     "https://sumahodigest.com/?p=51383",
@@ -1105,8 +1106,7 @@
     "https://sumahodigest.com/?p=51123",
     "https://sumahodigest.com/?p=51127",
     "https://sumahodigest.com/?p=51103",
-    "https://sumahodigest.com/?p=51111",
-    "https://sumahodigest.com/?p=51116"
+    "https://sumahodigest.com/?p=51111"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/6802418398374657818",
