@@ -903,6 +903,7 @@
     "yt:video:UcKEutjdkTc"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2601/13/news054.html",
     "https://www.itmedia.co.jp/news/articles/2601/13/news016.html",
     "https://www.itmedia.co.jp/news/articles/2601/13/news014.html",
     "https://www.itmedia.co.jp/business/articles/2601/13/news013.html",
@@ -951,8 +952,7 @@
     "https://www.itmedia.co.jp/mobile/articles/2601/08/news102.html",
     "https://www.itmedia.co.jp/news/articles/2601/08/news105.html",
     "https://www.itmedia.co.jp/news/articles/2601/08/news099.html",
-    "https://www.itmedia.co.jp/mobile/articles/2601/08/news101.html",
-    "https://www.itmedia.co.jp/mobile/articles/2601/08/news090.html"
+    "https://www.itmedia.co.jp/mobile/articles/2601/08/news101.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1060,6 +1060,7 @@
     "https://daily-gadget.net/?p=104897"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=51521",
     "https://sumahodigest.com/?p=51517",
     "https://sumahodigest.com/?p=51513",
     "https://sumahodigest.com/?p=51509",
@@ -1108,10 +1109,10 @@
     "https://sumahodigest.com/?p=51243",
     "https://sumahodigest.com/?p=51239",
     "https://sumahodigest.com/?p=51234",
-    "https://sumahodigest.com/?p=51226",
-    "https://sumahodigest.com/?p=51221"
+    "https://sumahodigest.com/?p=51226"
   ],
   "https://yachin29.hatenablog.com/feed": [
+    "hatenablog://entry/17179246901343512419",
     "hatenablog://entry/6802418398374657818",
     "hatenablog://entry/820878482973407321",
     "hatenablog://entry/6801883189056722662",
@@ -1160,8 +1161,7 @@
     "hatenablog://entry/6802888565286922694",
     "hatenablog://entry/4207112889926966935",
     "hatenablog://entry/6801883189059483428",
-    "hatenablog://entry/8599973812319713885",
-    "hatenablog://entry/26006613710048448"
+    "hatenablog://entry/8599973812319713885"
   ],
   "https://official.gfs.tokyo/blog/feed": [
     "https://official.gfs.tokyo/blog/?p=16580",
