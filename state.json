@@ -1,5 +1,13 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2077591.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2077594.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2077601.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2077610.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2077615.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2077599.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2077628.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/event/2077654.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2077470.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2077506.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2077454.html?ref=rss",
@@ -41,15 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2076836.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2076741.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2076747.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2076763.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2076788.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2076717.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2076720.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2076708.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2076505.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2076706.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/nishikawa/2076696.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2076651.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2076763.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/chatgpt-lightsession/",
@@ -88,6 +88,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=90843",
     "https://butsuyoku-gadget.com/?p=90845",
     "https://butsuyoku-gadget.com/?p=90829",
     "https://butsuyoku-gadget.com/?p=90834",
@@ -136,8 +137,7 @@
     "https://butsuyoku-gadget.com/?p=90405",
     "https://butsuyoku-gadget.com/?p=90399",
     "https://butsuyoku-gadget.com/?p=90384",
-    "https://butsuyoku-gadget.com/?p=90363",
-    "https://butsuyoku-gadget.com/?p=90367"
+    "https://butsuyoku-gadget.com/?p=90363"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=136994",
@@ -192,6 +192,7 @@
     "https://telektlist.com/?p=136416"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/22970",
     "https://codezine.jp/article/detail/22969",
     "https://codezine.jp/article/detail/22968",
     "https://codezine.jp/article/detail/22967",
@@ -240,8 +241,7 @@
     "http://codezine.jp/article/detail/22933",
     "http://codezine.jp/article/detail/22808",
     "http://codezine.jp/article/detail/22931",
-    "http://codezine.jp/article/detail/22932",
-    "http://codezine.jp/article/detail/22922"
+    "http://codezine.jp/article/detail/22932"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
