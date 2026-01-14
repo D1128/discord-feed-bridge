@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2077857.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2077835.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2077775.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2077747.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2077715.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/event/2077198.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2077186.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/hothot/2076843.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2077028.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/gyokai/2077141.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/config/2076783.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2077028.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/chatgpt-lightsession/",
