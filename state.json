@@ -909,6 +909,7 @@
     "yt:video:j0fks57hakI"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2601/15/news102.html",
     "https://www.itmedia.co.jp/pcuser/articles/2601/15/news076.html",
     "https://www.itmedia.co.jp/news/articles/2601/15/news070.html",
     "https://www.itmedia.co.jp/news/articles/2601/15/news071.html",
@@ -957,8 +958,7 @@
     "https://www.itmedia.co.jp/pcuser/articles/2601/13/news043.html",
     "https://www.itmedia.co.jp/news/articles/2601/13/news066.html",
     "https://www.itmedia.co.jp/news/articles/2601/13/news054.html",
-    "https://www.itmedia.co.jp/news/articles/2601/13/news016.html",
-    "https://www.itmedia.co.jp/news/articles/2601/13/news014.html"
+    "https://www.itmedia.co.jp/news/articles/2601/13/news016.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1014,6 +1014,7 @@
     "https://smhn.info/?p=269081"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=105595",
     "https://daily-gadget.net/?p=105591",
     "https://daily-gadget.net/?p=103980",
     "https://daily-gadget.net/?p=98585",
@@ -1062,8 +1063,7 @@
     "https://daily-gadget.net/?p=105202",
     "https://daily-gadget.net/?p=105027",
     "https://daily-gadget.net/?p=104999",
-    "https://daily-gadget.net/?p=105003",
-    "https://daily-gadget.net/?p=105019"
+    "https://daily-gadget.net/?p=105003"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=51714",
@@ -1118,6 +1118,7 @@
     "https://sumahodigest.com/?p=51454"
   ],
   "https://yachin29.hatenablog.com/feed": [
+    "hatenablog://entry/13574176438094046873",
     "hatenablog://entry/13574176438093039728",
     "hatenablog://entry/13574176438086991213",
     "hatenablog://entry/17179246901343512419",
@@ -1166,8 +1167,7 @@
     "hatenablog://entry/6802418398336396974",
     "hatenablog://entry/6802340630912890914",
     "hatenablog://entry/8599973812317551770",
-    "hatenablog://entry/6802888565286922694",
-    "hatenablog://entry/4207112889926966935"
+    "hatenablog://entry/6802888565286922694"
   ],
   "https://official.gfs.tokyo/blog/feed": [
     "https://official.gfs.tokyo/blog/?p=16580",
