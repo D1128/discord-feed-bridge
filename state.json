@@ -909,6 +909,7 @@
     "yt:video:gMZV1DhUsEA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/mobile/articles/2601/15/news133.html",
     "https://www.itmedia.co.jp/news/articles/2601/15/news128.html",
     "https://www.itmedia.co.jp/news/articles/2601/15/news125.html",
     "https://www.itmedia.co.jp/pcuser/articles/2601/15/news111.html",
@@ -957,8 +958,7 @@
     "https://www.itmedia.co.jp/business/articles/2601/14/news022.html",
     "https://www.itmedia.co.jp/news/articles/2601/13/news118.html",
     "https://www.itmedia.co.jp/news/articles/2601/13/news113.html",
-    "https://www.itmedia.co.jp/news/articles/2601/13/news099.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2601/13/news074.html"
+    "https://www.itmedia.co.jp/news/articles/2601/13/news099.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1014,6 +1014,7 @@
     "https://smhn.info/?p=269068"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=105607",
     "https://daily-gadget.net/?p=105604",
     "https://daily-gadget.net/?p=105599",
     "https://daily-gadget.net/?p=105631",
@@ -1062,8 +1063,7 @@
     "https://daily-gadget.net/?p=105198",
     "https://daily-gadget.net/?p=105205",
     "https://daily-gadget.net/?p=105208",
-    "https://daily-gadget.net/?p=105229",
-    "https://daily-gadget.net/?p=105202"
+    "https://daily-gadget.net/?p=105229"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=51714",
@@ -1218,6 +1218,7 @@
     "yt:video:_A_5MwHo1oY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg": [
+    "yt:video:4PODNEmv0aI",
     "yt:video:whRlSDdPCww",
     "yt:video:dFuNHOQmGEE",
     "yt:video:qV4bK_Cm8P8",
@@ -1266,8 +1267,7 @@
     "yt:video:T9mwVgea4F8",
     "yt:video:RigAoXs3Bxc",
     "yt:video:Uo1pNSUaS6w",
-    "yt:video:_-YC6u54iPc",
-    "yt:video:i8LApibW1lQ"
+    "yt:video:_-YC6u54iPc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
     "yt:video:qidLTyXROLA",
