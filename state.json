@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/event/2078316.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2078077.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2078039.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2078079.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2077454.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2077423.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2077434.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2077459.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2077445.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2077459.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/chatgpt-lightsession/",
@@ -192,6 +192,11 @@
     "https://telektlist.com/?p=136362"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23000",
+    "https://codezine.jp/article/detail/22997",
+    "https://codezine.jp/article/detail/22995",
+    "https://codezine.jp/article/detail/22993",
+    "https://codezine.jp/article/detail/22878",
     "https://codezine.jp/article/detail/22994",
     "https://codezine.jp/article/detail/22992",
     "https://codezine.jp/article/detail/22989",
@@ -236,12 +241,7 @@
     "https://codezine.jp/article/detail/22949",
     "https://codezine.jp/article/detail/22918",
     "https://codezine.jp/article/detail/22940",
-    "https://codezine.jp/article/detail/22939",
-    "https://codezine.jp/article/detail/22945",
-    "https://codezine.jp/article/detail/22890",
-    "https://codezine.jp/article/detail/22943",
-    "https://codezine.jp/article/detail/22944",
-    "https://codezine.jp/article/detail/22936"
+    "https://codezine.jp/article/detail/22939"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
