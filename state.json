@@ -1395,6 +1395,7 @@
     "https://gigazine.net/news/20260114-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=201480",
     "https://aismiley.co.jp/?post_type=ai_news&p=201445",
     "https://aismiley.co.jp/?post_type=ai_news&p=201622",
     "https://aismiley.co.jp/?post_type=ai_news&p=200278",
@@ -1443,10 +1444,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=199977",
     "https://aismiley.co.jp/?post_type=ai_news&p=199999",
     "https://aismiley.co.jp/?post_type=ai_news&p=199681",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199964",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199936"
+    "https://aismiley.co.jp/?post_type=ai_news&p=199964"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184081",
     "https://win-tab.net/?p=184068",
     "https://win-tab.net/?p=184059",
     "https://win-tab.net/?p=184048",
@@ -1495,8 +1496,7 @@
     "https://win-tab.net/?p=183503",
     "https://win-tab.net/?p=183511",
     "https://win-tab.net/?p=183484",
-    "https://win-tab.net/?p=183474",
-    "https://win-tab.net/?p=183463"
+    "https://win-tab.net/?p=183474"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:rcws9KXOjuw",
@@ -1528,6 +1528,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:0q7xwSHM7jQ",
     "yt:video:Lop54dxlonY",
     "yt:video:Vh3VHbkovFE",
     "yt:video:0pM3zLfZ52Y",
@@ -1576,8 +1577,7 @@
     "yt:video:9SVbQRoYRgU",
     "yt:video:68QSFhXqYPI",
     "yt:video:GgBPcPvEQIo",
-    "yt:video:bAq3GPVNkG0",
-    "yt:video:sMq8Rlcm0oE"
+    "yt:video:bAq3GPVNkG0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:Uh5AUuuoRdI",
