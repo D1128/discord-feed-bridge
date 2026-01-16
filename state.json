@@ -1343,6 +1343,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260116-apoe-one-gene-drives-most-alzheimers/",
+    "https://gigazine.net/news/20260116-australia-under-16-sns/",
+    "https://gigazine.net/news/20260116-chatgpt-translate/",
+    "https://gigazine.net/news/20260116-nvidia-rtx-5070-ti-report/",
     "https://gigazine.net/news/20260116-bitchat-in-uganda/",
     "https://gigazine.net/news/20260116-mckinsey-ai-chatbot-recruitment-process/",
     "https://gigazine.net/news/20260115-state-of-openssl-problems/",
@@ -1388,13 +1392,11 @@
     "https://gigazine.net/news/20260114-device-havana-syndrome-obtained-us/",
     "https://gigazine.net/news/20260114-starlink-iran-block/",
     "https://gigazine.net/news/20260114-google-veo-video-generation-ai/",
-    "https://gigazine.net/news/20260114-common-pesticide-linked-parkinsons-disease/",
-    "https://gigazine.net/news/20260114-grok-ofcom/",
-    "https://gigazine.net/news/20260114-windows-update/",
-    "https://gigazine.net/news/20260114-apple-creator-studio/",
-    "https://gigazine.net/news/20260114-defiance-act-senate-pass-deepfake-victim-sue/"
+    "https://gigazine.net/news/20260114-common-pesticide-linked-parkinsons-disease/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=200278",
+    "https://aismiley.co.jp/?post_type=ai_news&p=201251",
     "https://aismiley.co.jp/?post_type=ai_news&p=200314",
     "https://aismiley.co.jp/?post_type=ai_news&p=200339",
     "https://aismiley.co.jp/?post_type=ai_news&p=201003",
@@ -1442,11 +1444,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=199964",
     "https://aismiley.co.jp/?post_type=ai_news&p=199936",
     "https://aismiley.co.jp/?post_type=ai_news&p=199952",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199224",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199671",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199836"
+    "https://aismiley.co.jp/?post_type=ai_news&p=199224"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184068",
     "https://win-tab.net/?p=184059",
     "https://win-tab.net/?p=184048",
     "https://win-tab.net/?p=184038",
@@ -1495,8 +1496,7 @@
     "https://win-tab.net/?p=183511",
     "https://win-tab.net/?p=183484",
     "https://win-tab.net/?p=183474",
-    "https://win-tab.net/?p=183463",
-    "https://win-tab.net/?p=183447"
+    "https://win-tab.net/?p=183463"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:rcws9KXOjuw",
@@ -1758,6 +1758,8 @@
     "yt:video:mA00ScGrlWs"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=253443",
+    "https://garumax.com/?p=253453",
     "https://garumax.com/?p=253521",
     "https://garumax.com/?p=253503",
     "https://garumax.com/?p=252404",
@@ -1805,9 +1807,7 @@
     "https://garumax.com/?p=251822",
     "https://garumax.com/?p=251814",
     "https://garumax.com/?p=251782",
-    "https://garumax.com/?p=251412",
-    "https://garumax.com/?p=251424",
-    "https://garumax.com/?p=251534"
+    "https://garumax.com/?p=251412"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/website-2000ver",
