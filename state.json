@@ -1345,6 +1345,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260116-headline/",
+    "https://gigazine.net/news/20260116-us-ice-palantir-elite/",
     "https://gigazine.net/news/20260116-blackthunder-great-selections/",
     "https://gigazine.net/news/20260116-google-nano-banana-naming/",
     "https://gigazine.net/news/20260116-blueskyv-1-114-twitch-live-now/",
@@ -1392,9 +1394,7 @@
     "https://gigazine.net/news/20260114-ai-is-not-permitted-on-bandcamp/",
     "https://gigazine.net/news/20260114-timecapsulellm-trained-data-1800-1875/",
     "https://gigazine.net/news/20260114-vietnam-rooted-device-bank-app/",
-    "https://gigazine.net/news/20260114-gpt-5-2-pro-solved-erdos-problem/",
-    "https://gigazine.net/news/20260114-influencers-visa/",
-    "https://gigazine.net/news/20260114-headline/"
+    "https://gigazine.net/news/20260114-gpt-5-2-pro-solved-erdos-problem/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=201480",
@@ -1618,6 +1618,7 @@
     "yt:video:AJY9U2BYXTc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:GWNKkGs_wgY",
     "yt:video:Ge-cz4B77K8",
     "yt:video:MlHjY1CcOP0",
     "yt:video:jGpjmpWM-XM",
@@ -1708,6 +1709,7 @@
     "yt:video:xnYkktNFdhA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:LWUMjAhnd5U",
     "yt:video:vTYkGOmkWG4",
     "yt:video:u51XMN7RG68",
     "yt:video:yt2IjlvGaSw",
@@ -1756,8 +1758,7 @@
     "yt:video:qkNRbgE4qIQ",
     "yt:video:fsZ4mUTZZ7E",
     "yt:video:pe4izKdMveA",
-    "yt:video:phnzvUNmth0",
-    "yt:video:mA00ScGrlWs"
+    "yt:video:phnzvUNmth0"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=253443",
