@@ -1353,6 +1353,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260119-cloudflare-acquires-astro/",
+    "https://gigazine.net/news/20260119-jquery-4-0-0-released/",
     "https://gigazine.net/news/20260119-threads-x-daily-mobile-users/",
     "https://gigazine.net/news/20260119-windows-update-issues/",
     "https://gigazine.net/news/20260119-openai-chatgpt-go/",
@@ -1400,11 +1402,12 @@
     "https://gigazine.net/news/20260116-raspberry-pi-ai-hat-plus-2/",
     "https://gigazine.net/news/20260116-flux2-klein/",
     "https://gigazine.net/news/20260116-google-translategemma/",
-    "https://gigazine.net/news/20260116-apoe-one-gene-drives-most-alzheimers/",
-    "https://gigazine.net/news/20260116-australia-under-16-sns/",
-    "https://gigazine.net/news/20260116-chatgpt-translate/"
+    "https://gigazine.net/news/20260116-apoe-one-gene-drives-most-alzheimers/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=200532",
+    "https://aismiley.co.jp/?post_type=ai_news&p=201091",
+    "https://aismiley.co.jp/?post_type=ai_news&p=201044",
     "https://aismiley.co.jp/?post_type=ai_news&p=201480",
     "https://aismiley.co.jp/?post_type=ai_news&p=201445",
     "https://aismiley.co.jp/?post_type=ai_news&p=201622",
@@ -1451,12 +1454,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=200244",
     "https://aismiley.co.jp/?post_type=ai_news&p=200196",
     "https://aismiley.co.jp/?post_type=ai_news&p=200014",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199977",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199999",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199681",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199964"
+    "https://aismiley.co.jp/?post_type=ai_news&p=199977"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184152",
     "https://win-tab.net/?p=184143",
     "https://win-tab.net/?p=184133",
     "https://win-tab.net/?p=184112",
@@ -1505,8 +1506,7 @@
     "https://win-tab.net/?p=183568",
     "https://win-tab.net/?p=183558",
     "https://win-tab.net/?p=183548",
-    "https://win-tab.net/?p=183537",
-    "https://win-tab.net/?p=167344"
+    "https://win-tab.net/?p=183537"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:rcws9KXOjuw",
@@ -1843,6 +1843,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=59292",
     "https://androplus.jp/?p=59507",
     "https://androplus.jp/?p=58294",
     "https://androplus.jp/?p=55880",
@@ -1891,8 +1892,7 @@
     "https://androplus.jp/?p=58845",
     "https://androplus.jp/?p=58871",
     "https://androplus.jp/?p=58031",
-    "https://androplus.jp/?p=58801",
-    "https://androplus.jp/?p=58786"
+    "https://androplus.jp/?p=58801"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
