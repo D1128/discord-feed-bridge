@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2079198.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2079221.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2079234.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2079159.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2079165.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2079178.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2078326.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2078370.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2078316.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2078077.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/nishikawa/2078039.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2078079.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2078248.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2078077.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/chatgpt-timestamp/",
@@ -193,6 +193,7 @@
     "https://telektlist.com/?p=136372"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/22987",
     "https://codezine.jp/article/detail/23031",
     "https://codezine.jp/article/detail/23032",
     "https://codezine.jp/article/detail/23029",
@@ -241,8 +242,7 @@
     "https://codezine.jp/article/detail/22988",
     "https://codezine.jp/article/detail/22985",
     "https://codezine.jp/article/detail/22917",
-    "https://codezine.jp/article/detail/22983",
-    "https://codezine.jp/article/detail/22980"
+    "https://codezine.jp/article/detail/22983"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -294,6 +294,7 @@
     "yt:video:5mgcuUHSf4A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:2EwNbnZfcwY",
     "yt:video:91oFDtanxKE",
     "yt:video:ARYQl0La-0Y",
     "yt:video:RyvAdnvlqaE",
