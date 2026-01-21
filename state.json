@@ -1361,6 +1361,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260121-nova-launcher-decline/",
+    "https://gigazine.net/news/20260121-openai-chatgpt-approach-age-prediction/",
+    "https://gigazine.net/news/20260121-netflix-earnings/",
+    "https://gigazine.net/news/20260121-sony-tv-business-with-tcl/",
+    "https://gigazine.net/news/20260121-netflix-test-vertical-video-mobile/",
+    "https://gigazine.net/news/20260121-netflix-warner-bros-all-cash-transaction/",
+    "https://gigazine.net/news/20260121-dario-amodei-protested-giving-chips-to-china/",
     "https://gigazine.net/news/20260121-mammals-evolved-ant-eaters-12-times/",
     "https://gigazine.net/news/20260121-android-16-network-notifications/",
     "https://gigazine.net/news/20260121-toxic-masculinity-measurement-eight-indicators/",
@@ -1403,16 +1410,11 @@
     "https://gigazine.net/news/20260119-worlds-oldest-poison-arrow/",
     "https://gigazine.net/news/20260119-rockstar-granted-terminally-ill-fan-gta-6/",
     "https://gigazine.net/news/20260119-ascii-rendering/",
-    "https://gigazine.net/news/20260119-cloudflare-acquires-astro/",
-    "https://gigazine.net/news/20260119-jquery-4-0-0-released/",
-    "https://gigazine.net/news/20260119-threads-x-daily-mobile-users/",
-    "https://gigazine.net/news/20260119-windows-update-issues/",
-    "https://gigazine.net/news/20260119-openai-chatgpt-go/",
-    "https://gigazine.net/news/20260119-storm-chasers-meta/",
-    "https://gigazine.net/news/20260119-elyza-llm-diffusion/",
-    "https://gigazine.net/news/20260119-amazon-collaborate-nuton/"
+    "https://gigazine.net/news/20260119-cloudflare-acquires-astro/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=201915",
+    "https://aismiley.co.jp/?post_type=ai_news&p=196828",
     "https://aismiley.co.jp/?post_type=ai_news&p=199329",
     "https://aismiley.co.jp/?post_type=ai_news&p=201527",
     "https://aismiley.co.jp/?post_type=ai_news&p=201722",
@@ -1460,9 +1462,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=199877",
     "https://aismiley.co.jp/?post_type=ai_news&p=200265",
     "https://aismiley.co.jp/?post_type=ai_news&p=200365",
-    "https://aismiley.co.jp/?post_type=ai_news&p=198651",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199626",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200244"
+    "https://aismiley.co.jp/?post_type=ai_news&p=198651"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=184175",
@@ -1778,6 +1778,8 @@
     "yt:video:qkNRbgE4qIQ"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=253802",
+    "https://garumax.com/?p=253788",
     "https://garumax.com/?p=253618",
     "https://garumax.com/?p=253465",
     "https://garumax.com/?p=253477",
@@ -1825,9 +1827,7 @@
     "https://garumax.com/?p=252215",
     "https://garumax.com/?p=251632",
     "https://garumax.com/?p=251750",
-    "https://garumax.com/?p=251723",
-    "https://garumax.com/?p=251733",
-    "https://garumax.com/?p=251939"
+    "https://garumax.com/?p=251723"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/website-2000ver",
@@ -1852,6 +1852,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=59610",
     "https://androplus.jp/?p=58434",
     "https://androplus.jp/?p=59606",
     "https://androplus.jp/?p=59596",
@@ -1900,8 +1901,7 @@
     "https://androplus.jp/?p=58907",
     "https://androplus.jp/?p=55264",
     "https://androplus.jp/?p=57922",
-    "https://androplus.jp/?p=51395",
-    "https://androplus.jp/?p=55372"
+    "https://androplus.jp/?p=51395"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
