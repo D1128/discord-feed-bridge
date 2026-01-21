@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2079564.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2079571.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2079523.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2079532.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2079461.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2078779.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2078794.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2078763.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2078571.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/semicon/2078347.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2078669.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2078571.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/chatgpt-timestamp/",
@@ -141,6 +141,7 @@
     "https://butsuyoku-gadget.com/?p=90445"
   ],
   "https://telektlist.com/feed/": [
+    "https://telektlist.com/?p=137036",
     "https://telektlist.com/?p=137029",
     "https://telektlist.com/?p=137018",
     "https://telektlist.com/?p=137004",
@@ -189,8 +190,7 @@
     "https://telektlist.com/?p=136482",
     "https://telektlist.com/?p=136318",
     "https://telektlist.com/?p=136325",
-    "https://telektlist.com/?p=136353",
-    "https://telektlist.com/?p=136372"
+    "https://telektlist.com/?p=136353"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
     "https://codezine.jp/article/detail/23047",
