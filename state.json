@@ -1367,6 +1367,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260122-davos-speech/",
     "https://gigazine.net/news/20260122-hoover-dam-star-map/",
     "https://gigazine.net/news/20260122-internet-voting-insecure/",
     "https://gigazine.net/news/20260122-blue-origin-terawave/",
@@ -1415,10 +1416,14 @@
     "https://gigazine.net/news/20260120-america-tariffs/",
     "https://gigazine.net/news/20260120-suntory-craft-boss-chocolat/",
     "https://gigazine.net/news/20260120-severe-solar-storm/",
-    "https://gigazine.net/news/20260120-ssd-prices-rival-gold-ai-boom/",
-    "https://gigazine.net/news/20260120-cursor-scaling-agents/"
+    "https://gigazine.net/news/20260120-ssd-prices-rival-gold-ai-boom/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=200993",
+    "https://aismiley.co.jp/?post_type=ai_news&p=201050",
+    "https://aismiley.co.jp/?post_type=ai_news&p=202190",
+    "https://aismiley.co.jp/?post_type=ai_news&p=202252",
+    "https://aismiley.co.jp/?post_type=ai_news&p=201405",
     "https://aismiley.co.jp/?post_type=ai_news&p=202178",
     "https://aismiley.co.jp/?post_type=ai_news&p=202156",
     "https://aismiley.co.jp/?post_type=ai_news&p=201915",
@@ -1463,12 +1468,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=200854",
     "https://aismiley.co.jp/?post_type=ai_news&p=200563",
     "https://aismiley.co.jp/?post_type=ai_news&p=200531",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200383",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199419",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200377",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200144",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199877",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200265"
+    "https://aismiley.co.jp/?post_type=ai_news&p=200383"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=184225",
