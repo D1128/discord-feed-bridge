@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2080233.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2080265.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080247.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2080239.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080264.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2079523.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2079532.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2079461.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2079460.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2079469.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2079472.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2079460.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/chatgpt-timestamp/",
