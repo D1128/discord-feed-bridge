@@ -1,5 +1,10 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081066.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2081062.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081082.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081102.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081105.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081007.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080990.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2080737.html?ref=rss",
@@ -44,12 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2080233.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2080265.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080247.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2080239.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080264.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2080152.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2080156.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080171.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2080176.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2080239.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/hash/OpenHashTab.html",
@@ -334,6 +334,7 @@
     "yt:video:6GS-1j0tLrY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:9xRvsdTZ6ko",
     "yt:video:kf1yyY-RYO0",
     "yt:video:KXAH-rr4XGI",
     "yt:video:NEXHjtDJX-k",
@@ -382,8 +383,7 @@
     "yt:video:hHcp4Q0P2io",
     "yt:video:x5_Ha1qLuTc",
     "yt:video:9w2zUU2jV5o",
-    "yt:video:ZKBfHEUGuoo",
-    "yt:video:VZW_UQXN9Ac"
+    "yt:video:ZKBfHEUGuoo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:9KSx-bjG4Tw",
