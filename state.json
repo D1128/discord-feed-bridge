@@ -1388,6 +1388,12 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260128-french-video-meeting-visio/",
+    "https://gigazine.net/news/20260128-z-image-image-generation-ai/",
+    "https://gigazine.net/news/20260128-openai-prism/",
+    "https://gigazine.net/news/20260128-bluesky-2026-roadmap/",
+    "https://gigazine.net/news/20260128-moonshot-ai-kimi-k2-5/",
+    "https://gigazine.net/news/20260128-tiktok-investigates-epstein/",
     "https://gigazine.net/news/20260128-gigazine-user-ai/",
     "https://gigazine.net/news/20260128-new-york-e-bike-food-trucks/",
     "https://gigazine.net/news/20260128-ai-fake-proof/",
@@ -1431,15 +1437,12 @@
     "https://gigazine.net/news/20260126-nexphone-android-windows-linux/",
     "https://gigazine.net/news/20260126-trusco-oc-dolly-50l-container-trolley/",
     "https://gigazine.net/news/20260126-chatgpt-grokipedia/",
-    "https://gigazine.net/news/20260126-france-social-media-ban/",
-    "https://gigazine.net/news/20260126-tiktok-us-terms-of-use/",
-    "https://gigazine.net/news/20260126-spectrum-slit/",
-    "https://gigazine.net/news/20260126-sitting-activities-better-brain-health/",
-    "https://gigazine.net/news/20260126-gpu-cloud-stability/",
-    "https://gigazine.net/news/20260126-changes-sleep-diet-exercise-lifespan-healthspan/",
-    "https://gigazine.net/news/20260125-session/"
+    "https://gigazine.net/news/20260126-france-social-media-ban/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=202334",
+    "https://aismiley.co.jp/?post_type=ai_news&p=202091",
+    "https://aismiley.co.jp/?post_type=ai_news&p=201563",
     "https://aismiley.co.jp/?post_type=ai_news&p=201937",
     "https://aismiley.co.jp/?post_type=ai_news&p=201684",
     "https://aismiley.co.jp/?post_type=ai_news&p=202315",
@@ -1486,12 +1489,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=201371",
     "https://aismiley.co.jp/?post_type=ai_news&p=201055",
     "https://aismiley.co.jp/?post_type=ai_news&p=201108",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199471",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200910",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201023",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200461"
+    "https://aismiley.co.jp/?post_type=ai_news&p=199471"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184364",
     "https://win-tab.net/?p=184353",
     "https://win-tab.net/?p=184345",
     "https://win-tab.net/?p=184334",
@@ -1540,8 +1541,7 @@
     "https://win-tab.net/?p=183831",
     "https://win-tab.net/?p=168253",
     "https://win-tab.net/?p=183821",
-    "https://win-tab.net/?p=183813",
-    "https://win-tab.net/?p=183807"
+    "https://win-tab.net/?p=183813"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:7DmI7JIWn3c",
@@ -1863,6 +1863,7 @@
     "https://garumax.com/?p=252677"
   ],
   "https://www.webcreatorbox.com/feed/": [
+    "https://www.webcreatorbox.com//blog/ai-phase-planner",
     "https://www.webcreatorbox.com//blog/website-2000ver",
     "https://www.webcreatorbox.com//blog/wcb-book8",
     "https://www.webcreatorbox.com//blog/wcb-2025",
