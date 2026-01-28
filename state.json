@@ -1388,6 +1388,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260128-gigazine-user-ai/",
     "https://gigazine.net/news/20260128-new-york-e-bike-food-trucks/",
     "https://gigazine.net/news/20260128-ai-fake-proof/",
     "https://gigazine.net/news/20260128-origami-inspired-haptic-ring-vr-touch/",
@@ -1436,10 +1437,16 @@
     "https://gigazine.net/news/20260126-sitting-activities-better-brain-health/",
     "https://gigazine.net/news/20260126-gpu-cloud-stability/",
     "https://gigazine.net/news/20260126-changes-sleep-diet-exercise-lifespan-healthspan/",
-    "https://gigazine.net/news/20260125-session/",
-    "https://gigazine.net/news/20260125-sakana-ai-google/"
+    "https://gigazine.net/news/20260125-session/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=201937",
+    "https://aismiley.co.jp/?post_type=ai_news&p=201684",
+    "https://aismiley.co.jp/?post_type=ai_news&p=202315",
+    "https://aismiley.co.jp/?post_type=ai_news&p=199350",
+    "https://aismiley.co.jp/?post_type=ai_news&p=200984",
+    "https://aismiley.co.jp/?post_type=ai_news&p=202555",
+    "https://aismiley.co.jp/?post_type=ai_news&p=202413",
     "https://aismiley.co.jp/?post_type=ai_news&p=202383",
     "https://aismiley.co.jp/?post_type=ai_news&p=202515",
     "https://aismiley.co.jp/?post_type=ai_news&p=200349",
@@ -1482,14 +1489,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=199471",
     "https://aismiley.co.jp/?post_type=ai_news&p=200910",
     "https://aismiley.co.jp/?post_type=ai_news&p=201023",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200461",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200733",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200426",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200701",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200865",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200279",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200681",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200861"
+    "https://aismiley.co.jp/?post_type=ai_news&p=200461"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=184353",
@@ -1575,6 +1575,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:AhYKX5VPaPA",
     "yt:video:jLVwyeT0ORk",
     "yt:video:qVAn01wqQTA",
     "yt:video:fp1aKIIhT0c",
@@ -1623,8 +1624,7 @@
     "yt:video:iMFGT1MYJBk",
     "yt:video:XNPPEfLsgcE",
     "yt:video:MOWtYIR8RCY",
-    "yt:video:h1sJS7EhpCA",
-    "yt:video:6a__xWTCtwE"
+    "yt:video:h1sJS7EhpCA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:x63x4P1zi7M",
