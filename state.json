@@ -1,5 +1,14 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081319.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/special/2079562.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2081317.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2081324.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081325.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081333.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081350.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2081363.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2081369.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/kaimono/2080709.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2081296.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2081276.html?ref=rss",
@@ -40,16 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080635.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080631.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080648.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080657.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/hothot/2076698.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/nishikawa/2079585.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/review/2080380.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/config/2080346.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2080491.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2080455.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2080469.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2080427.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2080399.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2080657.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/hash/OpenHashTab.html",
@@ -194,6 +194,9 @@
     "https://telektlist.com/?p=136318"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23122",
+    "https://codezine.jp/article/detail/22972",
+    "https://codezine.jp/article/detail/23125",
     "https://codezine.jp/article/detail/23120",
     "https://codezine.jp/article/detail/23124",
     "https://codezine.jp/article/detail/23123",
@@ -240,10 +243,7 @@
     "https://codezine.jp/article/detail/23088",
     "https://codezine.jp/article/detail/23077",
     "https://codezine.jp/article/detail/22804",
-    "https://codezine.jp/article/detail/23080",
-    "https://codezine.jp/article/detail/23084",
-    "https://codezine.jp/article/detail/23083",
-    "https://codezine.jp/article/detail/23069"
+    "https://codezine.jp/article/detail/23080"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
