@@ -1400,6 +1400,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260130-ps2recomp/",
+    "https://gigazine.net/news/20260130-headline/",
     "https://gigazine.net/news/20260130-overengineered-spinning-top/",
     "https://gigazine.net/news/20260130-burgerking-bigmouth-white/",
     "https://gigazine.net/news/20260130-bluesky-transparency-report/",
@@ -1447,9 +1449,7 @@
     "https://gigazine.net/news/20260128-myojofoods-pizzahut-margherita-yakisoba/",
     "https://gigazine.net/news/20260128-time-station-emulator/",
     "https://gigazine.net/news/20260128-oldest-wooden-tools/",
-    "https://gigazine.net/news/20260128-iphone-5s-update/",
-    "https://gigazine.net/news/20260128-scx-horoscope/",
-    "https://gigazine.net/news/20260128-google-ai-plus/"
+    "https://gigazine.net/news/20260128-iphone-5s-update/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=203275",
@@ -1504,6 +1504,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=200278"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184445",
     "https://win-tab.net/?p=184390",
     "https://win-tab.net/?p=184423",
     "https://win-tab.net/?p=167344",
@@ -1552,8 +1553,7 @@
     "https://win-tab.net/?p=183882",
     "https://win-tab.net/?p=183866",
     "https://win-tab.net/?p=183861",
-    "https://win-tab.net/?p=183853",
-    "https://win-tab.net/?p=183829"
+    "https://win-tab.net/?p=183853"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:7DmI7JIWn3c",
@@ -1677,6 +1677,7 @@
     "yt:video:AJY9U2BYXTc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:EybjBbUOokE",
     "yt:video:MmiX_Ed9Iak",
     "yt:video:STMUCbVyvIY",
     "yt:video:Mf-AsS3ejUc",
