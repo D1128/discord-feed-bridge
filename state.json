@@ -1411,6 +1411,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260202-matsunoya-shkmeruli-chicken/",
+    "https://gigazine.net/news/20260202-openai-chatgpt-ads-commitment/",
     "https://gigazine.net/news/20260202-headline/",
     "https://gigazine.net/news/20260202-extreme-barocaloric-effect-at-dissolution/",
     "https://gigazine.net/news/20260202-whale-hunting/",
@@ -1458,9 +1460,7 @@
     "https://gigazine.net/news/20260130-bluesky-transparency-report/",
     "https://gigazine.net/news/20260130-cant-login-stand-up/",
     "https://gigazine.net/news/20260130-claude-code-opus-performance/",
-    "https://gigazine.net/news/20260130-pixel-phone/",
-    "https://gigazine.net/news/20260130-amazon-csam-report/",
-    "https://gigazine.net/news/20260130-gpt-4o-retiring-chatgpt/"
+    "https://gigazine.net/news/20260130-pixel-phone/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=203275",
@@ -1690,6 +1690,7 @@
     "yt:video:AJY9U2BYXTc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:1wigHxCcJgk",
     "yt:video:ABP48-39WE4",
     "yt:video:Y8Mp-SDBrC4",
     "yt:video:EybjBbUOokE",
