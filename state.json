@@ -1412,6 +1412,15 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260203-adobe-animate-shut-down/",
+    "https://gigazine.net/news/20260203-logicool-k98m/",
+    "https://gigazine.net/news/20260203-more-memory-driven-price-rises-raspberry-pi/",
+    "https://gigazine.net/news/20260203-textbook-piracy/",
+    "https://gigazine.net/news/20260203-google-kaggle-game-arena-poker-and-werewolf/",
+    "https://gigazine.net/news/20260203-trump-rare-earth-reserve-project-vault/",
+    "https://gigazine.net/news/20260203-hair-bad-lead-exposure-20th-century/",
+    "https://gigazine.net/news/20260203-codex-app-openai/",
+    "https://gigazine.net/news/20260203-spacex-acquire-xai/",
     "https://gigazine.net/news/20260203-kamvas-pro-27-144-hz/",
     "https://gigazine.net/news/20260203-sleep-loss-myelin-cholesterol/",
     "https://gigazine.net/news/20260203-gog-linux-recruitment/",
@@ -1452,18 +1461,10 @@
     "https://gigazine.net/news/20260201-artificial-pain-receptor/",
     "https://gigazine.net/news/20260131-icloud-photos-downloader/",
     "https://gigazine.net/news/20260131-renaissance-recipe-book-proteomics/",
-    "https://gigazine.net/news/20260131-cert-radar/",
-    "https://gigazine.net/news/20260131-game-stocks-slide-google-project-genie/",
-    "https://gigazine.net/news/20260131-desktop-mate-marisa-dlc/",
-    "https://gigazine.net/news/20260131-separate-argument-quality-political-opinions/",
-    "https://gigazine.net/news/20260131-raindrops-sandball/",
-    "https://gigazine.net/news/20260130-yojiwake-review/",
-    "https://gigazine.net/news/20260130-vitamin-d-omega-3-larger-effect-depression-antidepressants/",
-    "https://gigazine.net/news/20260130-patreon-apple-rule/",
-    "https://gigazine.net/news/20260130-open-office/",
-    "https://gigazine.net/news/20260130-ps2recomp/"
+    "https://gigazine.net/news/20260131-cert-radar/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=202921",
     "https://aismiley.co.jp/?post_type=ai_news&p=202602",
     "https://aismiley.co.jp/?post_type=ai_news&p=203570",
     "https://aismiley.co.jp/?post_type=ai_news&p=203506",
@@ -1512,10 +1513,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=201527",
     "https://aismiley.co.jp/?post_type=ai_news&p=201722",
     "https://aismiley.co.jp/?post_type=ai_news&p=200532",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201091",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201044"
+    "https://aismiley.co.jp/?post_type=ai_news&p=201091"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184496",
     "https://win-tab.net/?p=184486",
     "https://win-tab.net/?p=168253",
     "https://win-tab.net/?p=184516",
@@ -1564,8 +1565,7 @@
     "https://win-tab.net/?p=184023",
     "https://win-tab.net/?p=183946",
     "https://win-tab.net/?p=183935",
-    "https://win-tab.net/?p=183930",
-    "https://win-tab.net/?p=183921"
+    "https://win-tab.net/?p=183930"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:IZw4OBpplbM",
@@ -1790,6 +1790,7 @@
     "yt:video:ZZ_4IfLMXCk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:jw5xq_FMYfI",
     "yt:video:g9AhZ0qgiDA",
     "yt:video:mkmakp99T0c",
     "yt:video:JFvB25dpVsw",
@@ -1838,10 +1839,10 @@
     "yt:video:dxCOo6P0zdU",
     "yt:video:GDCQtpIly9g",
     "yt:video:8MFuRHeDTTg",
-    "yt:video:4o59uk2aW28",
-    "yt:video:slN-Ms8rdxw"
+    "yt:video:4o59uk2aW28"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=254802",
     "https://garumax.com/?p=254764",
     "https://garumax.com/?p=254243",
     "https://garumax.com/?p=254721",
@@ -1890,8 +1891,7 @@
     "https://garumax.com/?p=253521",
     "https://garumax.com/?p=253503",
     "https://garumax.com/?p=252404",
-    "https://garumax.com/?p=253396",
-    "https://garumax.com/?p=253333"
+    "https://garumax.com/?p=253396"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slidevars",
