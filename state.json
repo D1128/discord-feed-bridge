@@ -1411,6 +1411,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260203-kamvas-pro-27-144-hz/",
     "https://gigazine.net/news/20260203-sleep-loss-myelin-cholesterol/",
     "https://gigazine.net/news/20260203-gog-linux-recruitment/",
     "https://gigazine.net/news/20260203-antirender/",
@@ -1459,10 +1460,13 @@
     "https://gigazine.net/news/20260130-vitamin-d-omega-3-larger-effect-depression-antidepressants/",
     "https://gigazine.net/news/20260130-patreon-apple-rule/",
     "https://gigazine.net/news/20260130-open-office/",
-    "https://gigazine.net/news/20260130-ps2recomp/",
-    "https://gigazine.net/news/20260130-headline/"
+    "https://gigazine.net/news/20260130-ps2recomp/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=202602",
+    "https://aismiley.co.jp/?post_type=ai_news&p=203570",
+    "https://aismiley.co.jp/?post_type=ai_news&p=203506",
+    "https://aismiley.co.jp/?post_type=ai_news&p=203101",
     "https://aismiley.co.jp/?post_type=ai_news&p=203275",
     "https://aismiley.co.jp/?post_type=ai_news&p=203322",
     "https://aismiley.co.jp/?post_type=ai_news&p=201767",
@@ -1508,11 +1512,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=201722",
     "https://aismiley.co.jp/?post_type=ai_news&p=200532",
     "https://aismiley.co.jp/?post_type=ai_news&p=201091",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201044",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201480",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201445",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201622",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200278"
+    "https://aismiley.co.jp/?post_type=ai_news&p=201044"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=184486",
