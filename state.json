@@ -1416,6 +1416,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260203-sangaria-umashuwa-tankan-soda/",
+    "https://gigazine.net/news/20260203-headline/",
     "https://gigazine.net/news/20260203-mobile-carriers-gps/",
     "https://gigazine.net/news/20260203-grok-imagine-video-generation-ai/",
     "https://gigazine.net/news/20260203-waymo-16-billion-usd-investment-round/",
@@ -1463,11 +1465,13 @@
     "https://gigazine.net/news/20260201-chatgpt-ads-minimum-commitment/",
     "https://gigazine.net/news/20260201-sugakiya-ramen/",
     "https://gigazine.net/news/20260201-ssh-sends-100-packets-per-keystroke/",
-    "https://gigazine.net/news/20260201-birth-of-icecream/",
-    "https://gigazine.net/news/20260201-comfyui-image-video-generation-ai/",
-    "https://gigazine.net/news/20260201-linux-gaming/"
+    "https://gigazine.net/news/20260201-birth-of-icecream/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=202909",
+    "https://aismiley.co.jp/?post_type=ai_news&p=203231",
+    "https://aismiley.co.jp/?post_type=ai_news&p=203428",
+    "https://aismiley.co.jp/?post_type=ai_news&p=203441",
     "https://aismiley.co.jp/?post_type=ai_news&p=202921",
     "https://aismiley.co.jp/?post_type=ai_news&p=202602",
     "https://aismiley.co.jp/?post_type=ai_news&p=203570",
@@ -1513,11 +1517,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=202156",
     "https://aismiley.co.jp/?post_type=ai_news&p=201915",
     "https://aismiley.co.jp/?post_type=ai_news&p=196828",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199329",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201527",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201722",
-    "https://aismiley.co.jp/?post_type=ai_news&p=200532",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201091"
+    "https://aismiley.co.jp/?post_type=ai_news&p=199329"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=184496",
@@ -1742,6 +1742,7 @@
     "yt:video:5gsIPzYw8Ec"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:uStxLB23pB0",
     "yt:video:nEAYR2PaJb8",
     "yt:video:BuS2InVbaLA",
     "yt:video:qDUHOUCWbIk",
@@ -1790,8 +1791,7 @@
     "yt:video:Cb0TJLtSkIE",
     "yt:video:aSM0QQaqjjs",
     "yt:video:qIePtei1ipY",
-    "yt:video:0yqyeJ9VQFw",
-    "yt:video:ZZ_4IfLMXCk"
+    "yt:video:0yqyeJ9VQFw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:jw5xq_FMYfI",
