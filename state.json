@@ -1017,6 +1017,7 @@
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=270344",
     "https://smhn.info/?p=270335",
     "https://smhn.info/?p=270341",
     "https://smhn.info/?p=270328",
@@ -1065,10 +1066,10 @@
     "https://smhn.info/?p=269676",
     "https://smhn.info/?p=270005",
     "https://smhn.info/?p=270010",
-    "https://smhn.info/?p=269960",
-    "https://smhn.info/?p=269961"
+    "https://smhn.info/?p=269960"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=106643",
     "https://daily-gadget.net/?p=106731",
     "https://daily-gadget.net/?p=106680",
     "https://daily-gadget.net/?p=106683",
@@ -1117,8 +1118,7 @@
     "https://daily-gadget.net/?p=106373",
     "https://daily-gadget.net/?p=106352",
     "https://daily-gadget.net/?p=106355",
-    "https://daily-gadget.net/?p=106341",
-    "https://daily-gadget.net/?p=106281"
+    "https://daily-gadget.net/?p=106341"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=53487",
@@ -1374,6 +1374,7 @@
     "yt:video:KOK7wT4BEsw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCL68L-bhupBuuVhAfCN8VlQ": [
+    "yt:video:2Re3w7C4OeA",
     "yt:video:CQEGTKLVvfE",
     "yt:video:0NoIl2TIlgU",
     "yt:video:6GlmFUKPIGQ",
