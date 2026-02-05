@@ -963,6 +963,8 @@
     "yt:video:_KI4E6KVcmk"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2602/05/news111.html",
+    "https://www.itmedia.co.jp/mobile/articles/2602/05/news110.html",
     "https://www.itmedia.co.jp/business/articles/2602/05/news007.html",
     "https://www.itmedia.co.jp/news/articles/2602/05/news095.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/05/news098.html",
@@ -1010,12 +1012,12 @@
     "https://www.itmedia.co.jp/news/articles/2602/04/news064.html",
     "https://www.itmedia.co.jp/news/articles/2602/04/news024.html",
     "https://www.itmedia.co.jp/business/articles/2602/04/news023.html",
-    "https://www.itmedia.co.jp/business/articles/2602/04/news005.html",
-    "https://monoist.itmedia.co.jp/mn/articles/2602/04/news003.html",
-    "https://www.itmedia.co.jp/business/articles/2602/04/news017.html"
+    "https://www.itmedia.co.jp/business/articles/2602/04/news005.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=270335",
+    "https://smhn.info/?p=270341",
     "https://smhn.info/?p=270328",
     "https://smhn.info/?p=270322",
     "https://smhn.info/?p=270320",
@@ -1063,11 +1065,10 @@
     "https://smhn.info/?p=270005",
     "https://smhn.info/?p=270010",
     "https://smhn.info/?p=269960",
-    "https://smhn.info/?p=269961",
-    "https://smhn.info/?p=269910",
-    "https://smhn.info/?p=269694"
+    "https://smhn.info/?p=269961"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=106680",
     "https://daily-gadget.net/?p=106683",
     "https://daily-gadget.net/?p=106650",
     "https://daily-gadget.net/?p=106675",
@@ -1116,8 +1117,7 @@
     "https://daily-gadget.net/?p=106355",
     "https://daily-gadget.net/?p=106341",
     "https://daily-gadget.net/?p=106281",
-    "https://daily-gadget.net/?p=106263",
-    "https://daily-gadget.net/?p=106254"
+    "https://daily-gadget.net/?p=106263"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=53487",
