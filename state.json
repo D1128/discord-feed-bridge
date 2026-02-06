@@ -1433,6 +1433,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260206-headline/",
+    "https://gigazine.net/news/20260206-the-world-factbook/",
     "https://gigazine.net/news/20260206-maruchan-dekamaru-moyashi-stamina/",
     "https://gigazine.net/news/20260206-spotify-bookshop-org-page-match/",
     "https://gigazine.net/news/20260206-nasa-allow-astronauts-bring-smartphones-space/",
@@ -1480,9 +1482,7 @@
     "https://gigazine.net/news/20260204-moon-mission/",
     "https://gigazine.net/news/20260204-1400-year-old-zapotec-tomb/",
     "https://gigazine.net/news/20260204-headline/",
-    "https://gigazine.net/news/20260204-3d-printer-blocking/",
-    "https://gigazine.net/news/20260204-matsuya-doteni/",
-    "https://gigazine.net/news/20260204-what-up-equals-signs/"
+    "https://gigazine.net/news/20260204-3d-printer-blocking/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=203725",
@@ -1713,6 +1713,7 @@
     "yt:video:AJY9U2BYXTc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:x-Os75fijBo",
     "yt:video:q2bId5MnIkI",
     "yt:video:pHl3nru5bSw",
     "yt:video:GLoIu4q8xTs",
