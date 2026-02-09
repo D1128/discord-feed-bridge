@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2084754.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/hothot/2084273.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2084749.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2084545.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2084463.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2084510.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2083455.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2083396.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2083431.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2083383.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2083364.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2083317.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2083328.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2083383.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/monitor/BatteryLevel.html",
