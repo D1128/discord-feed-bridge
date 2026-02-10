@@ -1445,6 +1445,14 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260210-doj-faces-investigation-removal-ice-tracking-apps/",
+    "https://gigazine.net/news/20260210-chatgpt-testing-ads/",
+    "https://gigazine.net/news/20260210-discord-teen-by-default-settings-globally/",
+    "https://gigazine.net/news/20260210-ai-changed-work-habits/",
+    "https://gigazine.net/news/20260210-epic-games-refutes-claims-horses-developer/",
+    "https://gigazine.net/news/20260210-40s-feel-harder-than-20s/",
+    "https://gigazine.net/news/20260210-ai-hallucination-halluhard/",
+    "https://gigazine.net/news/20260210-bytedance-seedance/",
     "https://gigazine.net/news/20260210-gigazine-user-amazon/",
     "https://gigazine.net/news/20260210-catl-sodium-ion-battery-ev/",
     "https://gigazine.net/news/20260210-jony-ive-slam-touchscreens/",
@@ -1486,17 +1494,12 @@
     "https://gigazine.net/news/20260208-sushi-dinosaur-wf2026w/",
     "https://gigazine.net/news/20260208-summary-wf2026w/",
     "https://gigazine.net/news/20260208-arknights-endfield-wf2026w/",
-    "https://gigazine.net/news/20260208-tsuburaya-archive-wf2026w/",
-    "https://gigazine.net/news/20260208-to-love-yami-lala-ru-wf2026w/",
-    "https://gigazine.net/news/20260208-learning-with-ai-shallower-knowledge/",
-    "https://gigazine.net/news/20260208-dancouga-wf2026w/",
-    "https://gigazine.net/news/20260208-lifespan-heritable/",
-    "https://gigazine.net/news/20260208-apple-low-quality-scammy-ads-news/",
-    "https://gigazine.net/news/20260208-self-sabotaging-behaviors-survival-instincts/",
-    "https://gigazine.net/news/20260207-tiktoks-addictive-design-eu-dsa/",
-    "https://gigazine.net/news/20260207-clair-obscur-expedition-33-developer-french-cultural-honor/"
+    "https://gigazine.net/news/20260208-tsuburaya-archive-wf2026w/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=202026",
+    "https://aismiley.co.jp/?post_type=ai_news&p=203796",
+    "https://aismiley.co.jp/?post_type=ai_news&p=204359",
     "https://aismiley.co.jp/?post_type=ai_news&p=202843",
     "https://aismiley.co.jp/?post_type=ai_news&p=204336",
     "https://aismiley.co.jp/?post_type=ai_news&p=203974",
@@ -1543,12 +1546,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=202334",
     "https://aismiley.co.jp/?post_type=ai_news&p=202091",
     "https://aismiley.co.jp/?post_type=ai_news&p=201563",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201937",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201684",
-    "https://aismiley.co.jp/?post_type=ai_news&p=202315",
-    "https://aismiley.co.jp/?post_type=ai_news&p=199350"
+    "https://aismiley.co.jp/?post_type=ai_news&p=201937"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184759",
     "https://win-tab.net/?p=184719",
     "https://win-tab.net/?p=184575",
     "https://win-tab.net/?p=184706",
@@ -1597,8 +1598,7 @@
     "https://win-tab.net/?p=184166",
     "https://win-tab.net/?p=184152",
     "https://win-tab.net/?p=184143",
-    "https://win-tab.net/?p=184133",
-    "https://win-tab.net/?p=184112"
+    "https://win-tab.net/?p=184133"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:UNkhY8pKTdg",
@@ -1883,6 +1883,7 @@
     "yt:video:wFdpTh7B1ZM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=254935",
     "https://garumax.com/?p=255511",
     "https://garumax.com/?p=255124",
     "https://garumax.com/?p=254595",
@@ -1931,8 +1932,7 @@
     "https://garumax.com/?p=253879",
     "https://garumax.com/?p=253890",
     "https://garumax.com/?p=253802",
-    "https://garumax.com/?p=253788",
-    "https://garumax.com/?p=253618"
+    "https://garumax.com/?p=253788"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slidevars",
