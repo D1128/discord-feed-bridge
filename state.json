@@ -975,6 +975,10 @@
     "yt:video:GwDe4k4pKVc"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2602/10/news108.html",
+    "https://www.itmedia.co.jp/news/articles/2602/10/news110.html",
+    "https://www.itmedia.co.jp/news/articles/2602/10/news112.html",
+    "https://www.itmedia.co.jp/news/articles/2602/10/news113.html",
     "https://www.itmedia.co.jp/business/articles/2602/10/news096.html",
     "https://www.itmedia.co.jp/news/articles/2602/10/news101.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/10/news092.html",
@@ -1020,11 +1024,7 @@
     "https://www.itmedia.co.jp/news/articles/2602/07/news023.html",
     "https://www.itmedia.co.jp/business/articles/2602/07/news005.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/07/news024.html",
-    "https://www.itmedia.co.jp/mobile/articles/2602/06/news132.html",
-    "https://built.itmedia.co.jp/bt/articles/2602/06/news128.html",
-    "https://www.itmedia.co.jp/mobile/articles/2602/06/news127.html",
-    "https://www.itmedia.co.jp/news/articles/2602/06/news124.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2602/06/news120.html"
+    "https://www.itmedia.co.jp/mobile/articles/2602/06/news132.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1080,6 +1080,8 @@
     "https://smhn.info/?p=270139"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=107002",
+    "https://daily-gadget.net/?p=107048",
     "https://daily-gadget.net/?p=105586",
     "https://daily-gadget.net/?p=106995",
     "https://daily-gadget.net/?p=107017",
@@ -1127,9 +1129,7 @@
     "https://daily-gadget.net/?p=106608",
     "https://daily-gadget.net/?p=106611",
     "https://daily-gadget.net/?p=106597",
-    "https://daily-gadget.net/?p=106601",
-    "https://daily-gadget.net/?p=106584",
-    "https://daily-gadget.net/?p=106591"
+    "https://daily-gadget.net/?p=106601"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=53902",
