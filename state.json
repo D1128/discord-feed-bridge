@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/macinfo/2085090.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2085165.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2084561.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085073.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2084977.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2084965.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2083801.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2083820.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2083701.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2083704.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2083647.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2083687.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2083688.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2083704.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/monitor/BatteryLevel.html",
