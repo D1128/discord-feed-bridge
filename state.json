@@ -1453,6 +1453,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260211-slink/",
+    "https://gigazine.net/news/20260211-openai-executive-sexual-discrimination/",
     "https://gigazine.net/news/20260211-my-ai-adoption-journey-6-steps/",
     "https://gigazine.net/news/20260211-apple-nano-texture/",
     "https://gigazine.net/news/20260211-apple-2026-q1-record-iphone-sales-orange/",
@@ -1500,9 +1502,7 @@
     "https://gigazine.net/news/20260209-youtube-music-lylic/",
     "https://gigazine.net/news/20260209-claude-opus-fast-mode/",
     "https://gigazine.net/news/20260209-waymo-world-model/",
-    "https://gigazine.net/news/20260209-intel-amd-cpu-delay-supply-shortages/",
-    "https://gigazine.net/news/20260209-allergic-to-the-cold/",
-    "https://gigazine.net/news/20260209-openclaw-security/"
+    "https://gigazine.net/news/20260209-intel-amd-cpu-delay-supply-shortages/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=202026",
@@ -1557,6 +1557,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=201937"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184506",
     "https://win-tab.net/?p=184790",
     "https://win-tab.net/?p=184782",
     "https://win-tab.net/?p=184732",
@@ -1605,8 +1606,7 @@
     "https://win-tab.net/?p=184225",
     "https://win-tab.net/?p=184211",
     "https://win-tab.net/?p=184185",
-    "https://win-tab.net/?p=184175",
-    "https://win-tab.net/?p=184166"
+    "https://win-tab.net/?p=184175"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:UNkhY8pKTdg",
