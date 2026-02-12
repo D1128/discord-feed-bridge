@@ -979,6 +979,7 @@
     "yt:video:jRmOLIh5NVg"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2602/13/news059.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/13/news056.html",
     "https://www.itmedia.co.jp/business/articles/2602/13/news021.html",
     "https://www.itmedia.co.jp/business/articles/2602/13/news013.html",
@@ -1027,8 +1028,7 @@
     "https://www.itmedia.co.jp/news/articles/2602/10/news075.html",
     "https://www.itmedia.co.jp/news/articles/2602/10/news065.html",
     "https://monoist.itmedia.co.jp/mn/articles/2602/10/news017.html",
-    "https://www.itmedia.co.jp/business/articles/2602/10/news014.html",
-    "https://www.itmedia.co.jp/mobile/articles/2602/09/news128.html"
+    "https://www.itmedia.co.jp/business/articles/2602/10/news014.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -2150,7 +2150,18 @@
     "2021948136340725940",
     "2021959706554904593"
   ],
-  "https://nitter.net/codejump_com/rss": [],
+  "https://nitter.net/codejump_com/rss": [
+    "https://nitter.net/yat8823jp/status/1922296866173042801#m",
+    "https://nitter.net/coatom_lbx/status/1924044667492204676#m",
+    "https://nitter.net/web_na_na/status/1924807102851420381#m",
+    "https://nitter.net/yu_29_u/status/1919208229684265140#m",
+    "https://nitter.net/codejump_com/status/1929551161969053952#m",
+    "https://nitter.net/kurumi_EC/status/1930568127127097815#m",
+    "https://nitter.net/codejump_com/status/1931868960842240111#m",
+    "https://nitter.net/y_irodesign/status/1933367585489498445#m",
+    "https://nitter.net/codejump_com/status/1942020671309271285#m",
+    "https://nitter.net/yuri_designpf/status/1957757570610852027#m"
+  ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
     "2021760200928374890",
