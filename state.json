@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2085811.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085717.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085753.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085714.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2085073.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2084977.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2084965.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2084952.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2084904.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2084952.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/100yen/memo-syashin-mousepad.html",
@@ -145,6 +145,7 @@
     "https://butsuyoku-gadget.com/?p=90822"
   ],
   "https://telektlist.com/feed/": [
+    "https://telektlist.com/?p=137155",
     "https://telektlist.com/?p=137143",
     "https://telektlist.com/?p=137135",
     "https://telektlist.com/?p=137126",
@@ -193,10 +194,10 @@
     "https://telektlist.com/?p=136616",
     "https://telektlist.com/?p=136602",
     "https://telektlist.com/?p=136586",
-    "https://telektlist.com/?p=136576",
-    "https://telektlist.com/?p=136564"
+    "https://telektlist.com/?p=136576"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23299",
     "https://codezine.jp/article/detail/23297",
     "https://codezine.jp/article/detail/23356",
     "https://codezine.jp/article/detail/23357",
@@ -245,8 +246,7 @@
     "https://codezine.jp/article/detail/23318",
     "https://codezine.jp/article/detail/23310",
     "https://codezine.jp/article/detail/23237",
-    "https://codezine.jp/article/detail/23242",
-    "https://codezine.jp/article/detail/23199"
+    "https://codezine.jp/article/detail/23242"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2232,6 +2232,7 @@
     "2021874702411870536"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2022195895438311459",
     "2019229351213137971",
     "2021160036865802718",
     "2018130250899783982",
