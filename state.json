@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2085810.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/news_flash/2085857.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085811.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085717.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085753.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2085165.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2084561.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085073.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2084977.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2084965.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2084952.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2084977.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/100yen/memo-syashin-mousepad.html",
@@ -450,6 +450,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:K4IU0pQOiDQ",
     "yt:video:AqoKIP8Vm68",
     "yt:video:IadCxMswRzo",
     "yt:video:TkgltUzqcrA",
@@ -498,8 +499,7 @@
     "yt:video:qqvjhsZkqMw",
     "yt:video:88s45QnZisA",
     "yt:video:JfTMNl0YSk8",
-    "yt:video:zFlpS-LQcWg",
-    "yt:video:8lPkRncUjRs"
+    "yt:video:zFlpS-LQcWg"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=14074",
