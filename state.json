@@ -535,6 +535,9 @@
     "https://taskhub.jp/magazine/?p=13695"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=300909",
+    "https://tabkul.com/?p=300911",
+    "https://tabkul.com/?p=300907",
     "https://tabkul.com/?p=300905",
     "https://tabkul.com/?p=300904",
     "https://tabkul.com/?p=300903",
@@ -581,10 +584,7 @@
     "https://tabkul.com/?p=300797",
     "https://tabkul.com/?p=300791",
     "https://tabkul.com/?p=300792",
-    "https://tabkul.com/?p=300795",
-    "https://tabkul.com/?p=300786",
-    "https://tabkul.com/?p=300788",
-    "https://tabkul.com/?p=300784"
+    "https://tabkul.com/?p=300795"
   ],
   "https://chinadap.jp/feed": [
     "https://chinadap.jp/?p=34224",
@@ -703,6 +703,7 @@
     "https://liginc.co.jp/?p=672699"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:if7AzzPkUX0",
     "yt:video:2WgYTNQydKs",
     "yt:video:C0NOKW2853Y",
     "yt:video:g3DykhZPW5A",
@@ -751,8 +752,7 @@
     "yt:video:Dw-VNeZNxfk",
     "yt:video:wSzKR4KJfTk",
     "yt:video:XJQkcXp_zCE",
-    "yt:video:5ymjin-4RR0",
-    "yt:video:iohBxkFcLpw"
+    "yt:video:5ymjin-4RR0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:ZE3dwbb90R4",
@@ -801,6 +801,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:U2mhEXa3Ans",
     "yt:video:GVnpcEZWD5Y",
     "yt:video:r-K_kbORqrQ",
     "yt:video:zuWQW_ImX58",
@@ -849,8 +850,7 @@
     "yt:video:NQhVW4ei-3Y",
     "yt:video:AsIlW7dWddU",
     "yt:video:9tAuBM6vZrQ",
-    "yt:video:BuKC1xZXJfw",
-    "yt:video:tanoT_gK1vg"
+    "yt:video:BuKC1xZXJfw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:Ggys1ZQMctU",
@@ -2126,6 +2126,7 @@
     "2021794221917974753"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2022853367580516769",
     "2022506822045925618",
     "2022551380431401413",
     "2022517258996576382",
