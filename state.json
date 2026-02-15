@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2086023.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2086014.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2085939.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2085940.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/config/2085898.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2085181.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2085203.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2084984.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2084990.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/macinfo/2085090.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2085165.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2084990.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/100yen/memo-syashin-mousepad.html",
@@ -197,6 +197,7 @@
     "https://telektlist.com/?p=136586"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23369",
     "https://codezine.jp/article/detail/23368",
     "https://codezine.jp/article/detail/23360",
     "https://codezine.jp/article/detail/23337",
@@ -245,8 +246,7 @@
     "https://codezine.jp/article/detail/23141",
     "https://codezine.jp/article/detail/23293",
     "https://codezine.jp/article/detail/23289",
-    "https://codezine.jp/article/detail/23330",
-    "https://codezine.jp/article/detail/23284"
+    "https://codezine.jp/article/detail/23330"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
