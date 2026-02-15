@@ -985,6 +985,10 @@
     "yt:video:W9QL_d0oAZU"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://monoist.itmedia.co.jp/mn/articles/2602/16/news044.html",
+    "https://www.itmedia.co.jp/business/articles/2602/16/news032.html",
+    "https://www.itmedia.co.jp/news/articles/2602/16/news028.html",
+    "https://www.itmedia.co.jp/business/articles/2602/16/news018.html",
     "https://www.itmedia.co.jp/business/articles/2602/16/news017.html",
     "https://www.itmedia.co.jp/business/articles/2602/16/news054.html",
     "https://www.itmedia.co.jp/business/articles/2602/16/news016.html",
@@ -1030,14 +1034,11 @@
     "https://www.itmedia.co.jp/news/articles/2602/12/news103.html",
     "https://www.itmedia.co.jp/mobile/articles/2602/12/news107.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/12/news089.html",
-    "https://built.itmedia.co.jp/bt/articles/2602/12/news098.html",
-    "https://www.itmedia.co.jp/news/articles/2602/12/news094.html",
-    "https://www.itmedia.co.jp/news/articles/2602/12/news077.html",
-    "https://www.itmedia.co.jp/news/articles/2602/12/news080.html",
-    "https://www.itmedia.co.jp/news/articles/2602/12/news084.html"
+    "https://built.itmedia.co.jp/bt/articles/2602/12/news098.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=270659",
     "https://smhn.info/?p=270656",
     "https://smhn.info/?p=270646",
     "https://smhn.info/?p=270606",
@@ -1086,8 +1087,7 @@
     "https://smhn.info/?p=270280",
     "https://smhn.info/?p=270198",
     "https://smhn.info/?p=270282",
-    "https://smhn.info/?p=270256",
-    "https://smhn.info/?p=270261"
+    "https://smhn.info/?p=270256"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=107402",
