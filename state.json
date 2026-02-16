@@ -1471,6 +1471,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260216-pink-noise-harming-sleep-quality/",
     "https://gigazine.net/news/20260216-ublock-hide-youtube-shorts/",
     "https://gigazine.net/news/20260216-news-internet-archive/",
     "https://gigazine.net/news/20260216-google-nest-cam-send-data-server/",
@@ -1519,8 +1520,7 @@
     "https://gigazine.net/news/20260213-nissin-cupnoodle-big-chili-tomato/",
     "https://gigazine.net/news/20260213-backblaze-drive-2025/",
     "https://gigazine.net/news/20260213-balatrobench/",
-    "https://gigazine.net/news/20260213-israel-military-operation-bet-polymarket/",
-    "https://gigazine.net/news/20260213-openai-accuses-china-deepseek/"
+    "https://gigazine.net/news/20260213-israel-military-operation-bet-polymarket/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=205006",
@@ -2088,6 +2088,13 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2023377415263887426",
+    "2023377417969217792",
+    "2023366778047656218",
+    "2023276422618612084",
+    "2023302741981065455",
+    "2023243188371144777",
+    "2023382271416521105",
     "2023365895788048538",
     "2023366078072786996",
     "2023313965934354626",
