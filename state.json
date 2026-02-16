@@ -988,6 +988,7 @@
     "yt:video:2NioW4Kx5wk"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/business/articles/2602/17/news016.html",
     "https://www.itmedia.co.jp/news/articles/2602/16/news130.html",
     "https://www.itmedia.co.jp/news/articles/2602/16/news128.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/16/news127.html",
@@ -1036,11 +1037,11 @@
     "https://www.itmedia.co.jp/news/articles/2602/13/news050.html",
     "https://www.itmedia.co.jp/mobile/articles/2602/13/news008.html",
     "https://monoist.itmedia.co.jp/mn/articles/2602/13/news023.html",
-    "https://www.itmedia.co.jp/business/articles/2602/13/news007.html",
-    "https://www.itmedia.co.jp/business/articles/2602/13/news019.html"
+    "https://www.itmedia.co.jp/business/articles/2602/13/news007.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=270654",
     "https://smhn.info/?p=270692",
     "https://smhn.info/?p=270676",
     "https://smhn.info/?p=270680",
@@ -1089,8 +1090,7 @@
     "https://smhn.info/?p=270335",
     "https://smhn.info/?p=270341",
     "https://smhn.info/?p=270328",
-    "https://smhn.info/?p=270322",
-    "https://smhn.info/?p=270320"
+    "https://smhn.info/?p=270322"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=107451",
@@ -1145,6 +1145,8 @@
     "https://daily-gadget.net/?p=107048"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=54404",
+    "https://sumahodigest.com/?p=54410",
     "https://sumahodigest.com/?p=54395",
     "https://sumahodigest.com/?p=54400",
     "https://sumahodigest.com/?p=54377",
@@ -1192,9 +1194,7 @@
     "https://sumahodigest.com/?p=54150",
     "https://sumahodigest.com/?p=54146",
     "https://sumahodigest.com/?p=54120",
-    "https://sumahodigest.com/?p=54124",
-    "https://sumahodigest.com/?p=54133",
-    "https://sumahodigest.com/?p=54141"
+    "https://sumahodigest.com/?p=54124"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/820878482972415668",
