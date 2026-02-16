@@ -1471,6 +1471,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260216-android-17-first-beta/",
     "https://gigazine.net/news/20260216-stern-pinball-machines-pokemon/",
     "https://gigazine.net/news/20260216-any-llm-go-mozilla/",
     "https://gigazine.net/news/20260216-computing-component-uses-waste-heat/",
@@ -1519,10 +1520,10 @@
     "https://gigazine.net/news/20260213-apple-vision-pro-youtube/",
     "https://gigazine.net/news/20260213-google-distillation-ai-adversarial-use/",
     "https://gigazine.net/news/20260213-intel-amd-cpu-share/",
-    "https://gigazine.net/news/20260213-palo-alto-china-hacking/",
-    "https://gigazine.net/news/20260213-anthropic-30-billion-series-g-funding/"
+    "https://gigazine.net/news/20260213-palo-alto-china-hacking/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=205006",
     "https://aismiley.co.jp/?post_type=ai_news&p=204405",
     "https://aismiley.co.jp/?post_type=ai_news&p=204816",
     "https://aismiley.co.jp/?post_type=ai_news&p=204143",
@@ -1571,8 +1572,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=203275",
     "https://aismiley.co.jp/?post_type=ai_news&p=203322",
     "https://aismiley.co.jp/?post_type=ai_news&p=201767",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203186",
-    "https://aismiley.co.jp/?post_type=ai_news&p=202850"
+    "https://aismiley.co.jp/?post_type=ai_news&p=203186"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=184780",
@@ -1662,6 +1662,9 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:4aa3hYGcnjc",
+    "yt:video:dmj3IdyTA-4",
+    "yt:video:xgq7X6EKAVk",
     "yt:video:5Z8P_nothwo",
     "yt:video:Z2JvmSe69PI",
     "yt:video:IbhZgIk_9wA",
@@ -1708,10 +1711,7 @@
     "yt:video:2PSh4p_ztfY",
     "yt:video:-A94iPcIIhg",
     "yt:video:VUJV53wtMUI",
-    "yt:video:DRtnVLnQS3g",
-    "yt:video:zMASCoN5pgc",
-    "yt:video:Uj3uIS4iBqs",
-    "yt:video:iMFGT1MYJBk"
+    "yt:video:DRtnVLnQS3g"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:K2sDHPoSzZA",
