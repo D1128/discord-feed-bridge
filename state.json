@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2086262.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086223.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2085605.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086115.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2085362.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085312.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2085210.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/special/2084653.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2085224.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/special/2084653.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/100yen/memo-syashin-mousepad.html",
@@ -93,6 +93,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=91379",
     "https://butsuyoku-gadget.com/?p=91375",
     "https://butsuyoku-gadget.com/?p=91368",
     "https://butsuyoku-gadget.com/?p=91362",
@@ -141,8 +142,7 @@
     "https://butsuyoku-gadget.com/?p=90862",
     "https://butsuyoku-gadget.com/?p=90849",
     "https://butsuyoku-gadget.com/?p=90843",
-    "https://butsuyoku-gadget.com/?p=90845",
-    "https://butsuyoku-gadget.com/?p=90829"
+    "https://butsuyoku-gadget.com/?p=90845"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137170",
