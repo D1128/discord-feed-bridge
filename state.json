@@ -1471,6 +1471,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260216-pentagon-anthropic-ai-safeguards/",
+    "https://gigazine.net/news/20260216-smart-underwear-measure-human-flatulence/",
     "https://gigazine.net/news/20260216-openclaw-steinberger-joined-openai/",
     "https://gigazine.net/news/20260216-openai-gpt-5-2-theoretical-physics/",
     "https://gigazine.net/news/20260216-vaccine-denial-more-chronic-illness/",
@@ -1518,11 +1520,13 @@
     "https://gigazine.net/news/20260213-anthropic-30-billion-series-g-funding/",
     "https://gigazine.net/news/20260213-drinking-hot-water-benefits/",
     "https://gigazine.net/news/20260213-6th-generation-waymo-driver/",
-    "https://gigazine.net/news/20260213-minimax-m-2-5/",
-    "https://gigazine.net/news/20260213-gemini-3-deep-think/",
-    "https://gigazine.net/news/20260213-europes-breakup-visa-mastercard-digital-payment/"
+    "https://gigazine.net/news/20260213-minimax-m-2-5/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=204405",
+    "https://aismiley.co.jp/?post_type=ai_news&p=204816",
+    "https://aismiley.co.jp/?post_type=ai_news&p=204143",
+    "https://aismiley.co.jp/?post_type=ai_news&p=204947",
     "https://aismiley.co.jp/?post_type=ai_news&p=204684",
     "https://aismiley.co.jp/?post_type=ai_news&p=204929",
     "https://aismiley.co.jp/?post_type=ai_news&p=203397",
@@ -1568,11 +1572,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=203322",
     "https://aismiley.co.jp/?post_type=ai_news&p=201767",
     "https://aismiley.co.jp/?post_type=ai_news&p=203186",
-    "https://aismiley.co.jp/?post_type=ai_news&p=202850",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203239",
-    "https://aismiley.co.jp/?post_type=ai_news&p=202861",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203122",
-    "https://aismiley.co.jp/?post_type=ai_news&p=202852"
+    "https://aismiley.co.jp/?post_type=ai_news&p=202850"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=184780",
@@ -1911,6 +1911,7 @@
     "yt:video:4bN5T2pGcEc"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=255980",
     "https://garumax.com/?p=255967",
     "https://garumax.com/?p=255914",
     "https://garumax.com/?p=255882",
@@ -1959,8 +1960,7 @@
     "https://garumax.com/?p=253703",
     "https://garumax.com/?p=254354",
     "https://garumax.com/?p=254491",
-    "https://garumax.com/?p=253256",
-    "https://garumax.com/?p=254494"
+    "https://garumax.com/?p=253256"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/slidevars",
