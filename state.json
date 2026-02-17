@@ -1478,6 +1478,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260217-spacex-xai-drone-contest/",
     "https://gigazine.net/news/20260217-slow-motion-crossbow/",
     "https://gigazine.net/news/20260217-ask-ai-walk-or-drive/",
     "https://gigazine.net/news/20260217-headline/",
@@ -1526,8 +1527,7 @@
     "https://gigazine.net/news/20260216-shut-up-comment-blocker/",
     "https://gigazine.net/news/20260216-iron-wok-jan/",
     "https://gigazine.net/news/20260215-dementia-signs-hidden-in-novels/",
-    "https://gigazine.net/news/20260215-booklore/",
-    "https://gigazine.net/news/20260215-third-golden-software/"
+    "https://gigazine.net/news/20260215-booklore/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=204927",
@@ -2096,6 +2096,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2023684491219443889",
+    "2023725279148146917",
     "2023647554186211377",
     "2023652934526136444",
     "2023155390016540928",
@@ -2143,9 +2145,7 @@
     "2022556183912161440",
     "2022467896665088346",
     "2022265271814381940",
-    "2022304035844603985",
-    "2022237595896541258",
-    "2022252282629558338"
+    "2022304035844603985"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2023534354514014671",
