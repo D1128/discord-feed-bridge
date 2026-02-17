@@ -993,6 +993,7 @@
     "yt:video:2NioW4Kx5wk"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2602/17/news129.html",
     "https://www.itmedia.co.jp/mobile/articles/2602/17/news114.html",
     "https://www.itmedia.co.jp/news/articles/2602/17/news122.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/17/news119.html",
@@ -1041,8 +1042,7 @@
     "https://www.itmedia.co.jp/business/articles/2602/14/news004.html",
     "https://www.itmedia.co.jp/news/articles/2602/14/news008.html",
     "https://www.itmedia.co.jp/mobile/articles/2602/14/news022.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2602/14/news021.html",
-    "https://www.itmedia.co.jp/business/articles/2602/14/news001.html"
+    "https://www.itmedia.co.jp/pcuser/articles/2602/14/news021.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1098,6 +1098,7 @@
     "https://smhn.info/?p=270322"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=107470",
     "https://daily-gadget.net/?p=107469",
     "https://daily-gadget.net/?p=107460",
     "https://daily-gadget.net/?p=107465",
@@ -1146,8 +1147,7 @@
     "https://daily-gadget.net/?p=107124",
     "https://daily-gadget.net/?p=107119",
     "https://daily-gadget.net/?p=107040",
-    "https://daily-gadget.net/?p=107105",
-    "https://daily-gadget.net/?p=107034"
+    "https://daily-gadget.net/?p=107105"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=54453",
@@ -2272,6 +2272,7 @@
     "2022018490656608664"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2023729722891620462",
     "2023685088467447907",
     "2023694847111295132",
     "2023652720394244448",
@@ -2320,8 +2321,7 @@
     "2022501988718776479",
     "2022502021400797657",
     "2022502816997405094",
-    "2022502818406625616",
-    "2022430839049719942"
+    "2022502818406625616"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
