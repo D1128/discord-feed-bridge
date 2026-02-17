@@ -993,6 +993,7 @@
     "yt:video:2NioW4Kx5wk"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2602/17/news130.html",
     "https://www.itmedia.co.jp/news/articles/2602/17/news129.html",
     "https://www.itmedia.co.jp/mobile/articles/2602/17/news114.html",
     "https://www.itmedia.co.jp/news/articles/2602/17/news122.html",
@@ -1041,11 +1042,12 @@
     "https://www.itmedia.co.jp/mobile/articles/2602/14/news017.html",
     "https://www.itmedia.co.jp/business/articles/2602/14/news004.html",
     "https://www.itmedia.co.jp/news/articles/2602/14/news008.html",
-    "https://www.itmedia.co.jp/mobile/articles/2602/14/news022.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2602/14/news021.html"
+    "https://www.itmedia.co.jp/mobile/articles/2602/14/news022.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=270719",
+    "https://smhn.info/?p=270723",
     "https://smhn.info/?p=270654",
     "https://smhn.info/?p=270692",
     "https://smhn.info/?p=270676",
@@ -1093,11 +1095,10 @@
     "https://smhn.info/?p=270366",
     "https://smhn.info/?p=270344",
     "https://smhn.info/?p=270335",
-    "https://smhn.info/?p=270341",
-    "https://smhn.info/?p=270328",
-    "https://smhn.info/?p=270322"
+    "https://smhn.info/?p=270341"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=107486",
     "https://daily-gadget.net/?p=107470",
     "https://daily-gadget.net/?p=107469",
     "https://daily-gadget.net/?p=107460",
@@ -1146,8 +1147,7 @@
     "https://daily-gadget.net/?p=107081",
     "https://daily-gadget.net/?p=107124",
     "https://daily-gadget.net/?p=107119",
-    "https://daily-gadget.net/?p=107040",
-    "https://daily-gadget.net/?p=107105"
+    "https://daily-gadget.net/?p=107040"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=54453",
@@ -2251,6 +2251,8 @@
     "2021794316444926259"
   ],
   "https://nitter.net/ctgptlb/rss": [
+    "2023740556992749652",
+    "2023740560066973777",
     "2023281095727616500",
     "2023175615525118367",
     "2023176972592091551",
