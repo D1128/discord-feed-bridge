@@ -1473,6 +1473,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260217-gigazine-user-internet/",
+    "https://gigazine.net/news/20260217-apple-announces-special-event/",
+    "https://gigazine.net/news/20260217-apple-test-end-to-end-encrypted-rcs-messages-iphone/",
+    "https://gigazine.net/news/20260217-meta-dead-persona-ai/",
     "https://gigazine.net/news/20260217-final-days-louis-xiv/",
     "https://gigazine.net/news/20260217-openai-deleted-safely-mission-statement/",
     "https://gigazine.net/news/20260216-pink-noise-harming-sleep-quality/",
@@ -1518,13 +1522,10 @@
     "https://gigazine.net/news/20260213-geo-racers/",
     "https://gigazine.net/news/20260213-alibaba-rynnbrain/",
     "https://gigazine.net/news/20260213-discord-twitch-k-id-age-verifier/",
-    "https://gigazine.net/news/20260213-cops-buying-geospy-ai-geolocates-photos/",
-    "https://gigazine.net/news/20260213-headline/",
-    "https://gigazine.net/news/20260213-amazon-engineers-revolt-over-ai-tool-restrictions/",
-    "https://gigazine.net/news/20260213-nissin-cupnoodle-big-chili-tomato/",
-    "https://gigazine.net/news/20260213-backblaze-drive-2025/"
+    "https://gigazine.net/news/20260213-cops-buying-geospy-ai-geolocates-photos/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=204919",
     "https://aismiley.co.jp/?post_type=ai_news&p=205006",
     "https://aismiley.co.jp/?post_type=ai_news&p=204405",
     "https://aismiley.co.jp/?post_type=ai_news&p=204816",
@@ -1573,10 +1574,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=203101",
     "https://aismiley.co.jp/?post_type=ai_news&p=203275",
     "https://aismiley.co.jp/?post_type=ai_news&p=203322",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201767",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203186"
+    "https://aismiley.co.jp/?post_type=ai_news&p=201767"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184913",
     "https://win-tab.net/?p=184965",
     "https://win-tab.net/?p=184780",
     "https://win-tab.net/?p=184934",
@@ -1625,8 +1626,7 @@
     "https://win-tab.net/?p=184345",
     "https://win-tab.net/?p=184334",
     "https://win-tab.net/?p=184325",
-    "https://win-tab.net/?p=184315",
-    "https://win-tab.net/?p=184305"
+    "https://win-tab.net/?p=184315"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:Bdg9Xx3wccQ",
@@ -1664,6 +1664,8 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:85sXMYsBnB0",
+    "yt:video:vGOH1gn-5y8",
     "yt:video:4aa3hYGcnjc",
     "yt:video:dmj3IdyTA-4",
     "yt:video:xgq7X6EKAVk",
@@ -1711,9 +1713,7 @@
     "yt:video:eTyiF5J7pMM",
     "yt:video:4T0QOWWJkQs",
     "yt:video:2PSh4p_ztfY",
-    "yt:video:-A94iPcIIhg",
-    "yt:video:VUJV53wtMUI",
-    "yt:video:DRtnVLnQS3g"
+    "yt:video:-A94iPcIIhg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:K2sDHPoSzZA",
@@ -1965,6 +1965,7 @@
     "https://garumax.com/?p=253256"
   ],
   "https://www.webcreatorbox.com/feed/": [
+    "https://www.webcreatorbox.com//blog/fujihill-pace",
     "https://www.webcreatorbox.com//blog/slidevars",
     "https://www.webcreatorbox.com//blog/ai-phase-planner",
     "https://www.webcreatorbox.com//blog/website-2000ver",
