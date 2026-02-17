@@ -1476,6 +1476,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260217-qwen3-5-397b-a17b/",
+    "https://gigazine.net/news/20260217-eu-ban-ai-tool/",
+    "https://gigazine.net/news/20260217-best-buy-employee-get-99-off-macbook/",
+    "https://gigazine.net/news/20260217-wholefood-diet-cuts-calories/",
+    "https://gigazine.net/news/20260217-nvidia-blackwell-ultra-gb300-nvl72-ai-performance/",
+    "https://gigazine.net/news/20260217-playstation-6-launch-memory-shortage/",
+    "https://gigazine.net/news/20260217-chrome-extension-report/",
     "https://gigazine.net/news/20260217-gigazine-user-internet/",
     "https://gigazine.net/news/20260217-apple-announces-special-event/",
     "https://gigazine.net/news/20260217-apple-test-end-to-end-encrypted-rcs-messages-iphone/",
@@ -1518,16 +1525,10 @@
     "https://gigazine.net/news/20260214-apple-reveals-ios-26-usage/",
     "https://gigazine.net/news/20260214-channel-ram-performance/",
     "https://gigazine.net/news/20260214-on-device-browser-agent/",
-    "https://gigazine.net/news/20260214-discord-to-matrix/",
-    "https://gigazine.net/news/20260214-dark-chocolate-slow-aging/",
-    "https://gigazine.net/news/20260214-doordash-drivers-paid-close-waymo-car-doors/",
-    "https://gigazine.net/news/20260214-procrastination-first-step/",
-    "https://gigazine.net/news/20260213-geo-racers/",
-    "https://gigazine.net/news/20260213-alibaba-rynnbrain/",
-    "https://gigazine.net/news/20260213-discord-twitch-k-id-age-verifier/",
-    "https://gigazine.net/news/20260213-cops-buying-geospy-ai-geolocates-photos/"
+    "https://gigazine.net/news/20260214-discord-to-matrix/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=205033",
     "https://aismiley.co.jp/?post_type=ai_news&p=204919",
     "https://aismiley.co.jp/?post_type=ai_news&p=205006",
     "https://aismiley.co.jp/?post_type=ai_news&p=204405",
@@ -1576,8 +1577,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=203506",
     "https://aismiley.co.jp/?post_type=ai_news&p=203101",
     "https://aismiley.co.jp/?post_type=ai_news&p=203275",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203322",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201767"
+    "https://aismiley.co.jp/?post_type=ai_news&p=203322"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=184913",
@@ -2094,6 +2094,11 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2023558397359255553",
+    "2023599073622954138",
+    "2023577220510552135",
+    "2023244280425574577",
+    "2023425664435830806",
     "2023339711377600608",
     "2023377415263887426",
     "2023377417969217792",
@@ -2138,12 +2143,7 @@
     "2019597932404826484",
     "2021532687467753859",
     "2021554340377620849",
-    "2021554493301916013",
-    "2021782585010163768",
-    "2021888258402131976",
-    "2021940831188660659",
-    "2021934122902638614",
-    "2021914028143259735"
+    "2021554493301916013"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2023534354514014671",
