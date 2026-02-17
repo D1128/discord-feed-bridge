@@ -1477,6 +1477,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260217-slow-motion-crossbow/",
     "https://gigazine.net/news/20260217-ask-ai-walk-or-drive/",
     "https://gigazine.net/news/20260217-headline/",
     "https://gigazine.net/news/20260217-sukiya-roastbeef/",
@@ -1525,8 +1526,7 @@
     "https://gigazine.net/news/20260216-iron-wok-jan/",
     "https://gigazine.net/news/20260215-dementia-signs-hidden-in-novels/",
     "https://gigazine.net/news/20260215-booklore/",
-    "https://gigazine.net/news/20260215-third-golden-software/",
-    "https://gigazine.net/news/20260215-hikmicro-mini2plus-v2/"
+    "https://gigazine.net/news/20260215-third-golden-software/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=205033",
@@ -1865,6 +1865,7 @@
     "yt:video:3g_d95GCtCs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:raIasYzfaKs",
     "yt:video:zuqJxy1niCw",
     "yt:video:PrghrRzJXtM",
     "yt:video:4zKSQWkoHFE",
@@ -1913,8 +1914,7 @@
     "yt:video:2QcPXy4Q3q8",
     "yt:video:2KpGFbjQZCI",
     "yt:video:G5z6x-YgAHg",
-    "yt:video:nS8t1N7sNe4",
-    "yt:video:ploL2YUBmBA"
+    "yt:video:nS8t1N7sNe4"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=255980",
@@ -2095,6 +2095,11 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2023647554186211377",
+    "2023652934526136444",
+    "2023155390016540928",
+    "2023718267198820428",
+    "2023718708435406999",
     "2023617479202009532",
     "2023683186551857509",
     "2023683252868034882",
@@ -2139,12 +2144,7 @@
     "2022265271814381940",
     "2022304035844603985",
     "2022237595896541258",
-    "2022252282629558338",
-    "2022252400581771767",
-    "2022210072621859062",
-    "2021130928110915945",
-    "2019783284293534165",
-    "2021935214503891203"
+    "2022252282629558338"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2023534354514014671",
