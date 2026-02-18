@@ -1537,6 +1537,8 @@
     "https://gigazine.net/news/20260217-openai-deleted-safely-mission-statement/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=205183",
+    "https://aismiley.co.jp/?post_type=ai_news&p=205498",
     "https://aismiley.co.jp/?post_type=ai_news&p=204927",
     "https://aismiley.co.jp/?post_type=ai_news&p=205033",
     "https://aismiley.co.jp/?post_type=ai_news&p=204919",
@@ -1584,9 +1586,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=202921",
     "https://aismiley.co.jp/?post_type=ai_news&p=202602",
     "https://aismiley.co.jp/?post_type=ai_news&p=203570",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203506",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203101",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203275"
+    "https://aismiley.co.jp/?post_type=ai_news&p=203506"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=184903",
@@ -1821,6 +1821,7 @@
     "yt:video:OvRAPEfrrUE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:XfhC1-Wi7_w",
     "yt:video:F0ngLw9tInc",
     "yt:video:U98A7MPhww4",
     "yt:video:0cYPwxg8le8",
@@ -1869,8 +1870,7 @@
     "yt:video:L1bd_kIZgec",
     "yt:video:U5bd4D9yG-M",
     "yt:video:JvaJwwrHG00",
-    "yt:video:_5L1Emc-Djk",
-    "yt:video:3g_d95GCtCs"
+    "yt:video:_5L1Emc-Djk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:zhDfC0hmaug",
