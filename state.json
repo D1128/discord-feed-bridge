@@ -1479,6 +1479,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260218-access/",
+    "https://gigazine.net/news/20260218-google-io-2026/",
+    "https://gigazine.net/news/20260218-apple-3-ai-wearable-devices/",
     "https://gigazine.net/news/20260218-alibaba-baidu-byd-chinese-military/",
     "https://gigazine.net/news/20260218-mental-edge-elite-athletes/",
     "https://gigazine.net/news/20260218-odcv-bench-kpi-agent-constraint-violations/",
@@ -1525,10 +1528,7 @@
     "https://gigazine.net/news/20260216-openclaw-steinberger-joined-openai/",
     "https://gigazine.net/news/20260216-openai-gpt-5-2-theoretical-physics/",
     "https://gigazine.net/news/20260216-vaccine-denial-more-chronic-illness/",
-    "https://gigazine.net/news/20260216-npr-host-sues-google-notebooklm-voice/",
-    "https://gigazine.net/news/20260216-disney-seedance/",
-    "https://gigazine.net/news/20260216-jeffrey-epstein-file-jwiki/",
-    "https://gigazine.net/news/20260216-western-digital-2026-hdd-capacity-runs-out/"
+    "https://gigazine.net/news/20260216-npr-host-sues-google-notebooklm-voice/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=204927",
@@ -1583,6 +1583,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=203275"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=184903",
     "https://win-tab.net/?p=184941",
     "https://win-tab.net/?p=184913",
     "https://win-tab.net/?p=184965",
@@ -1631,8 +1632,7 @@
     "https://win-tab.net/?p=184364",
     "https://win-tab.net/?p=184353",
     "https://win-tab.net/?p=184345",
-    "https://win-tab.net/?p=184334",
-    "https://win-tab.net/?p=184325"
+    "https://win-tab.net/?p=184334"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:Bdg9Xx3wccQ",
@@ -1919,6 +1919,7 @@
     "yt:video:G5z6x-YgAHg"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=255273",
     "https://garumax.com/?p=255980",
     "https://garumax.com/?p=255967",
     "https://garumax.com/?p=255914",
@@ -1967,8 +1968,7 @@
     "https://garumax.com/?p=254628",
     "https://garumax.com/?p=253703",
     "https://garumax.com/?p=254354",
-    "https://garumax.com/?p=254491",
-    "https://garumax.com/?p=253256"
+    "https://garumax.com/?p=254491"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/fujihill-pace",
