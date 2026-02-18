@@ -1482,6 +1482,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260218-google-ai-link-pop-up/",
+    "https://gigazine.net/news/20260218-anthropic-claude-sonnet-4-6/",
+    "https://gigazine.net/news/20260218-pixel-9-airdrop/",
+    "https://gigazine.net/news/20260218-grok-4-2-public-beta/",
+    "https://gigazine.net/news/20260218-automattic-wordpress-ai-assistant/",
+    "https://gigazine.net/news/20260218-figma-code-to-canvas/",
+    "https://gigazine.net/news/20260218-unity-ai/",
+    "https://gigazine.net/news/20260218-sleep-deprivation-harms-gut-vagus-nerve/",
+    "https://gigazine.net/news/20260218-bitdance-autoregressive-generation-ai/",
+    "https://gigazine.net/news/20260218-nvidia-meta-infrastructure-partnership/",
     "https://gigazine.net/news/20260218-access/",
     "https://gigazine.net/news/20260218-google-io-2026/",
     "https://gigazine.net/news/20260218-apple-3-ai-wearable-devices/",
@@ -1521,17 +1531,7 @@
     "https://gigazine.net/news/20260216-google-nest-cam-send-data-server/",
     "https://gigazine.net/news/20260216-headline/",
     "https://gigazine.net/news/20260216-eu-unsold-clothes/",
-    "https://gigazine.net/news/20260216-areial-gyouza/",
-    "https://gigazine.net/news/20260216-android-17-first-beta/",
-    "https://gigazine.net/news/20260216-stern-pinball-machines-pokemon/",
-    "https://gigazine.net/news/20260216-any-llm-go-mozilla/",
-    "https://gigazine.net/news/20260216-computing-component-uses-waste-heat/",
-    "https://gigazine.net/news/20260216-pentagon-anthropic-ai-safeguards/",
-    "https://gigazine.net/news/20260216-smart-underwear-measure-human-flatulence/",
-    "https://gigazine.net/news/20260216-openclaw-steinberger-joined-openai/",
-    "https://gigazine.net/news/20260216-openai-gpt-5-2-theoretical-physics/",
-    "https://gigazine.net/news/20260216-vaccine-denial-more-chronic-illness/",
-    "https://gigazine.net/news/20260216-npr-host-sues-google-notebooklm-voice/"
+    "https://gigazine.net/news/20260216-areial-gyouza/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=204927",
@@ -2100,6 +2100,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2023920118296907912",
+    "2023954483668021510",
     "2023660254849011979",
     "2023872584841064558",
     "2023775842414014814",
@@ -2147,11 +2149,10 @@
     "2022629406905344354",
     "2022655416531063058",
     "2018231691643666784",
-    "2022625338543788462",
-    "2022625858364805212",
-    "2022556183912161440"
+    "2022625338543788462"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2023914981574799529",
     "2023896239624847640",
     "2023534354514014671",
     "2023354366762369209",
