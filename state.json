@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2086948.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2086957.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086762.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2086953.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086899.html?ref=rss",
@@ -47,11 +49,10 @@
     "https://pc.watch.impress.co.jp/docs/news/2086115.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086161.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086141.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086029.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086036.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086042.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086029.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
+    "https://www.gigafree.org/ai/folders-for-gemini/",
     "https://www.gigafree.net/100yen/memo-syashin-mousepad.html",
     "https://www.gigafree.net/system/monitor/BatteryLevel.html",
     "https://www.gigafree.net/media/me/join_videos.html",
