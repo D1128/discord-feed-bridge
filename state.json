@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086727.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086729.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086734.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2086741.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2086549.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2086628.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2086495.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/news_flash/2085857.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085811.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2085717.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2085753.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2085714.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2085770.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2085693.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2085609.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2085753.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/100yen/memo-syashin-mousepad.html",
@@ -197,6 +197,10 @@
     "https://telektlist.com/?p=136586"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23396",
+    "https://codezine.jp/article/detail/23395",
+    "https://codezine.jp/article/detail/23391",
+    "https://codezine.jp/article/detail/22892",
     "https://codezine.jp/article/detail/23398",
     "https://codezine.jp/article/detail/23397",
     "https://codezine.jp/article/detail/23387",
@@ -242,11 +246,7 @@
     "https://codezine.jp/article/detail/23325",
     "https://codezine.jp/article/detail/23314",
     "https://codezine.jp/article/detail/23348",
-    "https://codezine.jp/article/detail/23309",
-    "https://codezine.jp/article/detail/23308",
-    "https://codezine.jp/article/detail/23306",
-    "https://codezine.jp/article/detail/23359",
-    "https://codezine.jp/article/detail/23349"
+    "https://codezine.jp/article/detail/23309"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2350,6 +2350,12 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2023910939029111278",
+    "2023910959715385774",
+    "2023910999292870697",
+    "2023911275684917573",
+    "2023911296396296637",
+    "2023911336737206544",
     "2023909049449017610",
     "2023909129702830370",
     "2023909436197400661",
@@ -2393,15 +2399,11 @@
     "2023169738659217746",
     "2023031272516551089",
     "2023031313931112941",
-    "2022875736923869596",
-    "2022875979778322532",
-    "2022876003614486761",
-    "2022680426234741189",
-    "2022680635865993352",
-    "2022680668225048838",
-    "2022680711501877744"
+    "2022875736923869596"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2023847540400288134",
+    "2023874124830175614",
     "2023851190102986970",
     "2023732924915257820",
     "2023314805180838099",
