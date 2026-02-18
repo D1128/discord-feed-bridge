@@ -812,6 +812,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:rU1YSzlCx3Y",
     "yt:video:t_Y_4jvJnUc",
     "yt:video:X51RQNpNaq4",
     "yt:video:1r-59y2beNU",
@@ -860,8 +861,7 @@
     "yt:video:aj-Or-I_BBI",
     "yt:video:2DfbJH7iUK8",
     "yt:video:wVhGGPo6c58",
-    "yt:video:tvmXI-QfR-k",
-    "yt:video:UBGHRPvrTPw"
+    "yt:video:tvmXI-QfR-k"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:iUuZmbe76oQ",
@@ -2173,6 +2173,8 @@
     "2021794221917974753"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2024035045971828803",
+    "2024035050161901588",
     "2023890406816313378",
     "2023895239832776724",
     "2023600104113140201",
