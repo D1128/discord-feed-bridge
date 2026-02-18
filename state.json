@@ -1485,6 +1485,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260218-origami-emergency-shelters-miura-ori/",
+    "https://gigazine.net/news/20260218-headline/",
     "https://gigazine.net/news/20260218-yurakuseika-blackthunder-vanilla-chocochip/",
     "https://gigazine.net/news/20260218-eu-investigates-shein-sale-childlike-sex-dolls/",
     "https://gigazine.net/news/20260218-spaceflight-brain-displacement-upward-backward/",
@@ -1532,9 +1534,7 @@
     "https://gigazine.net/news/20260217-gigazine-user-internet/",
     "https://gigazine.net/news/20260217-apple-announces-special-event/",
     "https://gigazine.net/news/20260217-apple-test-end-to-end-encrypted-rcs-messages-iphone/",
-    "https://gigazine.net/news/20260217-meta-dead-persona-ai/",
-    "https://gigazine.net/news/20260217-final-days-louis-xiv/",
-    "https://gigazine.net/news/20260217-openai-deleted-safely-mission-statement/"
+    "https://gigazine.net/news/20260217-meta-dead-persona-ai/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=205183",
@@ -1769,6 +1769,7 @@
     "yt:video:AJY9U2BYXTc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:k0mk8xj6wFk",
     "yt:video:oCb1CI7uVIo",
     "yt:video:Smu07cawCJs",
     "yt:video:AONG1gL8V4A",
@@ -1817,8 +1818,7 @@
     "yt:video:Zgv_Pu3t_PY",
     "yt:video:mHyOAqRwxHc",
     "yt:video:qOwvfhZTQzw",
-    "yt:video:qn7HV0TiRZM",
-    "yt:video:OvRAPEfrrUE"
+    "yt:video:qn7HV0TiRZM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
     "yt:video:XfhC1-Wi7_w",
@@ -2103,6 +2103,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2024046237998272883",
+    "2024063991941922888",
+    "2023959564203553089",
     "2024042899734954285",
     "2023920118296907912",
     "2023954483668021510",
@@ -2149,10 +2152,7 @@
     "2022921030743003379",
     "2022984653586452702",
     "2022984738995331206",
-    "2022536043929686128",
-    "2022629406905344354",
-    "2022655416531063058",
-    "2018231691643666784"
+    "2022536043929686128"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2023914981574799529",
