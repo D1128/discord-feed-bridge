@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2086965.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086948.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086957.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086762.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/topic/special/2085605.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086115.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086161.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2086141.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086029.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2086141.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/folders-for-gemini/",
@@ -2365,6 +2365,10 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2024134845589225841",
+    "2024134867697430960",
+    "2024134936307941476",
+    "2024139760969859188",
     "2024080728179540165",
     "2024080765282361555",
     "2024080808273736077",
@@ -2410,13 +2414,10 @@
     "2023539962684338443",
     "2023540007294955839",
     "2023354106447090011",
-    "2023354208758665572",
-    "2023354393970749811",
-    "2023354516889092440",
-    "2023354619079074090",
-    "2023354702281462133"
+    "2023354208758665572"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2024101553301229626",
     "2023731756080234943",
     "2023985411018637820",
     "2023900289313763606",
