@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2087336.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2087356.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087290.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087295.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087276.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2086425.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086420.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086385.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086390.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086405.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086457.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086390.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/folders-for-gemini/",
