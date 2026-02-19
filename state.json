@@ -1000,6 +1000,9 @@
     "yt:video:X-8jgxs7EQs"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2602/19/news100.html",
+    "https://www.itmedia.co.jp/mobile/articles/2602/19/news103.html",
+    "https://www.itmedia.co.jp/news/articles/2602/19/news102.html",
     "https://www.itmedia.co.jp/news/articles/2602/19/news090.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/19/news027.html",
     "https://www.itmedia.co.jp/aiplus/articles/2602/19/news046.html",
@@ -1046,10 +1049,7 @@
     "https://www.itmedia.co.jp/mobile/articles/2602/17/news114.html",
     "https://www.itmedia.co.jp/news/articles/2602/17/news122.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/17/news119.html",
-    "https://www.itmedia.co.jp/news/articles/2602/17/news104.html",
-    "https://www.itmedia.co.jp/news/articles/2602/17/news111.html",
-    "https://built.itmedia.co.jp/bt/articles/2602/17/news065.html",
-    "https://www.itmedia.co.jp/mobile/articles/2602/17/news088.html"
+    "https://www.itmedia.co.jp/news/articles/2602/17/news104.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1209,6 +1209,8 @@
     "https://sumahodigest.com/?p=50488"
   ],
   "https://yachin29.hatenablog.com/feed": [
+    "hatenablog://entry/26006613721117997",
+    "hatenablog://entry/6802418398332032978",
     "hatenablog://entry/13574176438100375608",
     "hatenablog://entry/820878482972415668",
     "hatenablog://entry/17179246901353043384",
@@ -1256,11 +1258,10 @@
     "hatenablog://entry/17179246901331379108",
     "hatenablog://entry/6802340630900245202",
     "hatenablog://entry/13574176438043494367",
-    "hatenablog://entry/6802418398335939635",
-    "hatenablog://entry/17179246901327821648",
-    "hatenablog://entry/6802418398547085679"
+    "hatenablog://entry/6802418398335939635"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=18627",
     "https://official.gfs.tokyo/blog/?p=18741",
     "https://official.gfs.tokyo/blog/?p=18581",
     "https://official.gfs.tokyo/blog/?p=18694",
