@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2087290.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2087295.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087276.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087205.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087217.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086385.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086390.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086405.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086457.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2086437.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2086463.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086457.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/folders-for-gemini/",
@@ -2427,6 +2427,7 @@
     "2023723300396896619"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2024313711897563397",
     "2024302012091752768",
     "2024101553301229626",
     "2023731756080234943",
