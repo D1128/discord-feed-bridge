@@ -1733,6 +1733,7 @@
     "yt:video:-A94iPcIIhg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:3Xvhx-2ZAGM",
     "yt:video:K2sDHPoSzZA",
     "yt:video:6WxddaUsWkg",
     "yt:video:tLO8MVysJrQ",
@@ -1826,6 +1827,7 @@
     "yt:video:qn7HV0TiRZM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:K9IF_mpEkp8",
     "yt:video:XfhC1-Wi7_w",
     "yt:video:F0ngLw9tInc",
     "yt:video:U98A7MPhww4",
@@ -1874,8 +1876,7 @@
     "yt:video:ExMElTH_3OQ",
     "yt:video:L1bd_kIZgec",
     "yt:video:U5bd4D9yG-M",
-    "yt:video:JvaJwwrHG00",
-    "yt:video:_5L1Emc-Djk"
+    "yt:video:JvaJwwrHG00"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:zhDfC0hmaug",
@@ -2114,6 +2115,12 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2024413808148828326",
+    "2024413734626873756",
+    "2024073057707688129",
+    "2024402900806762819",
+    "2024076515516760475",
+    "2024240367500218470",
     "2024068964360540394",
     "2024046237998272883",
     "2024063991941922888",
@@ -2157,13 +2164,7 @@
     "2023346674677211249",
     "2023235856367284507",
     "2023240647805903131",
-    "2023228833227280817",
-    "2023136639363772578",
-    "2023198600176800060",
-    "2023167218687840386",
-    "2022921030743003379",
-    "2022984653586452702",
-    "2022984738995331206"
+    "2023228833227280817"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2024260136940741115",
