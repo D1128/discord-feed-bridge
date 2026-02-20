@@ -1495,6 +1495,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260220-amc-theatres-wont-screen-ai-film/",
     "https://gigazine.net/news/20260220-amd-hipthreads/",
     "https://gigazine.net/news/20260220-why-woman-sizing-chaos/",
     "https://gigazine.net/news/20260220-suntory-craftboss-world-tea-chai/",
@@ -1543,8 +1544,7 @@
     "https://gigazine.net/news/20260218-cohere-tiny-aya/",
     "https://gigazine.net/news/20260218-google-geothermal-power/",
     "https://gigazine.net/news/20260218-origami-emergency-shelters-miura-ori/",
-    "https://gigazine.net/news/20260218-headline/",
-    "https://gigazine.net/news/20260218-yurakuseika-blackthunder-vanilla-chocochip/"
+    "https://gigazine.net/news/20260218-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=205388",
@@ -2083,6 +2083,9 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2024756825833587103",
+    "2024756842438808035",
+    "2024756861359247529",
     "2024665905918333399",
     "2024665972532240743",
     "2024666052152742374",
@@ -2136,6 +2139,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2024709518370972051",
+    "2024606353692774738",
     "2024454800180421099",
     "2024234972010238255",
     "2024515953162408240",
@@ -2183,9 +2188,7 @@
     "2023276422618612084",
     "2023302741981065455",
     "2023243188371144777",
-    "2023382271416521105",
-    "2023365895788048538",
-    "2023366078072786996"
+    "2023382271416521105"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2024622273240735967",
