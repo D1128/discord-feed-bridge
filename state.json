@@ -1491,6 +1491,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260220-sony-shut-down-playstation-bluepoint-games/",
+    "https://gigazine.net/news/20260220-bill-gates-cancel-ai-summit/",
+    "https://gigazine.net/news/20260220-google-gemini-3-1-pro/",
+    "https://gigazine.net/news/20260220-anthropic-third-party-block/",
     "https://gigazine.net/news/20260220-universal-history-simulator/",
     "https://gigazine.net/news/20260220-shoulder-mri-abnormalities-99-percent-over-40/",
     "https://gigazine.net/news/20260219-microsoft-ai-slop-git-branching-model/",
@@ -1536,13 +1540,10 @@
     "https://gigazine.net/news/20260218-anthropic-claude-sonnet-4-6/",
     "https://gigazine.net/news/20260218-pixel-9-airdrop/",
     "https://gigazine.net/news/20260218-grok-4-2-public-beta/",
-    "https://gigazine.net/news/20260218-automattic-wordpress-ai-assistant/",
-    "https://gigazine.net/news/20260218-figma-code-to-canvas/",
-    "https://gigazine.net/news/20260218-unity-ai/",
-    "https://gigazine.net/news/20260218-sleep-deprivation-harms-gut-vagus-nerve/",
-    "https://gigazine.net/news/20260218-bitdance-autoregressive-generation-ai/"
+    "https://gigazine.net/news/20260218-automattic-wordpress-ai-assistant/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=205388",
     "https://aismiley.co.jp/?post_type=ai_news&p=205747",
     "https://aismiley.co.jp/?post_type=ai_news&p=203578",
     "https://aismiley.co.jp/?post_type=ai_news&p=205079",
@@ -1591,10 +1592,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=203551",
     "https://aismiley.co.jp/?post_type=ai_news&p=203897",
     "https://aismiley.co.jp/?post_type=ai_news&p=201465",
-    "https://aismiley.co.jp/?post_type=ai_news&p=202909",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203231"
+    "https://aismiley.co.jp/?post_type=ai_news&p=202909"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185022",
     "https://win-tab.net/?p=185010",
     "https://win-tab.net/?p=184996",
     "https://win-tab.net/?p=184983",
@@ -1643,8 +1644,7 @@
     "https://win-tab.net/?p=184423",
     "https://win-tab.net/?p=167344",
     "https://win-tab.net/?p=184410",
-    "https://win-tab.net/?p=184402",
-    "https://win-tab.net/?p=184364"
+    "https://win-tab.net/?p=184402"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:YiAeCTkIjVA",
