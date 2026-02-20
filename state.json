@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2087738.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087705.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087628.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087614.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2086764.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086763.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2086804.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2086794.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2086843.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2086794.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/folders-for-gemini/",
@@ -198,6 +198,7 @@
     "https://telektlist.com/?p=136602"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23424",
     "https://codezine.jp/article/detail/23436",
     "https://codezine.jp/article/detail/23416",
     "https://codezine.jp/article/detail/23425",
@@ -246,8 +247,7 @@
     "https://codezine.jp/article/detail/22925",
     "https://codezine.jp/article/detail/23375",
     "https://codezine.jp/article/detail/23378",
-    "https://codezine.jp/article/detail/23377",
-    "https://codezine.jp/article/detail/23374"
+    "https://codezine.jp/article/detail/23377"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -454,6 +454,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:XXdbg_6acKo",
     "yt:video:tL3if_FFihM",
     "yt:video:UOLunoYmwSs",
     "yt:video:K4IU0pQOiDQ",
@@ -502,8 +503,7 @@
     "yt:video:AePeVOZg-qk",
     "yt:video:ar7-8KSArec",
     "yt:video:hwpbwgJd2G0",
-    "yt:video:qqvjhsZkqMw",
-    "yt:video:88s45QnZisA"
+    "yt:video:qqvjhsZkqMw"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=14178",
