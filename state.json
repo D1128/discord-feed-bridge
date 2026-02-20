@@ -1495,6 +1495,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260221-lie-truth-feedback/",
     "https://gigazine.net/news/20260220-matrixrtc/",
     "https://gigazine.net/news/20260220-zuckerberg-lied-congress/",
     "https://gigazine.net/news/20260220-headline/",
@@ -1543,8 +1544,7 @@
     "https://gigazine.net/news/20260219-mac-battery-limit/",
     "https://gigazine.net/news/20260219-perplexity-drops-ads-hurt-trust-ai/",
     "https://gigazine.net/news/20260219-ai-deadly-viruses-biological-data-governance/",
-    "https://gigazine.net/news/20260219-australia-social-media-minimum-age-disability-isolation/",
-    "https://gigazine.net/news/20260218-obesity-ozempic/"
+    "https://gigazine.net/news/20260219-australia-social-media-minimum-age-disability-isolation/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=204681",
@@ -2142,6 +2142,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2024779129208610909",
+    "2024867268317102565",
     "2024353202192417197",
     "2024775029268062711",
     "2024774955343470650",
@@ -2189,9 +2191,7 @@
     "2023425664435830806",
     "2023339711377600608",
     "2023377415263887426",
-    "2023377417969217792",
-    "2023366778047656218",
-    "2023276422618612084"
+    "2023377417969217792"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2024622273240735967",
