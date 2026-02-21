@@ -1003,6 +1003,8 @@
     "yt:video:00ubcS8IVeo"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/mobile/articles/2602/21/news009.html",
+    "https://www.itmedia.co.jp/news/articles/2602/21/news027.html",
     "https://www.itmedia.co.jp/news/articles/2602/21/news024.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/21/news023.html",
     "https://www.itmedia.co.jp/business/articles/2602/21/news002.html",
@@ -1050,9 +1052,7 @@
     "https://www.itmedia.co.jp/news/articles/2602/18/news134.html",
     "https://www.itmedia.co.jp/news/articles/2602/18/news133.html",
     "https://www.itmedia.co.jp/news/articles/2602/18/news129.html",
-    "https://www.itmedia.co.jp/news/articles/2602/18/news131.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2602/18/news125.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2602/18/news099.html"
+    "https://www.itmedia.co.jp/news/articles/2602/18/news131.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -2352,6 +2352,16 @@
     "2022018490656608664"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2025064081649246336",
+    "2025064568389861450",
+    "2025064707682705603",
+    "2025064802771746941",
+    "2025064866009272818",
+    "2025064946514710898",
+    "2025065043755503665",
+    "2025065101318054121",
+    "2025065579204469058",
+    "2025065624867889167",
     "2025040973861126275",
     "2025011094402859357",
     "2024988712724300178",
@@ -2391,17 +2401,7 @@
     "2024146970483253633",
     "2023948440820957519",
     "2023953265428492420",
-    "2024075162916667456",
-    "2023943046501437787",
-    "2023943247538606149",
-    "2023943176709615796",
-    "2023942255262761381",
-    "2023954131912978711",
-    "2023954129962565893",
-    "2023885793350271363",
-    "2023898010959380990",
-    "2023880898371088400",
-    "2023800703513489550"
+    "2024075162916667456"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
