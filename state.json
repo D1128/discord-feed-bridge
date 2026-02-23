@@ -1499,6 +1499,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260223-aws-ai-outage/",
     "https://gigazine.net/news/20260223-seal/",
     "https://gigazine.net/news/20260223-wifi-analog-clock/",
     "https://gigazine.net/news/20260223-peru-chincha-guano/",
@@ -1547,8 +1548,7 @@
     "https://gigazine.net/news/20260219-microsoft-ai-slop-git-branching-model/",
     "https://gigazine.net/news/20260219-headline/",
     "https://gigazine.net/news/20260219-arizona-bill-requires-age-verification-all-apps/",
-    "https://gigazine.net/news/20260219-ai-productivity-paradox/",
-    "https://gigazine.net/news/20260219-peyoung-mayonnaise-kimchi/"
+    "https://gigazine.net/news/20260219-ai-productivity-paradox/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=204681",
@@ -1603,6 +1603,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=203897"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185099",
     "https://win-tab.net/?p=185109",
     "https://win-tab.net/?p=185089",
     "https://win-tab.net/?p=185080",
@@ -1651,8 +1652,7 @@
     "https://win-tab.net/?p=184486",
     "https://win-tab.net/?p=168253",
     "https://win-tab.net/?p=184516",
-    "https://win-tab.net/?p=184477",
-    "https://win-tab.net/?p=184465"
+    "https://win-tab.net/?p=184477"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:YiAeCTkIjVA",
@@ -2160,6 +2160,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2025692090500562946",
     "2025392299447123982",
     "2025103634678358094",
     "2025366507438703041",
@@ -2208,8 +2209,7 @@
     "2023683186551857509",
     "2023683252868034882",
     "2023604884034277703",
-    "2023605817229144218",
-    "2023558397359255553"
+    "2023605817229144218"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2025708933747556780",
