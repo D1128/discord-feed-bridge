@@ -1506,6 +1506,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260225-linkedin-verification-passport-selfie-privacy/",
     "https://gigazine.net/news/20260225-america-apple-plan/",
     "https://gigazine.net/news/20260225-how-anthropic-uses-claude-marketing/",
     "https://gigazine.net/news/20260224-ai-snitch/",
@@ -1554,8 +1555,7 @@
     "https://gigazine.net/news/20260222-nothing-phone-3a-lite-benchmark-battery/",
     "https://gigazine.net/news/20260222-wikipedia-blacklists-archive-today-ddos/",
     "https://gigazine.net/news/20260222-recoverable-irrecoverable-decisions/",
-    "https://gigazine.net/news/20260222-busy-roads-linked-depression-anxiety/",
-    "https://gigazine.net/news/20260222-american-love-dog/"
+    "https://gigazine.net/news/20260222-busy-roads-linked-depression-anxiety/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=205487",
@@ -2096,6 +2096,13 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2026431975498879368",
+    "2026431991223316768",
+    "2026432006444429705",
+    "2026432021510369429",
+    "2026432037914288214",
+    "2026432052904735171",
+    "2026432068071338410",
     "2026351959016616199",
     "2026333662170779706",
     "2026333960188657956",
@@ -2138,14 +2145,7 @@
     "2024666116518494441",
     "2024666180079009965",
     "2024666276891869258",
-    "2024668372231999508",
-    "2024671854582288785",
-    "2024692320097173614",
-    "2024442755922141407",
-    "2024442772581974269",
-    "2024442788713287698",
-    "2024442803812782466",
-    "2024076532835324111"
+    "2024668372231999508"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2026415566186295620",
@@ -2224,6 +2224,7 @@
     "2023647554186211377"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2026431948051145096",
     "2026220564986417648",
     "2026071572902031800",
     "2025708933747556780",
