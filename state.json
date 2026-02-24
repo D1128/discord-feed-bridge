@@ -1503,6 +1503,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260224-claw-ai-agent-layer/",
     "https://gigazine.net/news/20260224-uber-autonomous-solutions/",
     "https://gigazine.net/news/20260224-ai-coding-oss-contributor/",
     "https://gigazine.net/news/20260224-pinterest-ai-slop/",
@@ -1551,8 +1552,7 @@
     "https://gigazine.net/news/20260221-google-perch-2-0-transfers-whale/",
     "https://gigazine.net/news/20260221-hologram-3d/",
     "https://gigazine.net/news/20260221-viva-google-workspace-message-id-bounce/",
-    "https://gigazine.net/news/20260221-xbox-phil-spencer-leave-microsoft/",
-    "https://gigazine.net/news/20260221-lie-truth-feedback/"
+    "https://gigazine.net/news/20260221-xbox-phil-spencer-leave-microsoft/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=205487",
@@ -1842,6 +1842,7 @@
     "yt:video:z2vIq5kooSo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:jmJYb5oWvGM",
     "yt:video:Dv0T0BqT1D0",
     "yt:video:2mcFOTOhfL4",
     "yt:video:dDyh-OwUj7o",
@@ -1890,8 +1891,7 @@
     "yt:video:BZmqCMexHRg",
     "yt:video:C4K0jUr64PQ",
     "yt:video:qYnBH3Ynbdk",
-    "yt:video:BAd9V-W04ig",
-    "yt:video:ExMElTH_3OQ"
+    "yt:video:BAd9V-W04ig"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:zsoCYUMUKQg",
@@ -2167,6 +2167,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2026229095474880517",
     "2026124310545563718",
     "2026119613457846286",
     "2025948913438736653",
@@ -2215,8 +2216,7 @@
     "2023725279148146917",
     "2023647554186211377",
     "2023652934526136444",
-    "2023155390016540928",
-    "2023718267198820428"
+    "2023155390016540928"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2026220564986417648",
