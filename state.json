@@ -1503,6 +1503,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260224-uber-autonomous-solutions/",
     "https://gigazine.net/news/20260224-ai-coding-oss-contributor/",
     "https://gigazine.net/news/20260224-pinterest-ai-slop/",
     "https://gigazine.net/news/20260224-ai-augmented-threat-actor-fortigate/",
@@ -1551,10 +1552,10 @@
     "https://gigazine.net/news/20260221-hologram-3d/",
     "https://gigazine.net/news/20260221-viva-google-workspace-message-id-bounce/",
     "https://gigazine.net/news/20260221-xbox-phil-spencer-leave-microsoft/",
-    "https://gigazine.net/news/20260221-lie-truth-feedback/",
-    "https://gigazine.net/news/20260220-matrixrtc/"
+    "https://gigazine.net/news/20260221-lie-truth-feedback/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=205487",
     "https://aismiley.co.jp/?post_type=ai_news&p=203601",
     "https://aismiley.co.jp/?post_type=ai_news&p=204681",
     "https://aismiley.co.jp/?post_type=ai_news&p=205384",
@@ -1603,8 +1604,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=201451",
     "https://aismiley.co.jp/?post_type=ai_news&p=203951",
     "https://aismiley.co.jp/?post_type=ai_news&p=203726",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203770",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203551"
+    "https://aismiley.co.jp/?post_type=ai_news&p=203770"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185133",
@@ -2093,6 +2093,11 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2026208949125648553",
+    "2026208965361865184",
+    "2026208988770242828",
+    "2026209005161660518",
+    "2026209017425764398",
     "2025598917854040218",
     "2025594534575661429",
     "2025595769353589090",
@@ -2137,12 +2142,7 @@
     "2022617465004659132",
     "2022617485145706727",
     "2021169633072676963",
-    "2021169644883804293",
-    "2021508034179268617",
-    "2017205829485957237",
-    "2021049825312342382",
-    "2021049806647591415",
-    "2021049770828271717"
+    "2021169644883804293"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2026174722883391561",
@@ -2167,6 +2167,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2026124310545563718",
     "2026119613457846286",
     "2025948913438736653",
     "2025588398896095395",
@@ -2215,10 +2216,10 @@
     "2023647554186211377",
     "2023652934526136444",
     "2023155390016540928",
-    "2023718267198820428",
-    "2023718708435406999"
+    "2023718267198820428"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2026220564986417648",
     "2026071572902031800",
     "2025708933747556780",
     "2025346797242061255",
