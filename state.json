@@ -1501,6 +1501,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260224-mkultra/",
+    "https://gigazine.net/news/20260224-human-ai-energy/",
+    "https://gigazine.net/news/20260224-human-longevity-not-hit-limits/",
+    "https://gigazine.net/news/20260224-google-gemini-openclaw-accounts-banned/",
+    "https://gigazine.net/news/20260224-minecraft-opengl-vulkan/",
+    "https://gigazine.net/news/20260224-ai-fluency-index/",
+    "https://gigazine.net/news/20260224-trump-netflix-susan-rice/",
     "https://gigazine.net/news/20260224-gigazine-user-smartphone-cloud-storage/",
     "https://gigazine.net/news/20260224-claude-code-security/",
     "https://gigazine.net/news/20260224-anthropic-deepseek-moonshot-minimax/",
@@ -1543,14 +1550,7 @@
     "https://gigazine.net/news/20260220-zuckerberg-lied-congress/",
     "https://gigazine.net/news/20260220-headline/",
     "https://gigazine.net/news/20260220-judge-warns-smart-glasses-meta-trial/",
-    "https://gigazine.net/news/20260220-amc-theatres-wont-screen-ai-film/",
-    "https://gigazine.net/news/20260220-amd-hipthreads/",
-    "https://gigazine.net/news/20260220-why-woman-sizing-chaos/",
-    "https://gigazine.net/news/20260220-suntory-craftboss-world-tea-chai/",
-    "https://gigazine.net/news/20260220-google-play-block-2025/",
-    "https://gigazine.net/news/20260220-google-map-limited-view/",
-    "https://gigazine.net/news/20260220-claude-in-powerpoint/",
-    "https://gigazine.net/news/20260220-how-reading-books-regulates-nervous-system/"
+    "https://gigazine.net/news/20260220-amc-theatres-wont-screen-ai-film/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=203601",
@@ -1605,6 +1605,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=203551"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185133",
     "https://win-tab.net/?p=185099",
     "https://win-tab.net/?p=185109",
     "https://win-tab.net/?p=185089",
@@ -1653,8 +1654,7 @@
     "https://win-tab.net/?p=184496",
     "https://win-tab.net/?p=184486",
     "https://win-tab.net/?p=168253",
-    "https://win-tab.net/?p=184516",
-    "https://win-tab.net/?p=184477"
+    "https://win-tab.net/?p=184516"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:JJ52DxpMDd4",
@@ -1944,6 +1944,7 @@
     "yt:video:2M33gVKELec"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=256465",
     "https://garumax.com/?p=256392",
     "https://garumax.com/?p=256421",
     "https://garumax.com/?p=256378",
@@ -1992,8 +1993,7 @@
     "https://garumax.com/?p=254893",
     "https://garumax.com/?p=254878",
     "https://garumax.com/?p=254802",
-    "https://garumax.com/?p=254764",
-    "https://garumax.com/?p=254243"
+    "https://garumax.com/?p=254764"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/giveaway-photoshop-book",
@@ -2164,6 +2164,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2026119613457846286",
     "2025948913438736653",
     "2025588398896095395",
     "2025224613131845778",
@@ -2212,8 +2213,7 @@
     "2023652934526136444",
     "2023155390016540928",
     "2023718267198820428",
-    "2023718708435406999",
-    "2023617479202009532"
+    "2023718708435406999"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2026071572902031800",
