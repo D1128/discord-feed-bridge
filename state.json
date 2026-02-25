@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2088652.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2088653.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2088660.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/news_flash/2088663.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2088559.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2088495.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2088202.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2087614.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2087582.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087605.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2087566.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2087573.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2087466.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2087473.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2087480.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2087566.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/scroll/",
@@ -353,6 +353,7 @@
     "yt:video:6GS-1j0tLrY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:52bBvy1akkg",
     "yt:video:abpqAe4BJzk",
     "yt:video:5ovjCfoTuBU",
     "yt:video:i4bmTq_hRJs",
@@ -401,8 +402,7 @@
     "yt:video:1q7a-lQ4d1w",
     "yt:video:VeAY5J8Ek6c",
     "yt:video:YmzJuoL2INw",
-    "yt:video:2BLpFu2Z4zE",
-    "yt:video:Qsa3fkRPN8s"
+    "yt:video:2BLpFu2Z4zE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:_Nepb4-Qf38",
@@ -2486,6 +2486,12 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2026612941223862516",
+    "2026613003412713535",
+    "2026613059423449469",
+    "2026613207541158190",
+    "2026613236620210230",
+    "2026613301334127106",
     "2026501187999248506",
     "2026501461883175233",
     "2026501487409635355",
@@ -2529,13 +2535,7 @@
     "2026073800392212969",
     "2026073969103978677",
     "2026074027727655241",
-    "2026074494897668538",
-    "2026074526703088048",
-    "2025910945554608255",
-    "2025911115918766437",
-    "2025911137322377307",
-    "2025911307258765622",
-    "2025911331258589442"
+    "2026074494897668538"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2026374947996840169",
