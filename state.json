@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2088714.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2088721.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/tidbit/2088694.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2088477.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2088675.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2087743.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087741.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2087738.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2087705.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2087628.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2087614.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2087705.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/scroll/",
@@ -147,6 +147,7 @@
     "https://butsuyoku-gadget.com/?p=91019"
   ],
   "https://telektlist.com/feed/": [
+    "https://telektlist.com/?p=137213",
     "https://telektlist.com/?p=137205",
     "https://telektlist.com/?p=137191",
     "https://telektlist.com/?p=137179",
@@ -195,10 +196,18 @@
     "https://telektlist.com/?p=136666",
     "https://telektlist.com/?p=136660",
     "https://telektlist.com/?p=136650",
-    "https://telektlist.com/?p=136637",
-    "https://telektlist.com/?p=136629"
+    "https://telektlist.com/?p=136637"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23482",
+    "https://codezine.jp/article/detail/23473",
+    "https://codezine.jp/article/detail/23472",
+    "https://codezine.jp/article/detail/23462",
+    "https://codezine.jp/article/detail/23168",
+    "https://codezine.jp/article/detail/23479",
+    "https://codezine.jp/article/detail/23478",
+    "https://codezine.jp/article/detail/23466",
+    "https://codezine.jp/article/detail/23485",
     "https://codezine.jp/article/detail/23475",
     "https://codezine.jp/article/detail/23474",
     "https://codezine.jp/article/detail/23464",
@@ -239,16 +248,7 @@
     "https://codezine.jp/article/detail/23430",
     "https://codezine.jp/article/detail/23435",
     "https://codezine.jp/article/detail/23431",
-    "https://codezine.jp/article/detail/23429",
-    "https://codezine.jp/article/detail/23410",
-    "https://codezine.jp/article/detail/23438",
-    "https://codezine.jp/article/detail/23406",
-    "https://codezine.jp/article/detail/23426",
-    "https://codezine.jp/article/detail/23402",
-    "https://codezine.jp/article/detail/23424",
-    "https://codezine.jp/article/detail/23436",
-    "https://codezine.jp/article/detail/23416",
-    "https://codezine.jp/article/detail/23425"
+    "https://codezine.jp/article/detail/23429"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2488,6 +2488,16 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2026809458664550675",
+    "2026809483637436566",
+    "2026809607881109616",
+    "2026809664630128691",
+    "2026810348460978374",
+    "2026810380312523178",
+    "2026810431189495901",
+    "2026810722290938073",
+    "2026810777940930915",
+    "2026810838636704090",
     "2026802949901660475",
     "2026803182433972443",
     "2026803251002433822",
@@ -2527,19 +2537,10 @@
     "2026447450605760523",
     "2026306528052125860",
     "2026307012704014376",
-    "2026307065988382925",
-    "2026306942004814202",
-    "2026317980444090495",
-    "2026317939633496393",
-    "2026286751522927013",
-    "2026286810440339648",
-    "2026286955487744438",
-    "2026287045510152604",
-    "2026231613554872769",
-    "2026231667988607151",
-    "2026231895865045320"
+    "2026307065988382925"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2026359649499492395",
     "2026374947996840169",
     "2025419663841395140",
     "2025007276294373640",
