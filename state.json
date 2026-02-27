@@ -1017,6 +1017,11 @@
     "yt:video:_lVZAREaaY0"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/mobile/articles/2602/27/news090.html",
+    "https://www.itmedia.co.jp/news/articles/2602/27/news089.html",
+    "https://www.itmedia.co.jp/news/articles/2602/27/news091.html",
+    "https://www.itmedia.co.jp/news/articles/2602/27/news098.html",
+    "https://www.itmedia.co.jp/news/articles/2602/27/news103.html",
     "https://www.itmedia.co.jp/business/articles/2602/27/news010.html",
     "https://www.itmedia.co.jp/aiplus/articles/2602/27/news083.html",
     "https://www.itmedia.co.jp/news/articles/2602/27/news084.html",
@@ -1061,15 +1066,11 @@
     "https://www.itmedia.co.jp/business/articles/2602/26/news027.html",
     "https://www.itmedia.co.jp/business/articles/2602/26/news021.html",
     "https://monoist.itmedia.co.jp/mn/articles/2602/26/news012.html",
-    "https://www.itmedia.co.jp/mobile/articles/2602/26/news071.html",
-    "https://www.itmedia.co.jp/business/articles/2602/26/news049.html",
-    "https://www.itmedia.co.jp/business/articles/2602/26/news033.html",
-    "https://www.itmedia.co.jp/business/articles/2602/26/news031.html",
-    "https://www.itmedia.co.jp/news/articles/2602/26/news073.html",
-    "https://www.itmedia.co.jp/business/articles/2602/26/news017.html"
+    "https://www.itmedia.co.jp/mobile/articles/2602/26/news071.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=271621",
     "https://smhn.info/?p=271354",
     "https://smhn.info/?p=271345",
     "https://smhn.info/?p=271460",
@@ -1118,8 +1119,7 @@
     "https://smhn.info/?p=270794",
     "https://smhn.info/?p=270804",
     "https://smhn.info/?p=270807",
-    "https://smhn.info/?p=270779",
-    "https://smhn.info/?p=270784"
+    "https://smhn.info/?p=270779"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=109160",
@@ -1174,6 +1174,9 @@
     "https://daily-gadget.net/?p=107630"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=55296",
+    "https://sumahodigest.com/?p=55301",
+    "https://sumahodigest.com/?p=55309",
     "https://sumahodigest.com/?p=55287",
     "https://sumahodigest.com/?p=55292",
     "https://sumahodigest.com/?p=55283",
@@ -1220,10 +1223,7 @@
     "https://sumahodigest.com/?p=55061",
     "https://sumahodigest.com/?p=55056",
     "https://sumahodigest.com/?p=55039",
-    "https://sumahodigest.com/?p=55046",
-    "https://sumahodigest.com/?p=55050",
-    "https://sumahodigest.com/?p=55025",
-    "https://sumahodigest.com/?p=55030"
+    "https://sumahodigest.com/?p=55046"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/17179246901358678213",
@@ -1278,6 +1278,7 @@
     "hatenablog://entry/6801883189124518795"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=19032",
     "https://official.gfs.tokyo/blog/?p=18877",
     "https://official.gfs.tokyo/blog/?p=18990",
     "https://official.gfs.tokyo/blog/?p=19010",
@@ -1326,8 +1327,7 @@
     "https://official.gfs.tokyo/blog/?p=17934",
     "https://official.gfs.tokyo/blog/?p=17911",
     "https://official.gfs.tokyo/blog/?p=17897",
-    "https://official.gfs.tokyo/blog/?p=17852",
-    "https://official.gfs.tokyo/blog/?p=16580"
+    "https://official.gfs.tokyo/blog/?p=17852"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:mXuaj3cr32Y",
@@ -2429,6 +2429,8 @@
     "2022018490656608664"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2027228520825651663",
+    "2027228740187730188",
     "2027176604846194858",
     "2027193943402983793",
     "2027163266951307393",
@@ -2476,9 +2478,7 @@
     "2025423298461663651",
     "2025091690424664137",
     "2025344540195127748",
-    "2025332208865870118",
-    "2025332207494332486",
-    "2025220111611855298"
+    "2025332208865870118"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
