@@ -1527,6 +1527,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260302-airsnitch-wifi-network-attack/",
     "https://gigazine.net/news/20260302-tax-service-reveals-seed-phrase-in-press-release/",
     "https://gigazine.net/news/20260302-nissin-ufo-extreme/",
     "https://gigazine.net/news/20260302-copaw-personal-ai-assistant-open-source/",
@@ -1575,8 +1576,7 @@
     "https://gigazine.net/news/20260227-china-chatgpt-challenge/",
     "https://gigazine.net/news/20260227-why-no-magnets-galaxy-s26-samsung/",
     "https://gigazine.net/news/20260227-hey-perplexity/",
-    "https://gigazine.net/news/20260227-instagram-teen-alert-parent/",
-    "https://gigazine.net/news/20260227-burger-king-ai/"
+    "https://gigazine.net/news/20260227-instagram-teen-alert-parent/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=206229",
@@ -2198,6 +2198,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2028428721657635071",
+    "2028428637666754643",
     "2028400588103561266",
     "2028400810829180949",
     "2028228806226624573",
@@ -2245,9 +2247,7 @@
     "2024874613503853049",
     "2024779129208610909",
     "2024867268317102565",
-    "2024353202192417197",
-    "2024775029268062711",
-    "2024774955343470650"
+    "2024353202192417197"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2028244139062722926",
