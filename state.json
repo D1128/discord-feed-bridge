@@ -1027,6 +1027,7 @@
     "yt:video:1TQkix4doM0"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2603/02/news120.html",
     "https://www.itmedia.co.jp/news/articles/2603/02/news118.html",
     "https://www.itmedia.co.jp/pcuser/articles/2603/02/news106.html",
     "https://www.itmedia.co.jp/news/articles/2603/02/news110.html",
@@ -1075,8 +1076,7 @@
     "https://www.itmedia.co.jp/news/articles/2602/27/news136.html",
     "https://www.itmedia.co.jp/news/articles/2602/27/news131.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/27/news127.html",
-    "https://www.itmedia.co.jp/news/articles/2602/27/news128.html",
-    "https://www.itmedia.co.jp/business/articles/2602/27/news096.html"
+    "https://www.itmedia.co.jp/news/articles/2602/27/news128.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1132,6 +1132,7 @@
     "https://smhn.info/?p=271524"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=109512",
     "https://daily-gadget.net/?p=109494",
     "https://daily-gadget.net/?p=109496",
     "https://daily-gadget.net/?p=109532",
@@ -1180,8 +1181,7 @@
     "https://daily-gadget.net/?p=109001",
     "https://daily-gadget.net/?p=108989",
     "https://daily-gadget.net/?p=108984",
-    "https://daily-gadget.net/?p=108960",
-    "https://daily-gadget.net/?p=108966"
+    "https://daily-gadget.net/?p=108960"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=55512",
@@ -1380,6 +1380,7 @@
     "yt:video:_A_5MwHo1oY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg": [
+    "yt:video:obJA8rfZViM",
     "yt:video:Gjc_7nyyktQ",
     "yt:video:srpWmYMW3ts",
     "yt:video:mPYuLlmrERc",
@@ -1428,8 +1429,7 @@
     "yt:video:ip3HlVB7yMQ",
     "yt:video:aTWFFUiVy_8",
     "yt:video:TbI82nDq-7k",
-    "yt:video:rpteqaeCovY",
-    "yt:video:ChQpYarTICU"
+    "yt:video:rpteqaeCovY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
     "yt:video:EyYlXCb9aXc",
