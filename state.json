@@ -1027,6 +1027,8 @@
     "yt:video:1TQkix4doM0"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/business/articles/2603/03/news027.html",
+    "https://www.itmedia.co.jp/business/articles/2603/03/news009.html",
     "https://www.itmedia.co.jp/news/articles/2603/03/news063.html",
     "https://www.itmedia.co.jp/mobile/articles/2603/03/news061.html",
     "https://www.itmedia.co.jp/news/articles/2603/02/news126.html",
@@ -1074,9 +1076,7 @@
     "https://www.itmedia.co.jp/news/articles/2602/28/news030.html",
     "https://www.itmedia.co.jp/pcuser/articles/2602/28/news025.html",
     "https://www.itmedia.co.jp/business/articles/2602/28/news001.html",
-    "https://www.itmedia.co.jp/news/articles/2602/27/news140.html",
-    "https://www.itmedia.co.jp/news/articles/2602/27/news141.html",
-    "https://www.itmedia.co.jp/news/articles/2602/27/news139.html"
+    "https://www.itmedia.co.jp/news/articles/2602/27/news140.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1380,6 +1380,7 @@
     "yt:video:_A_5MwHo1oY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg": [
+    "yt:video:CHWx8IBQ5X8",
     "yt:video:obJA8rfZViM",
     "yt:video:Gjc_7nyyktQ",
     "yt:video:srpWmYMW3ts",
@@ -1428,8 +1429,7 @@
     "yt:video:nJhL_qx_OoM",
     "yt:video:ip3HlVB7yMQ",
     "yt:video:aTWFFUiVy_8",
-    "yt:video:TbI82nDq-7k",
-    "yt:video:rpteqaeCovY"
+    "yt:video:TbI82nDq-7k"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
     "yt:video:EyYlXCb9aXc",
