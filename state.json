@@ -1527,6 +1527,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260303-gigazine-manga/",
     "https://gigazine.net/news/20260303-italy-introducing-cloud-tax/",
     "https://gigazine.net/news/20260302-supabase-india-down/",
     "https://gigazine.net/news/20260302-headline/",
@@ -1575,8 +1576,7 @@
     "https://gigazine.net/news/20260227-claude-code-chooses-tool/",
     "https://gigazine.net/news/20260227-headline/",
     "https://gigazine.net/news/20260227-github-spam-mail/",
-    "https://gigazine.net/news/20260227-burgerking-salsa-avocado-whopper/",
-    "https://gigazine.net/news/20260227-china-chatgpt-challenge/"
+    "https://gigazine.net/news/20260227-burgerking-salsa-avocado-whopper/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=206229",
@@ -2198,6 +2198,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2028477787791876534",
+    "2028487523010564298",
+    "2028095875244036458",
+    "2028453253609087314",
     "2028438044668534891",
     "2028428721657635071",
     "2028428637666754643",
@@ -2243,13 +2247,10 @@
     "2025103634678358094",
     "2025366507438703041",
     "2025358303975669899",
-    "2025041164504867111",
-    "2025013224727609684",
-    "2024874613503853049",
-    "2024779129208610909",
-    "2024867268317102565"
+    "2025041164504867111"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2028608288187638000",
     "2028244139062722926",
     "2027881750848831585",
     "2027520118188871969",
