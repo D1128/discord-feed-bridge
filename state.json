@@ -1527,6 +1527,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260303-gigazine-user-japanese-input-software/",
+    "https://gigazine.net/news/20260303-apple-iphone-17e/",
+    "https://gigazine.net/news/20260303-anthropic-upgrades-claude-memory-attract-ai-switchers/",
+    "https://gigazine.net/news/20260303-microsoft-ban-microslop/",
     "https://gigazine.net/news/20260303-gigazine-manga/",
     "https://gigazine.net/news/20260303-italy-introducing-cloud-tax/",
     "https://gigazine.net/news/20260302-supabase-india-down/",
@@ -1572,13 +1576,10 @@
     "https://gigazine.net/news/20260228-zebra-finches-color-preferences/",
     "https://gigazine.net/news/20260227-pokemon-presents-30th-anniversary/",
     "https://gigazine.net/news/20260227-peeling-tape-sound/",
-    "https://gigazine.net/news/20260227-google-api-key-gemini/",
-    "https://gigazine.net/news/20260227-claude-code-chooses-tool/",
-    "https://gigazine.net/news/20260227-headline/",
-    "https://gigazine.net/news/20260227-github-spam-mail/",
-    "https://gigazine.net/news/20260227-burgerking-salsa-avocado-whopper/"
+    "https://gigazine.net/news/20260227-google-api-key-gemini/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=205603",
     "https://aismiley.co.jp/?post_type=ai_news&p=206229",
     "https://aismiley.co.jp/?post_type=ai_news&p=205413",
     "https://aismiley.co.jp/?post_type=ai_news&p=205087",
@@ -1627,8 +1628,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=202843",
     "https://aismiley.co.jp/?post_type=ai_news&p=204336",
     "https://aismiley.co.jp/?post_type=ai_news&p=203974",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204374",
-    "https://aismiley.co.jp/?post_type=ai_news&p=201067"
+    "https://aismiley.co.jp/?post_type=ai_news&p=204374"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185348",
