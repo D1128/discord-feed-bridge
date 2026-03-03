@@ -1528,6 +1528,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260303-headline/",
     "https://gigazine.net/news/20260303-starbucks-sweet-milk-latte/",
     "https://gigazine.net/news/20260303-steam-survey/",
     "https://gigazine.net/news/20260303-age-verification-os/",
@@ -1576,8 +1577,7 @@
     "https://gigazine.net/news/20260301-claude-ads/",
     "https://gigazine.net/news/20260301-image-toolbox/",
     "https://gigazine.net/news/20260301-ai-opposing-pollution/",
-    "https://gigazine.net/news/20260301-ai-copyright-law-broken/",
-    "https://gigazine.net/news/20260301-efl-pokemon-30th-anniversary/"
+    "https://gigazine.net/news/20260301-ai-copyright-law-broken/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=206648",
@@ -1869,6 +1869,7 @@
     "yt:video:MCvICewBcI0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:KKfBPgCiEJA",
     "yt:video:jgwXFYynHCY",
     "yt:video:Asuw6jHVcSs",
     "yt:video:LhRTXwoHj4c",
@@ -1917,8 +1918,7 @@
     "yt:video:MytMF9c6RCw",
     "yt:video:IP9QunJhzWQ",
     "yt:video:cY37m3FmMIk",
-    "yt:video:AuDfipvIwhA",
-    "yt:video:BZmqCMexHRg"
+    "yt:video:AuDfipvIwhA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:P_WSPSfFw0k",
@@ -2199,6 +2199,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2028665652094144801",
+    "2028761747071594898",
+    "2028761298071388198",
     "2028672461504761860",
     "2028477787791876534",
     "2028487523010564298",
@@ -2245,10 +2248,7 @@
     "2025224613131845778",
     "2025908050834698433",
     "2025692090500562946",
-    "2025392299447123982",
-    "2025103634678358094",
-    "2025366507438703041",
-    "2025358303975669899"
+    "2025392299447123982"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2028608288187638000",
