@@ -1527,6 +1527,15 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260303-apple-ipad-air-m4/",
+    "https://gigazine.net/news/20260303-motorola-partnership-grapheneos/",
+    "https://gigazine.net/news/20260303-x-paid-partnership-labels/",
+    "https://gigazine.net/news/20260303-qualcomm-snapdragon-wear-elite/",
+    "https://gigazine.net/news/20260303-oatmeal-diet-cut-cholesterol-levels/",
+    "https://gigazine.net/news/20260303-qwen-3-5-small/",
+    "https://gigazine.net/news/20260303-dji-hacked/",
+    "https://gigazine.net/news/20260303-aws-drone-strikes-uae-bahrain-facilities/",
+    "https://gigazine.net/news/20260303-qualcomm-fastconnect-8800-wi-fi-bluetooth-6g/",
     "https://gigazine.net/news/20260303-gigazine-user-japanese-input-software/",
     "https://gigazine.net/news/20260303-apple-iphone-17e/",
     "https://gigazine.net/news/20260303-anthropic-upgrades-claude-memory-attract-ai-switchers/",
@@ -1567,16 +1576,7 @@
     "https://gigazine.net/news/20260301-berlin-wall-divided-couples/",
     "https://gigazine.net/news/20260228-comentario/",
     "https://gigazine.net/news/20260228-amaze-file-manager/",
-    "https://gigazine.net/news/20260228-small-tweaks-meaning-life/",
-    "https://gigazine.net/news/20260228-atm-jackpotting-in-us/",
-    "https://gigazine.net/news/20260228-israel-us-attacking-iran/",
-    "https://gigazine.net/news/20260228-openai-fires-employee-confidential-info-prediction-markets/",
-    "https://gigazine.net/news/20260228-maid-huwahuwa/",
-    "https://gigazine.net/news/20260228-play-reduces-stress-and-lifts-wellbeing/",
-    "https://gigazine.net/news/20260228-zebra-finches-color-preferences/",
-    "https://gigazine.net/news/20260227-pokemon-presents-30th-anniversary/",
-    "https://gigazine.net/news/20260227-peeling-tape-sound/",
-    "https://gigazine.net/news/20260227-google-api-key-gemini/"
+    "https://gigazine.net/news/20260228-small-tweaks-meaning-life/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=205603",
@@ -1631,6 +1631,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=204374"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185345",
     "https://win-tab.net/?p=185348",
     "https://win-tab.net/?p=185328",
     "https://win-tab.net/?p=185309",
@@ -1679,8 +1680,7 @@
     "https://win-tab.net/?p=184759",
     "https://win-tab.net/?p=184719",
     "https://win-tab.net/?p=184575",
-    "https://win-tab.net/?p=184706",
-    "https://win-tab.net/?p=184695"
+    "https://win-tab.net/?p=184706"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:RGgY9Bk-cD8",
@@ -1972,6 +1972,7 @@
     "yt:video:YrkScmDpadw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=256935",
     "https://garumax.com/?p=256993",
     "https://garumax.com/?p=256958",
     "https://garumax.com/?p=256934",
@@ -2020,8 +2021,7 @@
     "https://garumax.com/?p=255647",
     "https://garumax.com/?p=255629",
     "https://garumax.com/?p=255315",
-    "https://garumax.com/?p=255605",
-    "https://garumax.com/?p=255616"
+    "https://garumax.com/?p=255605"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/giveaway-photoshop-book",
@@ -2198,6 +2198,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2028672461504761860",
     "2028477787791876534",
     "2028487523010564298",
     "2028095875244036458",
@@ -2246,8 +2247,7 @@
     "2025392299447123982",
     "2025103634678358094",
     "2025366507438703041",
-    "2025358303975669899",
-    "2025041164504867111"
+    "2025358303975669899"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2028608288187638000",
