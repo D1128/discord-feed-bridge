@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2090523.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2090537.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2090548.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2090525.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2090455.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2090513.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2089958.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2089482.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2089902.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2089893.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2089638.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2089783.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2089700.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2089893.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/bilingualtube/",
@@ -96,6 +96,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=91603",
     "https://butsuyoku-gadget.com/?p=91591",
     "https://butsuyoku-gadget.com/?p=91585",
     "https://butsuyoku-gadget.com/?p=91581",
@@ -144,8 +145,7 @@
     "https://butsuyoku-gadget.com/?p=91183",
     "https://butsuyoku-gadget.com/?p=91179",
     "https://butsuyoku-gadget.com/?p=91172",
-    "https://butsuyoku-gadget.com/?p=91166",
-    "https://butsuyoku-gadget.com/?p=91161"
+    "https://butsuyoku-gadget.com/?p=91166"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137264",
