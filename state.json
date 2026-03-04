@@ -1533,6 +1533,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260304-degoogled-ungoogled-smartphone-os-e/",
     "https://gigazine.net/news/20260304-coruna-hacking-tool/",
     "https://gigazine.net/news/20260304-samuel-brannan/",
     "https://gigazine.net/news/20260304-headline/",
@@ -1581,8 +1582,7 @@
     "https://gigazine.net/news/20260302-supabase-india-down/",
     "https://gigazine.net/news/20260302-headline/",
     "https://gigazine.net/news/20260302-airsnitch-wifi-network-attack/",
-    "https://gigazine.net/news/20260302-tax-service-reveals-seed-phrase-in-press-release/",
-    "https://gigazine.net/news/20260302-nissin-ufo-extreme/"
+    "https://gigazine.net/news/20260302-tax-service-reveals-seed-phrase-in-press-release/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=206273",
@@ -1728,6 +1728,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:QfSKU8fZEpI",
     "yt:video:LCe73CJFRsE",
     "yt:video:uw0VkiOnOBE",
     "yt:video:85sXMYsBnB0",
@@ -1776,8 +1777,7 @@
     "yt:video:DLdmJagInuo",
     "yt:video:Z2WEXIZnaxw",
     "yt:video:yAm0qtxwcS4",
-    "yt:video:eTyiF5J7pMM",
-    "yt:video:4T0QOWWJkQs"
+    "yt:video:eTyiF5J7pMM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:2qZfj0hAPro",
@@ -2208,6 +2208,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2029165160619794673",
     "2029145408006689013",
     "2029145343968125034",
     "2029119668397474048",
@@ -2256,8 +2257,7 @@
     "2026914425400381920",
     "2026826305271115882",
     "2026796091212181532",
-    "2026573436043276644",
-    "2026401185566249104"
+    "2026573436043276644"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2028968914609185141",
