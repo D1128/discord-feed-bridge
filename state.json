@@ -1531,6 +1531,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260304-headline/",
     "https://gigazine.net/news/20260304-starbucks-coffee-craft/",
     "https://gigazine.net/news/20260304-android-extend-display/",
     "https://gigazine.net/news/20260304-iranians-evade-internet-blackout/",
@@ -1579,8 +1580,7 @@
     "https://gigazine.net/news/20260302-tax-service-reveals-seed-phrase-in-press-release/",
     "https://gigazine.net/news/20260302-nissin-ufo-extreme/",
     "https://gigazine.net/news/20260302-copaw-personal-ai-assistant-open-source/",
-    "https://gigazine.net/news/20260302-ai-detection-fake/",
-    "https://gigazine.net/news/20260302-pentagon-anthropic-defense-dept/"
+    "https://gigazine.net/news/20260302-ai-detection-fake/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=206273",
@@ -2206,6 +2206,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2029123664814514265",
+    "2029123357703274583",
     "2028892102722285666",
     "2028928658740797808",
     "2028846397425115381",
@@ -2253,9 +2255,7 @@
     "2026401185566249104",
     "2026572475086286854",
     "2026433466095776259",
-    "2026299723355971706",
-    "2026219611361079634",
-    "2026251271506657538"
+    "2026299723355971706"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2028968914609185141",
