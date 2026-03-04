@@ -579,6 +579,7 @@
     "https://bocek.co.jp/media/?p=13384"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=301084",
     "https://tabkul.com/?p=301069",
     "https://tabkul.com/?p=301073",
     "https://tabkul.com/?p=301077",
@@ -627,8 +628,7 @@
     "https://tabkul.com/?p=300954",
     "https://tabkul.com/?p=300950",
     "https://tabkul.com/?p=300952",
-    "https://tabkul.com/?p=300948",
-    "https://tabkul.com/?p=300944"
+    "https://tabkul.com/?p=300948"
   ],
   "https://chinadap.jp/feed": [
     "https://chinadap.jp/?p=34534",
@@ -2349,6 +2349,8 @@
     "2022506822045925618"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2028480256366248094",
+    "2028822169095135308",
     "2028986434699575579",
     "2028989595086639517",
     "2028812217207165069",
@@ -2396,9 +2398,7 @@
     "2026140180407795848",
     "2026280959033921957",
     "2026250904010449247",
-    "2026223689596039430",
-    "2026224811635355945",
-    "2026229095474880517"
+    "2026223689596039430"
   ],
   "https://nitter.net/chibimana/rss": [
     "2022460279850971574",
