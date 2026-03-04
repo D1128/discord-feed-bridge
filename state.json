@@ -1530,6 +1530,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260304-apple-m5-pro-max-macbook-pro/",
+    "https://gigazine.net/news/20260304-windows-12-rumor/",
+    "https://gigazine.net/news/20260304-gpt-5-3-instant/",
+    "https://gigazine.net/news/20260304-gemini-3-1-flash-lite/",
+    "https://gigazine.net/news/20260304-superagers-secret-growth-new-brain-cells/",
+    "https://gigazine.net/news/20260304-studio-display-xdr/",
+    "https://gigazine.net/news/20260304-chrome-two-week-release/",
     "https://gigazine.net/news/20260304-downdetector-speedtest-sold-accenture/",
     "https://gigazine.net/news/20260304-apple-m5-macbook-air/",
     "https://gigazine.net/news/20260304-chinas-army-wants-weaponize-ai/",
@@ -1572,14 +1579,7 @@
     "https://gigazine.net/news/20260302-openai-softbank-nvidia-amazon-funding/",
     "https://gigazine.net/news/20260302-openai-cancel-move/",
     "https://gigazine.net/news/20260302-pete-hegseth-anthropic-supply-chain-risk/",
-    "https://gigazine.net/news/20260302-openai-dow-agreement/",
-    "https://gigazine.net/news/20260302-polymarket-iran-bets-529-million/",
-    "https://gigazine.net/news/20260302-israel-hacked-popular-iranian-prayer-app/",
-    "https://gigazine.net/news/20260302-openai-safety-protocols/",
-    "https://gigazine.net/news/20260302-anthropic-claude-iran-strikes/",
-    "https://gigazine.net/news/20260302-anthropic-claude-app-store-ranking/",
-    "https://gigazine.net/news/20260302-myrient-end/",
-    "https://gigazine.net/news/20260302-wordpress-transparency-report/"
+    "https://gigazine.net/news/20260302-openai-dow-agreement/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=206273",
@@ -1634,6 +1634,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=202843"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185215",
     "https://win-tab.net/?p=185369",
     "https://win-tab.net/?p=185345",
     "https://win-tab.net/?p=185348",
@@ -1682,8 +1683,7 @@
     "https://win-tab.net/?p=184782",
     "https://win-tab.net/?p=184732",
     "https://win-tab.net/?p=184759",
-    "https://win-tab.net/?p=184719",
-    "https://win-tab.net/?p=184575"
+    "https://win-tab.net/?p=184719"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:_o46ilA2KOw",
@@ -1977,6 +1977,9 @@
     "yt:video:BDbtGWcLYuw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=256393",
+    "https://garumax.com/?p=257099",
+    "https://garumax.com/?p=257124",
     "https://garumax.com/?p=257094",
     "https://garumax.com/?p=257017",
     "https://garumax.com/?p=257078",
@@ -2023,12 +2026,10 @@
     "https://garumax.com/?p=255914",
     "https://garumax.com/?p=255882",
     "https://garumax.com/?p=255785",
-    "https://garumax.com/?p=255870",
-    "https://garumax.com/?p=255794",
-    "https://garumax.com/?p=254655",
-    "https://garumax.com/?p=255768"
+    "https://garumax.com/?p=255870"
   ],
   "https://www.webcreatorbox.com/feed/": [
+    "https://www.webcreatorbox.com//blog/buy-me-a-coffee",
     "https://www.webcreatorbox.com//blog/giveaway-photoshop-book",
     "https://www.webcreatorbox.com//blog/fujihill-pace",
     "https://www.webcreatorbox.com//blog/slidevars",
@@ -2204,6 +2205,11 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2028892102722285666",
+    "2028928658740797808",
+    "2028846397425115381",
+    "2028830713311871472",
+    "2028978488393515110",
     "2028825096757166576",
     "2028822169095135308",
     "2028480256366248094",
@@ -2248,12 +2254,7 @@
     "2026433466095776259",
     "2026299723355971706",
     "2026219611361079634",
-    "2026251271506657538",
-    "2026229095474880517",
-    "2026124310545563718",
-    "2026119613457846286",
-    "2025948913438736653",
-    "2025588398896095395"
+    "2026251271506657538"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2028968914609185141",
