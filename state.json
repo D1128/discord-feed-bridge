@@ -1535,6 +1535,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260305-headline/",
     "https://gigazine.net/news/20260305-hokkahokka-tei-kro-karaage/",
     "https://gigazine.net/news/20260305-hokkahokka-tei-tori-kurozu/",
     "https://gigazine.net/news/20260305-polymarket-shelves-nuclear-detonation-markets/",
@@ -1583,10 +1584,14 @@
     "https://gigazine.net/news/20260303-age-verification-os/",
     "https://gigazine.net/news/20260303-openai-ceo-ai-surveillance/",
     "https://gigazine.net/news/20260303-meta-smart-glasses-data-privacy/",
-    "https://gigazine.net/news/20260303-app-alerts-nearby-smart-glasses/",
-    "https://gigazine.net/news/20260303-apple-ipad-air-m4/"
+    "https://gigazine.net/news/20260303-app-alerts-nearby-smart-glasses/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=206309",
+    "https://aismiley.co.jp/?post_type=ai_news&p=206977",
+    "https://aismiley.co.jp/?post_type=ai_news&p=206889",
+    "https://aismiley.co.jp/?post_type=ai_news&p=207005",
+    "https://aismiley.co.jp/?post_type=ai_news&p=206915",
     "https://aismiley.co.jp/?post_type=ai_news&p=207058",
     "https://aismiley.co.jp/?post_type=ai_news&p=205426",
     "https://aismiley.co.jp/?post_type=ai_news&p=207023",
@@ -1631,12 +1636,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=204816",
     "https://aismiley.co.jp/?post_type=ai_news&p=204143",
     "https://aismiley.co.jp/?post_type=ai_news&p=204947",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204684",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204929",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203397",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204259",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204472",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204722"
+    "https://aismiley.co.jp/?post_type=ai_news&p=204684"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185414",
@@ -1878,6 +1878,7 @@
     "yt:video:-oVz7E0cyBM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:UUDA0KhUxZE",
     "yt:video:KKfBPgCiEJA",
     "yt:video:jgwXFYynHCY",
     "yt:video:Asuw6jHVcSs",
@@ -1926,8 +1927,7 @@
     "yt:video:4W0Xuy7j_44",
     "yt:video:MytMF9c6RCw",
     "yt:video:IP9QunJhzWQ",
-    "yt:video:cY37m3FmMIk",
-    "yt:video:AuDfipvIwhA"
+    "yt:video:cY37m3FmMIk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:JzMsgVa-xVM",
@@ -2211,6 +2211,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2029488434059133049",
+    "2029489027355988289",
     "2029436939695472651",
     "2029199059412713581",
     "2029202729244229756",
@@ -2258,9 +2260,7 @@
     "2027032345711395116",
     "2026673259455148267",
     "2026613955670777888",
-    "2026960030734643308",
-    "2026960120522162453",
-    "2026914425400381920"
+    "2026960030734643308"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2029331302302835035",
