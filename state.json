@@ -1536,6 +1536,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260305-j-steamdb-by-kenbo/",
     "https://gigazine.net/news/20260305-gpt-ai-new-result-quantum-gravity/",
     "https://gigazine.net/news/20260305-headline/",
     "https://gigazine.net/news/20260305-hokkahokka-tei-kro-karaage/",
@@ -1584,8 +1585,7 @@
     "https://gigazine.net/news/20260303-starbucks-sweet-milk-latte/",
     "https://gigazine.net/news/20260303-steam-survey/",
     "https://gigazine.net/news/20260303-age-verification-os/",
-    "https://gigazine.net/news/20260303-openai-ceo-ai-surveillance/",
-    "https://gigazine.net/news/20260303-meta-smart-glasses-data-privacy/"
+    "https://gigazine.net/news/20260303-openai-ceo-ai-surveillance/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=206309",
@@ -2212,6 +2212,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2029513011510341782",
+    "2029513092519051739",
     "2029481727819989289",
     "2029408232092123183",
     "2029350484402946335",
@@ -2259,9 +2261,7 @@
     "2027718666738098439",
     "2027718735818272954",
     "2027586648360554917",
-    "2027342310065770775",
-    "2027342452902998242",
-    "2027032345711395116"
+    "2027342310065770775"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2029331302302835035",
