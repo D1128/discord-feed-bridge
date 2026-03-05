@@ -1534,6 +1534,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260305-apple-macbook-neo/",
     "https://gigazine.net/news/20260305-honor-robot-phone-launch-2026/",
     "https://gigazine.net/news/20260305-ai-roman-era-board-game/",
     "https://gigazine.net/news/20260305-binge-watching-marathon-reading-rii/",
@@ -1582,10 +1583,12 @@
     "https://gigazine.net/news/20260303-gigazine-user-japanese-input-software/",
     "https://gigazine.net/news/20260303-apple-iphone-17e/",
     "https://gigazine.net/news/20260303-anthropic-upgrades-claude-memory-attract-ai-switchers/",
-    "https://gigazine.net/news/20260303-microsoft-ban-microslop/",
-    "https://gigazine.net/news/20260303-gigazine-manga/"
+    "https://gigazine.net/news/20260303-microsoft-ban-microslop/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=206617",
+    "https://aismiley.co.jp/?post_type=ai_news&p=206729",
+    "https://aismiley.co.jp/?post_type=ai_news&p=206927",
     "https://aismiley.co.jp/?post_type=ai_news&p=206273",
     "https://aismiley.co.jp/?post_type=ai_news&p=206870",
     "https://aismiley.co.jp/?post_type=ai_news&p=206648",
@@ -1632,10 +1635,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=204722",
     "https://aismiley.co.jp/?post_type=ai_news&p=204734",
     "https://aismiley.co.jp/?post_type=ai_news&p=204882",
-    "https://aismiley.co.jp/?post_type=ai_news&p=202026",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203796",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204359",
-    "https://aismiley.co.jp/?post_type=ai_news&p=202843"
+    "https://aismiley.co.jp/?post_type=ai_news&p=202026"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185390",
@@ -1981,6 +1981,7 @@
     "yt:video:GTM6UlFJFV8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=257215",
     "https://garumax.com/?p=257183",
     "https://garumax.com/?p=256393",
     "https://garumax.com/?p=257099",
@@ -2029,8 +2030,7 @@
     "https://garumax.com/?p=255980",
     "https://garumax.com/?p=255967",
     "https://garumax.com/?p=255914",
-    "https://garumax.com/?p=255882",
-    "https://garumax.com/?p=255785"
+    "https://garumax.com/?p=255882"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/buy-me-a-coffee",
