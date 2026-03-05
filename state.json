@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2090696.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/gyokai/2090639.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2090666.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2090577.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2090008.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2090025.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2089922.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2089925.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2089928.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2089925.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/bilingualtube/",
@@ -200,6 +200,8 @@
     "https://telektlist.com/?p=136679"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23538",
+    "https://codezine.jp/article/detail/23541",
     "https://codezine.jp/article/detail/23539",
     "https://codezine.jp/article/detail/23529",
     "https://codezine.jp/article/detail/23530",
@@ -247,9 +249,7 @@
     "https://codezine.jp/article/detail/23492",
     "https://codezine.jp/article/detail/23491",
     "https://codezine.jp/article/detail/23490",
-    "https://codezine.jp/article/detail/23390",
-    "https://codezine.jp/article/detail/23465",
-    "https://codezine.jp/article/detail/23486"
+    "https://codezine.jp/article/detail/23390"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -365,6 +365,7 @@
     "yt:video:6GS-1j0tLrY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:ZJJsgJCyh-w",
     "yt:video:FsWMhGH8ID8",
     "yt:video:0LRtWpZtrgY",
     "yt:video:z0AG3l3B51k",
@@ -413,8 +414,7 @@
     "yt:video:9xRvsdTZ6ko",
     "yt:video:kf1yyY-RYO0",
     "yt:video:KXAH-rr4XGI",
-    "yt:video:NEXHjtDJX-k",
-    "yt:video:vbvxep4_5ow"
+    "yt:video:NEXHjtDJX-k"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:1htAlQrAEcQ",
@@ -2588,6 +2588,7 @@
     "2028605062596235277"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2029351141449056675",
     "2028880058572783992",
     "2028644661884330380",
     "2028699311794757841",
@@ -2636,8 +2637,7 @@
     "2021160036865802718",
     "2018130250899783982",
     "2018503400774918607",
-    "2019195283020869779",
-    "2020724372168937934"
+    "2019195283020869779"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2028480256366248094",
