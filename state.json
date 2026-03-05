@@ -1534,6 +1534,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260305-google-epic-settlement/",
+    "https://gigazine.net/news/20260305-how-to-live-long-ancients/",
+    "https://gigazine.net/news/20260305-self-flow/",
+    "https://gigazine.net/news/20260305-google-gemini-sent-man-on-violent-missions/",
+    "https://gigazine.net/news/20260305-sony-playstation-strategy/",
+    "https://gigazine.net/news/20260305-universal-vaccine-with-nasal-spray/",
+    "https://gigazine.net/news/20260305-anthropic-ceo-openais-messaging-lies/",
     "https://gigazine.net/news/20260305-apple-macbook-neo/",
     "https://gigazine.net/news/20260305-honor-robot-phone-launch-2026/",
     "https://gigazine.net/news/20260305-ai-roman-era-board-game/",
@@ -1576,16 +1583,10 @@
     "https://gigazine.net/news/20260303-x-paid-partnership-labels/",
     "https://gigazine.net/news/20260303-qualcomm-snapdragon-wear-elite/",
     "https://gigazine.net/news/20260303-oatmeal-diet-cut-cholesterol-levels/",
-    "https://gigazine.net/news/20260303-qwen-3-5-small/",
-    "https://gigazine.net/news/20260303-dji-hacked/",
-    "https://gigazine.net/news/20260303-aws-drone-strikes-uae-bahrain-facilities/",
-    "https://gigazine.net/news/20260303-qualcomm-fastconnect-8800-wi-fi-bluetooth-6g/",
-    "https://gigazine.net/news/20260303-gigazine-user-japanese-input-software/",
-    "https://gigazine.net/news/20260303-apple-iphone-17e/",
-    "https://gigazine.net/news/20260303-anthropic-upgrades-claude-memory-attract-ai-switchers/",
-    "https://gigazine.net/news/20260303-microsoft-ban-microslop/"
+    "https://gigazine.net/news/20260303-qwen-3-5-small/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=207023",
     "https://aismiley.co.jp/?post_type=ai_news&p=206617",
     "https://aismiley.co.jp/?post_type=ai_news&p=206729",
     "https://aismiley.co.jp/?post_type=ai_news&p=206927",
@@ -1634,10 +1635,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=204472",
     "https://aismiley.co.jp/?post_type=ai_news&p=204722",
     "https://aismiley.co.jp/?post_type=ai_news&p=204734",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204882",
-    "https://aismiley.co.jp/?post_type=ai_news&p=202026"
+    "https://aismiley.co.jp/?post_type=ai_news&p=204882"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185397",
     "https://win-tab.net/?p=185390",
     "https://win-tab.net/?p=185215",
     "https://win-tab.net/?p=185369",
@@ -1686,8 +1687,7 @@
     "https://win-tab.net/?p=184506",
     "https://win-tab.net/?p=184790",
     "https://win-tab.net/?p=184782",
-    "https://win-tab.net/?p=184732",
-    "https://win-tab.net/?p=184759"
+    "https://win-tab.net/?p=184732"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:_o46ilA2KOw",
@@ -1981,6 +1981,8 @@
     "yt:video:GTM6UlFJFV8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=257235",
+    "https://garumax.com/?p=257217",
     "https://garumax.com/?p=257215",
     "https://garumax.com/?p=257183",
     "https://garumax.com/?p=256393",
@@ -2028,9 +2030,7 @@
     "https://garumax.com/?p=256082",
     "https://garumax.com/?p=255273",
     "https://garumax.com/?p=255980",
-    "https://garumax.com/?p=255967",
-    "https://garumax.com/?p=255914",
-    "https://garumax.com/?p=255882"
+    "https://garumax.com/?p=255967"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/buy-me-a-coffee",
@@ -2129,6 +2129,9 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2029397906822971413",
+    "2029399452130459782",
+    "2029401838538334231",
     "2028794373576724990",
     "2028732173218619666",
     "2028729413068808390",
@@ -2175,10 +2178,7 @@
     "2027305950110167463",
     "2027305965230731508",
     "2027305980233658499",
-    "2027254254734602242",
-    "2027254267086876851",
-    "2027058893327851931",
-    "2027026178918457777"
+    "2027254254734602242"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2029338601205711285",
