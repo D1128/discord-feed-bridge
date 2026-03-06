@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2091058.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091067.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/review/2090699.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2090901.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2090953.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2090279.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2090285.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2090294.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2090297.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/ebook/2090223.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/keyboard-relay/2089979.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2090297.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/bilingualtube/",
@@ -200,6 +200,9 @@
     "https://telektlist.com/?p=136679"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23560",
+    "https://codezine.jp/article/detail/23551",
+    "https://codezine.jp/article/detail/23550",
     "https://codezine.jp/article/detail/23559",
     "https://codezine.jp/article/detail/23554",
     "https://codezine.jp/article/detail/23549",
@@ -246,10 +249,7 @@
     "https://codezine.jp/article/detail/23504",
     "https://codezine.jp/article/detail/23497",
     "https://codezine.jp/article/detail/23509",
-    "https://codezine.jp/article/detail/23502",
-    "https://codezine.jp/article/detail/23503",
-    "https://codezine.jp/article/detail/23483",
-    "https://codezine.jp/article/detail/23498"
+    "https://codezine.jp/article/detail/23502"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
