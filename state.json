@@ -1588,6 +1588,9 @@
     "https://gigazine.net/news/20260304-x-suspend-creators-fail-label-ai-generated-war-content/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=207174",
+    "https://aismiley.co.jp/?post_type=ai_news&p=207165",
+    "https://aismiley.co.jp/?post_type=ai_news&p=207060",
     "https://aismiley.co.jp/?post_type=ai_news&p=205155",
     "https://aismiley.co.jp/?post_type=ai_news&p=205433",
     "https://aismiley.co.jp/?post_type=ai_news&p=206424",
@@ -1634,10 +1637,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=205498",
     "https://aismiley.co.jp/?post_type=ai_news&p=204927",
     "https://aismiley.co.jp/?post_type=ai_news&p=205033",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204919",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205006",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204405",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204816"
+    "https://aismiley.co.jp/?post_type=ai_news&p=204919"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185434",
@@ -1880,6 +1880,7 @@
     "yt:video:-oVz7E0cyBM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:dC1pfFRfOH0",
     "yt:video:UUDA0KhUxZE",
     "yt:video:KKfBPgCiEJA",
     "yt:video:jgwXFYynHCY",
@@ -1928,8 +1929,7 @@
     "yt:video:GLg1EY3yZas",
     "yt:video:4W0Xuy7j_44",
     "yt:video:MytMF9c6RCw",
-    "yt:video:IP9QunJhzWQ",
-    "yt:video:cY37m3FmMIk"
+    "yt:video:IP9QunJhzWQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:xO_sI-pzGHM",
