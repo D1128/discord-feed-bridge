@@ -200,6 +200,9 @@
     "https://telektlist.com/?p=136679"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23565",
+    "https://codezine.jp/article/detail/23564",
+    "https://codezine.jp/article/detail/23563",
     "https://codezine.jp/article/detail/23567",
     "https://codezine.jp/article/detail/23562",
     "https://codezine.jp/article/detail/23552",
@@ -246,10 +249,7 @@
     "https://codezine.jp/article/detail/23516",
     "https://codezine.jp/article/detail/23496",
     "https://codezine.jp/article/detail/23128",
-    "https://codezine.jp/article/detail/23507",
-    "https://codezine.jp/article/detail/23511",
-    "https://codezine.jp/article/detail/23508",
-    "https://codezine.jp/article/detail/23501"
+    "https://codezine.jp/article/detail/23507"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -476,6 +476,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:ei__u4UYz0Q",
     "yt:video:I2BoRbpNin0",
     "yt:video:2EFLEd-p3Gk",
     "yt:video:ijkln8IsSCI",
@@ -524,8 +525,7 @@
     "yt:video:S40nTCa6r1U",
     "yt:video:N275p4rsrLQ",
     "yt:video:GQYW1UuFViY",
-    "yt:video:ni07ueaVplA",
-    "yt:video:AeBNmhzkpkk"
+    "yt:video:ni07ueaVplA"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=14354",
@@ -2541,6 +2541,11 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2029850420500385854",
+    "2029850482974564529",
+    "2029850560984404148",
+    "2029850612515704878",
+    "2029850688151560416",
     "2029696509894373483",
     "2029696532560367703",
     "2029696622217863563",
@@ -2585,12 +2590,7 @@
     "2029035835807682714",
     "2029035856246505723",
     "2029035972504305713",
-    "2029036035674653051",
-    "2029036637456626141",
-    "2028970265301139961",
-    "2028970417596297354",
-    "2028970438924353617",
-    "2028970492389196254"
+    "2029036035674653051"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2029555067020525674",
