@@ -528,6 +528,7 @@
     "yt:video:AeBNmhzkpkk"
   ],
   "https://bocek.co.jp/media/feed/": [
+    "https://taskhub.jp/magazine/?p=14354",
     "https://taskhub.jp/magazine/?p=14358",
     "https://taskhub.jp/magazine/?p=14347",
     "https://taskhub.jp/magazine/?p=14342",
@@ -576,8 +577,7 @@
     "https://taskhub.jp/magazine/?p=13890",
     "https://taskhub.jp/magazine/?p=13806",
     "https://taskhub.jp/magazine/?p=13860",
-    "https://taskhub.jp/magazine/?p=13792",
-    "https://taskhub.jp/magazine/?p=13778"
+    "https://taskhub.jp/magazine/?p=13792"
   ],
   "https://feeds.feedburner.com/tabkul": [
     "https://tabkul.com/?p=301099",
@@ -748,6 +748,7 @@
     "https://liginc.co.jp/?p=673200"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:IU26GHvRAzc",
     "yt:video:7DsiSx2gx4I",
     "yt:video:dwUDHmoTdvs",
     "yt:video:vqdqh7oDt1M",
@@ -796,8 +797,7 @@
     "yt:video:a_qi26E5DfU",
     "yt:video:n2FauFyxMDM",
     "yt:video:BxQJz8lwryQ",
-    "yt:video:RNxQUW5US2Y",
-    "yt:video:7dilhmnE9G8"
+    "yt:video:RNxQUW5US2Y"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:lctmjO6Gt5k",
@@ -2304,6 +2304,7 @@
     "2021794221917974753"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2029753846654808107",
     "2029485572981678291",
     "2029485577134092400",
     "2029482050215149868",
@@ -2352,10 +2353,10 @@
     "2024035050161901588",
     "2023890406816313378",
     "2023895239832776724",
-    "2023600104113140201",
-    "2023532848989565308"
+    "2023600104113140201"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "https://nitter.net/showheyohtaki/status/1997540331559207331#m",
     "2029499679277502702",
     "2029529260814418186",
     "2029484974345527647",
@@ -2404,8 +2405,7 @@
     "2027379056313065506",
     "2027561958904582633",
     "2027536863091954091",
-    "2027509045230223766",
-    "2026289834504183947"
+    "2027509045230223766"
   ],
   "https://nitter.net/chibimana/rss": [
     "2022460279850971574",
