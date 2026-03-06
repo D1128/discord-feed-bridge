@@ -1536,6 +1536,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260306-ltx-2-3-video-generation-ai/",
+    "https://gigazine.net/news/20260306-openai-gpt-5-4/",
+    "https://gigazine.net/news/20260306-notebooklm-video/",
+    "https://gigazine.net/news/20260306-microplastics-fueling-parkinsons-disease/",
+    "https://gigazine.net/news/20260306-anthropic-us-supply-chain-risk/",
+    "https://gigazine.net/news/20260306-netflix-acquired-ben-afflecks-interpositive/",
+    "https://gigazine.net/news/20260306-google-workspace-cli-gwc/",
     "https://gigazine.net/news/20260306-tiktok-dm-e2ee/",
     "https://gigazine.net/news/20260306-israel-laser-weapon/",
     "https://gigazine.net/news/20260306-orforglipron-achieve3/",
@@ -1578,16 +1585,10 @@
     "https://gigazine.net/news/20260304-gemini-3-1-flash-lite/",
     "https://gigazine.net/news/20260304-superagers-secret-growth-new-brain-cells/",
     "https://gigazine.net/news/20260304-studio-display-xdr/",
-    "https://gigazine.net/news/20260304-chrome-two-week-release/",
-    "https://gigazine.net/news/20260304-downdetector-speedtest-sold-accenture/",
-    "https://gigazine.net/news/20260304-apple-m5-macbook-air/",
-    "https://gigazine.net/news/20260304-chinas-army-wants-weaponize-ai/",
-    "https://gigazine.net/news/20260304-sugary-drinks-anxiety-teens-meta-analysis/",
-    "https://gigazine.net/news/20260303-us-supreme-court-ai-copyright/",
-    "https://gigazine.net/news/20260303-pico-project-swan/",
-    "https://gigazine.net/news/20260303-ad-supported-ai-chat-demo/"
+    "https://gigazine.net/news/20260304-chrome-two-week-release/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=205433",
     "https://aismiley.co.jp/?post_type=ai_news&p=206424",
     "https://aismiley.co.jp/?post_type=ai_news&p=206309",
     "https://aismiley.co.jp/?post_type=ai_news&p=206977",
@@ -1636,8 +1637,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=205006",
     "https://aismiley.co.jp/?post_type=ai_news&p=204405",
     "https://aismiley.co.jp/?post_type=ai_news&p=204816",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204143",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204947"
+    "https://aismiley.co.jp/?post_type=ai_news&p=204143"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185434",
@@ -2131,6 +2131,7 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2029754567068635163",
     "2029443778696888682",
     "2029443793557307458",
     "2029443808451268836",
@@ -2179,8 +2180,7 @@
     "2027668167544434968",
     "2027348797861568908",
     "2027348814315843673",
-    "2027305874629460465",
-    "2027305889661956146"
+    "2027305874629460465"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2029682615306047946",
