@@ -1933,6 +1933,7 @@
     "yt:video:IP9QunJhzWQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:KcAKLpEiHps",
     "yt:video:xO_sI-pzGHM",
     "yt:video:JzMsgVa-xVM",
     "yt:video:CP0iYwjL8OY",
@@ -1981,10 +1982,10 @@
     "yt:video:vTYkGOmkWG4",
     "yt:video:u51XMN7RG68",
     "yt:video:yt2IjlvGaSw",
-    "yt:video:-dGPYxsSZWw",
-    "yt:video:ZAbv6EFkJRk"
+    "yt:video:-dGPYxsSZWw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=257344",
     "https://garumax.com/?p=257323",
     "https://garumax.com/?p=257286",
     "https://garumax.com/?p=257269",
@@ -2033,8 +2034,7 @@
     "https://garumax.com/?p=256172",
     "https://garumax.com/?p=254751",
     "https://garumax.com/?p=256099",
-    "https://garumax.com/?p=256127",
-    "https://garumax.com/?p=256092"
+    "https://garumax.com/?p=256127"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/buy-me-a-coffee",
@@ -2185,6 +2185,9 @@
     "2027668087177417061"
   ],
   "https://nitter.net/envader_plus/rss": [
+    "2030211552041709652",
+    "2030211550099783950",
+    "2030211547469852901",
     "2029682615306047946",
     "2029338601205711285",
     "2028956556243681318",
@@ -2215,6 +2218,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2030213316157849998",
+    "2030213233223565760",
     "2029935131163857352",
     "2029910998979907727",
     "2029895078295282071",
@@ -2262,9 +2267,7 @@
     "2028228806226624573",
     "2028390273265311923",
     "2028348598535209361",
-    "2028085888522014866",
-    "2027938916964470952",
-    "2027868805628879245"
+    "2028085888522014866"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2030057085124149501",
