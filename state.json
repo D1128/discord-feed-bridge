@@ -1541,6 +1541,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260309-codex-security/",
+    "https://gigazine.net/news/20260309-robotic-surgery-in-gibraltar/",
+    "https://gigazine.net/news/20260309-uni-1-luma-ai/",
+    "https://gigazine.net/news/20260309-anthropic-supply-chain-risk/",
+    "https://gigazine.net/news/20260309-ai-digital-twins-market-research-simile/",
     "https://gigazine.net/news/20260309-apple-ultra-3-devices/",
     "https://gigazine.net/news/20260309-copyright-troll/",
     "https://gigazine.net/news/20260309-constant-sound-modern-life-minds/",
@@ -1585,14 +1590,10 @@
     "https://gigazine.net/news/20260306-notebooklm-video/",
     "https://gigazine.net/news/20260306-microplastics-fueling-parkinsons-disease/",
     "https://gigazine.net/news/20260306-anthropic-us-supply-chain-risk/",
-    "https://gigazine.net/news/20260306-netflix-acquired-ben-afflecks-interpositive/",
-    "https://gigazine.net/news/20260306-google-workspace-cli-gwc/",
-    "https://gigazine.net/news/20260306-tiktok-dm-e2ee/",
-    "https://gigazine.net/news/20260306-israel-laser-weapon/",
-    "https://gigazine.net/news/20260306-orforglipron-achieve3/",
-    "https://gigazine.net/news/20260305-practical-recommendations-stretching-exercise/"
+    "https://gigazine.net/news/20260306-netflix-acquired-ben-afflecks-interpositive/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=205626",
     "https://aismiley.co.jp/?post_type=ai_news&p=206910",
     "https://aismiley.co.jp/?post_type=ai_news&p=207174",
     "https://aismiley.co.jp/?post_type=ai_news&p=207165",
@@ -1641,8 +1642,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=205207",
     "https://aismiley.co.jp/?post_type=ai_news&p=205183",
     "https://aismiley.co.jp/?post_type=ai_news&p=205498",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204927",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205033"
+    "https://aismiley.co.jp/?post_type=ai_news&p=204927"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185518",
@@ -1990,6 +1990,7 @@
     "yt:video:yt2IjlvGaSw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=255024",
     "https://garumax.com/?p=257428",
     "https://garumax.com/?p=257367",
     "https://garumax.com/?p=257369",
@@ -2038,8 +2039,7 @@
     "https://garumax.com/?p=256378",
     "https://garumax.com/?p=256211",
     "https://garumax.com/?p=256208",
-    "https://garumax.com/?p=256202",
-    "https://garumax.com/?p=256172"
+    "https://garumax.com/?p=256202"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/buy-me-a-coffee",
