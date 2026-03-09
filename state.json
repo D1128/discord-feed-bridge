@@ -1593,6 +1593,9 @@
     "https://gigazine.net/news/20260306-openai-gpt-5-4/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=206633",
+    "https://aismiley.co.jp/?post_type=ai_news&p=206698",
+    "https://aismiley.co.jp/?post_type=ai_news&p=206803",
     "https://aismiley.co.jp/?post_type=ai_news&p=205626",
     "https://aismiley.co.jp/?post_type=ai_news&p=206910",
     "https://aismiley.co.jp/?post_type=ai_news&p=207174",
@@ -1639,10 +1642,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=205079",
     "https://aismiley.co.jp/?post_type=ai_news&p=202901",
     "https://aismiley.co.jp/?post_type=ai_news&p=204890",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205207",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205183",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205498",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204927"
+    "https://aismiley.co.jp/?post_type=ai_news&p=205207"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185518",
@@ -1887,6 +1887,7 @@
     "yt:video:5hR3C9TNa98"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:-8y3iU_C1sQ",
     "yt:video:sJvvJzyiLts",
     "yt:video:dC1pfFRfOH0",
     "yt:video:UUDA0KhUxZE",
@@ -1935,8 +1936,7 @@
     "yt:video:T5ry8nlFAkg",
     "yt:video:lvNnuD0bLto",
     "yt:video:GLg1EY3yZas",
-    "yt:video:4W0Xuy7j_44",
-    "yt:video:MytMF9c6RCw"
+    "yt:video:4W0Xuy7j_44"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:iBphoA5ZeMc",
@@ -2225,6 +2225,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2030845019071054163",
     "2030501348958200029",
     "2030765521445298346",
     "2030508060570206616",
@@ -2273,8 +2274,7 @@
     "2028438044668534891",
     "2028428721657635071",
     "2028428637666754643",
-    "2028400588103561266",
-    "2028400810829180949"
+    "2028400588103561266"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2030780611137273890",
