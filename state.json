@@ -200,6 +200,9 @@
     "https://telektlist.com/?p=136702"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23593",
+    "https://codezine.jp/article/detail/23592",
+    "https://codezine.jp/article/detail/23591",
     "https://codezine.jp/article/detail/23599",
     "https://codezine.jp/article/detail/23586",
     "https://codezine.jp/article/detail/23577",
@@ -246,10 +249,7 @@
     "https://codezine.jp/article/detail/23352",
     "https://codezine.jp/article/detail/23538",
     "https://codezine.jp/article/detail/23541",
-    "https://codezine.jp/article/detail/23539",
-    "https://codezine.jp/article/detail/23529",
-    "https://codezine.jp/article/detail/23530",
-    "https://codezine.jp/article/detail/23528"
+    "https://codezine.jp/article/detail/23539"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -478,6 +478,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:Kw0AFsDUnF4",
     "yt:video:ei__u4UYz0Q",
     "yt:video:I2BoRbpNin0",
     "yt:video:2EFLEd-p3Gk",
@@ -526,8 +527,7 @@
     "yt:video:HQ0LPvUQGZs",
     "yt:video:S40nTCa6r1U",
     "yt:video:N275p4rsrLQ",
-    "yt:video:GQYW1UuFViY",
-    "yt:video:ni07ueaVplA"
+    "yt:video:GQYW1UuFViY"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=14373",
