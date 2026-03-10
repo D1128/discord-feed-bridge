@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2091981.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2091995.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2092017.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2092027.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2091918.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2091948.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2091489.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2091086.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091096.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2091108.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2091058.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091067.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/review/2090699.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2090901.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2090953.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2091058.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/bilingualtube/",
@@ -2558,6 +2558,9 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2031221488179954148",
+    "2031221552801526255",
+    "2031221576373514511",
     "2031144815426154953",
     "2031144863132180812",
     "2031144926260719713",
@@ -2604,10 +2607,7 @@
     "2029877221792567715",
     "2029877261940445349",
     "2029877311164784986",
-    "2029877461543178446",
-    "2029877506787168530",
-    "2029877547069231236",
-    "2029850420500385854"
+    "2029877461543178446"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2031011374227509427",
