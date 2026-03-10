@@ -1542,6 +1542,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260310-sukiya-horohoro-chiken-curry/",
     "https://gigazine.net/news/20260310-tencent-workbuddy/",
     "https://gigazine.net/news/20260310-legal-legitimate/",
     "https://gigazine.net/news/20260310-china-openclaw-movement/",
@@ -1590,8 +1591,7 @@
     "https://gigazine.net/news/20260308-wiki-gacha/",
     "https://gigazine.net/news/20260308-vulnerability-disclosure-lawyer-threat/",
     "https://gigazine.net/news/20260308-paid-time-off-employee-retention/",
-    "https://gigazine.net/news/20260308-eva-30th-anniversary-special-screening-youtube/",
-    "https://gigazine.net/news/20260307-commentoplusplus/"
+    "https://gigazine.net/news/20260308-eva-30th-anniversary-special-screening-youtube/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=207322",
@@ -2226,6 +2226,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2031278193970151740",
+    "2030867263889580188",
     "2030946697040498863",
     "2030845019071054163",
     "2030501348958200029",
@@ -2273,9 +2275,7 @@
     "2028487523010564298",
     "2028095875244036458",
     "2028453253609087314",
-    "2028438044668534891",
-    "2028428721657635071",
-    "2028428637666754643"
+    "2028438044668534891"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2031144499762835620",
