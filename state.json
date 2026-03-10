@@ -1542,6 +1542,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260310-headline/",
     "https://gigazine.net/news/20260310-sukiya-horohoro-chiken-curry/",
     "https://gigazine.net/news/20260310-tencent-workbuddy/",
     "https://gigazine.net/news/20260310-legal-legitimate/",
@@ -1590,10 +1591,11 @@
     "https://gigazine.net/news/20260308-fewer-people-related-to-genghis-khan/",
     "https://gigazine.net/news/20260308-wiki-gacha/",
     "https://gigazine.net/news/20260308-vulnerability-disclosure-lawyer-threat/",
-    "https://gigazine.net/news/20260308-paid-time-off-employee-retention/",
-    "https://gigazine.net/news/20260308-eva-30th-anniversary-special-screening-youtube/"
+    "https://gigazine.net/news/20260308-paid-time-off-employee-retention/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=207275",
+    "https://aismiley.co.jp/?post_type=ai_news&p=207381",
     "https://aismiley.co.jp/?post_type=ai_news&p=207322",
     "https://aismiley.co.jp/?post_type=ai_news&p=205417",
     "https://aismiley.co.jp/?post_type=ai_news&p=206413",
@@ -1641,9 +1643,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=204681",
     "https://aismiley.co.jp/?post_type=ai_news&p=205384",
     "https://aismiley.co.jp/?post_type=ai_news&p=205388",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205747",
-    "https://aismiley.co.jp/?post_type=ai_news&p=203578",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205079"
+    "https://aismiley.co.jp/?post_type=ai_news&p=205747"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185545",
@@ -2226,6 +2226,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2031286265270952212",
     "2031278193970151740",
     "2030867263889580188",
     "2030946697040498863",
@@ -2274,8 +2275,7 @@
     "2028477787791876534",
     "2028487523010564298",
     "2028095875244036458",
-    "2028453253609087314",
-    "2028438044668534891"
+    "2028453253609087314"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2031144499762835620",
