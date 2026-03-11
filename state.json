@@ -1544,6 +1544,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260311-headline/",
+    "https://gigazine.net/news/20260311-gabibi/",
     "https://gigazine.net/news/20260311-lightroom-classic-15-2-benchmark/",
     "https://gigazine.net/news/20260311-osaka-gesuikan/",
     "https://gigazine.net/news/20260311-yurakuseika-matcha-thunder/",
@@ -1591,9 +1593,7 @@
     "https://gigazine.net/news/20260310-afim-llm-academic-fraud/",
     "https://gigazine.net/news/20260309-significant-acceleration-of-global-warming/",
     "https://gigazine.net/news/20260309-china-memory-cost-smartphone/",
-    "https://gigazine.net/news/20260309-headline/",
-    "https://gigazine.net/news/20260309-instax-mini-evo-cinema-example/",
-    "https://gigazine.net/news/20260309-nintendo-sued-us-government-over-trump-tariffs/"
+    "https://gigazine.net/news/20260309-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=206967",
@@ -2228,6 +2228,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2031675302028722210",
+    "2031675445423587707",
+    "2031523832473989202",
+    "2031529097525080388",
     "2031119601753522413",
     "2031462490136260723",
     "2031286265270952212",
@@ -2273,11 +2277,7 @@
     "2028480256366248094",
     "2028442023574081862",
     "2028665652094144801",
-    "2028761747071594898",
-    "2028761298071388198",
-    "2028672461504761860",
-    "2028477787791876534",
-    "2028487523010564298"
+    "2028761747071594898"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2031505629630840923",
