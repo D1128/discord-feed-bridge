@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2092267.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2092270.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2087602.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2092243.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2092127.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2091394.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2091396.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091218.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2091304.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2091263.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2091194.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2091304.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/bilingualtube/",
@@ -148,6 +148,7 @@
     "https://butsuyoku-gadget.com/?p=91223"
   ],
   "https://telektlist.com/feed/": [
+    "https://telektlist.com/?p=137303",
     "https://telektlist.com/?p=137295",
     "https://telektlist.com/?p=137277",
     "https://telektlist.com/?p=137264",
@@ -196,8 +197,7 @@
     "https://telektlist.com/?p=136754",
     "https://telektlist.com/?p=136743",
     "https://telektlist.com/?p=136725",
-    "https://telektlist.com/?p=136712",
-    "https://telektlist.com/?p=136702"
+    "https://telektlist.com/?p=136712"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
     "https://codezine.jp/article/detail/23606",
@@ -2612,6 +2612,7 @@
     "2030603413223002264"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2031421162123870239",
     "2031011374227509427",
     "2030692568896524305",
     "2030109791931224242",
@@ -2660,8 +2661,7 @@
     "2023073077891158377",
     "https://nitter.net/shanegJP/status/1623004399865061376#m",
     "2023080315699519943",
-    "2023192313250619524",
-    "2023197014922863001"
+    "2023192313250619524"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2029732507042861062",
