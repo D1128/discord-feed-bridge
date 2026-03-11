@@ -1,5 +1,10 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2092278.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2092290.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2092300.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2092285.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2092309.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2092267.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2092270.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2087602.html?ref=rss",
@@ -44,12 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091444.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091437.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2091251.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/config/2091133.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/ubuntu/2091326.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2091394.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2091396.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091218.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2091304.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/config/2091133.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/bilingualtube/",
@@ -200,6 +200,11 @@
     "https://telektlist.com/?p=136712"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23607",
+    "https://codezine.jp/article/detail/23608",
+    "https://codezine.jp/article/detail/23536",
+    "https://codezine.jp/article/detail/23612",
+    "https://codezine.jp/article/detail/23609",
     "https://codezine.jp/article/detail/23606",
     "https://codezine.jp/article/detail/23600",
     "https://codezine.jp/article/detail/23598",
@@ -244,12 +249,7 @@
     "https://codezine.jp/article/detail/23561",
     "https://codezine.jp/article/detail/23560",
     "https://codezine.jp/article/detail/23551",
-    "https://codezine.jp/article/detail/23550",
-    "https://codezine.jp/article/detail/23559",
-    "https://codezine.jp/article/detail/23554",
-    "https://codezine.jp/article/detail/23549",
-    "https://codezine.jp/article/detail/23548",
-    "https://codezine.jp/article/detail/23547"
+    "https://codezine.jp/article/detail/23550"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
