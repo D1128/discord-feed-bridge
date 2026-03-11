@@ -1090,6 +1090,7 @@
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=274225",
     "https://smhn.info/?p=272619",
     "https://smhn.info/?p=274212",
     "https://smhn.info/?p=274125",
@@ -1138,8 +1139,7 @@
     "https://smhn.info/?p=271209",
     "https://smhn.info/?p=273083",
     "https://smhn.info/?p=272161",
-    "https://smhn.info/?p=272121",
-    "https://smhn.info/?p=272467"
+    "https://smhn.info/?p=272121"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=110341",
@@ -2495,6 +2495,8 @@
     "2023919912134324368"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2031603126764188166",
+    "2031603093473996996",
     "2031564135369167336",
     "2031494304800088162",
     "2031402184806641735",
@@ -2542,9 +2544,7 @@
     "2030269261416145179",
     "2030269273541849103",
     "2030269285466292491",
-    "2030269297298427984",
-    "2030269309038231825",
-    "2030269321616953836"
+    "2030269297298427984"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
