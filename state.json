@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2092721.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2092751.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2092750.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2092654.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2091831.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2092634.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2091950.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2091654.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2091826.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091760.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2091613.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2091740.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2091680.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091760.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/ocr/MiniSnip.html",
@@ -201,6 +201,7 @@
     "https://telektlist.com/?p=136712"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23628",
     "https://codezine.jp/article/detail/23611",
     "https://codezine.jp/article/detail/23614",
     "https://codezine.jp/article/detail/23616",
@@ -249,8 +250,7 @@
     "https://codezine.jp/article/detail/23573",
     "https://codezine.jp/article/detail/23568",
     "https://codezine.jp/article/detail/23579",
-    "https://codezine.jp/article/detail/23582",
-    "https://codezine.jp/article/detail/23565"
+    "https://codezine.jp/article/detail/23582"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2618,6 +2618,7 @@
     "2031371722021286157"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2031947065862054250",
     "2031421162123870239",
     "2031011374227509427",
     "2030692568896524305",
@@ -2666,8 +2667,7 @@
     "2023255098739011602",
     "2023073077891158377",
     "https://nitter.net/shanegJP/status/1623004399865061376#m",
-    "2023080315699519943",
-    "2023192313250619524"
+    "2023080315699519943"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2029732507042861062",
