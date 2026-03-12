@@ -532,6 +532,7 @@
     "yt:video:N275p4rsrLQ"
   ],
   "https://bocek.co.jp/media/feed/": [
+    "https://taskhub.jp/magazine/?p=14413",
     "https://taskhub.jp/magazine/?p=14409",
     "https://taskhub.jp/magazine/?p=14398",
     "https://taskhub.jp/magazine/?p=14392",
@@ -580,8 +581,7 @@
     "https://taskhub.jp/magazine/?p=13970",
     "https://taskhub.jp/magazine/?p=13977",
     "https://taskhub.jp/magazine/?p=13953",
-    "https://taskhub.jp/magazine/?p=13983",
-    "https://taskhub.jp/magazine/?p=13943"
+    "https://taskhub.jp/magazine/?p=13983"
   ],
   "https://feeds.feedburner.com/tabkul": [
     "https://tabkul.com/?p=301182",
@@ -2329,6 +2329,9 @@
     "2021794221917974753"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2031923196442919082",
+    "2031928164705010099",
+    "2031940012103897480",
     "2031894658784387453",
     "2031903627422679208",
     "2031876122166829215",
@@ -2375,12 +2378,10 @@
     "2027670107053244680",
     "2027609711139287499",
     "2027564412500906126",
-    "2027217133948776837",
-    "2027166068146589956",
-    "2026981444799909986",
-    "2026619776307765611"
+    "2027217133948776837"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2031566531394678957",
     "2031614797184380980",
     "2031636346884993379",
     "2031563641473093962",
@@ -2429,8 +2430,7 @@
     "2029843574188360023",
     "https://nitter.net/showheyohtaki/status/1997540331559207331#m",
     "2029499679277502702",
-    "2029529260814418186",
-    "2029484974345527647"
+    "2029529260814418186"
   ],
   "https://nitter.net/chibimana/rss": [
     "2030845512212230494",
