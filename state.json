@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2092766.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2092721.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2092751.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2092750.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/topic/special/2091489.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2091950.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2091654.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2091826.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2091760.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2091826.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/ocr/MiniSnip.html",
@@ -2566,6 +2566,16 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2031952303708852280",
+    "2031952418330800615",
+    "2031952494251929886",
+    "2031952563843850305",
+    "2031952836297441385",
+    "2031952860494381450",
+    "2031952910087868702",
+    "2031953322283053505",
+    "2031953354646344106",
+    "2031953400976589216",
     "2031884725703639102",
     "2031884694888034357",
     "2031884965873664222",
@@ -2605,19 +2615,13 @@
     "2031516147129123007",
     "2031516331150119000",
     "2031516351895138782",
-    "2031516421596000756",
-    "2031516602798412079",
-    "2031516627544727577",
-    "2031369608188542978",
-    "2031369637464781029",
-    "2031369803290816755",
-    "2031369841526059390",
-    "2031369966780629103",
-    "2031370001161269492",
-    "2031370110125166862",
-    "2031371722021286157"
+    "2031516421596000756"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2031966288869015819",
+    "2031930820370579822",
+    "2031761736232050707",
+    "2031972807295582677",
     "2031947065862054250",
     "2031421162123870239",
     "2031011374227509427",
@@ -2663,11 +2667,7 @@
     "2023732924915257820",
     "2023314805180838099",
     "2023246005727375661",
-    "2023254950873383295",
-    "2023255098739011602",
-    "2023073077891158377",
-    "https://nitter.net/shanegJP/status/1623004399865061376#m",
-    "2023080315699519943"
+    "2023254950873383295"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2029732507042861062",
