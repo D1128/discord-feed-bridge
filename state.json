@@ -1548,6 +1548,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260313-last-one-drops-from-kitchen-containers/",
     "https://gigazine.net/news/20260313-burgerking-alpha-king-one-pounder/",
     "https://gigazine.net/news/20260313-black-hole-prime-numbers/",
     "https://gigazine.net/news/20260313-nasa-asteroid-smashing-spacecraft-changed-orbit/",
@@ -1596,8 +1597,7 @@
     "https://gigazine.net/news/20260311-gabibi/",
     "https://gigazine.net/news/20260311-lightroom-classic-15-2-benchmark/",
     "https://gigazine.net/news/20260311-osaka-gesuikan/",
-    "https://gigazine.net/news/20260311-yurakuseika-matcha-thunder/",
-    "https://gigazine.net/news/20260311-tony-hoare-passed-away/"
+    "https://gigazine.net/news/20260311-yurakuseika-matcha-thunder/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=207605",
@@ -1652,6 +1652,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=204801"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185661",
     "https://win-tab.net/?p=185652",
     "https://win-tab.net/?p=185646",
     "https://win-tab.net/?p=185637",
@@ -1700,8 +1701,7 @@
     "https://win-tab.net/?p=185010",
     "https://win-tab.net/?p=184996",
     "https://win-tab.net/?p=184983",
-    "https://win-tab.net/?p=184903",
-    "https://win-tab.net/?p=184941"
+    "https://win-tab.net/?p=184903"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:xoUNufIEpAA",
@@ -1843,6 +1843,7 @@
     "yt:video:AJY9U2BYXTc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:3oXBHs-56t4",
     "yt:video:AgVbcXAfLRs",
     "yt:video:A-aUcW0GjfQ",
     "yt:video:r_ESssrpVOs",
@@ -1891,8 +1892,7 @@
     "yt:video:lCmZxHof-gg",
     "yt:video:2bueK0iRrBM",
     "yt:video:oTmDyzMCdt4",
-    "yt:video:Ba0gIaD4zqQ",
-    "yt:video:jh9iHjPBBlU"
+    "yt:video:Ba0gIaD4zqQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
     "yt:video:mnsZYb5FMvY",
@@ -2233,6 +2233,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2032396773491429516",
+    "2032397196088471621",
+    "2032386636470956462",
     "2032360647246430444",
     "2032367903727833390",
     "2031310048295792654",
@@ -2279,10 +2282,7 @@
     "2029489027355988289",
     "2029436939695472651",
     "2029199059412713581",
-    "2029202729244229756",
-    "2029165160619794673",
-    "2029145408006689013",
-    "2029145343968125034"
+    "2029202729244229756"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2032292669951787133",
