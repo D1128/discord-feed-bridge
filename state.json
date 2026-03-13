@@ -1600,6 +1600,8 @@
     "https://gigazine.net/news/20260311-tony-hoare-passed-away/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=207605",
+    "https://aismiley.co.jp/?post_type=ai_news&p=207603",
     "https://aismiley.co.jp/?post_type=ai_news&p=207394",
     "https://aismiley.co.jp/?post_type=ai_news&p=207630",
     "https://aismiley.co.jp/?post_type=ai_news&p=207854",
@@ -1647,9 +1649,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=206076",
     "https://aismiley.co.jp/?post_type=ai_news&p=206231",
     "https://aismiley.co.jp/?post_type=ai_news&p=205441",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204801",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206296",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205905"
+    "https://aismiley.co.jp/?post_type=ai_news&p=204801"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185652",
@@ -1843,6 +1843,7 @@
     "yt:video:AJY9U2BYXTc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:AgVbcXAfLRs",
     "yt:video:A-aUcW0GjfQ",
     "yt:video:r_ESssrpVOs",
     "yt:video:D1sLYPCK_Zk",
@@ -1891,8 +1892,7 @@
     "yt:video:2bueK0iRrBM",
     "yt:video:oTmDyzMCdt4",
     "yt:video:Ba0gIaD4zqQ",
-    "yt:video:jh9iHjPBBlU",
-    "yt:video:ZUOIsbPKG0s"
+    "yt:video:jh9iHjPBBlU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
     "yt:video:-xla8NqooJU",
