@@ -201,6 +201,8 @@
     "https://telektlist.com/?p=136712"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23641",
+    "https://codezine.jp/article/detail/23635",
     "https://codezine.jp/article/detail/23650",
     "https://codezine.jp/article/detail/23636",
     "https://codezine.jp/article/detail/23640",
@@ -248,9 +250,7 @@
     "https://codezine.jp/article/detail/23566",
     "https://codezine.jp/article/detail/23584",
     "https://codezine.jp/article/detail/23575",
-    "https://codezine.jp/article/detail/23570",
-    "https://codezine.jp/article/detail/23581",
-    "https://codezine.jp/article/detail/23569"
+    "https://codezine.jp/article/detail/23570"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2568,6 +2568,16 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2032244837429416094",
+    "2032245209724309965",
+    "2032245233539563667",
+    "2032245271816782158",
+    "2032245400489640316",
+    "2032245423398928423",
+    "2032245876811579548",
+    "2032246649989579158",
+    "2032246672248766745",
+    "2032246709238268137",
     "2032057256846770452",
     "2032057328577695877",
     "2032057418608513372",
@@ -2607,17 +2617,7 @@
     "2031666100396843383",
     "2031666179245527499",
     "2031666290298175965",
-    "2031666310145532057",
-    "2031666383684300995",
-    "2031666500222992580",
-    "2031666538009575673",
-    "2031666609564385783",
-    "2031656199742271493",
-    "2031656249100820667",
-    "2031656464050536471",
-    "2031656604677140598",
-    "2031577335678586935",
-    "2031577417014534645"
+    "2031666310145532057"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2032137763362127929",
