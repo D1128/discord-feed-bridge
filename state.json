@@ -1547,6 +1547,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260313-apple-marks-50-years/",
+    "https://gigazine.net/news/20260313-macbook-neo-makes-repairs-easier/",
+    "https://gigazine.net/news/20260313-google-groundsource-gemini-crisis-prediction/",
+    "https://gigazine.net/news/20260313-microsoft-copilot-health/",
+    "https://gigazine.net/news/20260313-netflix-buy-ben-affleck-ai-startup-interpositive-600-million/",
+    "https://gigazine.net/news/20260313-adobe-shantanu-narayen-ceo-leave/",
+    "https://gigazine.net/news/20260313-uber-nissan/",
+    "https://gigazine.net/news/20260313-google-map-new-ai-features/",
+    "https://gigazine.net/news/20260313-claude-interactive-visual/",
+    "https://gigazine.net/news/20260313-repurposed-drug-improves-sleep-apnea/",
     "https://gigazine.net/news/20260313-job-interviewed-by-ai-bot/",
     "https://gigazine.net/news/20260313-alzheimers-tau-sleep-glucose/",
     "https://gigazine.net/news/20260312-foldable-iphone/",
@@ -1586,19 +1596,11 @@
     "https://gigazine.net/news/20260311-windows-update/",
     "https://gigazine.net/news/20260311-notebook-pc-prices-will-rise/",
     "https://gigazine.net/news/20260311-oppo-oneplus-raise-prices-smartphones/",
-    "https://gigazine.net/news/20260311-ig-nobel-prize-ceremony-move-to-europe/",
-    "https://gigazine.net/news/20260311-amazon-health-ai/",
-    "https://gigazine.net/news/20260311-moltbook-agent/",
-    "https://gigazine.net/news/20260311-youtube-likeness-detection/",
-    "https://gigazine.net/news/20260311-youtube-revenue-media-company/",
-    "https://gigazine.net/news/20260311-doge-employee-stole-social-security-data/",
-    "https://gigazine.net/news/20260311-gemini-workspace/",
-    "https://gigazine.net/news/20260311-ai-dating-simulator-help-single-men/",
-    "https://gigazine.net/news/20260311-amazon-win-court-perplexity-comet/",
-    "https://gigazine.net/news/20260311-niantic-spatial-vps-coco-robotics/",
-    "https://gigazine.net/news/20260311-access/"
+    "https://gigazine.net/news/20260311-ig-nobel-prize-ceremony-move-to-europe/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=207630",
+    "https://aismiley.co.jp/?post_type=ai_news&p=207854",
     "https://aismiley.co.jp/?post_type=ai_news&p=206882",
     "https://aismiley.co.jp/?post_type=ai_news&p=205353",
     "https://aismiley.co.jp/?post_type=ai_news&p=207907",
@@ -1646,11 +1648,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=204801",
     "https://aismiley.co.jp/?post_type=ai_news&p=206296",
     "https://aismiley.co.jp/?post_type=ai_news&p=205905",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206206",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206274",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204865"
+    "https://aismiley.co.jp/?post_type=ai_news&p=206206"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185652",
     "https://win-tab.net/?p=185646",
     "https://win-tab.net/?p=185637",
     "https://win-tab.net/?p=185556",
@@ -1699,8 +1700,7 @@
     "https://win-tab.net/?p=184996",
     "https://win-tab.net/?p=184983",
     "https://win-tab.net/?p=184903",
-    "https://win-tab.net/?p=184941",
-    "https://win-tab.net/?p=184913"
+    "https://win-tab.net/?p=184941"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:xoUNufIEpAA",
@@ -2284,6 +2284,7 @@
     "2028978488393515110"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2032292669951787133",
     "2032231412133491181",
     "2031868772609638583",
     "2031505629630840923",
