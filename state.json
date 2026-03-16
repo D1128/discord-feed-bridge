@@ -1301,6 +1301,11 @@
     "hatenablog://entry/6802418398545815576"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=19852",
+    "https://official.gfs.tokyo/blog/?p=19860",
+    "https://official.gfs.tokyo/blog/?p=19853",
+    "https://official.gfs.tokyo/blog/?p=19876",
+    "https://official.gfs.tokyo/blog/?p=19870",
     "https://official.gfs.tokyo/blog/?p=19812",
     "https://official.gfs.tokyo/blog/?p=19764",
     "https://official.gfs.tokyo/blog/?p=19747",
@@ -1345,12 +1350,7 @@
     "https://official.gfs.tokyo/blog/?p=19393",
     "https://official.gfs.tokyo/blog/?p=19352",
     "https://official.gfs.tokyo/blog/?p=19334",
-    "https://official.gfs.tokyo/blog/?p=19342",
-    "https://official.gfs.tokyo/blog/?p=19337",
-    "https://official.gfs.tokyo/blog/?p=18230",
-    "https://official.gfs.tokyo/blog/?p=18840",
-    "https://official.gfs.tokyo/blog/?p=18916",
-    "https://official.gfs.tokyo/blog/?p=19285"
+    "https://official.gfs.tokyo/blog/?p=19342"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:6EKEI7UYgHY",
@@ -2465,6 +2465,7 @@
     "2021794316444926259"
   ],
   "https://nitter.net/ctgptlb/rss": [
+    "2033366766672642333",
     "2033148232814264510",
     "2033079092699168971",
     "2032522141665742995",
@@ -2513,10 +2514,11 @@
     "2024693651490951586",
     "2024526841852403948",
     "2024526838807351445",
-    "2024525233005482447",
-    "2024485480965058629"
+    "2024525233005482447"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2033337701303480504",
+    "2033349398181331135",
     "2033326381489410410",
     "2033315555315511551",
     "2033166771839271235",
@@ -2564,9 +2566,7 @@
     "2031923745175323055",
     "2031937595870233001",
     "2031903182562181596",
-    "2031902694122909894",
-    "2031877335549665419",
-    "2031877337030222045"
+    "2031902694122909894"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
