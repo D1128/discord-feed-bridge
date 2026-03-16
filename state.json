@@ -1552,6 +1552,14 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260316-amazon-prime-video-ultra/",
+    "https://gigazine.net/news/20260316-microsoft-blames-samsung-windows-11-25h2-24h2-c-drive-inaccessible/",
+    "https://gigazine.net/news/20260316-claude-opus-sonnet-4-6-1m-token/",
+    "https://gigazine.net/news/20260316-milei-libra/",
+    "https://gigazine.net/news/20260316-resurgence-measles-grim-sign-whats-coming/",
+    "https://gigazine.net/news/20260316-iran-qatar-helium-semiconductor/",
+    "https://gigazine.net/news/20260316-tiktok-trump-administration-10bn-fee/",
+    "https://gigazine.net/news/20260316-windows-11-user-folder-name/",
     "https://gigazine.net/news/20260316-citrus-ternary-plot/",
     "https://gigazine.net/news/20260316-bytedance-pauses-global-launch-seedance-2/",
     "https://gigazine.net/news/20260316-adobe-settlement-dos/",
@@ -1593,17 +1601,14 @@
     "https://gigazine.net/news/20260313-apple-marks-50-years/",
     "https://gigazine.net/news/20260313-macbook-neo-makes-repairs-easier/",
     "https://gigazine.net/news/20260313-google-groundsource-gemini-crisis-prediction/",
-    "https://gigazine.net/news/20260313-microsoft-copilot-health/",
-    "https://gigazine.net/news/20260313-netflix-buy-ben-affleck-ai-startup-interpositive-600-million/",
-    "https://gigazine.net/news/20260313-adobe-shantanu-narayen-ceo-leave/",
-    "https://gigazine.net/news/20260313-uber-nissan/",
-    "https://gigazine.net/news/20260313-google-map-new-ai-features/",
-    "https://gigazine.net/news/20260313-claude-interactive-visual/",
-    "https://gigazine.net/news/20260313-repurposed-drug-improves-sleep-apnea/",
-    "https://gigazine.net/news/20260313-job-interviewed-by-ai-bot/",
-    "https://gigazine.net/news/20260313-alzheimers-tau-sleep-glucose/"
+    "https://gigazine.net/news/20260313-microsoft-copilot-health/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=207422",
+    "https://aismiley.co.jp/?post_type=ai_news&p=207698",
+    "https://aismiley.co.jp/?post_type=ai_news&p=207925",
+    "https://aismiley.co.jp/?post_type=ai_news&p=206453",
+    "https://aismiley.co.jp/?post_type=ai_news&p=207763",
     "https://aismiley.co.jp/?post_type=ai_news&p=207605",
     "https://aismiley.co.jp/?post_type=ai_news&p=207603",
     "https://aismiley.co.jp/?post_type=ai_news&p=207394",
@@ -1648,14 +1653,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=206648",
     "https://aismiley.co.jp/?post_type=ai_news&p=205603",
     "https://aismiley.co.jp/?post_type=ai_news&p=206229",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205413",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205087",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206076",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206231",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205441",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204801"
+    "https://aismiley.co.jp/?post_type=ai_news&p=205413"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185760",
     "https://win-tab.net/?p=185724",
     "https://win-tab.net/?p=185713",
     "https://win-tab.net/?p=185699",
@@ -1704,8 +1705,7 @@
     "https://win-tab.net/?p=185061",
     "https://win-tab.net/?p=185052",
     "https://win-tab.net/?p=185047",
-    "https://win-tab.net/?p=185035",
-    "https://win-tab.net/?p=185022"
+    "https://win-tab.net/?p=185035"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:aZIIdnex39w",
@@ -2154,6 +2154,7 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2033370195125997951",
     "2033368185089728730",
     "2033368202567368867",
     "2033368214957359358",
@@ -2202,8 +2203,7 @@
     "2032031213259759632",
     "2031969361599275447",
     "2031970136668955102",
-    "2031969823014732115",
-    "2031969027820818808"
+    "2031969823014732115"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
