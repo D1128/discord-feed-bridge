@@ -1040,6 +1040,7 @@
     "yt:video:nHqXAOeidM0"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2603/17/news087.html",
     "https://www.itmedia.co.jp/mobile/articles/2603/17/news032.html",
     "https://www.itmedia.co.jp/pcuser/articles/2603/17/news028.html",
     "https://www.itmedia.co.jp/aiplus/articles/2603/17/news017.html",
@@ -1088,8 +1089,7 @@
     "https://www.itmedia.co.jp/news/articles/2603/14/news025.html",
     "https://www.itmedia.co.jp/business/articles/2603/14/news004.html",
     "https://www.itmedia.co.jp/mobile/articles/2603/14/news024.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2603/14/news022.html",
-    "https://www.itmedia.co.jp/news/articles/2603/13/news114.html"
+    "https://www.itmedia.co.jp/pcuser/articles/2603/14/news022.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1145,6 +1145,7 @@
     "https://smhn.info/?p=274449"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=111146",
     "https://daily-gadget.net/?p=111097",
     "https://daily-gadget.net/?p=110916",
     "https://daily-gadget.net/?p=111085",
@@ -1193,8 +1194,7 @@
     "https://daily-gadget.net/?p=110385",
     "https://daily-gadget.net/?p=110410",
     "https://daily-gadget.net/?p=110428",
-    "https://daily-gadget.net/?p=110421",
-    "https://daily-gadget.net/?p=110391"
+    "https://daily-gadget.net/?p=110421"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=56714",
@@ -2518,6 +2518,9 @@
     "2024526838807351445"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2033758914727338125",
+    "2033759284803342579",
+    "2033764949605208101",
     "2033693655224226052",
     "2033724696550863043",
     "2033677943713796528",
@@ -2564,10 +2567,7 @@
     "2032617963958972771",
     "2032568892015751611",
     "2032459104074215927",
-    "2032429540790939979",
-    "2032432586262466790",
-    "2032406872477913249",
-    "2032407338414674316"
+    "2032429540790939979"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
