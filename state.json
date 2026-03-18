@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2094513.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2094460.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2094487.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2094431.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2093736.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2093857.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2093867.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2093771.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2093783.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2093771.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/text/KJS_Japanese_IME_OnOff.html",
@@ -482,6 +482,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:waHfpDVUvHE",
     "yt:video:CBAr1mY7rnY",
     "yt:video:Dn_KPKQlkvk",
     "yt:video:J3CaN2ZWsps",
@@ -530,8 +531,7 @@
     "yt:video:IZHsLovznUQ",
     "yt:video:uO2MqV4RxRw",
     "yt:video:K2M4PAOSfEE",
-    "yt:video:lIA7T8b9Yuo",
-    "yt:video:HQ0LPvUQGZs"
+    "yt:video:lIA7T8b9Yuo"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=14517",
@@ -2638,6 +2638,7 @@
     "2033563298172743936"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2034126217310507141",
     "2033947232467357874",
     "2034102538035920907",
     "2034083204135899459",
@@ -2686,8 +2687,7 @@
     "2028699311794757841",
     "2028630697141842112",
     "2028642277862838676",
-    "2027971334362567095",
-    "2027196745948794894"
+    "2027971334362567095"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2033354549369655672",
