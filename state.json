@@ -1555,6 +1555,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260318-unsloth-studio/",
     "https://gigazine.net/news/20260318-xbox-one-hacked/",
     "https://gigazine.net/news/20260318-imuraya-mini-pizza-terimayo-cheese/",
     "https://gigazine.net/news/20260318-headline/",
@@ -1603,8 +1604,7 @@
     "https://gigazine.net/news/20260317-sophia-script-for-windows/",
     "https://gigazine.net/news/20260316-bloody-zero/",
     "https://gigazine.net/news/20260316-agelesslinux-noncompliance-age-verification/",
-    "https://gigazine.net/news/20260316-the-slow-mo-guys-fire-from-underneath/",
-    "https://gigazine.net/news/20260316-meta-lobbying/"
+    "https://gigazine.net/news/20260316-the-slow-mo-guys-fire-from-underneath/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=208707",
@@ -2008,6 +2008,8 @@
     "yt:video:LB6CV9FD4mc"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=257841",
+    "https://garumax.com/?p=257862",
     "https://garumax.com/?p=257683",
     "https://garumax.com/?p=257816",
     "https://garumax.com/?p=257691",
@@ -2055,9 +2057,7 @@
     "https://garumax.com/?p=256904",
     "https://garumax.com/?p=256856",
     "https://garumax.com/?p=256871",
-    "https://garumax.com/?p=256271",
-    "https://garumax.com/?p=256785",
-    "https://garumax.com/?p=256724"
+    "https://garumax.com/?p=256271"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-book-design-korean",
@@ -2089,6 +2089,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=60490",
+    "https://androplus.jp/?p=60502",
     "https://androplus.jp/?p=60481",
     "https://androplus.jp/?p=60438",
     "https://androplus.jp/?p=60453",
@@ -2136,9 +2138,7 @@
     "https://androplus.jp/?p=59828",
     "https://androplus.jp/?p=59754",
     "https://androplus.jp/?p=59810",
-    "https://androplus.jp/?p=59808",
-    "https://androplus.jp/?p=59801",
-    "https://androplus.jp/?p=59622"
+    "https://androplus.jp/?p=59808"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2245,6 +2245,12 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2034179392663146851",
+    "2034247133323518033",
+    "2034251870290780493",
+    "2034253547555148000",
+    "2033490131756142955",
+    "2033226580714217682",
     "2034085651508031723",
     "2034159341188919544",
     "2034159421757227278",
@@ -2288,13 +2294,7 @@
     "2031523832473989202",
     "2031529097525080388",
     "2031119601753522413",
-    "2031462490136260723",
-    "2031286265270952212",
-    "2031278193970151740",
-    "2030867263889580188",
-    "2030946697040498863",
-    "2030845019071054163",
-    "2030501348958200029"
+    "2031462490136260723"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2034193843092894119",
