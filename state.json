@@ -1605,6 +1605,8 @@
     "https://gigazine.net/news/20260316-amazon-prime-video-ultra/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=208707",
+    "https://aismiley.co.jp/?post_type=ai_news&p=208498",
     "https://aismiley.co.jp/?post_type=ai_news&p=193707",
     "https://aismiley.co.jp/?post_type=ai_news&p=207297",
     "https://aismiley.co.jp/?post_type=ai_news&p=207936",
@@ -1652,9 +1654,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=207058",
     "https://aismiley.co.jp/?post_type=ai_news&p=205426",
     "https://aismiley.co.jp/?post_type=ai_news&p=207023",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206617",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206729",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206927"
+    "https://aismiley.co.jp/?post_type=ai_news&p=206617"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185817",
@@ -2243,6 +2243,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2034085651508031723",
+    "2034159341188919544",
+    "2034159421757227278",
     "2033074121693897031",
     "2033907348121784797",
     "2033907542263533796",
@@ -2289,10 +2292,7 @@
     "2030867263889580188",
     "2030946697040498863",
     "2030845019071054163",
-    "2030501348958200029",
-    "2030765521445298346",
-    "2030508060570206616",
-    "2030282564594962801"
+    "2030501348958200029"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2034127563891872116",
