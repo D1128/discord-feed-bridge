@@ -754,6 +754,7 @@
     "https://liginc.co.jp/?p=675189"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:cekGglHl7Ok",
     "yt:video:Fei8SOaPekY",
     "yt:video:qnG4eEKqllE",
     "yt:video:XFyGGWX4d0E",
@@ -802,8 +803,7 @@
     "yt:video:L4qwyzT410M",
     "yt:video:AGLs5r3Rc78",
     "yt:video:_8hcw8-HJLo",
-    "yt:video:CBfDeQ_cDXo",
-    "yt:video:TL0rYVVShqE"
+    "yt:video:CBfDeQ_cDXo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:8KDBb-5K2-w",
@@ -857,6 +857,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:aRHvKUQVrkU",
     "yt:video:dGnP9a8wykg",
     "yt:video:gyQTmKETNfw",
     "yt:video:2nL43cgyegQ",
@@ -905,8 +906,7 @@
     "yt:video:p8tCqOEQPJQ",
     "yt:video:YXfJvKeGY_A",
     "yt:video:0UqlDavkA3Q",
-    "yt:video:rU1YSzlCx3Y",
-    "yt:video:t_Y_4jvJnUc"
+    "yt:video:rU1YSzlCx3Y"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:T852WlTgPxI",
@@ -2348,6 +2348,8 @@
     "2019546585256886725"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2033825341828125002",
+    "2033132798165520764",
     "2034193088520786232",
     "2034078678175649952",
     "2034102498181427430",
@@ -2395,11 +2397,11 @@
     "2031565780714987650",
     "2031505391427973177",
     "2031324187969655129",
-    "2031296340228190557",
-    "2031296342455378232",
-    "2031296939220939208"
+    "2031296340228190557"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2034195901015826653",
+    "2034197993206038608",
     "2033908292041511342",
     "2033907542263533796",
     "2033907348121784797",
@@ -2447,9 +2449,7 @@
     "2031286265270952212",
     "2032042433379504502",
     "2032042784744517706",
-    "2032043781546262844",
-    "2032045082002731242",
-    "2031566531394678957"
+    "2032043781546262844"
   ],
   "https://nitter.net/chibimana/rss": [
     "2032050499399401980",
