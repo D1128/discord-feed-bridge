@@ -1095,6 +1095,8 @@
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=275582",
+    "https://smhn.info/?p=275849",
     "https://smhn.info/?p=271679",
     "https://smhn.info/?p=271936",
     "https://smhn.info/?p=271546",
@@ -1142,9 +1144,7 @@
     "https://smhn.info/?p=273800",
     "https://smhn.info/?p=274885",
     "https://smhn.info/?p=274933",
-    "https://smhn.info/?p=273997",
-    "https://smhn.info/?p=271456",
-    "https://smhn.info/?p=274894"
+    "https://smhn.info/?p=273997"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=111222",
@@ -1199,6 +1199,11 @@
     "https://daily-gadget.net/?p=110089"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=56891",
+    "https://sumahodigest.com/?p=56896",
+    "https://sumahodigest.com/?p=56900",
+    "https://sumahodigest.com/?p=56904",
+    "https://sumahodigest.com/?p=56908",
     "https://sumahodigest.com/?p=56882",
     "https://sumahodigest.com/?p=56886",
     "https://sumahodigest.com/?p=56868",
@@ -1243,12 +1248,7 @@
     "https://sumahodigest.com/?p=56658",
     "https://sumahodigest.com/?p=56662",
     "https://sumahodigest.com/?p=56668",
-    "https://sumahodigest.com/?p=56645",
-    "https://sumahodigest.com/?p=56640",
-    "https://sumahodigest.com/?p=56614",
-    "https://sumahodigest.com/?p=56618",
-    "https://sumahodigest.com/?p=56622",
-    "https://sumahodigest.com/?p=56628"
+    "https://sumahodigest.com/?p=56645"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/6802418398310889147",
@@ -2522,6 +2522,7 @@
     "2025016306475704690"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2034282341745807765",
     "2034251485878550640",
     "2034116990336635115",
     "2034132344165351718",
@@ -2570,8 +2571,7 @@
     "2033166771839271235",
     "2033166801207763404",
     "2033130909365370993",
-    "2033100369509888128",
-    "2033047075605369299"
+    "2033100369509888128"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
