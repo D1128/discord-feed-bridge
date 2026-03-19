@@ -1042,6 +1042,7 @@
     "yt:video:p_kAbiGh4Ok"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2603/19/news129.html",
     "https://www.itmedia.co.jp/mobile/articles/2603/19/news125.html",
     "https://www.itmedia.co.jp/news/articles/2603/19/news126.html",
     "https://www.itmedia.co.jp/pcuser/articles/2603/19/news124.html",
@@ -1090,11 +1091,12 @@
     "https://www.itmedia.co.jp/news/articles/2603/18/news037.html",
     "https://www.itmedia.co.jp/news/articles/2603/18/news036.html",
     "https://www.itmedia.co.jp/business/articles/2603/18/news029.html",
-    "https://www.itmedia.co.jp/news/articles/2603/18/news056.html",
-    "https://www.itmedia.co.jp/business/articles/2603/18/news044.html"
+    "https://www.itmedia.co.jp/news/articles/2603/18/news056.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=276026",
+    "https://smhn.info/?p=276017",
     "https://smhn.info/?p=271978",
     "https://smhn.info/?p=273632",
     "https://smhn.info/?p=275993",
@@ -1142,9 +1144,7 @@
     "https://smhn.info/?p=272220",
     "https://smhn.info/?p=274807",
     "https://smhn.info/?p=274719",
-    "https://smhn.info/?p=274999",
-    "https://smhn.info/?p=274859",
-    "https://smhn.info/?p=274770"
+    "https://smhn.info/?p=274999"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=111339",
@@ -1199,6 +1199,7 @@
     "https://daily-gadget.net/?p=110753"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=56966",
     "https://sumahodigest.com/?p=56947",
     "https://sumahodigest.com/?p=56953",
     "https://sumahodigest.com/?p=56958",
@@ -1247,8 +1248,7 @@
     "https://sumahodigest.com/?p=56722",
     "https://sumahodigest.com/?p=56728",
     "https://sumahodigest.com/?p=56732",
-    "https://sumahodigest.com/?p=56710",
-    "https://sumahodigest.com/?p=56705"
+    "https://sumahodigest.com/?p=56710"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/17179246901366822461",
