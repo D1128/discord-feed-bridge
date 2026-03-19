@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2094506.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2094416.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2094436.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2094491.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/topic/special/2092782.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2093680.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2093799.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2093333.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2093702.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2093333.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/text/KJS_Japanese_IME_OnOff.html",
@@ -202,6 +202,7 @@
     "https://telektlist.com/?p=136754"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23701",
     "https://codezine.jp/article/detail/23699",
     "https://codezine.jp/article/detail/23694",
     "https://codezine.jp/article/detail/23691",
@@ -250,8 +251,7 @@
     "https://codezine.jp/article/detail/23642",
     "https://codezine.jp/article/detail/23657",
     "https://codezine.jp/article/detail/23639",
-    "https://codezine.jp/article/detail/23641",
-    "https://codezine.jp/article/detail/23635"
+    "https://codezine.jp/article/detail/23641"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2639,6 +2639,15 @@
     "2033860971090087966"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2034425577898443207",
+    "2034425589743149365",
+    "2034425601495560435",
+    "2034425613273198790",
+    "2034425625101140271",
+    "2034425636866113547",
+    "2034425649050624117",
+    "2034425660891115984",
+    "2034413832546992516",
     "2034126217310507141",
     "2033947232467357874",
     "2034102538035920907",
@@ -2679,16 +2688,7 @@
     "2029800649697939869",
     "2029555067020525674",
     "2029364549447762175",
-    "2029370950328959211",
-    "2029358575022424529",
-    "2029400499729150323",
-    "2029351141449056675",
-    "2028880058572783992",
-    "2028644661884330380",
-    "2028699311794757841",
-    "2028630697141842112",
-    "2028642277862838676",
-    "2027971334362567095"
+    "2029370950328959211"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2034092035351973955",
