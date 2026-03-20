@@ -1042,6 +1042,8 @@
     "yt:video:p_kAbiGh4Ok"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/mobile/articles/2603/20/news022.html",
+    "https://www.itmedia.co.jp/news/articles/2603/20/news026.html",
     "https://www.itmedia.co.jp/news/articles/2603/20/news024.html",
     "https://www.itmedia.co.jp/mobile/articles/2603/20/news023.html",
     "https://www.itmedia.co.jp/news/articles/2603/19/news129.html",
@@ -1089,9 +1091,7 @@
     "https://www.itmedia.co.jp/news/articles/2603/18/news092.html",
     "https://www.itmedia.co.jp/news/articles/2603/18/news093.html",
     "https://www.itmedia.co.jp/business/articles/2603/18/news024.html",
-    "https://www.itmedia.co.jp/news/articles/2603/18/news072.html",
-    "https://www.itmedia.co.jp/news/articles/2603/18/news037.html",
-    "https://www.itmedia.co.jp/news/articles/2603/18/news036.html"
+    "https://www.itmedia.co.jp/news/articles/2603/18/news072.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1147,6 +1147,7 @@
     "https://smhn.info/?p=274999"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=111314",
     "https://daily-gadget.net/?p=111385",
     "https://daily-gadget.net/?p=111270",
     "https://daily-gadget.net/?p=111308",
@@ -1195,8 +1196,7 @@
     "https://daily-gadget.net/?p=110985",
     "https://daily-gadget.net/?p=110991",
     "https://daily-gadget.net/?p=110581",
-    "https://daily-gadget.net/?p=110526",
-    "https://daily-gadget.net/?p=110934"
+    "https://daily-gadget.net/?p=110526"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=57024",
@@ -2523,6 +2523,9 @@
     "2025016306475704690"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2034819939660702194",
+    "2034819937794236799",
+    "2034819565180657857",
     "2034775681570414950",
     "2034775683235471607",
     "2034775685286486127",
@@ -2569,10 +2572,7 @@
     "2033724696550863043",
     "2033677943713796528",
     "2033656804266418195",
-    "2033586125357649958",
-    "2033582962869195247",
-    "2033468309468037503",
-    "2033468490716524757"
+    "2033586125357649958"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
