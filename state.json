@@ -1043,6 +1043,8 @@
     "yt:video:cxHOZDNjY2k"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/mobile/articles/2603/22/news012.html",
+    "https://www.itmedia.co.jp/mobile/articles/2603/22/news002.html",
     "https://www.itmedia.co.jp/business/articles/2603/22/news001.html",
     "https://www.itmedia.co.jp/news/articles/2603/22/news014.html",
     "https://www.itmedia.co.jp/pcuser/articles/2603/22/news015.html",
@@ -1090,9 +1092,7 @@
     "https://www.itmedia.co.jp/news/articles/2603/18/news133.html",
     "https://www.itmedia.co.jp/mobile/articles/2603/18/news125.html",
     "https://www.itmedia.co.jp/news/articles/2603/18/news126.html",
-    "https://www.itmedia.co.jp/news/articles/2603/18/news131.html",
-    "https://www.itmedia.co.jp/news/articles/2603/18/news117.html",
-    "https://built.itmedia.co.jp/bt/articles/2603/18/news116.html"
+    "https://www.itmedia.co.jp/news/articles/2603/18/news131.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1304,6 +1304,7 @@
     "hatenablog://entry/17179246901335799229"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=20095",
     "https://official.gfs.tokyo/blog/?p=20136",
     "https://official.gfs.tokyo/blog/?p=20079",
     "https://official.gfs.tokyo/blog/?p=20074",
@@ -1352,8 +1353,7 @@
     "https://official.gfs.tokyo/blog/?p=18850",
     "https://official.gfs.tokyo/blog/?p=19702",
     "https://official.gfs.tokyo/blog/?p=19629",
-    "https://official.gfs.tokyo/blog/?p=19627",
-    "https://official.gfs.tokyo/blog/?p=19607"
+    "https://official.gfs.tokyo/blog/?p=19627"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:6EKEI7UYgHY",
@@ -2527,6 +2527,7 @@
     "2025016306475704690"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2035413634214682958",
     "2035499954064777336",
     "2035481074323894707",
     "2035005102512374048",
@@ -2575,8 +2576,7 @@
     "2034602410346422767",
     "2034592237200515184",
     "2034576620049273167",
-    "2034576621756420248",
-    "2034546282304274517"
+    "2034576621756420248"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
