@@ -1200,6 +1200,9 @@
     "https://daily-gadget.net/?p=111091"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=57195",
+    "https://sumahodigest.com/?p=57199",
+    "https://sumahodigest.com/?p=57205",
     "https://sumahodigest.com/?p=57187",
     "https://sumahodigest.com/?p=57191",
     "https://sumahodigest.com/?p=57181",
@@ -1246,10 +1249,7 @@
     "https://sumahodigest.com/?p=56966",
     "https://sumahodigest.com/?p=56947",
     "https://sumahodigest.com/?p=56953",
-    "https://sumahodigest.com/?p=56958",
-    "https://sumahodigest.com/?p=56962",
-    "https://sumahodigest.com/?p=56939",
-    "https://sumahodigest.com/?p=56943"
+    "https://sumahodigest.com/?p=56958"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/17179246901366822461",
@@ -1400,6 +1400,7 @@
     "yt:video:_A_5MwHo1oY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg": [
+    "yt:video:ChBTf9EWDhE",
     "yt:video:ca3CAdvJuT4",
     "yt:video:BYUsccuf3kQ",
     "yt:video:KeShNoPNuNA",
@@ -1448,8 +1449,7 @@
     "yt:video:XrPAumPAjo4",
     "yt:video:Aw6XFGVdtrs",
     "yt:video:zBgbD-LDb2w",
-    "yt:video:z9A9LpMq2hc",
-    "yt:video:c0DvYN4FMLc"
+    "yt:video:z9A9LpMq2hc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
     "yt:video:4RkObjgOpYI",
@@ -2529,6 +2529,10 @@
     "2025016306475704690"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2036080915429183650",
+    "2036080927693259200",
+    "2036080939701522847",
+    "2036080951814721861",
     "2036005722056790077",
     "2035994739523387824",
     "2035953738159186107",
@@ -2574,11 +2578,7 @@
     "2034872891397865761",
     "2034819936011657600",
     "2034827687009951991",
-    "2034854890338660420",
-    "2034854902418350502",
-    "2034819939660702194",
-    "2034819937794236799",
-    "2034819565180657857"
+    "2034854890338660420"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
