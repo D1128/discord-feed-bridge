@@ -1558,6 +1558,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260323-jessicaa-foster-ai/",
+    "https://gigazine.net/news/20260323-drawing-eyes-food-packaging-stop-seagulls/",
     "https://gigazine.net/news/20260323-google-android-advanced-flow/",
     "https://gigazine.net/news/20260323-cursor-admits-composer-2-kimi/",
     "https://gigazine.net/news/20260323-google-headlines-ai/",
@@ -1605,11 +1607,10 @@
     "https://gigazine.net/news/20260319-sashiko-linux-bug-ai/",
     "https://gigazine.net/news/20260319-freeciv-longturn/",
     "https://gigazine.net/news/20260319-nightingale/",
-    "https://gigazine.net/news/20260319-headline/",
-    "https://gigazine.net/news/20260319-jeffrey-epstein-changed-online-image/",
-    "https://gigazine.net/news/20260319-danone-oikos-pro-rich-vanilla/"
+    "https://gigazine.net/news/20260319-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=203523",
     "https://aismiley.co.jp/?post_type=ai_news&p=208071",
     "https://aismiley.co.jp/?post_type=ai_news&p=208624",
     "https://aismiley.co.jp/?post_type=ai_news&p=208677",
@@ -1658,8 +1659,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=207060",
     "https://aismiley.co.jp/?post_type=ai_news&p=205155",
     "https://aismiley.co.jp/?post_type=ai_news&p=205433",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206424",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206309"
+    "https://aismiley.co.jp/?post_type=ai_news&p=206424"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185948",
@@ -2013,6 +2013,7 @@
     "yt:video:9MFHUPl8eNg"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=258028",
     "https://garumax.com/?p=258336",
     "https://garumax.com/?p=258359",
     "https://garumax.com/?p=258452",
@@ -2061,8 +2062,7 @@
     "https://garumax.com/?p=256393",
     "https://garumax.com/?p=257099",
     "https://garumax.com/?p=257124",
-    "https://garumax.com/?p=257094",
-    "https://garumax.com/?p=257017"
+    "https://garumax.com/?p=257094"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-book-design-korean",
@@ -2163,6 +2163,11 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2035914863177003409",
+    "2035940943371886834",
+    "2035940961390571592",
+    "2035941107058766067",
+    "2035941321106710800",
     "2035915119344160868",
     "2035914875403452856",
     "2035914848278867998",
@@ -2207,12 +2212,7 @@
     "2035273997743792301",
     "2035274009638838716",
     "2035274026776772696",
-    "2035274691590725676",
-    "2035257627983454670",
-    "2035257642759987271",
-    "2035257658027254176",
-    "2035257670610108700",
-    "2035247503210422705"
+    "2035274691590725676"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
