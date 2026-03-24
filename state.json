@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2095763.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2095929.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/macinfo/2095930.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2094742.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2095859.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2095118.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2095121.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/config/2095040.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2094459.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2094996.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2094918.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2094459.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/text/KJS_Japanese_IME_OnOff.html",
