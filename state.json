@@ -1558,6 +1558,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260325-litellm-supply-chain-attack/",
+    "https://gigazine.net/news/20260325-disrupt-sleep/",
+    "https://gigazine.net/news/20260325-apple-ios-ipados-26-4-released/",
+    "https://gigazine.net/news/20260325-molmoweb/",
+    "https://gigazine.net/news/20260325-nintendo-cuts-production-switch-2/",
     "https://gigazine.net/news/20260325-firefox-149/",
     "https://gigazine.net/news/20260325-openai-announces-shut-down-sora/",
     "https://gigazine.net/news/20260325-apple-business/",
@@ -1602,12 +1607,7 @@
     "https://gigazine.net/news/20260323-jessicaa-foster-ai/",
     "https://gigazine.net/news/20260323-drawing-eyes-food-packaging-stop-seagulls/",
     "https://gigazine.net/news/20260323-google-android-advanced-flow/",
-    "https://gigazine.net/news/20260323-cursor-admits-composer-2-kimi/",
-    "https://gigazine.net/news/20260323-google-headlines-ai/",
-    "https://gigazine.net/news/20260323-openai-superapp/",
-    "https://gigazine.net/news/20260323-amazon-alexa-smartphone/",
-    "https://gigazine.net/news/20260323-nintendo-switch-2-europe-replaceable-battery/",
-    "https://gigazine.net/news/20260323-take-vitamin-c-cold-cancer/"
+    "https://gigazine.net/news/20260323-cursor-admits-composer-2-kimi/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=208965",
@@ -1662,6 +1662,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=206698"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=185990",
     "https://win-tab.net/?p=186023",
     "https://win-tab.net/?p=185965",
     "https://win-tab.net/?p=185955",
@@ -1710,8 +1711,7 @@
     "https://win-tab.net/?p=185309",
     "https://win-tab.net/?p=185296",
     "https://win-tab.net/?p=167344",
-    "https://win-tab.net/?p=185282",
-    "https://win-tab.net/?p=185273"
+    "https://win-tab.net/?p=185282"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:z7z87FMC3kM",
