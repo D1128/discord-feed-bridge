@@ -1560,6 +1560,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260326-data-centers-transitioning-ac-dc/",
     "https://gigazine.net/news/20260326-gpu-accelerated-compression-cozip/",
     "https://gigazine.net/news/20260326-build-ai-receptionist-auto-repair-shop/",
     "https://gigazine.net/news/20260325-pre-babel-lens/",
@@ -1608,8 +1609,7 @@
     "https://gigazine.net/news/20260324-darksword-ios-exploit-malware-released/",
     "https://gigazine.net/news/20260324-gigazine-user-convenience-store/",
     "https://gigazine.net/news/20260324-china-sustech-centaurs/",
-    "https://gigazine.net/news/20260324-visceral-fat-peritonitis-ilc1/",
-    "https://gigazine.net/news/20260323-wordpress-ai-agent-create-content/"
+    "https://gigazine.net/news/20260324-visceral-fat-peritonitis-ilc1/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209294",
@@ -2305,6 +2305,8 @@
     "2033907542263533796"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2036941447421624568",
+    "2036942705474101484",
     "2036603229979779323",
     "2036579311323431297",
     "2036217678449483822",
@@ -2352,9 +2354,7 @@
     "2024622273240735967",
     "2024260136940741115",
     "2023914981574799529",
-    "2023896239624847640",
-    "2023534354514014671",
-    "2023354366762369209"
+    "2023896239624847640"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2036747272319611085",
