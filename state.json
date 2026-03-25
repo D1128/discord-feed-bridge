@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2096228.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2096230.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096187.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096202.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096144.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/column/hothot/2095270.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2095487.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2095510.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2095509.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2095387.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2095324.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2095509.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/media/music/Audex.html",
@@ -319,6 +319,8 @@
     "yt:video:lDIn3E-B-6E"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:Lr8GrCoyxfU",
+    "yt:video:rCJR7yfDSIk",
     "yt:video:5DYfA48Pcco",
     "yt:video:VMgsdb4pa1A",
     "yt:video:X4KF_qM7njo",
@@ -366,9 +368,7 @@
     "yt:video:DeJ6l2ByTLo",
     "yt:video:aGPcStufdFs",
     "yt:video:rgZF2msd-Ks",
-    "yt:video:WieLZIrV3Gk",
-    "yt:video:3mPSXyZvJ0s",
-    "yt:video:c4xODsLMPlo"
+    "yt:video:WieLZIrV3Gk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
     "yt:video:GeVFCTxqm1o",
@@ -484,6 +484,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:y3_rFlT7jfI",
     "yt:video:3K--p0YCSww",
     "yt:video:waHfpDVUvHE",
     "yt:video:CBAr1mY7rnY",
@@ -532,8 +533,7 @@
     "yt:video:SQjQBeAjHoI",
     "yt:video:Vz2_-9eRDC0",
     "yt:video:IZHsLovznUQ",
-    "yt:video:uO2MqV4RxRw",
-    "yt:video:K2M4PAOSfEE"
+    "yt:video:uO2MqV4RxRw"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=14553",
