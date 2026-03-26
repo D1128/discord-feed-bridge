@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2096553.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096501.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2096444.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096466.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2095906.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2095913.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2095843.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2095835.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2095802.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2095835.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/media/music/Audex.html",
@@ -423,6 +423,7 @@
     "yt:video:gYETNwDOtNo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
+    "yt:video:jaJRe6TAk7M",
     "yt:video:1htAlQrAEcQ",
     "yt:video:ThHMZeUZJ-s",
     "yt:video:K7nQk4PoXKM",
@@ -2596,6 +2597,8 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2037092265177608658",
+    "2037092450389680291",
     "2037016277907365994",
     "2037016325592379531",
     "2036946917092188244",
@@ -2643,9 +2646,7 @@
     "2036285929393103127",
     "2036285964566581677",
     "2036286096154435632",
-    "2036286114747785239",
-    "2036286376011043005",
-    "2036286398563762306"
+    "2036286114747785239"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2036892135270539283",
