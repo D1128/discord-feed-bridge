@@ -1560,6 +1560,14 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260326-apple-siri-google-gemini-localize/",
+    "https://gigazine.net/news/20260326-google-lyria-3-pro-music-generation-ai/",
+    "https://gigazine.net/news/20260326-reddit-bot-check/",
+    "https://gigazine.net/news/20260326-apple-ai-captions-images-rubicap/",
+    "https://gigazine.net/news/20260326-x-japanese-impression-reward-program/",
+    "https://gigazine.net/news/20260326-nintendo-switch-2-pricing/",
+    "https://gigazine.net/news/20260326-meta-google-sns-trial/",
+    "https://gigazine.net/news/20260326-ansatsu-makoto-uezu-naoto-shoji-interview/",
     "https://gigazine.net/news/20260326-data-centers-transitioning-ac-dc/",
     "https://gigazine.net/news/20260326-gpu-accelerated-compression-cozip/",
     "https://gigazine.net/news/20260326-build-ai-receptionist-auto-repair-shop/",
@@ -1601,15 +1609,7 @@
     "https://gigazine.net/news/20260324-sunken-soviet-submarine-leaking-radioactive-material/",
     "https://gigazine.net/news/20260324-cloudflare-geo-block/",
     "https://gigazine.net/news/20260324-claude-computer/",
-    "https://gigazine.net/news/20260324-fcc-banned-routers-made-outside-us/",
-    "https://gigazine.net/news/20260324-apple-map-ads/",
-    "https://gigazine.net/news/20260324-apple-wwdc26-june-8/",
-    "https://gigazine.net/news/20260324-crunchyroll-probes-breach-hacker-steal-user-data/",
-    "https://gigazine.net/news/20260324-legislation-to-ban-sports-prediction-market-contracts/",
-    "https://gigazine.net/news/20260324-darksword-ios-exploit-malware-released/",
-    "https://gigazine.net/news/20260324-gigazine-user-convenience-store/",
-    "https://gigazine.net/news/20260324-china-sustech-centaurs/",
-    "https://gigazine.net/news/20260324-visceral-fat-peritonitis-ilc1/"
+    "https://gigazine.net/news/20260324-fcc-banned-routers-made-outside-us/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209294",
@@ -1664,6 +1664,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=206413"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186061",
     "https://win-tab.net/?p=186049",
     "https://win-tab.net/?p=185990",
     "https://win-tab.net/?p=186023",
@@ -1712,8 +1713,7 @@
     "https://win-tab.net/?p=185348",
     "https://win-tab.net/?p=185328",
     "https://win-tab.net/?p=185309",
-    "https://win-tab.net/?p=185296",
-    "https://win-tab.net/?p=167344"
+    "https://win-tab.net/?p=185296"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:z7z87FMC3kM",
@@ -2016,6 +2016,7 @@
     "yt:video:JFvB25dpVsw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=258668",
     "https://garumax.com/?p=258679",
     "https://garumax.com/?p=258403",
     "https://garumax.com/?p=258465",
@@ -2064,8 +2065,7 @@
     "https://garumax.com/?p=257235",
     "https://garumax.com/?p=257217",
     "https://garumax.com/?p=257215",
-    "https://garumax.com/?p=257183",
-    "https://garumax.com/?p=256393"
+    "https://garumax.com/?p=257183"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-book-design-korean",
@@ -2097,6 +2097,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=60742",
     "https://androplus.jp/?p=60727",
     "https://androplus.jp/?p=60713",
     "https://androplus.jp/?p=58562",
@@ -2145,8 +2146,7 @@
     "https://androplus.jp/?p=60070",
     "https://androplus.jp/?p=60062",
     "https://androplus.jp/?p=60033",
-    "https://androplus.jp/?p=60006",
-    "https://androplus.jp/?p=59998"
+    "https://androplus.jp/?p=60006"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
