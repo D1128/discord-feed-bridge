@@ -1561,6 +1561,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260326-headline/",
+    "https://gigazine.net/news/20260326-never-stopped-updating-lost-dog-chip/",
     "https://gigazine.net/news/20260326-zetton-homerun/",
     "https://gigazine.net/news/20260326-minute-maid-zero-sugar-peach-lemonade/",
     "https://gigazine.net/news/20260326-arc-agi-3/",
@@ -1608,11 +1610,12 @@
     "https://gigazine.net/news/20260324-openai-helion/",
     "https://gigazine.net/news/20260324-mozilla-gecko/",
     "https://gigazine.net/news/20260324-headline/",
-    "https://gigazine.net/news/20260324-humans-bottleneck-ai/",
-    "https://gigazine.net/news/20260324-aituber-personas-japan/",
-    "https://gigazine.net/news/20260324-haagen-dazs-wa-sweets-assortment/"
+    "https://gigazine.net/news/20260324-humans-bottleneck-ai/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=206471",
+    "https://aismiley.co.jp/?post_type=ai_news&p=209170",
+    "https://aismiley.co.jp/?post_type=ai_news&p=209617",
     "https://aismiley.co.jp/?post_type=ai_news&p=209021",
     "https://aismiley.co.jp/?post_type=ai_news&p=209294",
     "https://aismiley.co.jp/?post_type=ai_news&p=209179",
@@ -1659,10 +1662,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=207480",
     "https://aismiley.co.jp/?post_type=ai_news&p=207418",
     "https://aismiley.co.jp/?post_type=ai_news&p=206437",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207275",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207381",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207322",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205417"
+    "https://aismiley.co.jp/?post_type=ai_news&p=207275"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186061",
@@ -2254,6 +2254,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2037100990093287743",
     "2037067235970408883",
     "2036930502180167823",
     "2037091586299797988",
@@ -2302,8 +2303,7 @@
     "2034253547555148000",
     "2033490131756142955",
     "2033226580714217682",
-    "2034085651508031723",
-    "2034159341188919544"
+    "2034085651508031723"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2036941447421624568",
