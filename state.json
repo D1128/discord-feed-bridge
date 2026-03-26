@@ -1560,6 +1560,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260326-zetton-homerun/",
     "https://gigazine.net/news/20260326-minute-maid-zero-sugar-peach-lemonade/",
     "https://gigazine.net/news/20260326-arc-agi-3/",
     "https://gigazine.net/news/20260326-github-copilot-data-training/",
@@ -1608,8 +1609,7 @@
     "https://gigazine.net/news/20260324-headline/",
     "https://gigazine.net/news/20260324-humans-bottleneck-ai/",
     "https://gigazine.net/news/20260324-aituber-personas-japan/",
-    "https://gigazine.net/news/20260324-haagen-dazs-wa-sweets-assortment/",
-    "https://gigazine.net/news/20260324-ai-child-abuse-increased/"
+    "https://gigazine.net/news/20260324-haagen-dazs-wa-sweets-assortment/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209021",
@@ -1760,6 +1760,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:RNWOj5oEoF8",
     "yt:video:fDmPtA7k1_k",
     "yt:video:IhWVaFrJTPQ",
     "yt:video:-Ox9ODxTKfU",
@@ -1808,8 +1809,7 @@
     "yt:video:IZDSoT-dOMc",
     "yt:video:r9gh3FlCfu8",
     "yt:video:Y7sAkZBYI-o",
-    "yt:video:v3yTceqjYQk",
-    "yt:video:cCLTp52_hSg"
+    "yt:video:v3yTceqjYQk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:CnnBKmqIhYA",
@@ -1912,6 +1912,7 @@
     "yt:video:oTmDyzMCdt4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:FF37bSgyliw",
     "yt:video:sMWNHTLqxKo",
     "yt:video:dvYZboKbH88",
     "yt:video:d2zlyHnpJuE",
@@ -1960,8 +1961,7 @@
     "yt:video:T9iIlhittDc",
     "yt:video:hRJtpN3fjpw",
     "yt:video:8EKOWsIivts",
-    "yt:video:CXKbHWl6V8g",
-    "yt:video:-CuunUN0XzE"
+    "yt:video:CXKbHWl6V8g"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:pk3JzzQ7kRw",
@@ -2253,6 +2253,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2037067235970408883",
+    "2036930502180167823",
+    "2037091586299797988",
+    "2037091632408039525",
     "2036797948609372342",
     "2036759240229212424",
     "2036660146399781219",
@@ -2298,11 +2302,7 @@
     "2033490131756142955",
     "2033226580714217682",
     "2034085651508031723",
-    "2034159341188919544",
-    "2034159421757227278",
-    "2033074121693897031",
-    "2033907348121784797",
-    "2033907542263533796"
+    "2034159341188919544"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2036941447421624568",
