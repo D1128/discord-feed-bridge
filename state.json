@@ -1561,6 +1561,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260327-slovenia-election-israel/",
     "https://gigazine.net/news/20260327-wikipedia-llm-article-text-ban/",
     "https://gigazine.net/news/20260326-cern-transporting-antimatter/",
     "https://gigazine.net/news/20260326-baic-sodium-ion-ev-battery/",
@@ -1609,8 +1610,7 @@
     "https://gigazine.net/news/20260325-cq-stack-overflow-for-ai/",
     "https://gigazine.net/news/20260325-child-protection-internet-access-control/",
     "https://gigazine.net/news/20260325-smartphone-notification-seven-seconds/",
-    "https://gigazine.net/news/20260324-iphone-397b-ai/",
-    "https://gigazine.net/news/20260324-openai-helion/"
+    "https://gigazine.net/news/20260324-iphone-397b-ai/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=206471",
@@ -2254,6 +2254,11 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2037107220543135836",
+    "2037289433456918686",
+    "2037287566052048912",
+    "2037149627154391473",
+    "2036969195238522920",
     "2037119838930509965",
     "2037100990093287743",
     "2037067235970408883",
@@ -2298,12 +2303,7 @@
     "2034616370365915463",
     "2034950579370565671",
     "2034512073481507269",
-    "2034179392663146851",
-    "2034247133323518033",
-    "2034251870290780493",
-    "2034253547555148000",
-    "2033490131756142955",
-    "2033226580714217682"
+    "2034179392663146851"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2036941447421624568",
