@@ -1561,6 +1561,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260328-racoon-solve-puzzle-for-fun/",
     "https://gigazine.net/news/20260327-apple-gives-fbi-user-real-name-hide-my-email/",
     "https://gigazine.net/news/20260327-headline/",
     "https://gigazine.net/news/20260327-ai-remove-books-school-library/",
@@ -1609,8 +1610,7 @@
     "https://gigazine.net/news/20260326-build-ai-receptionist-auto-repair-shop/",
     "https://gigazine.net/news/20260325-pre-babel-lens/",
     "https://gigazine.net/news/20260325-wine-11-linux/",
-    "https://gigazine.net/news/20260325-headline/",
-    "https://gigazine.net/news/20260325-github-deleted-piracy-repos-and-forks/"
+    "https://gigazine.net/news/20260325-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209067",
@@ -2307,6 +2307,8 @@
     "2035691484025172013"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2037666223111147927",
+    "2037666474928775383",
     "2037304590534644169",
     "2036941447421624568",
     "2036942705474101484",
@@ -2354,9 +2356,7 @@
     "2025708933747556780",
     "2025346797242061255",
     "2024983906093564330",
-    "2024622273240735967",
-    "2024260136940741115",
-    "2023914981574799529"
+    "2024622273240735967"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2037454578476572753",
