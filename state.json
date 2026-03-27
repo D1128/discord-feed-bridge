@@ -1561,6 +1561,14 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260327-farewell-to-mac-pro/",
+    "https://gigazine.net/news/20260327-netflix-raises-prices/",
+    "https://gigazine.net/news/20260327-chatgpt-erotic-mode-drop-to-release/",
+    "https://gigazine.net/news/20260327-apple-bonuses/",
+    "https://gigazine.net/news/20260327-cohere-transcribe/",
+    "https://gigazine.net/news/20260327-ejaculating-frequently-improve-sperm-quality/",
+    "https://gigazine.net/news/20260327-apple-siri-ai-assistants-beyond-chatgpt-ios-27/",
+    "https://gigazine.net/news/20260327-anthropic-preliminary-injunction/",
     "https://gigazine.net/news/20260327-ebook-fresh-start-sale/",
     "https://gigazine.net/news/20260327-slovenia-election-israel/",
     "https://gigazine.net/news/20260327-wikipedia-llm-article-text-ban/",
@@ -1602,17 +1610,12 @@
     "https://gigazine.net/news/20260325-nintendo-cuts-production-switch-2/",
     "https://gigazine.net/news/20260325-firefox-149/",
     "https://gigazine.net/news/20260325-openai-announces-shut-down-sora/",
-    "https://gigazine.net/news/20260325-apple-business/",
-    "https://gigazine.net/news/20260325-ayaneo-next-2-shelved/",
-    "https://gigazine.net/news/20260325-arm-agi-cpu-launched/",
-    "https://gigazine.net/news/20260325-fortnite-epic-games-cuts-1000-jobs/",
-    "https://gigazine.net/news/20260325-claude-auto-mode/",
-    "https://gigazine.net/news/20260325-apple-siri-reboot/",
-    "https://gigazine.net/news/20260325-cq-stack-overflow-for-ai/",
-    "https://gigazine.net/news/20260325-child-protection-internet-access-control/",
-    "https://gigazine.net/news/20260325-smartphone-notification-seven-seconds/"
+    "https://gigazine.net/news/20260325-apple-business/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=208698",
+    "https://aismiley.co.jp/?post_type=ai_news&p=208710",
+    "https://aismiley.co.jp/?post_type=ai_news&p=209351",
     "https://aismiley.co.jp/?post_type=ai_news&p=206471",
     "https://aismiley.co.jp/?post_type=ai_news&p=209170",
     "https://aismiley.co.jp/?post_type=ai_news&p=209617",
@@ -1659,12 +1662,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=205353",
     "https://aismiley.co.jp/?post_type=ai_news&p=207907",
     "https://aismiley.co.jp/?post_type=ai_news&p=206967",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207480",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207418",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206437",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207275"
+    "https://aismiley.co.jp/?post_type=ai_news&p=207480"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186088",
     "https://win-tab.net/?p=186077",
     "https://win-tab.net/?p=186061",
     "https://win-tab.net/?p=186049",
@@ -1713,8 +1714,7 @@
     "https://win-tab.net/?p=185369",
     "https://win-tab.net/?p=185345",
     "https://win-tab.net/?p=185348",
-    "https://win-tab.net/?p=185328",
-    "https://win-tab.net/?p=185309"
+    "https://win-tab.net/?p=185328"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:z7z87FMC3kM",
@@ -2017,6 +2017,8 @@
     "yt:video:mkmakp99T0c"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=256473",
+    "https://garumax.com/?p=258653",
     "https://garumax.com/?p=258668",
     "https://garumax.com/?p=258679",
     "https://garumax.com/?p=258403",
@@ -2064,9 +2066,7 @@
     "https://garumax.com/?p=257269",
     "https://garumax.com/?p=257127",
     "https://garumax.com/?p=257235",
-    "https://garumax.com/?p=257217",
-    "https://garumax.com/?p=257215",
-    "https://garumax.com/?p=257183"
+    "https://garumax.com/?p=257217"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-book-design-korean",
@@ -2167,6 +2167,8 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2037322302497640894",
+    "2037322319270649918",
     "2037193970695233822",
     "2037187073611079704",
     "2032987493344456762",
@@ -2214,9 +2216,7 @@
     "2036288621532291132",
     "2036244288825336279",
     "2036244304117768230",
-    "2036244319183769833",
-    "2036086311485051139",
-    "2036086323657015352"
+    "2036244319183769833"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
@@ -2254,6 +2254,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2037336004605174065",
+    "2037301951256564185",
+    "2037324558198546776",
     "2037107220543135836",
     "2037289433456918686",
     "2037287566052048912",
@@ -2300,10 +2303,7 @@
     "2035383487797313569",
     "2034789032820187289",
     "2035383349787959680",
-    "2034616370365915463",
-    "2034950579370565671",
-    "2034512073481507269",
-    "2034179392663146851"
+    "2034616370365915463"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2037304590534644169",
