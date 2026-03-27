@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2097067.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2097004.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096998.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096992.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2096161.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096228.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096230.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2096187.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2096202.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2096187.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/media/music/Audex.html",
@@ -371,6 +371,8 @@
     "yt:video:aGPcStufdFs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:8P5ufRRhxIM",
+    "yt:video:nSConCOY9XM",
     "yt:video:ghYUx24fYJI",
     "yt:video:7ltIGiXGSf0",
     "yt:video:GeVFCTxqm1o",
@@ -418,9 +420,7 @@
     "yt:video:i4bmTq_hRJs",
     "yt:video:eSrlCIxkI-8",
     "yt:video:8CdGJVQMrZQ",
-    "yt:video:FXeGehW_h-U",
-    "yt:video:wqaabWrzWa8",
-    "yt:video:_kk8pSqwDII"
+    "yt:video:FXeGehW_h-U"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:jaJRe6TAk7M",
@@ -2649,6 +2649,16 @@
     "2036760805631479822"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2037480563003793883",
+    "2037480574772994546",
+    "2037480586521251886",
+    "2037480598189851112",
+    "2037480610080678321",
+    "2037480621870887155",
+    "2037480633656902081",
+    "2037480645279297634",
+    "2037480656947888274",
+    "2037456249571455166",
     "2037371558352789592",
     "2037162568066941324",
     "2037422285863420318",
@@ -2688,17 +2698,7 @@
     "2035129809223950471",
     "2035129821127483749",
     "2035129832951226397",
-    "2035076110854365344",
-    "2035129856871342474",
-    "2035129844854575535",
-    "2035129797102465339",
-    "2034774741006086160",
-    "2035119561226559831",
-    "2035119549478281574",
-    "2035119501709316559",
-    "2034661009416475009",
-    "2034425577898443207",
-    "2034425589743149365"
+    "2035076110854365344"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2036057223093453273",
