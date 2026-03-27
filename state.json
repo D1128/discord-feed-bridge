@@ -1561,6 +1561,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260327-headline/",
+    "https://gigazine.net/news/20260327-ai-remove-books-school-library/",
     "https://gigazine.net/news/20260327-ai-roundtable/",
     "https://gigazine.net/news/20260327-yuraku-milkmania-strawberry/",
     "https://gigazine.net/news/20260327-x-premium-plus-x-pro/",
@@ -1608,9 +1610,7 @@
     "https://gigazine.net/news/20260325-wine-11-linux/",
     "https://gigazine.net/news/20260325-headline/",
     "https://gigazine.net/news/20260325-github-deleted-piracy-repos-and-forks/",
-    "https://gigazine.net/news/20260325-guilty-nope/",
-    "https://gigazine.net/news/20260325-strava-reveal-french-aircraft-carrier/",
-    "https://gigazine.net/news/20260325-jensen-huang-agi/"
+    "https://gigazine.net/news/20260325-guilty-nope/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209067",
@@ -2167,6 +2167,9 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2037481982423376001",
+    "2037481997841686617",
+    "2037482013427748907",
     "2037399760588734667",
     "2037406314570355148",
     "2037384380298244462",
@@ -2213,10 +2216,7 @@
     "2036440689400238108",
     "2036440701102334286",
     "2036440712879939846",
-    "2036440724699488299",
-    "2036440736439345291",
-    "2036440748204368175",
-    "2036440760019788247"
+    "2036440724699488299"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
@@ -2254,6 +2254,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2037473745720541408",
+    "2037473789467087315",
+    "2037476653417255010",
     "2037336004605174065",
     "2037301951256564185",
     "2037324558198546776",
@@ -2300,10 +2303,7 @@
     "2035381888278565365",
     "2035363932072984901",
     "2035364606840029385",
-    "2035383487797313569",
-    "2034789032820187289",
-    "2035383349787959680",
-    "2034616370365915463"
+    "2035383487797313569"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2037304590534644169",
