@@ -589,6 +589,7 @@
     "https://taskhub.jp/magazine/?p=14102"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=301319",
     "https://tabkul.com/?p=301317",
     "https://tabkul.com/?p=301316",
     "https://tabkul.com/?p=301314",
@@ -637,8 +638,7 @@
     "https://tabkul.com/?p=301190",
     "https://tabkul.com/?p=301183",
     "https://tabkul.com/?p=301182",
-    "https://tabkul.com/?p=301178",
-    "https://tabkul.com/?p=301179"
+    "https://tabkul.com/?p=301178"
   ],
   "https://chinadap.jp/feed": [
     "https://chinadap.jp/?p=34846",
@@ -2411,6 +2411,8 @@
     "2033813757542207759"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2037523179212869693",
+    "2037542420439801862",
     "2037516279192707292",
     "2037512347062034831",
     "2037506862652989676",
@@ -2458,9 +2460,7 @@
     "2036526759055859941",
     "2036531455539683648",
     "2036110566721486946",
-    "2036363737729474991",
-    "2036371396410933565",
-    "2036353549471518806"
+    "2036363737729474991"
   ],
   "https://nitter.net/chibimana/rss": [
     "2035556340270248142",
