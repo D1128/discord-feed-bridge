@@ -1561,6 +1561,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260327-google-gemini-3-1-flas-live/",
+    "https://gigazine.net/news/20260327-mistral-voxtral-tts/",
+    "https://gigazine.net/news/20260327-dreamina-seedance-2-bytedances-capcut/",
     "https://gigazine.net/news/20260327-farewell-to-mac-pro/",
     "https://gigazine.net/news/20260327-netflix-raises-prices/",
     "https://gigazine.net/news/20260327-chatgpt-erotic-mode-drop-to-release/",
@@ -1607,12 +1610,10 @@
     "https://gigazine.net/news/20260325-disrupt-sleep/",
     "https://gigazine.net/news/20260325-apple-ios-ipados-26-4-released/",
     "https://gigazine.net/news/20260325-molmoweb/",
-    "https://gigazine.net/news/20260325-nintendo-cuts-production-switch-2/",
-    "https://gigazine.net/news/20260325-firefox-149/",
-    "https://gigazine.net/news/20260325-openai-announces-shut-down-sora/",
-    "https://gigazine.net/news/20260325-apple-business/"
+    "https://gigazine.net/news/20260325-nintendo-cuts-production-switch-2/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=209067",
     "https://aismiley.co.jp/?post_type=ai_news&p=208698",
     "https://aismiley.co.jp/?post_type=ai_news&p=208710",
     "https://aismiley.co.jp/?post_type=ai_news&p=209351",
@@ -1661,8 +1662,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=206882",
     "https://aismiley.co.jp/?post_type=ai_news&p=205353",
     "https://aismiley.co.jp/?post_type=ai_news&p=207907",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206967",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207480"
+    "https://aismiley.co.jp/?post_type=ai_news&p=206967"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186088",
@@ -2167,6 +2167,16 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2037384380298244462",
+    "2037384396106526775",
+    "2037384411537342646",
+    "2037385318454972581",
+    "2037389649065451611",
+    "2037389664496292312",
+    "2037389676773085273",
+    "2037389688336711937",
+    "2037390656868614592",
+    "2037395587503714660",
     "2037322302497640894",
     "2037322319270649918",
     "2037193970695233822",
@@ -2206,17 +2216,7 @@
     "2036440748204368175",
     "2036440760019788247",
     "2036440772107706442",
-    "2036400461750870380",
-    "2036390980153462939",
-    "2036390998130172210",
-    "2036391014093693023",
-    "2036391026286641535",
-    "2036288593933770789",
-    "2036288609226293653",
-    "2036288621532291132",
-    "2036244288825336279",
-    "2036244304117768230",
-    "2036244319183769833"
+    "2036400461750870380"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
