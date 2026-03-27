@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2096998.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2096992.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096952.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096873.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2096864.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2096230.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096187.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096202.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2096144.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2096115.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2096073.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2096144.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/media/music/Audex.html",
@@ -2649,6 +2649,8 @@
     "2036760805631479822"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2037371558352789592",
+    "2037162568066941324",
     "2037422285863420318",
     "2037422297892700336",
     "2037422309519368543",
@@ -2696,9 +2698,7 @@
     "2035119501709316559",
     "2034661009416475009",
     "2034425577898443207",
-    "2034425589743149365",
-    "2034425601495560435",
-    "2034425613273198790"
+    "2034425589743149365"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2036057223093453273",
