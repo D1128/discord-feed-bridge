@@ -1668,6 +1668,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=206967"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186114",
     "https://win-tab.net/?p=186109",
     "https://win-tab.net/?p=186100",
     "https://win-tab.net/?p=186088",
@@ -1716,8 +1717,7 @@
     "https://win-tab.net/?p=185397",
     "https://win-tab.net/?p=185390",
     "https://win-tab.net/?p=185215",
-    "https://win-tab.net/?p=185369",
-    "https://win-tab.net/?p=185345"
+    "https://win-tab.net/?p=185369"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:k8M3NBgLY58",
@@ -2171,6 +2171,10 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2037892135811428757",
+    "2037898147926811105",
+    "2037899575760212150",
+    "2037899778810679762",
     "2037889981105185038",
     "2037889996657774962",
     "2037890011153236428",
@@ -2216,11 +2220,7 @@
     "2037187073611079704",
     "2032987493344456762",
     "2036821274497020249",
-    "2036821287205732521",
-    "2036789041174298763",
-    "2036789825769238543",
-    "2036791413946634685",
-    "2036791431520825599"
+    "2036821287205732521"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
