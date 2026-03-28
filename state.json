@@ -371,6 +371,7 @@
     "yt:video:aGPcStufdFs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:oc9jeU5tTs0",
     "yt:video:8P5ufRRhxIM",
     "yt:video:nSConCOY9XM",
     "yt:video:ghYUx24fYJI",
@@ -419,8 +420,7 @@
     "yt:video:5ovjCfoTuBU",
     "yt:video:i4bmTq_hRJs",
     "yt:video:eSrlCIxkI-8",
-    "yt:video:8CdGJVQMrZQ",
-    "yt:video:FXeGehW_h-U"
+    "yt:video:8CdGJVQMrZQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:jaJRe6TAk7M",
@@ -2650,6 +2650,11 @@
     "2037016325592379531"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2037791649561297165",
+    "2037791661364019581",
+    "2037791673108070682",
+    "2037791684843725246",
+    "2037791696554266665",
     "2037480551314293245",
     "2037480563003793883",
     "2037480574772994546",
@@ -2694,12 +2699,7 @@
     "2035134060356571414",
     "2035165949108904385",
     "2035166129153593832",
-    "2035166116998520952",
-    "2035165961062687151",
-    "2035119537495187673",
-    "2035129809223950471",
-    "2035129821127483749",
-    "2035129832951226397"
+    "2035166116998520952"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2036057223093453273",
