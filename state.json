@@ -1046,6 +1046,7 @@
     "yt:video:dnZwoT7n_6M"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2603/29/news018.html",
     "https://www.itmedia.co.jp/pcuser/articles/2603/29/news014.html",
     "https://www.itmedia.co.jp/mobile/articles/2603/28/news036.html",
     "https://www.itmedia.co.jp/mobile/articles/2603/28/news034.html",
@@ -1094,8 +1095,7 @@
     "https://www.itmedia.co.jp/mobile/articles/2603/26/news107.html",
     "https://www.itmedia.co.jp/news/articles/2603/26/news108.html",
     "https://www.itmedia.co.jp/news/articles/2603/26/news076.html",
-    "https://www.itmedia.co.jp/aiplus/articles/2603/26/news093.html",
-    "https://www.itmedia.co.jp/news/articles/2603/26/news089.html"
+    "https://www.itmedia.co.jp/aiplus/articles/2603/26/news093.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1203,6 +1203,7 @@
     "https://daily-gadget.net/?p=111314"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=57674",
     "https://sumahodigest.com/?p=57668",
     "https://sumahodigest.com/?p=57664",
     "https://sumahodigest.com/?p=57653",
@@ -1251,8 +1252,7 @@
     "https://sumahodigest.com/?p=57415",
     "https://sumahodigest.com/?p=57421",
     "https://sumahodigest.com/?p=57425",
-    "https://sumahodigest.com/?p=57411",
-    "https://sumahodigest.com/?p=57404"
+    "https://sumahodigest.com/?p=57411"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/17179246901366822461",
@@ -2536,6 +2536,7 @@
     "2026473438060359706"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2038018046410072390",
     "2037920219302420638",
     "2037847211409805791",
     "2037847223380459561",
@@ -2584,8 +2585,7 @@
     "2036923844041244819",
     "2036862253455253618",
     "2036826223482159134",
-    "2036826525832732905",
-    "2036803369638195528"
+    "2036826525832732905"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
