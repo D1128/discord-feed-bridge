@@ -1564,6 +1564,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260329-craftplan/",
     "https://gigazine.net/news/20260329-rollercoaster-tycoon/",
     "https://gigazine.net/news/20260329-feel-attractive-likely-share-ideas-work/",
     "https://gigazine.net/news/20260329-kingdom-come-deliverance-2-developer-ai-replacing/",
@@ -1612,8 +1613,7 @@
     "https://gigazine.net/news/20260326-github-copilot-data-training/",
     "https://gigazine.net/news/20260326-google-post-quantum-cryptography/",
     "https://gigazine.net/news/20260326-flytrap-accelerator/",
-    "https://gigazine.net/news/20260326-google-turbo-quant/",
-    "https://gigazine.net/news/20260326-meta-layoffs-hundreds-employees/"
+    "https://gigazine.net/news/20260326-google-turbo-quant/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209067",
@@ -1917,6 +1917,7 @@
     "yt:video:2bueK0iRrBM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:hvnTVM00Lu4",
     "yt:video:FPD0jk-ZI3c",
     "yt:video:FF37bSgyliw",
     "yt:video:sMWNHTLqxKo",
@@ -1965,8 +1966,7 @@
     "yt:video:a8Ej_9myFkA",
     "yt:video:oUiDRkR1YOk",
     "yt:video:T9iIlhittDc",
-    "yt:video:hRJtpN3fjpw",
-    "yt:video:8EKOWsIivts"
+    "yt:video:hRJtpN3fjpw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:pH2tvzZEW48",
@@ -2258,6 +2258,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2037875132350488609",
+    "2038181827442360647",
     "2037860710479528431",
     "2038046666243404093",
     "2037840292649579001",
@@ -2305,9 +2307,7 @@
     "2036036069351924049",
     "2036077240887492768",
     "2035982115620491660",
-    "2035288861857955999",
-    "2035992975818551634",
-    "2035992441191559330"
+    "2035288861857955999"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2038029114469474625",
