@@ -1564,6 +1564,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260330-geekom-a5-pro-2026-edition/",
     "https://gigazine.net/news/20260330-pocketpal-ai/",
     "https://gigazine.net/news/20260330-sentrysearch/",
     "https://gigazine.net/news/20260330-why-control-rooms-were-seafoam-green/",
@@ -1612,8 +1613,7 @@
     "https://gigazine.net/news/20260327-ebook-fresh-start-sale/",
     "https://gigazine.net/news/20260327-slovenia-election-israel/",
     "https://gigazine.net/news/20260327-wikipedia-llm-article-text-ban/",
-    "https://gigazine.net/news/20260326-cern-transporting-antimatter/",
-    "https://gigazine.net/news/20260326-baic-sodium-ion-ev-battery/"
+    "https://gigazine.net/news/20260326-cern-transporting-antimatter/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209067",
@@ -2258,6 +2258,11 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2038251492747182548",
+    "2038225835317162300",
+    "2038198310805397522",
+    "2038362426949923079",
+    "2038202131178774546",
     "2037875132350488609",
     "2038181827442360647",
     "2037860710479528431",
@@ -2302,14 +2307,10 @@
     "2036421055183724708",
     "2036428057926631575",
     "2036110566721486946",
-    "2036087239151898832",
-    "2035930486019862555",
-    "2036036069351924049",
-    "2036077240887492768",
-    "2035982115620491660",
-    "2035288861857955999"
+    "2036087239151898832"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2038392005722828837",
     "2038029114469474625",
     "2037666223111147927",
     "2037666474928775383",
@@ -2358,8 +2359,7 @@
     "2026220564986417648",
     "2026071572902031800",
     "2025708933747556780",
-    "2025346797242061255",
-    "2024983906093564330"
+    "2025346797242061255"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2038076755823776061",
