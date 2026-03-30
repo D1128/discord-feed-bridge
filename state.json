@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2097345.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2097364.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2097386.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097265.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097270.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2097269.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2096466.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096462.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2096482.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2096337.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2096347.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2096354.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2096368.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2096337.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/media/music/Audex.html",
@@ -203,6 +203,8 @@
     "https://telektlist.com/?p=136829"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23806",
+    "https://codezine.jp/article/detail/23808",
     "https://codezine.jp/article/detail/23797",
     "https://codezine.jp/article/detail/23794",
     "https://codezine.jp/article/detail/23666",
@@ -250,9 +252,7 @@
     "https://codezine.jp/article/detail/23769",
     "https://codezine.jp/article/detail/23742",
     "https://codezine.jp/article/detail/23766",
-    "https://codezine.jp/article/detail/23739",
-    "https://codezine.jp/article/detail/23736",
-    "https://codezine.jp/article/detail/23764"
+    "https://codezine.jp/article/detail/23739"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2653,6 +2653,7 @@
     "2037131099881824634"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
+    "2038430713897435528",
     "2038430737326833827",
     "2038430725624742163",
     "2038430702140850564",
@@ -2701,8 +2702,7 @@
     "2037371558352789592",
     "2037162568066941324",
     "2037422285863420318",
-    "2037422297892700336",
-    "2037422309519368543"
+    "2037422297892700336"
   ],
   "https://nitter.net/haniwa008/rss": [
     "2038430536335835181",
