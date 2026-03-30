@@ -1564,6 +1564,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260330-headline/",
     "https://gigazine.net/news/20260330-gitlab-co-founder-sid-sijbrandij-cancer/",
     "https://gigazine.net/news/20260330-nissin-donbei-classic/",
     "https://gigazine.net/news/20260330-openai-codex-plugins/",
@@ -1612,8 +1613,7 @@
     "https://gigazine.net/news/20260327-ai-roundtable/",
     "https://gigazine.net/news/20260327-yuraku-milkmania-strawberry/",
     "https://gigazine.net/news/20260327-x-premium-plus-x-pro/",
-    "https://gigazine.net/news/20260327-music-piracy-cox/",
-    "https://gigazine.net/news/20260327-epstein-archive-jcal/"
+    "https://gigazine.net/news/20260327-music-piracy-cox/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209536",
@@ -2258,6 +2258,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2038556058898341991",
     "2038375656917172298",
     "2038251492747182548",
     "2038225835317162300",
@@ -2306,8 +2307,7 @@
     "2036201329690026007",
     "2036472541460746370",
     "2036421055183724708",
-    "2036428057926631575",
-    "2036110566721486946"
+    "2036428057926631575"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2038392005722828837",
