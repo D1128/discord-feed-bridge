@@ -1564,6 +1564,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260331-claude-code-codex-plugin/",
+    "https://gigazine.net/news/20260331-openclaw-autoclaw/",
+    "https://gigazine.net/news/20260331-android-developer-verification/",
+    "https://gigazine.net/news/20260331-openai-sora-cost/",
     "https://gigazine.net/news/20260331-china-smart-glasses-cheating/",
     "https://gigazine.net/news/20260331-qwen3-5-omni/",
     "https://gigazine.net/news/20260331-bluesky-attie-blocked/",
@@ -1609,11 +1613,7 @@
     "https://gigazine.net/news/20260329-voltstrategist/",
     "https://gigazine.net/news/20260329-craftplan/",
     "https://gigazine.net/news/20260329-rollercoaster-tycoon/",
-    "https://gigazine.net/news/20260329-feel-attractive-likely-share-ideas-work/",
-    "https://gigazine.net/news/20260329-kingdom-come-deliverance-2-developer-ai-replacing/",
-    "https://gigazine.net/news/20260329-crunchyroll-lawsuit/",
-    "https://gigazine.net/news/20260328-scanopy/",
-    "https://gigazine.net/news/20260328-plug-in-solar-utility-concerns/"
+    "https://gigazine.net/news/20260329-feel-attractive-likely-share-ideas-work/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209536",
@@ -2102,6 +2102,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=60829",
     "https://androplus.jp/?p=60805",
     "https://androplus.jp/?p=60813",
     "https://androplus.jp/?p=60823",
@@ -2150,8 +2151,7 @@
     "https://androplus.jp/?p=60199",
     "https://androplus.jp/?p=60190",
     "https://androplus.jp/?p=60180",
-    "https://androplus.jp/?p=60187",
-    "https://androplus.jp/?p=60144"
+    "https://androplus.jp/?p=60187"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
