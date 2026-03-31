@@ -1307,6 +1307,7 @@
     "hatenablog://entry/17179246901335799229"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=20555",
     "https://official.gfs.tokyo/blog/?p=20538",
     "https://official.gfs.tokyo/blog/?p=20616",
     "https://official.gfs.tokyo/blog/?p=20620",
@@ -1355,8 +1356,7 @@
     "https://official.gfs.tokyo/blog/?p=20191",
     "https://official.gfs.tokyo/blog/?p=20095",
     "https://official.gfs.tokyo/blog/?p=20136",
-    "https://official.gfs.tokyo/blog/?p=20079",
-    "https://official.gfs.tokyo/blog/?p=20074"
+    "https://official.gfs.tokyo/blog/?p=20079"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:6EKEI7UYgHY",
@@ -2536,6 +2536,9 @@
     "2026473438060359706"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2038768358481695197",
+    "2038768346649559520",
+    "2038768307629879328",
     "2038757673295044866",
     "2038757674733731989",
     "2038735267117346923",
@@ -2582,10 +2585,7 @@
     "2037847223380459561",
     "2037847234998673597",
     "2037847246860059098",
-    "2037851233596449239",
-    "2037832898020007947",
-    "2037661419894931498",
-    "2037724869144781123"
+    "2037851233596449239"
   ],
   "https://nitter.net/codejump_com/rss": [
     "https://nitter.net/yat8823jp/status/1922296866173042801#m",
