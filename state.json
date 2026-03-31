@@ -538,6 +538,8 @@
     "yt:video:Vz2_-9eRDC0"
   ],
   "https://bocek.co.jp/media/feed/": [
+    "https://taskhub.jp/magazine/?p=14641",
+    "https://taskhub.jp/magazine/?p=14632",
     "https://taskhub.jp/magazine/?p=14621",
     "https://taskhub.jp/magazine/?p=14600",
     "https://taskhub.jp/magazine/?p=14613",
@@ -585,9 +587,7 @@
     "https://taskhub.jp/magazine/?p=14162",
     "https://taskhub.jp/magazine/?p=14140",
     "https://taskhub.jp/magazine/?p=14136",
-    "https://taskhub.jp/magazine/?p=14117",
-    "https://taskhub.jp/magazine/?p=14113",
-    "https://taskhub.jp/magazine/?p=14109"
+    "https://taskhub.jp/magazine/?p=14117"
   ],
   "https://feeds.feedburner.com/tabkul": [
     "https://tabkul.com/?p=301365",
@@ -758,6 +758,8 @@
     "https://liginc.co.jp/?p=669423"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:Schg4OxQKzM",
+    "yt:video:fCZNhFd7AKQ",
     "yt:video:g9snqaWRY3M",
     "yt:video:sJLgT2SpcXo",
     "yt:video:rhGI-MI2JyM",
@@ -805,9 +807,7 @@
     "yt:video:G1omdM6E-zM",
     "yt:video:iQwJ-CMjAFs",
     "yt:video:jaXZI01AuLA",
-    "yt:video:9lJ_WO_1a6U",
-    "yt:video:hE9VjX6MK8Y",
-    "yt:video:uBfBtsj41hw"
+    "yt:video:9lJ_WO_1a6U"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:8KDBb-5K2-w",
@@ -861,6 +861,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:V1now3g9mwo",
     "yt:video:PMIUa_0q7b0",
     "yt:video:xKoG7lvQqS0",
     "yt:video:r33yJG5Qk_U",
@@ -909,8 +910,7 @@
     "yt:video:VlgoVAoDQHI",
     "yt:video:8K2Oa2GgOFQ",
     "yt:video:VDmyf_53cBk",
-    "yt:video:NfLYI6LL8dI",
-    "yt:video:KyIppUe7eeM"
+    "yt:video:NfLYI6LL8dI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:T852WlTgPxI",
@@ -2362,6 +2362,7 @@
     "2025708933747556780"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2038813540325490890",
     "2038752493929390569",
     "2038076755823776061",
     "2037454578476572753",
@@ -2410,10 +2411,11 @@
     "2034078678175649952",
     "2034102498181427430",
     "2034109185244467477",
-    "2034042096999665678",
-    "2033146192524124666"
+    "2034042096999665678"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2038642325161955430",
+    "2038751432569184467",
     "2038608421357080661",
     "2038609647603712013",
     "2038570987218981259",
@@ -2461,9 +2463,7 @@
     "2037100990093287743",
     "2037151429069267233",
     "2037132956159140127",
-    "2037128179194970603",
-    "2037007046164554240",
-    "2036968424585519203"
+    "2037128179194970603"
   ],
   "https://nitter.net/chibimana/rss": [
     "2035556340270248142",
