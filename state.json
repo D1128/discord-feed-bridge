@@ -1566,6 +1566,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260401-corporate-slave-story/",
+    "https://gigazine.net/news/20260401-mr-chatterbox/",
     "https://gigazine.net/news/20260401-deploy-tarot/",
     "https://gigazine.net/news/20260401-veil-pdf/",
     "https://gigazine.net/news/20260401-rfc-406i/",
@@ -1613,11 +1615,11 @@
     "https://gigazine.net/news/20260330-project-hail-mary-amazon-mgm-biggest-box-office/",
     "https://gigazine.net/news/20260330-playstation-5-prices-hike/",
     "https://gigazine.net/news/20260330-white-house-app-tracking/",
-    "https://gigazine.net/news/20260330-bluesky-attie/",
-    "https://gigazine.net/news/20260330-anthropics-claude-popularity/",
-    "https://gigazine.net/news/20260330-couples-share-gut-oral-skin-bacteria/"
+    "https://gigazine.net/news/20260330-bluesky-attie/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=209582",
+    "https://aismiley.co.jp/?post_type=ai_news&p=209875",
     "https://aismiley.co.jp/?post_type=ai_news&p=208345",
     "https://aismiley.co.jp/?post_type=ai_news&p=208180",
     "https://aismiley.co.jp/?post_type=ai_news&p=208243",
@@ -1665,9 +1667,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208110",
     "https://aismiley.co.jp/?post_type=ai_news&p=207422",
     "https://aismiley.co.jp/?post_type=ai_news&p=207698",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207925",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206453",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207763"
+    "https://aismiley.co.jp/?post_type=ai_news&p=207925"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186223",
@@ -2025,6 +2025,7 @@
     "yt:video:fUUqP2YEeFA"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=259269",
     "https://garumax.com/?p=259281",
     "https://garumax.com/?p=259267",
     "https://garumax.com/?p=258382",
@@ -2073,8 +2074,7 @@
     "https://garumax.com/?p=257515",
     "https://garumax.com/?p=257531",
     "https://garumax.com/?p=257540",
-    "https://garumax.com/?p=257525",
-    "https://garumax.com/?p=257261"
+    "https://garumax.com/?p=257525"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/voice-counter",
@@ -2263,6 +2263,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2039181564253512066",
+    "2039191448323784966",
     "2038976834168291632",
     "2038972023490351382",
     "2038961980237881639",
@@ -2310,9 +2312,7 @@
     "2037723457803399495",
     "2037703832818593837",
     "2037418504165744858",
-    "2037449975769260302",
-    "2037543954116415782",
-    "2037437254449463788"
+    "2037449975769260302"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2039116026755895790",
