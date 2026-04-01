@@ -1568,6 +1568,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260401-nattynote-firefox-addon/",
+    "https://gigazine.net/news/20260401-colibri-at-protocol-chat/",
     "https://gigazine.net/news/20260401-ndlocr-lite-web-ai/",
     "https://gigazine.net/news/20260401-headline/",
     "https://gigazine.net/news/20260401-appcloud-delete-adb-command/",
@@ -1615,9 +1617,7 @@
     "https://gigazine.net/news/20260330-gitlab-co-founder-sid-sijbrandij-cancer/",
     "https://gigazine.net/news/20260330-nissin-donbei-classic/",
     "https://gigazine.net/news/20260330-openai-codex-plugins/",
-    "https://gigazine.net/news/20260330-ai-sycophantic/",
-    "https://gigazine.net/news/20260330-fruit-love-island-ai-movie/",
-    "https://gigazine.net/news/20260330-ai-chatbots-depolarising/"
+    "https://gigazine.net/news/20260330-ai-sycophantic/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209788",
@@ -1975,6 +1975,7 @@
     "yt:video:T9iIlhittDc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:dJQwdn5DG9I",
     "yt:video:fsGqDXBRv94",
     "yt:video:y2VetdSlzX0",
     "yt:video:iCbO3_UWikM",
@@ -2023,8 +2024,7 @@
     "yt:video:mgQn6GeFO_k",
     "yt:video:ePdO6lmnYTA",
     "yt:video:8mmh1JdU-TY",
-    "yt:video:JO3JrOyy-Ss",
-    "yt:video:fUUqP2YEeFA"
+    "yt:video:JO3JrOyy-Ss"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=259269",
@@ -2109,6 +2109,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=60861",
     "https://androplus.jp/?p=60752",
     "https://androplus.jp/?p=60829",
     "https://androplus.jp/?p=60805",
@@ -2157,8 +2158,7 @@
     "https://androplus.jp/?p=60211",
     "https://androplus.jp/?p=60206",
     "https://androplus.jp/?p=60199",
-    "https://androplus.jp/?p=60190",
-    "https://androplus.jp/?p=60180"
+    "https://androplus.jp/?p=60190"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
