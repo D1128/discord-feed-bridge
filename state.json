@@ -759,6 +759,7 @@
     "https://liginc.co.jp/?p=675635"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:j_TDUnaWY9g",
     "yt:video:EUFod856MYk",
     "yt:video:LDWxsSetFUY",
     "yt:video:-dWOJeg2KM0",
@@ -807,8 +808,7 @@
     "yt:video:_Lb-V5e1YnA",
     "yt:video:6r4EzmX5PJc",
     "yt:video:Tqyrazpjcas",
-    "yt:video:vV5yDnjFX9s",
-    "yt:video:hK1ThnSqX5A"
+    "yt:video:vV5yDnjFX9s"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -996,6 +996,7 @@
     "yt:video:LMaTfGsl7Dg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9buL3Iph_f7AZxdzmiBL8Q": [
+    "yt:video:nY0qSTjXeW4",
     "yt:video:dU_wzx6cl6c",
     "yt:video:CynQ9mpebRQ",
     "yt:video:-SERVMCWoyk",
@@ -1044,8 +1045,7 @@
     "yt:video:nKssr3YNLLI",
     "yt:video:hVpEthNQAo0",
     "yt:video:MON-hQbRQ60",
-    "yt:video:0EKOSp1Nys0",
-    "yt:video:xAkIsxHHuuw"
+    "yt:video:0EKOSp1Nys0"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
     "https://www.itmedia.co.jp/news/articles/2604/01/news090.html",
@@ -2421,6 +2421,8 @@
     "2034109185244467477"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2039131943342862390",
+    "2039304133854019635",
     "2039205277594239440",
     "2039280355942060184",
     "2039277098628759622",
@@ -2468,9 +2470,7 @@
     "2037516279192707292",
     "2037512347062034831",
     "2037506862652989676",
-    "2035701268799496332",
-    "2035405036961059006",
-    "2037496716098977805"
+    "2035701268799496332"
   ],
   "https://nitter.net/chibimana/rss": [
     "2035556340270248142",
