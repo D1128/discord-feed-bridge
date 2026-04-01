@@ -1566,6 +1566,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260401-deploy-tarot/",
+    "https://gigazine.net/news/20260401-veil-pdf/",
+    "https://gigazine.net/news/20260401-rfc-406i/",
+    "https://gigazine.net/news/20260401-running-tesla-model-3s-computer-desk/",
+    "https://gigazine.net/news/20260401-visualping/",
     "https://gigazine.net/news/20260401-comfyui-dynamic-vram/",
     "https://gigazine.net/news/20260401-aprilfool/",
     "https://gigazine.net/news/20260331-project-plowshare/",
@@ -1610,12 +1615,7 @@
     "https://gigazine.net/news/20260330-white-house-app-tracking/",
     "https://gigazine.net/news/20260330-bluesky-attie/",
     "https://gigazine.net/news/20260330-anthropics-claude-popularity/",
-    "https://gigazine.net/news/20260330-couples-share-gut-oral-skin-bacteria/",
-    "https://gigazine.net/news/20260330-anthropic-claude-mythos/",
-    "https://gigazine.net/news/20260330-memory-stock-down/",
-    "https://gigazine.net/news/20260330-geekom-a5-pro-2026-edition/",
-    "https://gigazine.net/news/20260330-pocketpal-ai/",
-    "https://gigazine.net/news/20260330-sentrysearch/"
+    "https://gigazine.net/news/20260330-couples-share-gut-oral-skin-bacteria/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=208345",
@@ -1670,6 +1670,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=207763"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186223",
     "https://win-tab.net/?p=186214",
     "https://win-tab.net/?p=186208",
     "https://win-tab.net/?p=186201",
@@ -1718,8 +1719,7 @@
     "https://win-tab.net/?p=185510",
     "https://win-tab.net/?p=185491",
     "https://win-tab.net/?p=185466",
-    "https://win-tab.net/?p=185448",
-    "https://win-tab.net/?p=185434"
+    "https://win-tab.net/?p=185448"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:X0EG6VP1_IY",
@@ -2025,6 +2025,8 @@
     "yt:video:fUUqP2YEeFA"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=259281",
+    "https://garumax.com/?p=259267",
     "https://garumax.com/?p=258382",
     "https://garumax.com/?p=258613",
     "https://garumax.com/?p=259069",
@@ -2072,9 +2074,7 @@
     "https://garumax.com/?p=257531",
     "https://garumax.com/?p=257540",
     "https://garumax.com/?p=257525",
-    "https://garumax.com/?p=257261",
-    "https://garumax.com/?p=256559",
-    "https://garumax.com/?p=255024"
+    "https://garumax.com/?p=257261"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/voice-counter",
@@ -2176,6 +2176,10 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2039138404286484915",
+    "2039138419767665005",
+    "2039140531813650533",
+    "2038984548466426094",
     "2038924176921362899",
     "2038925967490744533",
     "2038925982938370271",
@@ -2221,11 +2225,7 @@
     "2038191785047191731",
     "2038166447395045396",
     "2038172507807871210",
-    "2038172524715053458",
-    "2038172536777941408",
-    "2038172874880758018",
-    "2038173975378100300",
-    "2038125237779509538"
+    "2038172524715053458"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
