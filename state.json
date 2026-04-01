@@ -1568,6 +1568,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260401-shadowbroker-global-intelligence-map/",
     "https://gigazine.net/news/20260401-nattynote-firefox-addon/",
     "https://gigazine.net/news/20260401-colibri-at-protocol-chat/",
     "https://gigazine.net/news/20260401-ndlocr-lite-web-ai/",
@@ -1616,8 +1617,7 @@
     "https://gigazine.net/news/20260330-headline/",
     "https://gigazine.net/news/20260330-gitlab-co-founder-sid-sijbrandij-cancer/",
     "https://gigazine.net/news/20260330-nissin-donbei-classic/",
-    "https://gigazine.net/news/20260330-openai-codex-plugins/",
-    "https://gigazine.net/news/20260330-ai-sycophantic/"
+    "https://gigazine.net/news/20260330-openai-codex-plugins/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209788",
@@ -2265,6 +2265,14 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2039306004190634268",
+    "2039306112609218959",
+    "2039187696137191757",
+    "2039205277594239440",
+    "2039091940579475617",
+    "2038994517127475398",
+    "2038994507191197788",
+    "2038994214592389444",
     "2039280355942060184",
     "2039277098628759622",
     "2039289673319891359",
@@ -2306,15 +2314,7 @@
     "2038251492747182548",
     "2038225835317162300",
     "2038198310805397522",
-    "2038362426949923079",
-    "2038202131178774546",
-    "2037875132350488609",
-    "2038181827442360647",
-    "2037860710479528431",
-    "2038046666243404093",
-    "2037840292649579001",
-    "2037848084487569775",
-    "2037848125373895109"
+    "2038362426949923079"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2039116026755895790",
