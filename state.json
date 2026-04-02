@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2098659.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098313.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098596.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098575.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097707.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2097804.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097682.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097702.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/macinfo/2097723.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097702.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/smartphone/FileBridge.html",
@@ -101,6 +101,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=92091",
     "https://butsuyoku-gadget.com/?p=92083",
     "https://butsuyoku-gadget.com/?p=92072",
     "https://butsuyoku-gadget.com/?p=92054",
@@ -149,8 +150,7 @@
     "https://butsuyoku-gadget.com/?p=91625",
     "https://butsuyoku-gadget.com/?p=91607",
     "https://butsuyoku-gadget.com/?p=91603",
-    "https://butsuyoku-gadget.com/?p=91591",
-    "https://butsuyoku-gadget.com/?p=91585"
+    "https://butsuyoku-gadget.com/?p=91591"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137425",
