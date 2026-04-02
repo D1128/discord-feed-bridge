@@ -1569,6 +1569,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260402-haagen-dazs-green-tea/",
     "https://gigazine.net/news/20260402-raspberry-pi-price-increases/",
     "https://gigazine.net/news/20260402-claude-code-unpacked/",
     "https://gigazine.net/news/20260402-baidu-robotaxi-outage-system-failure/",
@@ -1617,8 +1618,7 @@
     "https://gigazine.net/news/20260401-running-tesla-model-3s-computer-desk/",
     "https://gigazine.net/news/20260401-visualping/",
     "https://gigazine.net/news/20260401-comfyui-dynamic-vram/",
-    "https://gigazine.net/news/20260401-aprilfool/",
-    "https://gigazine.net/news/20260331-project-plowshare/"
+    "https://gigazine.net/news/20260401-aprilfool/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=209662",
@@ -1823,6 +1823,7 @@
     "yt:video:v3yTceqjYQk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:0jadUUJZd4w",
     "yt:video:4ud2bAVQccI",
     "yt:video:CnnBKmqIhYA",
     "yt:video:-CqzrjCuQBc",
@@ -1924,6 +1925,7 @@
     "yt:video:lCmZxHof-gg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:sQGpTQVgFCI",
     "yt:video:5zfqNrwyj8Q",
     "yt:video:hvnTVM00Lu4",
     "yt:video:FPD0jk-ZI3c",
@@ -1972,8 +1974,7 @@
     "yt:video:REqCkGeWyx4",
     "yt:video:KH7Xb9xHsVg",
     "yt:video:a8Ej_9myFkA",
-    "yt:video:oUiDRkR1YOk",
-    "yt:video:T9iIlhittDc"
+    "yt:video:oUiDRkR1YOk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:dJQwdn5DG9I",
@@ -2266,6 +2267,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2039347636088741999",
+    "2039401849825222661",
+    "2039332295384137940",
+    "2039634826584879267",
     "2039579831436988809",
     "2039306004190634268",
     "2039306112609218959",
@@ -2311,11 +2316,7 @@
     "2038396131185741968",
     "2038396536527478860",
     "2038426059830681650",
-    "2038556058898341991",
-    "2038375656917172298",
-    "2038251492747182548",
-    "2038225835317162300",
-    "2038198310805397522"
+    "2038556058898341991"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2039478917732458911",
