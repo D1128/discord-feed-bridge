@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2098523.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098659.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098313.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098596.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2097784.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097707.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2097804.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097682.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097702.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097682.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/smartphone/FileBridge.html",
@@ -154,6 +154,7 @@
     "https://butsuyoku-gadget.com/?p=91603"
   ],
   "https://telektlist.com/feed/": [
+    "https://telektlist.com/?p=137433",
     "https://telektlist.com/?p=137425",
     "https://telektlist.com/?p=137403",
     "https://telektlist.com/?p=137384",
@@ -202,8 +203,7 @@
     "https://telektlist.com/?p=136873",
     "https://telektlist.com/?p=136860",
     "https://telektlist.com/?p=136852",
-    "https://telektlist.com/?p=136840",
-    "https://telektlist.com/?p=136829"
+    "https://telektlist.com/?p=136840"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
     "https://codezine.jp/article/detail/23845",
