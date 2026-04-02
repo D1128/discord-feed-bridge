@@ -864,6 +864,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:N7ufJfT7g-o",
     "yt:video:pzDnVYqNcww",
     "yt:video:8VxolxucxS0",
     "yt:video:aG7FLHK7Bs4",
@@ -912,8 +913,7 @@
     "yt:video:ciG3kZk31wI",
     "yt:video:Ntq9x4toDt8",
     "yt:video:dZT6umY8skE",
-    "yt:video:pxJg4ogxDzM",
-    "yt:video:evKSG1gD94Y"
+    "yt:video:pxJg4ogxDzM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:T852WlTgPxI",
@@ -997,6 +997,7 @@
     "yt:video:LMaTfGsl7Dg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9buL3Iph_f7AZxdzmiBL8Q": [
+    "yt:video:6pU9yx41yB0",
     "yt:video:nY0qSTjXeW4",
     "yt:video:dU_wzx6cl6c",
     "yt:video:CynQ9mpebRQ",
@@ -1045,8 +1046,7 @@
     "yt:video:fVgaw9WDHSk",
     "yt:video:nKssr3YNLLI",
     "yt:video:hVpEthNQAo0",
-    "yt:video:MON-hQbRQ60",
-    "yt:video:0EKOSp1Nys0"
+    "yt:video:MON-hQbRQ60"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
     "https://www.itmedia.co.jp/business/articles/2604/02/news120.html",
@@ -2423,6 +2423,10 @@
     "2033825341828125002"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2039633893213807004",
+    "2039632744507134064",
+    "2039627943962677411",
+    "2039641501647700439",
     "2039579255286501497",
     "2039577388489847182",
     "2039521884170334271",
@@ -2468,11 +2472,7 @@
     "2030590639138906227",
     "2038412119331443026",
     "2038421331667247539",
-    "2038430536335835181",
-    "2038146576456249595",
-    "2038155233369669909",
-    "2037950938183573952",
-    "2037944955000459479"
+    "2038430536335835181"
   ],
   "https://nitter.net/chibimana/rss": [
     "2035556340270248142",
