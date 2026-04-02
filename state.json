@@ -1569,6 +1569,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260402-oracle-layoff-30000/",
+    "https://gigazine.net/news/20260402-headline/",
     "https://gigazine.net/news/20260402-haagen-dazs-green-tea/",
     "https://gigazine.net/news/20260402-raspberry-pi-price-increases/",
     "https://gigazine.net/news/20260402-claude-code-unpacked/",
@@ -1616,11 +1618,12 @@
     "https://gigazine.net/news/20260401-veil-pdf/",
     "https://gigazine.net/news/20260401-rfc-406i/",
     "https://gigazine.net/news/20260401-running-tesla-model-3s-computer-desk/",
-    "https://gigazine.net/news/20260401-visualping/",
-    "https://gigazine.net/news/20260401-comfyui-dynamic-vram/",
-    "https://gigazine.net/news/20260401-aprilfool/"
+    "https://gigazine.net/news/20260401-visualping/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=208685",
+    "https://aismiley.co.jp/?post_type=ai_news&p=210153",
+    "https://aismiley.co.jp/?post_type=ai_news&p=210082",
     "https://aismiley.co.jp/?post_type=ai_news&p=209662",
     "https://aismiley.co.jp/?post_type=ai_news&p=209788",
     "https://aismiley.co.jp/?post_type=ai_news&p=210039",
@@ -1667,10 +1670,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208707",
     "https://aismiley.co.jp/?post_type=ai_news&p=208498",
     "https://aismiley.co.jp/?post_type=ai_news&p=193707",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207297",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207936",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208030",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207173"
+    "https://aismiley.co.jp/?post_type=ai_news&p=207297"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186259",
