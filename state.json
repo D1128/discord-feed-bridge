@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2098313.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098596.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098575.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098494.html?ref=rss",
@@ -48,10 +49,10 @@
     "https://pc.watch.impress.co.jp/docs/news/2097804.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097682.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2097702.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/macinfo/2097723.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2097716.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/macinfo/2097723.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
+    "https://www.gigafree.net/utility/smartphone/FileBridge.html",
     "https://www.gigafree.net/media/music/Audex.html",
     "https://www.gigafree.net/tool/text/KJS_Japanese_IME_OnOff.html",
     "https://www.gigafree.net/tool/ocr/MiniSnip.html",
