@@ -1568,6 +1568,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260402-google-veo-lite-video-generation/",
+    "https://gigazine.net/news/20260402-iran-threaten-us-company/",
+    "https://gigazine.net/news/20260402-artemis-2-launch/",
+    "https://gigazine.net/news/20260402-cloudflare-emdash/",
+    "https://gigazine.net/news/20260402-ollama-0-19-support-apple-mlx/",
+    "https://gigazine.net/news/20260402-aws-damaged-iran/",
+    "https://gigazine.net/news/20260402-google-warns-crypto-quantum-risk/",
     "https://gigazine.net/news/20260402-5-different-psychedelics-plant/",
     "https://gigazine.net/news/20260402-mlperf-inference-v6/",
     "https://gigazine.net/news/20260402-claude-code-source-leaked-reveal-antrhropics-plans/",
@@ -1610,16 +1617,10 @@
     "https://gigazine.net/news/20260331-white-house-app-ice-fedware/",
     "https://gigazine.net/news/20260331-meta-releasing-sam-3-1/",
     "https://gigazine.net/news/20260331-headline/",
-    "https://gigazine.net/news/20260331-microsoft-copilot-github-pr/",
-    "https://gigazine.net/news/20260331-red-bull-cherry-edition/",
-    "https://gigazine.net/news/20260331-meta-tribe-v2/",
-    "https://gigazine.net/news/20260331-microsoft-365-copilot-critique-council/",
-    "https://gigazine.net/news/20260331-claude-code-codex-plugin/",
-    "https://gigazine.net/news/20260331-openclaw-autoclaw/",
-    "https://gigazine.net/news/20260331-android-developer-verification/",
-    "https://gigazine.net/news/20260331-openai-sora-cost/"
+    "https://gigazine.net/news/20260331-microsoft-copilot-github-pr/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=209662",
     "https://aismiley.co.jp/?post_type=ai_news&p=209788",
     "https://aismiley.co.jp/?post_type=ai_news&p=210039",
     "https://aismiley.co.jp/?post_type=ai_news&p=209648",
@@ -1668,8 +1669,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=207297",
     "https://aismiley.co.jp/?post_type=ai_news&p=207936",
     "https://aismiley.co.jp/?post_type=ai_news&p=208030",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207173",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208110"
+    "https://aismiley.co.jp/?post_type=ai_news&p=207173"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186259",
@@ -2027,6 +2027,7 @@
     "yt:video:JO3JrOyy-Ss"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=259160",
     "https://garumax.com/?p=259234",
     "https://garumax.com/?p=259302",
     "https://garumax.com/?p=259269",
@@ -2075,8 +2076,7 @@
     "https://garumax.com/?p=257580",
     "https://garumax.com/?p=256371",
     "https://garumax.com/?p=257554",
-    "https://garumax.com/?p=257515",
-    "https://garumax.com/?p=257531"
+    "https://garumax.com/?p=257515"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/voice-counter",
@@ -2109,6 +2109,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=60894",
+    "https://androplus.jp/?p=60897",
     "https://androplus.jp/?p=59991",
     "https://androplus.jp/?p=60873",
     "https://androplus.jp/?p=60879",
@@ -2156,9 +2158,7 @@
     "https://androplus.jp/?p=60318",
     "https://androplus.jp/?p=60303",
     "https://androplus.jp/?p=60291",
-    "https://androplus.jp/?p=60239",
-    "https://androplus.jp/?p=47535",
-    "https://androplus.jp/?p=60229"
+    "https://androplus.jp/?p=60239"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2178,6 +2178,7 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2039570971196358944",
     "2039413680467800388",
     "2039389252312838238",
     "2039389236441551264",
@@ -2226,8 +2227,7 @@
     "2038448381845287298",
     "2038449389421973723",
     "2038262701563203662",
-    "2038224492518899802",
-    "2037953106013782069"
+    "2038224492518899802"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
