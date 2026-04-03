@@ -1570,6 +1570,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260403-pokemon-pokopia-slurped-up-ocean/",
+    "https://gigazine.net/news/20260403-docomo-softbank-starlink/",
+    "https://gigazine.net/news/20260403-google-released-gemma-4/",
+    "https://gigazine.net/news/20260403-openai-acquires-tbpn/",
+    "https://gigazine.net/news/20260403-qwen-3-6-plus/",
+    "https://gigazine.net/news/20260403-artemis-ii-laser-beam-to-libe-stream/",
+    "https://gigazine.net/news/20260403-type-1-diabetes-blended-immune-system/",
     "https://gigazine.net/news/20260403-opium-wars/",
     "https://gigazine.net/news/20260403-google-deepmind-project-mario-agi-safety/",
     "https://gigazine.net/news/20260402-thomas-selfridge-first-airplane-accident-victim/",
@@ -1612,14 +1619,7 @@
     "https://gigazine.net/news/20260401-shadowbroker-global-intelligence-map/",
     "https://gigazine.net/news/20260401-nattynote-firefox-addon/",
     "https://gigazine.net/news/20260401-colibri-at-protocol-chat/",
-    "https://gigazine.net/news/20260401-ndlocr-lite-web-ai/",
-    "https://gigazine.net/news/20260401-headline/",
-    "https://gigazine.net/news/20260401-appcloud-delete-adb-command/",
-    "https://gigazine.net/news/20260401-bigfoot-documentary-explain-conspiracy-minded/",
-    "https://gigazine.net/news/20260401-claude-code-cheat-sheet/",
-    "https://gigazine.net/news/20260401-met-3d-art-models/",
-    "https://gigazine.net/news/20260401-corporate-slave-story/",
-    "https://gigazine.net/news/20260401-mr-chatterbox/"
+    "https://gigazine.net/news/20260401-ndlocr-lite-web-ai/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=208685",
@@ -1674,6 +1674,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=207297"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186272",
     "https://win-tab.net/?p=186120",
     "https://win-tab.net/?p=186259",
     "https://win-tab.net/?p=186233",
@@ -1722,8 +1723,7 @@
     "https://win-tab.net/?p=185545",
     "https://win-tab.net/?p=185532",
     "https://win-tab.net/?p=185518",
-    "https://win-tab.net/?p=168253",
-    "https://win-tab.net/?p=185510"
+    "https://win-tab.net/?p=168253"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:X0EG6VP1_IY",
@@ -2030,6 +2030,8 @@
     "yt:video:8mmh1JdU-TY"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=259410",
+    "https://garumax.com/?p=259469",
     "https://garumax.com/?p=259439",
     "https://garumax.com/?p=259160",
     "https://garumax.com/?p=259234",
@@ -2077,9 +2079,7 @@
     "https://garumax.com/?p=257660",
     "https://garumax.com/?p=257630",
     "https://garumax.com/?p=257621",
-    "https://garumax.com/?p=257580",
-    "https://garumax.com/?p=256371",
-    "https://garumax.com/?p=257554"
+    "https://garumax.com/?p=257580"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/voice-counter",
@@ -2112,6 +2112,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=60791",
     "https://androplus.jp/?p=60676",
     "https://androplus.jp/?p=60907",
     "https://androplus.jp/?p=60894",
@@ -2160,8 +2161,7 @@
     "https://androplus.jp/?p=58434",
     "https://androplus.jp/?p=59606",
     "https://androplus.jp/?p=60344",
-    "https://androplus.jp/?p=60318",
-    "https://androplus.jp/?p=60303"
+    "https://androplus.jp/?p=60318"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
