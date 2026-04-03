@@ -1622,6 +1622,8 @@
     "https://gigazine.net/news/20260402-flighty/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=207572",
+    "https://aismiley.co.jp/?post_type=ai_news&p=210347",
     "https://aismiley.co.jp/?post_type=ai_news&p=208685",
     "https://aismiley.co.jp/?post_type=ai_news&p=210153",
     "https://aismiley.co.jp/?post_type=ai_news&p=210082",
@@ -1669,9 +1671,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208191",
     "https://aismiley.co.jp/?post_type=ai_news&p=208304",
     "https://aismiley.co.jp/?post_type=ai_news&p=208707",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208498",
-    "https://aismiley.co.jp/?post_type=ai_news&p=193707",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207297"
+    "https://aismiley.co.jp/?post_type=ai_news&p=208498"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186272",
@@ -1824,6 +1824,7 @@
     "yt:video:v3yTceqjYQk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:lpbnuIEWTu0",
     "yt:video:0jadUUJZd4w",
     "yt:video:4ud2bAVQccI",
     "yt:video:CnnBKmqIhYA",
@@ -2181,6 +2182,7 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2039997135664648215",
     "2039974467028635880",
     "2039974482711093715",
     "2039974497802137789",
@@ -2229,8 +2231,7 @@
     "2039373227672453129",
     "2039373561148981507",
     "2039340897767411996",
-    "2039341268904677872",
-    "2039340687309811959"
+    "2039341268904677872"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
@@ -2268,6 +2269,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2039977858995748980",
+    "2039899133423890696",
+    "2039994835197964386",
+    "2039995095764922450",
     "2039707604482773326",
     "2039714724561187262",
     "2039859823123288495",
@@ -2313,11 +2318,7 @@
     "2038523941002838069",
     "2038446734490411284",
     "2038584709467230584",
-    "2038515519331193265",
-    "2038311740681957602",
-    "2038580325883031606",
-    "2038580247348556082",
-    "2038178789835084067"
+    "2038515519331193265"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2039841808520261800",
