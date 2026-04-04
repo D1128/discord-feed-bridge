@@ -1728,6 +1728,7 @@
     "https://win-tab.net/?p=185532"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:OqrgYCKnO8I",
     "yt:video:X0EG6VP1_IY",
     "yt:video:k8M3NBgLY58",
     "yt:video:z7z87FMC3kM",
@@ -2184,6 +2185,8 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2040383561287762376",
+    "2040385893157273669",
     "2040382469019783328",
     "2040361922328224201",
     "2040361945589755950",
@@ -2231,9 +2234,7 @@
     "2039745131683995677",
     "2039745946792386658",
     "2039746648906387581",
-    "2039746684704752003",
-    "2039737976855597160",
-    "2039739734449398215"
+    "2039746684704752003"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
