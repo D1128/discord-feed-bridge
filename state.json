@@ -646,6 +646,7 @@
     "https://tabkul.com/?p=301245"
   ],
   "https://chinadap.jp/feed": [
+    "https://chinadap.jp/?p=34932",
     "https://chinadap.jp/?p=34877",
     "https://chinadap.jp/?p=34846",
     "https://chinadap.jp/?p=34740",
@@ -694,8 +695,7 @@
     "https://chinadap.jp/?p=32761",
     "https://chinadap.jp/?p=32703",
     "https://chinadap.jp/?p=32677",
-    "https://chinadap.jp/?p=32642",
-    "https://chinadap.jp/?p=32615"
+    "https://chinadap.jp/?p=32642"
   ],
   "https://feeds.feedburner.com/Jugglycn": [
     "https://juggly.cn/?p=251836",
@@ -762,6 +762,8 @@
     "https://liginc.co.jp/?p=675198"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:QJPuaVoaf7k",
+    "yt:video:sNvk1RxB7no",
     "yt:video:gCOnS6SPRss",
     "yt:video:Gx4a6lXetqo",
     "yt:video:x1Ko-pHO8pw",
@@ -809,9 +811,7 @@
     "yt:video:C34wYPQOAy8",
     "yt:video:pk7dGmhJv1M",
     "yt:video:PcFSrMO4xp8",
-    "yt:video:w65uWb8_EEw",
-    "yt:video:BT_S0hCXCWI",
-    "yt:video:7-mvUUdNMpA"
+    "yt:video:w65uWb8_EEw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -866,6 +866,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:PZZzi1PY2yE",
     "yt:video:Gd0FkXzWe5w",
     "yt:video:FswyxYDJwiU",
     "yt:video:XrPbVtDOC30",
@@ -914,8 +915,7 @@
     "yt:video:OpfONAvBTw0",
     "yt:video:kFHt12TtCU8",
     "yt:video:E9lGQbYGHuA",
-    "yt:video:i6HH2QE6pOU",
-    "yt:video:ciG3kZk31wI"
+    "yt:video:i6HH2QE6pOU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:T852WlTgPxI",
@@ -947,6 +947,7 @@
     "yt:video:GQx8rZZyDH8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCpUQnk6MaY4o3NdgJmv10cw": [
+    "yt:video:DFUUUTh9gOs",
     "yt:video:SHnTh-PkXtE",
     "yt:video:W-VXzGocCYI",
     "yt:video:UuZ3g5REF9U",
@@ -995,8 +996,7 @@
     "yt:video:EZINHGqu2Cw",
     "yt:video:v74vDClaaSo",
     "yt:video:5uLXVwcl4zE",
-    "yt:video:p737hOCkgM0",
-    "yt:video:9F87j55gfiI"
+    "yt:video:p737hOCkgM0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9buL3Iph_f7AZxdzmiBL8Q": [
     "yt:video:6pU9yx41yB0",
