@@ -1573,6 +1573,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260405-human-adaptation-to-arsenic-rich-environments/",
+    "https://gigazine.net/news/20260405-anthropic-claude-code-need-pay-extra-openclaw/",
     "https://gigazine.net/news/20260405-steam-music-rights-lawsuit/",
     "https://gigazine.net/news/20260404-ai-data-center-delayed-canceled/",
     "https://gigazine.net/news/20260404-vasectomies-spike-during-major-basketball-event/",
@@ -1620,9 +1622,7 @@
     "https://gigazine.net/news/20260402-google-veo-lite-video-generation/",
     "https://gigazine.net/news/20260402-iran-threaten-us-company/",
     "https://gigazine.net/news/20260402-artemis-2-launch/",
-    "https://gigazine.net/news/20260402-cloudflare-emdash/",
-    "https://gigazine.net/news/20260402-ollama-0-19-support-apple-mlx/",
-    "https://gigazine.net/news/20260402-aws-damaged-iran/"
+    "https://gigazine.net/news/20260402-cloudflare-emdash/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=207572",
@@ -1677,6 +1677,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208498"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186331",
     "https://win-tab.net/?p=186300",
     "https://win-tab.net/?p=186288",
     "https://win-tab.net/?p=186272",
@@ -1725,8 +1726,7 @@
     "https://win-tab.net/?p=185637",
     "https://win-tab.net/?p=185556",
     "https://win-tab.net/?p=185593",
-    "https://win-tab.net/?p=185545",
-    "https://win-tab.net/?p=185532"
+    "https://win-tab.net/?p=185545"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:OqrgYCKnO8I",
