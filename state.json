@@ -207,6 +207,7 @@
     "https://telektlist.com/?p=136860"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23865",
     "https://codezine.jp/article/detail/23870",
     "https://codezine.jp/article/detail/23874",
     "https://codezine.jp/article/detail/23860",
@@ -255,8 +256,7 @@
     "https://codezine.jp/article/detail/23824",
     "https://codezine.jp/article/detail/23822",
     "https://codezine.jp/article/detail/23821",
-    "https://codezine.jp/article/detail/23826",
-    "https://codezine.jp/article/detail/23535"
+    "https://codezine.jp/article/detail/23826"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2722,6 +2722,8 @@
     "2037884600022692043"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2040912372496556232",
+    "2040912373889061101",
     "2040341137370558868",
     "2040235837296910443",
     "2039994835197964386",
@@ -2769,8 +2771,7 @@
     "2018096262592287144",
     "2020113971211300924",
     "2020618662458311116",
-    "2020618664115155348",
-    "2020811672491851841"
+    "2020618664115155348"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
