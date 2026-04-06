@@ -103,6 +103,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=92163",
     "https://butsuyoku-gadget.com/?p=92152",
     "https://butsuyoku-gadget.com/?p=92147",
     "https://butsuyoku-gadget.com/?p=92131",
@@ -151,8 +152,7 @@
     "https://butsuyoku-gadget.com/?p=91579",
     "https://butsuyoku-gadget.com/?p=91701",
     "https://butsuyoku-gadget.com/?p=91695",
-    "https://butsuyoku-gadget.com/?p=91680",
-    "https://butsuyoku-gadget.com/?p=91679"
+    "https://butsuyoku-gadget.com/?p=91680"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137468",
@@ -375,6 +375,7 @@
     "yt:video:91oFDtanxKE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:NyeOXIv9dsA",
     "yt:video:-pVNv_beIVs",
     "yt:video:_U-FsCcPclo",
     "yt:video:iwlmRLZw90A",
@@ -423,8 +424,7 @@
     "yt:video:aGUkCLkGX_I",
     "yt:video:UY-KKBnEIgM",
     "yt:video:KOUGoS5u4nw",
-    "yt:video:FheUP_TMXy0",
-    "yt:video:k1nvJbj73GI"
+    "yt:video:FheUP_TMXy0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:jaJRe6TAk7M",
@@ -490,6 +490,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:gQvS5McjHoY",
     "yt:video:4MPQMy3Up50",
     "yt:video:MAAlZsib4mE",
     "yt:video:xSoFGX9_oYk",
@@ -538,8 +539,7 @@
     "yt:video:XYZXHU3GNqI",
     "yt:video:gV8snCCZQJk",
     "yt:video:qa8vuMpX6NM",
-    "yt:video:CdAhxcbYsMc",
-    "yt:video:YpEiTf4a5WQ"
+    "yt:video:CdAhxcbYsMc"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=14658",
@@ -2618,6 +2618,10 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2041079724815143272",
+    "2041079788732125561",
+    "2041079860182012376",
+    "2041079956755955813",
     "2040995462837330294",
     "2040797086506242497",
     "2040797064871940421",
@@ -2663,11 +2667,7 @@
     "2039868151731753450",
     "2039868194262061207",
     "2039868236943274429",
-    "2039868364139717027",
-    "2039868438571794938",
-    "2039868556767330770",
-    "2039868586932789337",
-    "2039868843422818608"
+    "2039868364139717027"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2040761984178917413",
