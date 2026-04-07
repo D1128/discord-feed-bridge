@@ -1575,6 +1575,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260407-guppylm-tiny-llm-built-from-scratch/",
+    "https://gigazine.net/news/20260407-openai-anthropic-google-adversarial-distillation/",
+    "https://gigazine.net/news/20260407-google-gemma-4-on-ios/",
     "https://gigazine.net/news/20260407-hackerone-internet-bug-bounty-program-pause/",
     "https://gigazine.net/news/20260407-investor-data-centers/",
     "https://gigazine.net/news/20260407-japan-physical-ai-robots-sustain-economy/",
@@ -1621,12 +1624,10 @@
     "https://gigazine.net/news/20260406-microsoft-azure-failure/",
     "https://gigazine.net/news/20260405-microsoft-copilot-for-entertainment-purposes-only/",
     "https://gigazine.net/news/20260405-hot-baths-help-marathon-training/",
-    "https://gigazine.net/news/20260405-do-not-notify/",
-    "https://gigazine.net/news/20260405-open-hardware-directory-diy/",
-    "https://gigazine.net/news/20260405-video-duplicate-finder/",
-    "https://gigazine.net/news/20260405-openrocket-simulator/"
+    "https://gigazine.net/news/20260405-do-not-notify/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=210554",
     "https://aismiley.co.jp/?post_type=ai_news&p=209981",
     "https://aismiley.co.jp/?post_type=ai_news&p=210461",
     "https://aismiley.co.jp/?post_type=ai_news&p=208843",
@@ -1675,8 +1676,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208677",
     "https://aismiley.co.jp/?post_type=ai_news&p=208609",
     "https://aismiley.co.jp/?post_type=ai_news&p=208073",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208087",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208191"
+    "https://aismiley.co.jp/?post_type=ai_news&p=208087"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185475",
