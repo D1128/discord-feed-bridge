@@ -1106,6 +1106,7 @@
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=278416",
     "https://smhn.info/?p=278410",
     "https://smhn.info/?p=278301",
     "https://smhn.info/?p=272144",
@@ -1154,10 +1155,11 @@
     "https://smhn.info/?p=277745",
     "https://smhn.info/?p=277761",
     "https://smhn.info/?p=277553",
-    "https://smhn.info/?p=277656",
-    "https://smhn.info/?p=276064"
+    "https://smhn.info/?p=277656"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=112046",
+    "https://daily-gadget.net/?p=112050",
     "https://daily-gadget.net/?p=112016",
     "https://daily-gadget.net/?p=112010",
     "https://daily-gadget.net/?p=111997",
@@ -1205,9 +1207,7 @@
     "https://daily-gadget.net/?p=111706",
     "https://daily-gadget.net/?p=111689",
     "https://daily-gadget.net/?p=111697",
-    "https://daily-gadget.net/?p=111678",
-    "https://daily-gadget.net/?p=111686",
-    "https://daily-gadget.net/?p=111674"
+    "https://daily-gadget.net/?p=111678"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=58322",
@@ -1314,6 +1314,7 @@
     "hatenablog://entry/17179246901335799229"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=21113",
     "https://official.gfs.tokyo/blog/?p=21247",
     "https://official.gfs.tokyo/blog/?p=21229",
     "https://official.gfs.tokyo/blog/?p=21237",
@@ -1362,8 +1363,7 @@
     "https://official.gfs.tokyo/blog/?p=20707",
     "https://official.gfs.tokyo/blog/?p=20713",
     "https://official.gfs.tokyo/blog/?p=20745",
-    "https://official.gfs.tokyo/blog/?p=20757",
-    "https://official.gfs.tokyo/blog/?p=20645"
+    "https://official.gfs.tokyo/blog/?p=20757"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:5Cyf38cmAbI",
