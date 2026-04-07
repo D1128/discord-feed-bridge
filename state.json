@@ -1575,6 +1575,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260407-investor-data-centers/",
+    "https://gigazine.net/news/20260407-japan-physical-ai-robots-sustain-economy/",
+    "https://gigazine.net/news/20260407-rollable-phone/",
     "https://gigazine.net/news/20260407-exabox-container-ai-computer/",
     "https://gigazine.net/news/20260407-north-korean-worker-interview/",
     "https://gigazine.net/news/20260407-artemis-ii-record-farthest-human-spaceflight/",
@@ -1621,12 +1624,11 @@
     "https://gigazine.net/news/20260405-open-hardware-directory-diy/",
     "https://gigazine.net/news/20260405-video-duplicate-finder/",
     "https://gigazine.net/news/20260405-openrocket-simulator/",
-    "https://gigazine.net/news/20260405-x-piracy-lawsuit/",
-    "https://gigazine.net/news/20260405-human-adaptation-to-arsenic-rich-environments/",
-    "https://gigazine.net/news/20260405-anthropic-claude-code-need-pay-extra-openclaw/",
-    "https://gigazine.net/news/20260405-steam-music-rights-lawsuit/"
+    "https://gigazine.net/news/20260405-x-piracy-lawsuit/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=209981",
+    "https://aismiley.co.jp/?post_type=ai_news&p=210461",
     "https://aismiley.co.jp/?post_type=ai_news&p=208843",
     "https://aismiley.co.jp/?post_type=ai_news&p=207572",
     "https://aismiley.co.jp/?post_type=ai_news&p=210347",
@@ -1674,9 +1676,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208609",
     "https://aismiley.co.jp/?post_type=ai_news&p=208073",
     "https://aismiley.co.jp/?post_type=ai_news&p=208087",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208191",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208304",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208707"
+    "https://aismiley.co.jp/?post_type=ai_news&p=208191"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=185475",
