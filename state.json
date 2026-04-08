@@ -1578,6 +1578,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260408-headline/",
+    "https://gigazine.net/news/20260408-truck-driver-20-years-scale-new-york/",
     "https://gigazine.net/news/20260408-concrete-laptop-stand/",
     "https://gigazine.net/news/20260408-kfc-lemon-paripari-chicken/",
     "https://gigazine.net/news/20260408-ai-search-optimization-gold-rush/",
@@ -1625,9 +1627,7 @@
     "https://gigazine.net/news/20260407-gigazine-media-materials-update/",
     "https://gigazine.net/news/20260407-iphone-1-bit-bonsai-locally-ai/",
     "https://gigazine.net/news/20260407-neanderthal-birch-tar-antibacterial/",
-    "https://gigazine.net/news/20260406-pain-wellbeing-gdp/",
-    "https://gigazine.net/news/20260406-ai-change-engineering/",
-    "https://gigazine.net/news/20260406-arcee-ai-trinity-large-thinking/"
+    "https://gigazine.net/news/20260406-pain-wellbeing-gdp/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=210554",
@@ -2279,6 +2279,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2041818341749485753",
     "2041807007888634027",
     "2040235837296910443",
     "2041684561395118294",
@@ -2327,8 +2328,7 @@
     "2038994517127475398",
     "2038994507191197788",
     "2038994214592389444",
-    "2039280355942060184",
-    "2039277098628759622"
+    "2039280355942060184"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2041478597232501033",
