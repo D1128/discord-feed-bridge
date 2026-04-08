@@ -1576,6 +1576,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260408-iranian-affilated-cyber-actors/",
+    "https://gigazine.net/news/20260408-google-photo-ai-enhance/",
+    "https://gigazine.net/news/20260408-intel-terafab/",
     "https://gigazine.net/news/20260408-russia-hacker-exploit-router/",
     "https://gigazine.net/news/20260408-cloudflare-post-quantum-security/",
     "https://gigazine.net/news/20260408-google-ai-overview-accuracy/",
@@ -1622,10 +1625,7 @@
     "https://gigazine.net/news/20260406-headline/",
     "https://gigazine.net/news/20260406-ajinomoto-zusshiri-gyoza/",
     "https://gigazine.net/news/20260406-iran-strike-aws/",
-    "https://gigazine.net/news/20260406-mark-zuckerberg-return-coding/",
-    "https://gigazine.net/news/20260406-russia-vpn-problem/",
-    "https://gigazine.net/news/20260406-satellite-firm-withhold-iran-war-images/",
-    "https://gigazine.net/news/20260406-cognitive-surrender/"
+    "https://gigazine.net/news/20260406-mark-zuckerberg-return-coding/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=210554",
@@ -2039,6 +2039,7 @@
     "yt:video:p9aA9jzLAp8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=259683",
     "https://garumax.com/?p=259520",
     "https://garumax.com/?p=259553",
     "https://garumax.com/?p=259697",
@@ -2087,8 +2088,7 @@
     "https://garumax.com/?p=257908",
     "https://garumax.com/?p=257904",
     "https://garumax.com/?p=257841",
-    "https://garumax.com/?p=257862",
-    "https://garumax.com/?p=257683"
+    "https://garumax.com/?p=257862"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/voice-counter",
