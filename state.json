@@ -1576,6 +1576,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260408-russia-hacker-exploit-router/",
+    "https://gigazine.net/news/20260408-cloudflare-post-quantum-security/",
+    "https://gigazine.net/news/20260408-google-ai-overview-accuracy/",
+    "https://gigazine.net/news/20260408-hanaroku-yoshitoshi-shinomiya-interview/",
+    "https://gigazine.net/news/20260408-anthropic-claude-mythos-project-glasswing/",
+    "https://gigazine.net/news/20260408-steam-link-apple-vision-pro/",
+    "https://gigazine.net/news/20260408-oldest-octopus-fossil-different-animal/",
+    "https://gigazine.net/news/20260408-playstation-scan-players-faces-playerbase/",
+    "https://gigazine.net/news/20260408-gemini-mental-health/",
+    "https://gigazine.net/news/20260408-artemis-ii-crew-moon-flyby-photos/",
     "https://gigazine.net/news/20260408-apfel-mac/",
     "https://gigazine.net/news/20260408-earths-population-surpassed-sustainable-capacity/",
     "https://gigazine.net/news/20260408-china-ai-education/",
@@ -1615,17 +1625,7 @@
     "https://gigazine.net/news/20260406-mark-zuckerberg-return-coding/",
     "https://gigazine.net/news/20260406-russia-vpn-problem/",
     "https://gigazine.net/news/20260406-satellite-firm-withhold-iran-war-images/",
-    "https://gigazine.net/news/20260406-cognitive-surrender/",
-    "https://gigazine.net/news/20260406-3d-print-robot-size-single-cell-organism/",
-    "https://gigazine.net/news/20260406-artemis-ii-phone/",
-    "https://gigazine.net/news/20260406-mcdonald-afk-device-archie/",
-    "https://gigazine.net/news/20260406-artemis-2-orion-spacecraft-earth-photo/",
-    "https://gigazine.net/news/20260406-bitchat-pulled-china-app-store/",
-    "https://gigazine.net/news/20260406-writers-guild-agreement/",
-    "https://gigazine.net/news/20260406-lawmakers-blocking-piracy/",
-    "https://gigazine.net/news/20260406-netflix-refund-price/",
-    "https://gigazine.net/news/20260406-antarctica-melting-ice-resources-available/",
-    "https://gigazine.net/news/20260406-mac-nvidia-amd-egpu/"
+    "https://gigazine.net/news/20260406-cognitive-surrender/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=210554",
@@ -1680,6 +1680,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208087"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186431",
     "https://win-tab.net/?p=186409",
     "https://win-tab.net/?p=186398",
     "https://win-tab.net/?p=185475",
@@ -1728,8 +1729,7 @@
     "https://win-tab.net/?p=185724",
     "https://win-tab.net/?p=185713",
     "https://win-tab.net/?p=185699",
-    "https://win-tab.net/?p=185692",
-    "https://win-tab.net/?p=185661"
+    "https://win-tab.net/?p=185692"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:OqrgYCKnO8I",
@@ -2039,6 +2039,9 @@
     "yt:video:p9aA9jzLAp8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=259520",
+    "https://garumax.com/?p=259553",
+    "https://garumax.com/?p=259697",
     "https://garumax.com/?p=259656",
     "https://garumax.com/?p=259630",
     "https://garumax.com/?p=259512",
@@ -2085,10 +2088,7 @@
     "https://garumax.com/?p=257904",
     "https://garumax.com/?p=257841",
     "https://garumax.com/?p=257862",
-    "https://garumax.com/?p=257683",
-    "https://garumax.com/?p=257816",
-    "https://garumax.com/?p=257691",
-    "https://garumax.com/?p=257665"
+    "https://garumax.com/?p=257683"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/voice-counter",
@@ -2277,6 +2277,11 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2040235837296910443",
+    "2041684561395118294",
+    "2041724103825166591",
+    "2041724506730013007",
+    "2041675972718842304",
     "2041455956328886302",
     "2041419293066437095",
     "2041424498503864622",
@@ -2321,12 +2326,7 @@
     "2038994214592389444",
     "2039280355942060184",
     "2039277098628759622",
-    "2039289673319891359",
-    "2039263282947928149",
-    "2039254956331663424",
-    "2039181564253512066",
-    "2039191448323784966",
-    "2038976834168291632"
+    "2039289673319891359"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2041478597232501033",
