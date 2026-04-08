@@ -1578,6 +1578,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260408-printed-analog-camera/",
     "https://gigazine.net/news/20260408-middle-earth-interactive-map/",
     "https://gigazine.net/news/20260408-headline/",
     "https://gigazine.net/news/20260408-truck-driver-20-years-scale-new-york/",
@@ -1626,8 +1627,7 @@
     "https://gigazine.net/news/20260407-openai-industrial-policy/",
     "https://gigazine.net/news/20260407-gigazine-user-game-preference/",
     "https://gigazine.net/news/20260407-gigazine-media-materials-update/",
-    "https://gigazine.net/news/20260407-iphone-1-bit-bonsai-locally-ai/",
-    "https://gigazine.net/news/20260407-neanderthal-birch-tar-antibacterial/"
+    "https://gigazine.net/news/20260407-iphone-1-bit-bonsai-locally-ai/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=210554",
@@ -2193,6 +2193,10 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2041844810714378708",
+    "2041844828225589387",
+    "2041844844457554359",
+    "2041844862245589045",
     "2041833008215572629",
     "2041832616400449616",
     "2041680035703353530",
@@ -2238,11 +2242,7 @@
     "2040361960701931765",
     "2040362687314673905",
     "2040365022778650684",
-    "2040338049922728125",
-    "2040338591935852801",
-    "2040346609373061512",
-    "2040348271986835787",
-    "2040348289980338234"
+    "2040338049922728125"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2032743536261738873",
@@ -2332,6 +2332,7 @@
     "2039280355942060184"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2041840984909033808",
     "2041478597232501033",
     "2040928469110923444",
     "2040566081505427754",
@@ -2380,8 +2381,7 @@
     "2028608288187638000",
     "2028244139062722926",
     "2027881750848831585",
-    "2027520118188871969",
-    "2027307729295995274"
+    "2027520118188871969"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2041803235053215920",
