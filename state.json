@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2099878.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2099892.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2099898.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2099857.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2099832.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2099824.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2098875.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2098872.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2098783.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2097231.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2098793.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2098830.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2098850.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2097231.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/smartphone/FileBridge.html",
@@ -210,6 +210,7 @@
     "https://telektlist.com/?p=136873"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23895",
     "https://codezine.jp/article/detail/23886",
     "https://codezine.jp/article/detail/23889",
     "https://codezine.jp/article/detail/23887",
@@ -258,8 +259,7 @@
     "https://codezine.jp/article/detail/23537",
     "https://codezine.jp/article/detail/23858",
     "https://codezine.jp/article/detail/23857",
-    "https://codezine.jp/article/detail/23851",
-    "https://codezine.jp/article/detail/23849"
+    "https://codezine.jp/article/detail/23851"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2621,6 +2621,8 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2041666961843818812",
+    "2041666980315590840",
     "2041663502449045636",
     "2041663529552638053",
     "2041663630408929576",
@@ -2668,9 +2670,7 @@
     "2040797351615590479",
     "2040797399963390451",
     "2040797316656033964",
-    "2040796704640020656",
-    "2040796726827917549",
-    "2040796756074725666"
+    "2040796704640020656"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2041457485308104726",
