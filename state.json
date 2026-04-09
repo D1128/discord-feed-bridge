@@ -1579,6 +1579,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260409-x-mosaic-image/",
+    "https://gigazine.net/news/20260409-headline/",
     "https://gigazine.net/news/20260409-nude-images-hacking-tools-trade-telegram/",
     "https://gigazine.net/news/20260409-microsoft-veracrypt-ban/",
     "https://gigazine.net/news/20260409-sapporo-ichiban-ryuji/",
@@ -1626,11 +1628,12 @@
     "https://gigazine.net/news/20260408-steam-link-apple-vision-pro/",
     "https://gigazine.net/news/20260408-oldest-octopus-fossil-different-animal/",
     "https://gigazine.net/news/20260408-playstation-scan-players-faces-playerbase/",
-    "https://gigazine.net/news/20260408-gemini-mental-health/",
-    "https://gigazine.net/news/20260408-artemis-ii-crew-moon-flyby-photos/",
-    "https://gigazine.net/news/20260408-apfel-mac/"
+    "https://gigazine.net/news/20260408-gemini-mental-health/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=209987",
+    "https://aismiley.co.jp/?post_type=ai_news&p=210379",
+    "https://aismiley.co.jp/?post_type=ai_news&p=210685",
     "https://aismiley.co.jp/?post_type=ai_news&p=210554",
     "https://aismiley.co.jp/?post_type=ai_news&p=209981",
     "https://aismiley.co.jp/?post_type=ai_news&p=210461",
@@ -1677,10 +1680,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=203523",
     "https://aismiley.co.jp/?post_type=ai_news&p=208071",
     "https://aismiley.co.jp/?post_type=ai_news&p=208624",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208677",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208609",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208073",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208087"
+    "https://aismiley.co.jp/?post_type=ai_news&p=208677"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186442",
@@ -1939,6 +1939,7 @@
     "yt:video:UyWOf1yYKfM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:WaClf-URK_w",
     "yt:video:JNIP-iaHd4A",
     "yt:video:Wb1rIiApAQQ",
     "yt:video:Ll43s_xTJH8",
@@ -1987,8 +1988,7 @@
     "yt:video:xFBfitgBV08",
     "yt:video:QHTL3a_uw8Q",
     "yt:video:FAoOpAXx5hM",
-    "yt:video:5XxNIXgv-BM",
-    "yt:video:REqCkGeWyx4"
+    "yt:video:5XxNIXgv-BM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:ZDxx3eWerwo",
@@ -2281,6 +2281,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2042036132742099354",
+    "2042010225574875273",
+    "2041725138048344117",
     "2042115072424865984",
     "2042110305069887543",
     "2042022176262647810",
@@ -2327,10 +2330,7 @@
     "2039579831436988809",
     "2039306004190634268",
     "2039306112609218959",
-    "2039187696137191757",
-    "2039205277594239440",
-    "2039091940579475617",
-    "2038994517127475398"
+    "2039187696137191757"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2041840984909033808",
