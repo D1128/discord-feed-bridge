@@ -1582,6 +1582,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260410-headline/",
+    "https://gigazine.net/news/20260410-dram-latency-tailslayer/",
     "https://gigazine.net/news/20260410-honda-prelude-curry/",
     "https://gigazine.net/news/20260410-artemis-ii-computer/",
     "https://gigazine.net/news/20260410-silent-youtube-premium-price-increase/",
@@ -1629,9 +1631,7 @@
     "https://gigazine.net/news/20260409-ace-step-1-5-xl/",
     "https://gigazine.net/news/20260409-x-dmca-antitrust/",
     "https://gigazine.net/news/20260409-pitaka-samsung-galaxy-s-26-cases/",
-    "https://gigazine.net/news/20260409-irregular-bedtime-linked-to-higher-risk-of-cardiac-events/",
-    "https://gigazine.net/news/20260409-god-ai-acceptance/",
-    "https://gigazine.net/news/20260409-holo3-open-computer-use/"
+    "https://gigazine.net/news/20260409-irregular-bedtime-linked-to-higher-risk-of-cardiac-events/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=210797",
@@ -1686,6 +1686,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208364"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186501",
     "https://win-tab.net/?p=186479",
     "https://win-tab.net/?p=186415",
     "https://win-tab.net/?p=186442",
@@ -1734,8 +1735,7 @@
     "https://win-tab.net/?p=185739",
     "https://win-tab.net/?p=185775",
     "https://win-tab.net/?p=185742",
-    "https://win-tab.net/?p=185760",
-    "https://win-tab.net/?p=185724"
+    "https://win-tab.net/?p=185760"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:u2mV-ov5xmU",
@@ -1890,6 +1890,7 @@
     "yt:video:9u5RsdtoZZ0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:_O1lm5ZDu3k",
     "yt:video:3oq8heeU4mY",
     "yt:video:TxMO-7cPwng",
     "yt:video:REB6qtZGpG8",
@@ -1938,8 +1939,7 @@
     "yt:video:vxLnz29imVU",
     "yt:video:_pK_gqUWe6A",
     "yt:video:q8UNSfnCwiY",
-    "yt:video:JUJoJbIBZEI",
-    "yt:video:UyWOf1yYKfM"
+    "yt:video:JUJoJbIBZEI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
     "yt:video:05e_pjk79Wo",
@@ -1994,6 +1994,7 @@
     "yt:video:FAoOpAXx5hM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:YWNRBzIVFCY",
     "yt:video:9KNeblPQkzA",
     "yt:video:ZDxx3eWerwo",
     "yt:video:zVC_advUcbI",
@@ -2042,8 +2043,7 @@
     "yt:video:raIasYzfaKs",
     "yt:video:zuqJxy1niCw",
     "yt:video:PrghrRzJXtM",
-    "yt:video:4zKSQWkoHFE",
-    "yt:video:6A_CTD8dSoc"
+    "yt:video:4zKSQWkoHFE"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=258333",
