@@ -1,5 +1,14 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100616.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2100624.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2100626.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100664.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100674.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100688.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2100702.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2100710.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2100718.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100608.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/enquete/2100453.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/macinfo/2100578.html?ref=rss",
@@ -40,16 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2099930.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2099946.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2099966.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2099974.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2099878.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2099892.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2099898.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/nishikawa/2099857.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2099832.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2099824.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2099839.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2099779.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2099701.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2099974.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/smartphone/FileBridge.html",
@@ -212,6 +212,10 @@
     "https://telektlist.com/?p=136885"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23916",
+    "https://codezine.jp/article/detail/23621",
+    "https://codezine.jp/article/detail/23917",
+    "https://codezine.jp/article/detail/23632",
     "https://codezine.jp/article/detail/23915",
     "https://codezine.jp/article/detail/23920",
     "https://codezine.jp/article/detail/23919",
@@ -257,11 +261,7 @@
     "https://codezine.jp/article/detail/23881",
     "https://codezine.jp/article/detail/23873",
     "https://codezine.jp/article/detail/23867",
-    "https://codezine.jp/article/detail/23489",
-    "https://codezine.jp/article/detail/23879",
-    "https://codezine.jp/article/detail/23470",
-    "https://codezine.jp/article/detail/23866",
-    "https://codezine.jp/article/detail/23865"
+    "https://codezine.jp/article/detail/23489"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2627,6 +2627,8 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2042442674599575598",
+    "2042442864064676245",
     "2042401142169354626",
     "2042401619896385776",
     "2042401642130391350",
@@ -2674,9 +2676,7 @@
     "2042018485228990481",
     "2042018507823657241",
     "2042018554455978036",
-    "2041897091140874410",
-    "2041897132878393849",
-    "2041897069057864016"
+    "2041897091140874410"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2041829201398133149",
@@ -2731,6 +2731,7 @@
     "2038430725624742163"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2042399164190138368",
     "2040912372496556232",
     "2040912373889061101",
     "2040341137370558868",
@@ -2779,8 +2780,7 @@
     "2018081959776539102",
     "2018096262592287144",
     "2020113971211300924",
-    "2020618662458311116",
-    "2020618664115155348"
+    "2020618662458311116"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
