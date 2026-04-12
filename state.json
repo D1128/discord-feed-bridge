@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/topic/special/2098901.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2100827.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2100715.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100994.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2100304.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2100297.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/semicon/2100040.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2100213.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2100166.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2100213.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/display/OLED-Sleeper.html",
