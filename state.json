@@ -1584,6 +1584,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260412-astronauts-struggle-reproduce-space-colonization/",
     "https://gigazine.net/news/20260412-pretext/",
     "https://gigazine.net/news/20260412-anker-soundcore-sleep-a30/",
     "https://gigazine.net/news/20260412-audio-technica-atv-sg1-series/",
@@ -1632,8 +1633,7 @@
     "https://gigazine.net/news/20260410-ai-writing-support-influence-thinking/",
     "https://gigazine.net/news/20260409-bike-bell-penetrate-noise-cancelling/",
     "https://gigazine.net/news/20260409-mac-os-x-nintendo-wii/",
-    "https://gigazine.net/news/20260409-model-permeability-of-coffee-pucks/",
-    "https://gigazine.net/news/20260409-x-mosaic-image/"
+    "https://gigazine.net/news/20260409-model-permeability-of-coffee-pucks/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=210797",
@@ -2200,6 +2200,10 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2043312353404743756",
+    "2043312380965495281",
+    "2043312406815002822",
+    "2043312419527971169",
     "2043248576357376407",
     "2043248592467714072",
     "2043248611128193119",
@@ -2245,11 +2249,7 @@
     "2042118051680940530",
     "2041844810714378708",
     "2041844828225589387",
-    "2041844844457554359",
-    "2041844862245589045",
-    "2041833008215572629",
-    "2041832616400449616",
-    "2041680035703353530"
+    "2041844844457554359"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
