@@ -1688,6 +1688,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208364"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186551",
     "https://win-tab.net/?p=186530",
     "https://win-tab.net/?p=186517",
     "https://win-tab.net/?p=186506",
@@ -1736,8 +1737,7 @@
     "https://win-tab.net/?p=185842",
     "https://win-tab.net/?p=185828",
     "https://win-tab.net/?p=185808",
-    "https://win-tab.net/?p=185817",
-    "https://win-tab.net/?p=185739"
+    "https://win-tab.net/?p=185817"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:u2mV-ov5xmU",
@@ -1944,6 +1944,7 @@
     "yt:video:JUJoJbIBZEI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:Fo_ieUj8qq4",
     "yt:video:05e_pjk79Wo",
     "yt:video:WaClf-URK_w",
     "yt:video:JNIP-iaHd4A",
@@ -1992,10 +1993,10 @@
     "yt:video:Yn6R26U0SfQ",
     "yt:video:9UwiDZLpWKY",
     "yt:video:xFBfitgBV08",
-    "yt:video:QHTL3a_uw8Q",
-    "yt:video:FAoOpAXx5hM"
+    "yt:video:QHTL3a_uw8Q"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:OjKhgXRXeFs",
     "yt:video:bdgota15bO4",
     "yt:video:sUyZlUw36io",
     "yt:video:YWNRBzIVFCY",
@@ -2044,8 +2045,7 @@
     "yt:video:Fkliq-P4Stw",
     "yt:video:x_7UNFpqZYk",
     "yt:video:zhDfC0hmaug",
-    "yt:video:raIasYzfaKs",
-    "yt:video:zuqJxy1niCw"
+    "yt:video:raIasYzfaKs"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=260014",
@@ -2287,6 +2287,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2043257521314398308",
+    "2043257654404165910",
     "2042993090970161499",
     "2043002718697197571",
     "2042799023678198096",
@@ -2334,9 +2336,7 @@
     "2041434545720033639",
     "2041089781925576782",
     "2040786789313683644",
-    "2040906702464430085",
-    "2040912372496556232",
-    "2040731174918819855"
+    "2040906702464430085"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2042927138375110902",
