@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/hothot/2101038.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2098901.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2100827.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/1minute_photoshop/2100715.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2098059.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2100304.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2100297.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/semicon/2100040.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2100213.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/semicon/2100040.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/display/OLED-Sleeper.html",
@@ -216,6 +216,7 @@
     "https://telektlist.com/?p=136894"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23936",
     "https://codezine.jp/article/detail/23925",
     "https://codezine.jp/article/detail/23891",
     "https://codezine.jp/article/detail/23938",
@@ -264,8 +265,7 @@
     "https://codezine.jp/article/detail/23556",
     "https://codezine.jp/article/detail/23895",
     "https://codezine.jp/article/detail/23886",
-    "https://codezine.jp/article/detail/23889",
-    "https://codezine.jp/article/detail/23887"
+    "https://codezine.jp/article/detail/23889"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -384,6 +384,7 @@
     "yt:video:lrpgUoeOGL4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:8uG9lNHbg7w",
     "yt:video:enYJ9MhnJ2M",
     "yt:video:iaqO2iMz79w",
     "yt:video:uT9gF39MIdE",
@@ -432,8 +433,7 @@
     "yt:video:ZJJsgJCyh-w",
     "yt:video:FsWMhGH8ID8",
     "yt:video:0LRtWpZtrgY",
-    "yt:video:z0AG3l3B51k",
-    "yt:video:M198uCn14uE"
+    "yt:video:z0AG3l3B51k"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:kGBy9Ij5dkM",
@@ -2635,6 +2635,13 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2043467215631192477",
+    "2043467355498693037",
+    "2043467455142781164",
+    "2043467499614958014",
+    "2043467602358665518",
+    "2043467622679986449",
+    "2043467737436172777",
     "2043166130920145014",
     "2043166231201771672",
     "2042962080425492688",
@@ -2677,14 +2684,7 @@
     "2042402802899771580",
     "2042402832796831955",
     "2042402877642309957",
-    "2042404231559463062",
-    "2042385641472999523",
-    "2042385758515024102",
-    "2042385781323677990",
-    "2042385825250656547",
-    "2042386144361660607",
-    "2042386166985748595",
-    "2042386490219806878"
+    "2042404231559463062"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2042437413478268986",
