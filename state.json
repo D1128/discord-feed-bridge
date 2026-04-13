@@ -1063,6 +1063,7 @@
     "yt:video:yfsv0b4Nf34"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/mobile/articles/2604/13/news125.html",
     "https://www.itmedia.co.jp/mobile/articles/2604/13/news110.html",
     "https://www.itmedia.co.jp/news/articles/2604/13/news113.html",
     "https://www.itmedia.co.jp/pcuser/articles/2604/13/news106.html",
@@ -1111,11 +1112,13 @@
     "https://www.itmedia.co.jp/pcuser/articles/2604/10/news113.html",
     "https://www.itmedia.co.jp/news/articles/2604/10/news099.html",
     "https://www.itmedia.co.jp/news/articles/2604/10/news105.html",
-    "https://www.itmedia.co.jp/news/articles/2604/10/news110.html",
-    "https://www.itmedia.co.jp/mobile/articles/2604/10/news111.html"
+    "https://www.itmedia.co.jp/news/articles/2604/10/news110.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=279087",
+    "https://smhn.info/?p=279071",
+    "https://smhn.info/?p=279090",
     "https://smhn.info/?p=279065",
     "https://smhn.info/?p=278959",
     "https://smhn.info/?p=279053",
@@ -1162,12 +1165,10 @@
     "https://smhn.info/?p=278163",
     "https://smhn.info/?p=277999",
     "https://smhn.info/?p=278141",
-    "https://smhn.info/?p=278005",
-    "https://smhn.info/?p=278031",
-    "https://smhn.info/?p=278200",
-    "https://smhn.info/?p=277681"
+    "https://smhn.info/?p=278005"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=112305",
     "https://daily-gadget.net/?p=112325",
     "https://daily-gadget.net/?p=112329",
     "https://daily-gadget.net/?p=112326",
@@ -1216,8 +1217,7 @@
     "https://daily-gadget.net/?p=111974",
     "https://daily-gadget.net/?p=111970",
     "https://daily-gadget.net/?p=111967",
-    "https://daily-gadget.net/?p=111960",
-    "https://daily-gadget.net/?p=111963"
+    "https://daily-gadget.net/?p=111960"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=58783",
@@ -1422,6 +1422,7 @@
     "yt:video:_A_5MwHo1oY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg": [
+    "yt:video:03x9KIdlQOA",
     "yt:video:9HSAVp6v4HI",
     "yt:video:G7sm4pL2ahU",
     "yt:video:-xqcCAKCbno",
@@ -1470,8 +1471,7 @@
     "yt:video:W1jjNd37ado",
     "yt:video:4PODNEmv0aI",
     "yt:video:whRlSDdPCww",
-    "yt:video:dFuNHOQmGEE",
-    "yt:video:qV4bK_Cm8P8"
+    "yt:video:dFuNHOQmGEE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
     "yt:video:INLlUqYJ4vA",
