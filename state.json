@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2101162.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2101203.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101043.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101048.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101054.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2100339.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2100370.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2100373.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2100388.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100260.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2100241.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2100388.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/display/OLED-Sleeper.html",
@@ -112,6 +112,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=92259",
     "https://butsuyoku-gadget.com/?p=92245",
     "https://butsuyoku-gadget.com/?p=91972",
     "https://butsuyoku-gadget.com/?p=92212",
@@ -160,8 +161,7 @@
     "https://butsuyoku-gadget.com/?p=91761",
     "https://butsuyoku-gadget.com/?p=91754",
     "https://butsuyoku-gadget.com/?p=91740",
-    "https://butsuyoku-gadget.com/?p=91728",
-    "https://butsuyoku-gadget.com/?p=91719"
+    "https://butsuyoku-gadget.com/?p=91728"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137501",
