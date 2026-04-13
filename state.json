@@ -1589,6 +1589,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260413-ai-arms-race/",
     "https://gigazine.net/news/20260413-headline/",
     "https://gigazine.net/news/20260413-us-chinese-firms/",
     "https://gigazine.net/news/20260413-anthropic-asked-christian-leaders/",
@@ -1637,8 +1638,7 @@
     "https://gigazine.net/news/20260411-kid-present-expectations/",
     "https://gigazine.net/news/20260411-lemonade/",
     "https://gigazine.net/news/20260410-too-close-pc-cooling-case-fan/",
-    "https://gigazine.net/news/20260410-headline/",
-    "https://gigazine.net/news/20260410-dram-latency-tailslayer/"
+    "https://gigazine.net/news/20260410-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=210444",
@@ -2136,6 +2136,9 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=60926",
+    "https://androplus.jp/?p=51395",
+    "https://androplus.jp/?p=57942",
     "https://androplus.jp/?p=61036",
     "https://androplus.jp/?p=61004",
     "https://androplus.jp/?p=61073",
@@ -2182,10 +2185,7 @@
     "https://androplus.jp/?p=60490",
     "https://androplus.jp/?p=60502",
     "https://androplus.jp/?p=60481",
-    "https://androplus.jp/?p=60438",
-    "https://androplus.jp/?p=60453",
-    "https://androplus.jp/?p=60445",
-    "https://androplus.jp/?p=55264"
+    "https://androplus.jp/?p=60438"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2345,6 +2345,8 @@
     "2041286048316281002"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2043651914223526058",
+    "2043652417422512337",
     "2043291288238526750",
     "2042927138375110902",
     "2042927390234677289",
@@ -2392,9 +2394,7 @@
     "2031868772609638583",
     "2031505629630840923",
     "2031144499762835620",
-    "2030780611137273890",
-    "2030419220937531503",
-    "2030057085124149501"
+    "2030780611137273890"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2043615178210922591",
