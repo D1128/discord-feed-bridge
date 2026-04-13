@@ -1587,6 +1587,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260413-sam-altman-second-attack/",
+    "https://gigazine.net/news/20260413-minimax-m2-7-open/",
+    "https://gigazine.net/news/20260413-apple-reportedly-test-four-designs-smart-glasses/",
+    "https://gigazine.net/news/20260413-linux-a-generated-code-assisted-by/",
+    "https://gigazine.net/news/20260413-x-reducing-payments-clickbait-aggregators/",
+    "https://gigazine.net/news/20260413-foundry-local-microsoft-ai/",
+    "https://gigazine.net/news/20260413-laliga-block-cloudflare/",
+    "https://gigazine.net/news/20260413-high-blood-pfl/",
+    "https://gigazine.net/news/20260413-gta-6-developer-rockstar-hacked/",
+    "https://gigazine.net/news/20260413-claude-for-word/",
     "https://gigazine.net/news/20260413-claude-self-message/",
     "https://gigazine.net/news/20260413-medical-ai-mirage/",
     "https://gigazine.net/news/20260412-blue-origin-moon-dust-to-fresh-air/",
@@ -1626,19 +1636,11 @@
     "https://gigazine.net/news/20260410-happyhorse-1-video-generation-ai-alibaba/",
     "https://gigazine.net/news/20260410-glp-1s-weight-loss/",
     "https://gigazine.net/news/20260410-anthropic-openai-compute-capacity/",
-    "https://gigazine.net/news/20260410-anthropic-building-own-ai-chips/",
-    "https://gigazine.net/news/20260410-sitting-with-legs-crossed/",
-    "https://gigazine.net/news/20260410-adobe-reader-zero-day/",
-    "https://gigazine.net/news/20260410-youtube-shorts-ai-avatar/",
-    "https://gigazine.net/news/20260410-eff-is-leaving-x/",
-    "https://gigazine.net/news/20260410-openai-ad-revenue/",
-    "https://gigazine.net/news/20260410-mozilla-0din-ai-scanner/",
-    "https://gigazine.net/news/20260410-voice-notes-xchat/",
-    "https://gigazine.net/news/20260410-happyhorse-1-video-generation-ai/",
-    "https://gigazine.net/news/20260410-intel-google/",
-    "https://gigazine.net/news/20260410-x-post-with-link-low-engagement-with-link/"
+    "https://gigazine.net/news/20260410-anthropic-building-own-ai-chips/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=204082",
+    "https://aismiley.co.jp/?post_type=ai_news&p=208767",
     "https://aismiley.co.jp/?post_type=ai_news&p=210797",
     "https://aismiley.co.jp/?post_type=ai_news&p=210779",
     "https://aismiley.co.jp/?post_type=ai_news&p=211076",
@@ -1686,11 +1688,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=207484",
     "https://aismiley.co.jp/?post_type=ai_news&p=208393",
     "https://aismiley.co.jp/?post_type=ai_news&p=208894",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208510",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208882",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208364"
+    "https://aismiley.co.jp/?post_type=ai_news&p=208510"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=186544",
     "https://win-tab.net/?p=186551",
     "https://win-tab.net/?p=186530",
     "https://win-tab.net/?p=186517",
@@ -1739,8 +1740,7 @@
     "https://win-tab.net/?p=185848",
     "https://win-tab.net/?p=185842",
     "https://win-tab.net/?p=185828",
-    "https://win-tab.net/?p=185808",
-    "https://win-tab.net/?p=185817"
+    "https://win-tab.net/?p=185808"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:bHZfFi__waU",
@@ -2052,6 +2052,7 @@
     "yt:video:raIasYzfaKs"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260051",
     "https://garumax.com/?p=260014",
     "https://garumax.com/?p=259846",
     "https://garumax.com/?p=259855",
@@ -2100,8 +2101,7 @@
     "https://garumax.com/?p=258452",
     "https://garumax.com/?p=258363",
     "https://garumax.com/?p=257658",
-    "https://garumax.com/?p=258217",
-    "https://garumax.com/?p=257892"
+    "https://garumax.com/?p=258217"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/voice-counter",
@@ -2203,6 +2203,9 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2043515358162915739",
+    "2043515292459147411",
+    "2043515262297923595",
     "2043312353404743756",
     "2043312380965495281",
     "2043312406815002822",
@@ -2249,10 +2252,7 @@
     "2042400850925191178",
     "2042174082159120834",
     "2042174370068762668",
-    "2042118051680940530",
-    "2041844810714378708",
-    "2041844828225589387",
-    "2041844844457554359"
+    "2042118051680940530"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
@@ -2291,6 +2291,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2043181020976128214",
+    "2043161036468150534",
     "2043257521314398308",
     "2043257654404165910",
     "2042993090970161499",
@@ -2338,9 +2340,7 @@
     "2041384536970563814",
     "2041286048316281002",
     "2041434545720033639",
-    "2041089781925576782",
-    "2040786789313683644",
-    "2040906702464430085"
+    "2041089781925576782"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2043291288238526750",
