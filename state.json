@@ -1,5 +1,14 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101043.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101048.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101054.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101055.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2101077.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101080.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101097.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2101098.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2101093.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/hothot/2101038.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2098901.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2100827.html?ref=rss",
@@ -40,16 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2100373.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2100388.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100260.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2100241.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2100244.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2100246.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100282.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2100272.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100285.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2098059.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2100304.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2100297.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/semicon/2100040.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2100241.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/display/OLED-Sleeper.html",
@@ -216,6 +216,13 @@
     "https://telektlist.com/?p=136894"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23928",
+    "https://codezine.jp/article/detail/23934",
+    "https://codezine.jp/article/detail/23557",
+    "https://codezine.jp/article/detail/23939",
+    "https://codezine.jp/article/detail/23941",
+    "https://codezine.jp/article/detail/23940",
+    "https://codezine.jp/article/detail/23572",
     "https://codezine.jp/article/detail/23936",
     "https://codezine.jp/article/detail/23925",
     "https://codezine.jp/article/detail/23891",
@@ -258,14 +265,7 @@
     "https://codezine.jp/article/detail/23897",
     "https://codezine.jp/article/detail/23898",
     "https://codezine.jp/article/detail/23899",
-    "https://codezine.jp/article/detail/23894",
-    "https://codezine.jp/article/detail/23578",
-    "https://codezine.jp/article/detail/23896",
-    "https://codezine.jp/article/detail/23625",
-    "https://codezine.jp/article/detail/23556",
-    "https://codezine.jp/article/detail/23895",
-    "https://codezine.jp/article/detail/23886",
-    "https://codezine.jp/article/detail/23889"
+    "https://codezine.jp/article/detail/23894"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2739,6 +2739,7 @@
     "2038430737326833827"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2042517039806583247",
     "2042399164190138368",
     "2040912372496556232",
     "2040912373889061101",
@@ -2787,8 +2788,7 @@
     "2018081957700341932",
     "2018081959776539102",
     "2018096262592287144",
-    "2020113971211300924",
-    "2020618662458311116"
+    "2020113971211300924"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
