@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2101508.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101402.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101426.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101434.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2100702.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2100710.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2100718.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100608.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/enquete/2100453.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2100608.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/display/OLED-Sleeper.html",
@@ -217,6 +217,8 @@
     "https://telektlist.com/?p=136894"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23950",
+    "https://codezine.jp/article/detail/23952",
     "https://codezine.jp/article/detail/23946",
     "https://codezine.jp/article/detail/23602",
     "https://codezine.jp/article/detail/23949",
@@ -264,9 +266,7 @@
     "https://codezine.jp/article/detail/23906",
     "https://codezine.jp/article/detail/23907",
     "https://codezine.jp/article/detail/23902",
-    "https://codezine.jp/article/detail/23521",
-    "https://codezine.jp/article/detail/23905",
-    "https://codezine.jp/article/detail/23514"
+    "https://codezine.jp/article/detail/23521"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -385,6 +385,7 @@
     "yt:video:_l9iorfKQ1g"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:WO1KeKWYo9w",
     "yt:video:8uG9lNHbg7w",
     "yt:video:enYJ9MhnJ2M",
     "yt:video:iaqO2iMz79w",
@@ -433,8 +434,7 @@
     "yt:video:YP_l5mJ2WpU",
     "yt:video:ZJJsgJCyh-w",
     "yt:video:FsWMhGH8ID8",
-    "yt:video:0LRtWpZtrgY",
-    "yt:video:z0AG3l3B51k"
+    "yt:video:0LRtWpZtrgY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:kGBy9Ij5dkM",
