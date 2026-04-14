@@ -1590,6 +1590,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260414-huawei-foldable/",
+    "https://gigazine.net/news/20260414-rare-concert-recordings-internet-archive/",
     "https://gigazine.net/news/20260414-youtube-ad-free-window/",
     "https://gigazine.net/news/20260414-microsoft-openclaw-with-copilot/",
     "https://gigazine.net/news/20260414-telegram-ceo-vpn-recommend/",
@@ -1637,11 +1639,10 @@
     "https://gigazine.net/news/20260412-anker-soundcore-sleep-a30/",
     "https://gigazine.net/news/20260412-audio-technica-atv-sg1-series/",
     "https://gigazine.net/news/20260412-gang-poker/",
-    "https://gigazine.net/news/20260412-readeck/",
-    "https://gigazine.net/news/20260412-backblaze-history/",
-    "https://gigazine.net/news/20260412-faa-gamers-air-traffic-controller-shortage/"
+    "https://gigazine.net/news/20260412-readeck/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=209403",
     "https://aismiley.co.jp/?post_type=ai_news&p=210444",
     "https://aismiley.co.jp/?post_type=ai_news&p=210542",
     "https://aismiley.co.jp/?post_type=ai_news&p=204082",
@@ -1690,8 +1691,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=209179",
     "https://aismiley.co.jp/?post_type=ai_news&p=208965",
     "https://aismiley.co.jp/?post_type=ai_news&p=209024",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207484",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208393"
+    "https://aismiley.co.jp/?post_type=ai_news&p=207484"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186538",
@@ -2295,6 +2295,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2043907661281058950",
     "2043700583119585792",
     "2043711656619127213",
     "2043821445349028252",
@@ -2343,8 +2344,7 @@
     "2040235837296910443",
     "2041684561395118294",
     "2041724103825166591",
-    "2041724506730013007",
-    "2041675972718842304"
+    "2041724506730013007"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2043651914223526058",
