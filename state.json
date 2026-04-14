@@ -1951,6 +1951,7 @@
     "yt:video:q8UNSfnCwiY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:hD_QMjn7u1M",
     "yt:video:Fo_ieUj8qq4",
     "yt:video:05e_pjk79Wo",
     "yt:video:WaClf-URK_w",
@@ -1999,8 +2000,7 @@
     "yt:video:16XjH0vUhRk",
     "yt:video:Yn6R26U0SfQ",
     "yt:video:9UwiDZLpWKY",
-    "yt:video:xFBfitgBV08",
-    "yt:video:QHTL3a_uw8Q"
+    "yt:video:xFBfitgBV08"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:8c7k_BIs_3o",
@@ -2207,6 +2207,12 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2043970015343563201",
+    "2043970033261715492",
+    "2043970048642166862",
+    "2043970502918852971",
+    "2043979208251322414",
+    "2043979228270776397",
     "2043899539913158669",
     "2043899560045752815",
     "2043899587501666603",
@@ -2250,13 +2256,7 @@
     "2042966242450116866",
     "2042966412906672272",
     "2042954913525956944",
-    "2042955289868276121",
-    "2042838763592913003",
-    "2042857086988751217",
-    "2042838792739131882",
-    "2042838778520441214",
-    "2042838748342505822",
-    "2042827687480455299"
+    "2042955289868276121"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
