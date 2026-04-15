@@ -1065,6 +1065,8 @@
     "yt:video:yfsv0b4Nf34"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2604/15/news073.html",
+    "https://www.itmedia.co.jp/news/articles/2604/15/news074.html",
     "https://www.itmedia.co.jp/business/articles/2604/15/news030.html",
     "https://www.itmedia.co.jp/business/articles/2604/15/news025.html",
     "https://www.itmedia.co.jp/business/articles/2604/15/news021.html",
@@ -1112,12 +1114,11 @@
     "https://www.itmedia.co.jp/news/articles/2604/14/news057.html",
     "https://www.itmedia.co.jp/business/articles/2604/14/news038.html",
     "https://www.itmedia.co.jp/news/articles/2604/14/news059.html",
-    "https://www.itmedia.co.jp/mobile/articles/2604/14/news054.html",
-    "https://www.itmedia.co.jp/business/articles/2604/14/news027.html",
-    "https://www.itmedia.co.jp/business/articles/2604/14/news024.html"
+    "https://www.itmedia.co.jp/mobile/articles/2604/14/news054.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=279428",
     "https://smhn.info/?p=278433",
     "https://smhn.info/?p=278447",
     "https://smhn.info/?p=279218",
@@ -1166,8 +1167,7 @@
     "https://smhn.info/?p=278275",
     "https://smhn.info/?p=278455",
     "https://smhn.info/?p=278440",
-    "https://smhn.info/?p=278479",
-    "https://smhn.info/?p=278518"
+    "https://smhn.info/?p=278479"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=112356",
@@ -1326,6 +1326,10 @@
     "hatenablog://entry/17179246901335799229"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=21809",
+    "https://official.gfs.tokyo/blog/?p=21814",
+    "https://official.gfs.tokyo/blog/?p=21818",
+    "https://official.gfs.tokyo/blog/?p=21821",
     "https://official.gfs.tokyo/blog/?p=21658",
     "https://official.gfs.tokyo/blog/?p=21663",
     "https://official.gfs.tokyo/blog/?p=21665",
@@ -1371,11 +1375,7 @@
     "https://official.gfs.tokyo/blog/?p=21049",
     "https://official.gfs.tokyo/blog/?p=21107",
     "https://official.gfs.tokyo/blog/?p=21090",
-    "https://official.gfs.tokyo/blog/?p=21100",
-    "https://official.gfs.tokyo/blog/?p=21006",
-    "https://official.gfs.tokyo/blog/?p=21182",
-    "https://official.gfs.tokyo/blog/?p=21070",
-    "https://official.gfs.tokyo/blog/?p=21131"
+    "https://official.gfs.tokyo/blog/?p=21100"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:5Cyf38cmAbI",
