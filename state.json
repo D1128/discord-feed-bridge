@@ -1592,6 +1592,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260416-suntory-kuromame-tea/",
+    "https://gigazine.net/news/20260416-ftc-ad-companies-brand-safety-agreement/",
+    "https://gigazine.net/news/20260416-headline/",
     "https://gigazine.net/news/20260416-free-giveaway-steam/",
     "https://gigazine.net/news/20260416-openai-agent-sdk/",
     "https://gigazine.net/news/20260416-claude-code-routine/",
@@ -1638,10 +1641,7 @@
     "https://gigazine.net/news/20260415-coca-cola-reproduction/",
     "https://gigazine.net/news/20260414-fbi-extract-signal-message/",
     "https://gigazine.net/news/20260414-meta-mark-zuckerberg-ai-clone/",
-    "https://gigazine.net/news/20260414-1d-chess/",
-    "https://gigazine.net/news/20260414-ai-revolution-in-math/",
-    "https://gigazine.net/news/20260414-air-powered-display/",
-    "https://gigazine.net/news/20260414-headline/"
+    "https://gigazine.net/news/20260414-1d-chess/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=210608",
@@ -1953,6 +1953,7 @@
     "yt:video:_pK_gqUWe6A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:IecfNcHi7XE",
     "yt:video:hD_QMjn7u1M",
     "yt:video:Fo_ieUj8qq4",
     "yt:video:05e_pjk79Wo",
@@ -2001,8 +2002,7 @@
     "yt:video:qDUHOUCWbIk",
     "yt:video:16XjH0vUhRk",
     "yt:video:Yn6R26U0SfQ",
-    "yt:video:9UwiDZLpWKY",
-    "yt:video:xFBfitgBV08"
+    "yt:video:9UwiDZLpWKY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:jDgpk0lCnoY",
@@ -2057,6 +2057,7 @@
     "yt:video:Fkliq-P4Stw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260216",
     "https://garumax.com/?p=260004",
     "https://garumax.com/?p=260322",
     "https://garumax.com/?p=257428",
@@ -2105,8 +2106,7 @@
     "https://garumax.com/?p=258875",
     "https://garumax.com/?p=258804",
     "https://garumax.com/?p=255961",
-    "https://garumax.com/?p=257346",
-    "https://garumax.com/?p=256473"
+    "https://garumax.com/?p=257346"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
@@ -2209,6 +2209,12 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2044692075837604270",
+    "2044690612235227144",
+    "2044690568778043783",
+    "2044704269480480856",
+    "2044704253072257511",
+    "2044704237402325249",
     "2044626746318934105",
     "2044626761456234789",
     "2044626776274653548",
@@ -2252,13 +2258,7 @@
     "2043599269782069412",
     "2043515277590384808",
     "2043551628356358168",
-    "2043558219055071485",
-    "2043558235752501519",
-    "2043558250562662551",
-    "2043558262491185444",
-    "2043559058591133873",
-    "2043564286279352393",
-    "2043515358162915739"
+    "2043558219055071485"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
