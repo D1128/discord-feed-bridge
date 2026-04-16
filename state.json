@@ -1592,6 +1592,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260416-claude-code-routine/",
+    "https://gigazine.net/news/20260416-gemini-3-1-flash-tts/",
+    "https://gigazine.net/news/20260416-china-submarine-cable-cutter-3500-meter/",
+    "https://gigazine.net/news/20260416-physics-of-gps/",
     "https://gigazine.net/news/20260416-playstation-5-massive-sales/",
     "https://gigazine.net/news/20260416-windows-recall-totalrecall-reloaded/",
     "https://gigazine.net/news/20260416-x-cashtags/",
@@ -1637,13 +1641,10 @@
     "https://gigazine.net/news/20260414-air-powered-display/",
     "https://gigazine.net/news/20260414-headline/",
     "https://gigazine.net/news/20260414-anthropic-claude-quota-limit/",
-    "https://gigazine.net/news/20260414-irreversible-tipping-point/",
-    "https://gigazine.net/news/20260414-cola-diy-recipe/",
-    "https://gigazine.net/news/20260414-davinci-resolve-photo/",
-    "https://gigazine.net/news/20260414-amazon-leo-aviation-antenna/",
-    "https://gigazine.net/news/20260414-black-thunder-strawberry-200/"
+    "https://gigazine.net/news/20260414-irreversible-tipping-point/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=211550",
     "https://aismiley.co.jp/?post_type=ai_news&p=210511",
     "https://aismiley.co.jp/?post_type=ai_news&p=204887",
     "https://aismiley.co.jp/?post_type=ai_news&p=209830",
@@ -1692,8 +1693,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208698",
     "https://aismiley.co.jp/?post_type=ai_news&p=208710",
     "https://aismiley.co.jp/?post_type=ai_news&p=209351",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206471",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209170"
+    "https://aismiley.co.jp/?post_type=ai_news&p=206471"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186630",
