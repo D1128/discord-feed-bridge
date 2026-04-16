@@ -1065,6 +1065,7 @@
     "yt:video:syvGI5xJiKE"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/pcuser/articles/2604/16/news091.html",
     "https://www.itmedia.co.jp/business/articles/2604/16/news093.html",
     "https://www.itmedia.co.jp/news/articles/2604/16/news078.html",
     "https://www.itmedia.co.jp/mobile/articles/2604/16/news061.html",
@@ -1113,8 +1114,7 @@
     "https://www.itmedia.co.jp/mobile/articles/2604/15/news010.html",
     "https://www.itmedia.co.jp/mobile/articles/2604/15/news063.html",
     "https://monoist.itmedia.co.jp/mn/articles/2604/15/news041.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2604/15/news066.html",
-    "https://www.itmedia.co.jp/news/articles/2604/15/news067.html"
+    "https://www.itmedia.co.jp/pcuser/articles/2604/15/news066.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1170,6 +1170,7 @@
     "https://smhn.info/?p=278494"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=112508",
     "https://daily-gadget.net/?p=112503",
     "https://daily-gadget.net/?p=112497",
     "https://daily-gadget.net/?p=112457",
@@ -1218,10 +1219,10 @@
     "https://daily-gadget.net/?p=112090",
     "https://daily-gadget.net/?p=112081",
     "https://daily-gadget.net/?p=112085",
-    "https://daily-gadget.net/?p=112075",
-    "https://daily-gadget.net/?p=112071"
+    "https://daily-gadget.net/?p=112075"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=59069",
     "https://sumahodigest.com/?p=59092",
     "https://sumahodigest.com/?p=59096",
     "https://sumahodigest.com/?p=59099",
@@ -1270,8 +1271,7 @@
     "https://sumahodigest.com/?p=58864",
     "https://sumahodigest.com/?p=58847",
     "https://sumahodigest.com/?p=58852",
-    "https://sumahodigest.com/?p=58836",
-    "https://sumahodigest.com/?p=58831"
+    "https://sumahodigest.com/?p=58836"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/17179246901366822461",
