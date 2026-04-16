@@ -1171,6 +1171,7 @@
     "https://smhn.info/?p=278494"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=112518",
     "https://daily-gadget.net/?p=112508",
     "https://daily-gadget.net/?p=112503",
     "https://daily-gadget.net/?p=112497",
@@ -1219,8 +1220,7 @@
     "https://daily-gadget.net/?p=112102",
     "https://daily-gadget.net/?p=112090",
     "https://daily-gadget.net/?p=112081",
-    "https://daily-gadget.net/?p=112085",
-    "https://daily-gadget.net/?p=112075"
+    "https://daily-gadget.net/?p=112085"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=59069",
@@ -1327,6 +1327,10 @@
     "hatenablog://entry/17179246901335799229"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=21945",
+    "https://official.gfs.tokyo/blog/?p=21969",
+    "https://official.gfs.tokyo/blog/?p=21964",
+    "https://official.gfs.tokyo/blog/?p=21905",
     "https://official.gfs.tokyo/blog/?p=21926",
     "https://official.gfs.tokyo/blog/?p=21898",
     "https://official.gfs.tokyo/blog/?p=21950",
@@ -1372,11 +1376,7 @@
     "https://official.gfs.tokyo/blog/?p=21528",
     "https://official.gfs.tokyo/blog/?p=21538",
     "https://official.gfs.tokyo/blog/?p=21369",
-    "https://official.gfs.tokyo/blog/?p=21272",
-    "https://official.gfs.tokyo/blog/?p=21302",
-    "https://official.gfs.tokyo/blog/?p=21320",
-    "https://official.gfs.tokyo/blog/?p=21330",
-    "https://official.gfs.tokyo/blog/?p=21145"
+    "https://official.gfs.tokyo/blog/?p=21272"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:5Cyf38cmAbI",
@@ -1425,6 +1425,7 @@
     "yt:video:_A_5MwHo1oY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg": [
+    "yt:video:Wr5sjzhg7BU",
     "yt:video:03x9KIdlQOA",
     "yt:video:9HSAVp6v4HI",
     "yt:video:G7sm4pL2ahU",
@@ -1473,8 +1474,7 @@
     "yt:video:3Vh5n0MLPmU",
     "yt:video:W1jjNd37ado",
     "yt:video:4PODNEmv0aI",
-    "yt:video:whRlSDdPCww",
-    "yt:video:dFuNHOQmGEE"
+    "yt:video:whRlSDdPCww"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
     "yt:video:INLlUqYJ4vA",
