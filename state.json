@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/tidbit/2101870.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/ubiq/2102165.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2102270.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/special/2101130.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2102318.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2102376.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2102219.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101434.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101459.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2101429.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101480.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2101465.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101388.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/pckoubou_review/2101385.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/kaimono/2101255.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101480.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/display/OLED-Sleeper.html",
