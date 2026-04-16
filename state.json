@@ -1593,6 +1593,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260416-dependency-cooldown/",
     "https://gigazine.net/news/20260416-kale-cabbage-broccoli-toxic-soil-thallium/",
     "https://gigazine.net/news/20260416-at-home-distilling-liquor-us/",
     "https://gigazine.net/news/20260416-dynamic-search-ads-ai-max/",
@@ -1641,8 +1642,7 @@
     "https://gigazine.net/news/20260415-sperm-quality/",
     "https://gigazine.net/news/20260415-anthropic-ai-alignment/",
     "https://gigazine.net/news/20260415-back-button-hijack/",
-    "https://gigazine.net/news/20260415-microsoft-copilot-renaming/",
-    "https://gigazine.net/news/20260415-coca-cola-reproduction/"
+    "https://gigazine.net/news/20260415-microsoft-copilot-renaming/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=210608",
@@ -2299,6 +2299,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2044573587231961469",
+    "2044593713201254824",
     "2044425730210316562",
     "2043903155000487984",
     "2044190662372044997",
@@ -2346,9 +2348,7 @@
     "2042795582629253575",
     "2042795585036784014",
     "2042795587586719868",
-    "2042795590594236881",
-    "2042795593802883449",
-    "2042797442924728621"
+    "2042795590594236881"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2044739832916627555",
