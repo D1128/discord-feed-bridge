@@ -1592,6 +1592,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260416-free-giveaway-steam/",
+    "https://gigazine.net/news/20260416-openai-agent-sdk/",
     "https://gigazine.net/news/20260416-claude-code-routine/",
     "https://gigazine.net/news/20260416-gemini-3-1-flash-tts/",
     "https://gigazine.net/news/20260416-china-submarine-cable-cutter-3500-meter/",
@@ -1639,11 +1641,13 @@
     "https://gigazine.net/news/20260414-1d-chess/",
     "https://gigazine.net/news/20260414-ai-revolution-in-math/",
     "https://gigazine.net/news/20260414-air-powered-display/",
-    "https://gigazine.net/news/20260414-headline/",
-    "https://gigazine.net/news/20260414-anthropic-claude-quota-limit/",
-    "https://gigazine.net/news/20260414-irreversible-tipping-point/"
+    "https://gigazine.net/news/20260414-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=210608",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211580",
+    "https://aismiley.co.jp/?post_type=ai_news&p=210653",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211480",
     "https://aismiley.co.jp/?post_type=ai_news&p=211550",
     "https://aismiley.co.jp/?post_type=ai_news&p=210511",
     "https://aismiley.co.jp/?post_type=ai_news&p=204887",
@@ -1689,11 +1693,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=209721",
     "https://aismiley.co.jp/?post_type=ai_news&p=209745",
     "https://aismiley.co.jp/?post_type=ai_news&p=208284",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209067",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208698",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208710",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209351",
-    "https://aismiley.co.jp/?post_type=ai_news&p=206471"
+    "https://aismiley.co.jp/?post_type=ai_news&p=209067"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186630",
@@ -1797,6 +1797,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:KR-ZxpIOJB0",
     "yt:video:wAszQMqr8CY",
     "yt:video:RNWOj5oEoF8",
     "yt:video:fDmPtA7k1_k",
@@ -1845,8 +1846,7 @@
     "yt:video:D6L6pUGLLMM",
     "yt:video:JjqJhxtGXnw",
     "yt:video:IZDSoT-dOMc",
-    "yt:video:r9gh3FlCfu8",
-    "yt:video:Y7sAkZBYI-o"
+    "yt:video:r9gh3FlCfu8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:hT8H4M5Kcvs",
@@ -2057,6 +2057,7 @@
     "yt:video:Fkliq-P4Stw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260004",
     "https://garumax.com/?p=260322",
     "https://garumax.com/?p=257428",
     "https://garumax.com/?p=257344",
@@ -2105,8 +2106,7 @@
     "https://garumax.com/?p=258804",
     "https://garumax.com/?p=255961",
     "https://garumax.com/?p=257346",
-    "https://garumax.com/?p=256473",
-    "https://garumax.com/?p=258653"
+    "https://garumax.com/?p=256473"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
