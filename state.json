@@ -1595,6 +1595,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260417-android-ai-skill/",
     "https://gigazine.net/news/20260417-amazon-price-fixing-lawsuit-reveal/",
     "https://gigazine.net/news/20260417-brave-origin-nightly/",
     "https://gigazine.net/news/20260417-north-korean-laptop-farms/",
@@ -1643,10 +1644,13 @@
     "https://gigazine.net/news/20260415-headline/",
     "https://gigazine.net/news/20260415-katsuya-niku-ankake/",
     "https://gigazine.net/news/20260415-xiaomi-17-ultra-appearance/",
-    "https://gigazine.net/news/20260415-meta-broadcom-partnership/",
-    "https://gigazine.net/news/20260415-social-media-ad-revenue-70-percent-for-facebook-instagram/"
+    "https://gigazine.net/news/20260415-meta-broadcom-partnership/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=211771",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211056",
+    "https://aismiley.co.jp/?post_type=ai_news&p=210913",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211273",
     "https://aismiley.co.jp/?post_type=ai_news&p=207487",
     "https://aismiley.co.jp/?post_type=ai_news&p=210608",
     "https://aismiley.co.jp/?post_type=ai_news&p=211580",
@@ -1692,11 +1696,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=208180",
     "https://aismiley.co.jp/?post_type=ai_news&p=208243",
     "https://aismiley.co.jp/?post_type=ai_news&p=209396",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209528",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209536",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209721",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209745",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208284"
+    "https://aismiley.co.jp/?post_type=ai_news&p=209528"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186651",
@@ -1801,6 +1801,7 @@
     "yt:video:MMIZd-2P9GQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:NkBjeEvLYGk",
     "yt:video:KR-ZxpIOJB0",
     "yt:video:wAszQMqr8CY",
     "yt:video:RNWOj5oEoF8",
@@ -1849,8 +1850,7 @@
     "yt:video:Ks9X9PzDdzo",
     "yt:video:D6L6pUGLLMM",
     "yt:video:JjqJhxtGXnw",
-    "yt:video:IZDSoT-dOMc",
-    "yt:video:r9gh3FlCfu8"
+    "yt:video:IZDSoT-dOMc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:hT8H4M5Kcvs",
@@ -2061,6 +2061,7 @@
     "yt:video:zsoCYUMUKQg"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260481",
     "https://garumax.com/?p=260410",
     "https://garumax.com/?p=260466",
     "https://garumax.com/?p=260422",
@@ -2109,8 +2110,7 @@
     "https://garumax.com/?p=259069",
     "https://garumax.com/?p=259224",
     "https://garumax.com/?p=259141",
-    "https://garumax.com/?p=258375",
-    "https://garumax.com/?p=258875"
+    "https://garumax.com/?p=258375"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
