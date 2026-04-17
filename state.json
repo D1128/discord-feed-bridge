@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2102615.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2102505.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2102536.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2102410.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2101788.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101711.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2101499.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2101717.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/special/2100851.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2101717.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/display/OLED-Sleeper.html",
@@ -505,6 +505,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:Q21stmK4s0c",
     "yt:video:KJPmqpCwmZk",
     "yt:video:_iIHZHaMGwE",
     "yt:video:lhu21wR6BJI",
@@ -553,8 +554,7 @@
     "yt:video:BNdvoS7SnUA",
     "yt:video:ps2HN13P-Qw",
     "yt:video:FzapCcXbx1Y",
-    "yt:video:YQBuyU39o-E",
-    "yt:video:zW4IX80Yp54"
+    "yt:video:YQBuyU39o-E"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=14658",
@@ -2648,6 +2648,14 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2045071018021245262",
+    "2045071066947862554",
+    "2045071139802882487",
+    "2045071239749025856",
+    "2045071318702571693",
+    "2045071478480376013",
+    "2045071500055822356",
+    "2045071657346416930",
     "2044914184517992773",
     "2044914254483222630",
     "2044914339954717182",
@@ -2689,15 +2697,7 @@
     "2044553915933594010",
     "2044554032648491042",
     "2044554065821241450",
-    "2044554120900841753",
-    "2044432237731684391",
-    "2044432346221621284",
-    "2044432319587791240",
-    "2044432624429806001",
-    "2044432575717052644",
-    "2044340911782658357",
-    "2044340939142156375",
-    "2044340992833380364"
+    "2044554120900841753"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2044622939275006132",
