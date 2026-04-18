@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2102722.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2102721.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2102615.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2102505.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101784.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101798.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2101788.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101711.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2101499.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2101711.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/display/OLED-Sleeper.html",
@@ -221,6 +221,7 @@
     "https://telektlist.com/?p=136918"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/23980",
     "https://codezine.jp/article/detail/23981",
     "https://codezine.jp/article/detail/23992",
     "https://codezine.jp/article/detail/23994",
@@ -269,8 +270,7 @@
     "https://codezine.jp/article/detail/23946",
     "https://codezine.jp/article/detail/23602",
     "https://codezine.jp/article/detail/23949",
-    "https://codezine.jp/article/detail/23953",
-    "https://codezine.jp/article/detail/23948"
+    "https://codezine.jp/article/detail/23953"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
