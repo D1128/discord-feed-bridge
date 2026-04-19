@@ -1600,6 +1600,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260419-sandisk-phone-drive-usb-c/",
+    "https://gigazine.net/news/20260419-matchy-matchy/",
+    "https://gigazine.net/news/20260419-tile-starter-pack/",
+    "https://gigazine.net/news/20260419-rezero-tottori/",
     "https://gigazine.net/news/20260419-ma-wbirs635bk/",
     "https://gigazine.net/news/20260419-git-classic/",
     "https://gigazine.net/news/20260419-thermos-cooler-bag-rfm-003/",
@@ -1645,11 +1649,7 @@
     "https://gigazine.net/news/20260416-ftc-ad-companies-brand-safety-agreement/",
     "https://gigazine.net/news/20260416-headline/",
     "https://gigazine.net/news/20260416-free-giveaway-steam/",
-    "https://gigazine.net/news/20260416-openai-agent-sdk/",
-    "https://gigazine.net/news/20260416-claude-code-routine/",
-    "https://gigazine.net/news/20260416-gemini-3-1-flash-tts/",
-    "https://gigazine.net/news/20260416-china-submarine-cable-cutter-3500-meter/",
-    "https://gigazine.net/news/20260416-physics-of-gps/"
+    "https://gigazine.net/news/20260416-openai-agent-sdk/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=211771",
@@ -2066,6 +2066,7 @@
     "yt:video:o-YW30j5D80"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260608",
     "https://garumax.com/?p=260527",
     "https://garumax.com/?p=260501",
     "https://garumax.com/?p=259875",
@@ -2114,8 +2115,7 @@
     "https://garumax.com/?p=259281",
     "https://garumax.com/?p=259267",
     "https://garumax.com/?p=258382",
-    "https://garumax.com/?p=258613",
-    "https://garumax.com/?p=259069"
+    "https://garumax.com/?p=258613"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
