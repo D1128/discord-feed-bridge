@@ -1125,6 +1125,8 @@
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=279930",
+    "https://smhn.info/?p=280017",
     "https://smhn.info/?p=279987",
     "https://smhn.info/?p=279759",
     "https://smhn.info/?p=279938",
@@ -1172,9 +1174,7 @@
     "https://smhn.info/?p=279428",
     "https://smhn.info/?p=278433",
     "https://smhn.info/?p=278447",
-    "https://smhn.info/?p=279218",
-    "https://smhn.info/?p=279278",
-    "https://smhn.info/?p=279287"
+    "https://smhn.info/?p=279218"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=112690",
@@ -1229,6 +1229,10 @@
     "https://daily-gadget.net/?p=112299"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=59354",
+    "https://sumahodigest.com/?p=59358",
+    "https://sumahodigest.com/?p=59363",
+    "https://sumahodigest.com/?p=59367",
     "https://sumahodigest.com/?p=59340",
     "https://sumahodigest.com/?p=59253",
     "https://sumahodigest.com/?p=59335",
@@ -1274,11 +1278,7 @@
     "https://sumahodigest.com/?p=59144",
     "https://sumahodigest.com/?p=59149",
     "https://sumahodigest.com/?p=59153",
-    "https://sumahodigest.com/?p=59116",
-    "https://sumahodigest.com/?p=59069",
-    "https://sumahodigest.com/?p=59092",
-    "https://sumahodigest.com/?p=59096",
-    "https://sumahodigest.com/?p=59099"
+    "https://sumahodigest.com/?p=59116"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/17179246901366822461",
@@ -1431,6 +1431,7 @@
     "yt:video:_A_5MwHo1oY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg": [
+    "yt:video:6xTlrB6skGc",
     "yt:video:DDch1Yza8Vs",
     "yt:video:Wr5sjzhg7BU",
     "yt:video:03x9KIdlQOA",
@@ -1479,8 +1480,7 @@
     "yt:video:jBwoiwyKxBM",
     "yt:video:Fo71qNgAON0",
     "yt:video:3Vh5n0MLPmU",
-    "yt:video:W1jjNd37ado",
-    "yt:video:4PODNEmv0aI"
+    "yt:video:W1jjNd37ado"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
     "yt:video:3fegETw9GFQ",
@@ -2587,6 +2587,7 @@
     "2038978598632321280"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2046215264837267880",
     "2046174579396350206",
     "2046174591316554141",
     "2046174603081547796",
@@ -2635,8 +2636,7 @@
     "2045175259067015660",
     "2045160344675561824",
     "2045161646457598173",
-    "2045161690334150668",
-    "2045154607069073833"
+    "2045161690334150668"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2043910870481440820",
