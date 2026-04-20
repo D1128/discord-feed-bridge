@@ -1601,6 +1601,15 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260420-us-government-anthropic-mythos-preview/",
+    "https://gigazine.net/news/20260420-bluetooth-tracker-hidden-in-postcard/",
+    "https://gigazine.net/news/20260420-claude-design/",
+    "https://gigazine.net/news/20260420-app-launch/",
+    "https://gigazine.net/news/20260420-chickens-run-around-heads-cut-off/",
+    "https://gigazine.net/news/20260420-os-age-verification/",
+    "https://gigazine.net/news/20260420-meta-layoff-8000/",
+    "https://gigazine.net/news/20260420-eu-age-verification-app-hacked/",
+    "https://gigazine.net/news/20260420-universal-high-income/",
     "https://gigazine.net/news/20260420-humanoid-robot-sprints-victory-beijing-half-marathon/",
     "https://gigazine.net/news/20260420-ukraine-replace-robot/",
     "https://gigazine.net/news/20260420-flexispot-e7-click/",
@@ -1641,16 +1650,7 @@
     "https://gigazine.net/news/20260417-mozilla-thunderbolt/",
     "https://gigazine.net/news/20260417-deepl-voice-to-voice/",
     "https://gigazine.net/news/20260417-google-maps-spam-reviews/",
-    "https://gigazine.net/news/20260417-bread-cause-weight-gain-without-overeating/",
-    "https://gigazine.net/news/20260417-openai-codex-everything/",
-    "https://gigazine.net/news/20260417-qwen36-35b-a3b/",
-    "https://gigazine.net/news/20260417-tencent-hy-world-2/",
-    "https://gigazine.net/news/20260417-gpt-rosalind/",
-    "https://gigazine.net/news/20260417-videoproc-converter-ai/",
-    "https://gigazine.net/news/20260417-open-screen/",
-    "https://gigazine.net/news/20260417-apple-google-store-nudify-apps/",
-    "https://gigazine.net/news/20260417-discourse-gif-backup-bloat/",
-    "https://gigazine.net/news/20260416-spotify-piracy-lawsuit/"
+    "https://gigazine.net/news/20260417-bread-cause-weight-gain-without-overeating/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=211771",
@@ -2067,6 +2067,8 @@
     "yt:video:o-YW30j5D80"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260622",
+    "https://garumax.com/?p=260534",
     "https://garumax.com/?p=260608",
     "https://garumax.com/?p=260527",
     "https://garumax.com/?p=260501",
@@ -2114,9 +2116,7 @@
     "https://garumax.com/?p=259302",
     "https://garumax.com/?p=259269",
     "https://garumax.com/?p=259281",
-    "https://garumax.com/?p=259267",
-    "https://garumax.com/?p=258382",
-    "https://garumax.com/?p=258613"
+    "https://garumax.com/?p=259267"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
@@ -2307,6 +2307,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2045985802673639740",
+    "2045907248430608589",
+    "2045865343651115495",
+    "2045855079438389547",
     "2045820476866637845",
     "2045729790813212918",
     "2045512658749886876",
@@ -2352,11 +2356,7 @@
     "2043626320811483410",
     "2043181020976128214",
     "2043161036468150534",
-    "2043257521314398308",
-    "2043257654404165910",
-    "2042993090970161499",
-    "2043002718697197571",
-    "2042799023678198096"
+    "2043257521314398308"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2045826241345806625",
