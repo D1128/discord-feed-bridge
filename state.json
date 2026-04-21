@@ -1603,6 +1603,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260421-ruby-central-financial-jeopardy/",
+    "https://gigazine.net/news/20260421-the-onion-plan-take-over-infowars/",
+    "https://gigazine.net/news/20260421-h-265-hevc-licensing-and-royalties/",
+    "https://gigazine.net/news/20260421-layerzero-kelpdao-hacking/",
     "https://gigazine.net/news/20260421-lenovo-legion-go-s-ramageddon-victim/",
     "https://gigazine.net/news/20260421-brazilian-officials-notify-apple-lack-age-controls-app-store/",
     "https://gigazine.net/news/20260421-github-copilot-plans-changes/",
@@ -1648,13 +1652,10 @@
     "https://gigazine.net/news/20260419-dell-xps-14-16-appearance/",
     "https://gigazine.net/news/20260419-sandisk-phone-drive-usb-c/",
     "https://gigazine.net/news/20260419-matchy-matchy/",
-    "https://gigazine.net/news/20260419-tile-starter-pack/",
-    "https://gigazine.net/news/20260419-rezero-tottori/",
-    "https://gigazine.net/news/20260419-ma-wbirs635bk/",
-    "https://gigazine.net/news/20260419-git-classic/",
-    "https://gigazine.net/news/20260419-thermos-cooler-bag-rfm-003/"
+    "https://gigazine.net/news/20260419-tile-starter-pack/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=211874",
     "https://aismiley.co.jp/?post_type=ai_news&p=211960",
     "https://aismiley.co.jp/?post_type=ai_news&p=211852",
     "https://aismiley.co.jp/?post_type=ai_news&p=211771",
@@ -1703,8 +1704,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=209582",
     "https://aismiley.co.jp/?post_type=ai_news&p=209875",
     "https://aismiley.co.jp/?post_type=ai_news&p=208345",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208180",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208243"
+    "https://aismiley.co.jp/?post_type=ai_news&p=208180"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186754",
@@ -2070,6 +2070,7 @@
     "yt:video:o-YW30j5D80"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260560",
     "https://garumax.com/?p=260675",
     "https://garumax.com/?p=260657",
     "https://garumax.com/?p=260636",
@@ -2118,8 +2119,7 @@
     "https://garumax.com/?p=259410",
     "https://garumax.com/?p=259469",
     "https://garumax.com/?p=259439",
-    "https://garumax.com/?p=259160",
-    "https://garumax.com/?p=259234"
+    "https://garumax.com/?p=259160"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
