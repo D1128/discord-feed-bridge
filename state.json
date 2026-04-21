@@ -1603,6 +1603,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260421-headline/",
     "https://gigazine.net/news/20260421-stackadapt-playbook-chatgpt-ads/",
     "https://gigazine.net/news/20260421-matsuya-grilled-pork/",
     "https://gigazine.net/news/20260421-ruby-central-financial-jeopardy/",
@@ -1651,10 +1652,11 @@
     "https://gigazine.net/news/20260420-ai-security-token-cost/",
     "https://gigazine.net/news/20260419-chiefonboarding/",
     "https://gigazine.net/news/20260419-sanwa-400-sp125-portable-speaker/",
-    "https://gigazine.net/news/20260419-dell-xps-14-16-appearance/",
-    "https://gigazine.net/news/20260419-sandisk-phone-drive-usb-c/"
+    "https://gigazine.net/news/20260419-dell-xps-14-16-appearance/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=211805",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212148",
     "https://aismiley.co.jp/?post_type=ai_news&p=211874",
     "https://aismiley.co.jp/?post_type=ai_news&p=211960",
     "https://aismiley.co.jp/?post_type=ai_news&p=211852",
@@ -1702,9 +1704,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=210039",
     "https://aismiley.co.jp/?post_type=ai_news&p=209648",
     "https://aismiley.co.jp/?post_type=ai_news&p=209582",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209875",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208345",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208180"
+    "https://aismiley.co.jp/?post_type=ai_news&p=209875"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186754",
@@ -2222,6 +2222,10 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2046475705333305739",
+    "2046509163795361978",
+    "2046505733005709757",
+    "2046505727788024100",
     "2046476613601374500",
     "2046477023573602678",
     "2046478477269070044",
@@ -2267,11 +2271,7 @@
     "2045552586158485758",
     "2045479065675792813",
     "2045479533139398997",
-    "2045359456016597316",
-    "2045360933896323216",
-    "2045307877972390197",
-    "2045307893055140115",
-    "2045307909370982862"
+    "2045359456016597316"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
