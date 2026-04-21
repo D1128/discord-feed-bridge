@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2103388.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2103408.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2103426.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2103406.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2103341.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2103367.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2102480.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2102486.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/tidbit/2101870.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/ubiq/2102165.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2102270.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/special/2101130.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2102318.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/ubiq/2102165.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/simrepo/",
@@ -341,6 +341,7 @@
     "yt:video:7MUp8wr_5-Q"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:ibKmJ2ra5MU",
     "yt:video:bz591g2shxU",
     "yt:video:ZfQk_eXqRw0",
     "yt:video:eG5UtW0S8WQ",
@@ -389,8 +390,7 @@
     "yt:video:_bwiQ_-oj4s",
     "yt:video:sGBQauWdRso",
     "yt:video:ZyjKEWgSTBs",
-    "yt:video:MVsiutpKfJI",
-    "yt:video:m03cpBzTaaI"
+    "yt:video:MVsiutpKfJI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
     "yt:video:FmRrKf_kQ2Y",
