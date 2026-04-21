@@ -289,6 +289,7 @@
     "https://magazine.techacademy.jp/magazine/?p=87264"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA": [
+    "yt:video:Olmkx7ysqOk",
     "yt:video:jvmxBAdNZ-Q",
     "yt:video:h6IS0iXPjgY",
     "yt:video:mRGtIMjlk1Y",
@@ -337,8 +338,7 @@
     "yt:video:_-qsrlFAmwg",
     "yt:video:bCEz2UxgPPc",
     "yt:video:vkvLRtsrHMw",
-    "yt:video:Rk4qOO1f-ak",
-    "yt:video:7MUp8wr_5-Q"
+    "yt:video:Rk4qOO1f-ak"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
     "yt:video:ibKmJ2ra5MU",
@@ -393,6 +393,7 @@
     "yt:video:MVsiutpKfJI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:3m9kO30CSOM",
     "yt:video:FmRrKf_kQ2Y",
     "yt:video:66MFipALolU",
     "yt:video:TAcSsOgKTkU",
@@ -441,8 +442,7 @@
     "yt:video:NypsGN8t7kI",
     "yt:video:q3Qdz10a_m4",
     "yt:video:Q4gmUIxFFUY",
-    "yt:video:Zpr9ka1lgNM",
-    "yt:video:PIocHaEyfHU"
+    "yt:video:Zpr9ka1lgNM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:tujSxDj9t5M",
@@ -2658,6 +2658,15 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2046544328617836992",
+    "2046544371399668079",
+    "2046544301950415056",
+    "2046545291072229728",
+    "2046545335221461403",
+    "2046545268037066833",
+    "2046545603052924997",
+    "2046545730874355843",
+    "2046545553899876667",
     "2046496505973088444",
     "2046435303720947741",
     "2046435421815796171",
@@ -2698,16 +2707,7 @@
     "2045792345363501246",
     "2045792382244057458",
     "2045792459121446928",
-    "2045792481548365836",
-    "2045792521725637112",
-    "2045508272955007071",
-    "2045508321302769714",
-    "2045508489985024274",
-    "2045508529608638749",
-    "2045460893308535261",
-    "2045460985990045793",
-    "2045461181293576292",
-    "2045461224977203397"
+    "2045792481548365836"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2046045292529946769",
