@@ -1603,6 +1603,12 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260422-starbucks-chatgpt/",
+    "https://gigazine.net/news/20260422-anthropic-claude-subscribe-small-test/",
+    "https://gigazine.net/news/20260422-gpt-image-2-wheres-wally/",
+    "https://gigazine.net/news/20260422-x-custom-timeline/",
+    "https://gigazine.net/news/20260422-mediator-ai/",
+    "https://gigazine.net/news/20260422-youtube-expanding-likeness-detection/",
     "https://gigazine.net/news/20260422-spacex-cursor/",
     "https://gigazine.net/news/20260422-x-api-link-price-up/",
     "https://gigazine.net/news/20260422-boring-conversation-enjoy-surprising-benefit/",
@@ -1646,15 +1652,10 @@
     "https://gigazine.net/news/20260420-what-thinker-thinking-about/",
     "https://gigazine.net/news/20260420-eiffel-tower-office/",
     "https://gigazine.net/news/20260420-ipv6-complicated/",
-    "https://gigazine.net/news/20260420-headline/",
-    "https://gigazine.net/news/20260420-claude-opus-4-7-token-cost/",
-    "https://gigazine.net/news/20260420-haagen-dazs-kaga-bo-hojicha-latte/",
-    "https://gigazine.net/news/20260420-closing-eyes-not-help-hear/",
-    "https://gigazine.net/news/20260420-global-memory-shortage-2027-ai-drains-supply/",
-    "https://gigazine.net/news/20260420-online-trade-insider/",
-    "https://gigazine.net/news/20260420-windows-11-may-update/"
+    "https://gigazine.net/news/20260420-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=210550",
     "https://aismiley.co.jp/?post_type=ai_news&p=211805",
     "https://aismiley.co.jp/?post_type=ai_news&p=212148",
     "https://aismiley.co.jp/?post_type=ai_news&p=211874",
@@ -1703,8 +1704,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=209788",
     "https://aismiley.co.jp/?post_type=ai_news&p=210039",
     "https://aismiley.co.jp/?post_type=ai_news&p=209648",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209582",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209875"
+    "https://aismiley.co.jp/?post_type=ai_news&p=209582"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186774",
@@ -2070,6 +2070,8 @@
     "yt:video:4KZ_8AO9JcY"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260843",
+    "https://garumax.com/?p=260919",
     "https://garumax.com/?p=260796",
     "https://garumax.com/?p=260730",
     "https://garumax.com/?p=260728",
@@ -2117,9 +2119,7 @@
     "https://garumax.com/?p=259656",
     "https://garumax.com/?p=259630",
     "https://garumax.com/?p=259512",
-    "https://garumax.com/?p=259501",
-    "https://garumax.com/?p=259478",
-    "https://garumax.com/?p=259410"
+    "https://garumax.com/?p=259501"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
@@ -2222,6 +2222,7 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2046806543283503297",
     "2046806086456627699",
     "2046806102239777038",
     "2046806117381177535",
@@ -2270,8 +2271,7 @@
     "2046091726830583961",
     "2046094140375703900",
     "2045834203657621554",
-    "2045834220829110476",
-    "2045834233202246117"
+    "2045834220829110476"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
