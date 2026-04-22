@@ -1605,6 +1605,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260422-mind-animal/",
+    "https://gigazine.net/news/20260422-tencent-qclaw-openclaw/",
+    "https://gigazine.net/news/20260422-headline/",
     "https://gigazine.net/news/20260422-law-of-software-engineering/",
     "https://gigazine.net/news/20260422-family-mart-frozen-banana/",
     "https://gigazine.net/news/20260422-starbucks-chatgpt/",
@@ -1651,10 +1654,7 @@
     "https://gigazine.net/news/20260421-amazon-anthropic-invest/",
     "https://gigazine.net/news/20260421-claude-mythos-gpt-cyber-oss-risk/",
     "https://gigazine.net/news/20260421-car-crash-conspiracy/",
-    "https://gigazine.net/news/20260421-5-5-million-bees-cemetery/",
-    "https://gigazine.net/news/20260420-oaken-tower/",
-    "https://gigazine.net/news/20260420-what-thinker-thinking-about/",
-    "https://gigazine.net/news/20260420-eiffel-tower-office/"
+    "https://gigazine.net/news/20260421-5-5-million-bees-cemetery/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=211863",
@@ -2312,6 +2312,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2046897095152685082",
+    "2046897333204635698",
+    "2046867598017724463",
     "2046789818299142399",
     "2046502209089839335",
     "2046551922438734061",
@@ -2358,10 +2361,7 @@
     "2043986712200929583",
     "2044173862116700223",
     "2044014786518888846",
-    "2044011992009285778",
-    "2043991528067215476",
-    "2043991904170455070",
-    "2043907661281058950"
+    "2044011992009285778"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2046552275532046420",
