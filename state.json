@@ -1656,6 +1656,9 @@
     "https://gigazine.net/news/20260420-eiffel-tower-office/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=211863",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211963",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211877",
     "https://aismiley.co.jp/?post_type=ai_news&p=210550",
     "https://aismiley.co.jp/?post_type=ai_news&p=211805",
     "https://aismiley.co.jp/?post_type=ai_news&p=212148",
@@ -1702,10 +1705,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=210153",
     "https://aismiley.co.jp/?post_type=ai_news&p=210082",
     "https://aismiley.co.jp/?post_type=ai_news&p=209662",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209788",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210039",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209648",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209582"
+    "https://aismiley.co.jp/?post_type=ai_news&p=209788"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186774",
@@ -1967,6 +1967,7 @@
     "yt:video:BhwYGAHMINs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:ZrO7tv-uv1E",
     "yt:video:As6mn7eodDo",
     "yt:video:WSNtkBu6ZWs",
     "yt:video:gBFh6vnwXLA",
@@ -2015,8 +2016,7 @@
     "yt:video:TW21cCPs1T0",
     "yt:video:uStxLB23pB0",
     "yt:video:nEAYR2PaJb8",
-    "yt:video:BuS2InVbaLA",
-    "yt:video:qDUHOUCWbIk"
+    "yt:video:BuS2InVbaLA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:6tlT0Cw6iuQ",
@@ -2071,6 +2071,7 @@
     "yt:video:Bg9sNpyYuT8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260942",
     "https://garumax.com/?p=260843",
     "https://garumax.com/?p=260919",
     "https://garumax.com/?p=260796",
@@ -2119,8 +2120,7 @@
     "https://garumax.com/?p=259697",
     "https://garumax.com/?p=259656",
     "https://garumax.com/?p=259630",
-    "https://garumax.com/?p=259512",
-    "https://garumax.com/?p=259501"
+    "https://garumax.com/?p=259512"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
