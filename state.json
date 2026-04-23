@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/topic/special/2102426.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/semicon/2104101.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2104166.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2104082.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2103408.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2103426.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2103406.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2103341.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2103367.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2103341.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/simrepo/",
