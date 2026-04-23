@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2104082.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2104138.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2104090.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2104056.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2104042.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2104065.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2103341.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2103367.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2103376.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2103189.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2102877.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2103183.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2103195.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2103189.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/simrepo/",
@@ -225,6 +225,8 @@
     "https://telektlist.com/?p=136939"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24042",
+    "https://codezine.jp/article/detail/24052",
     "https://codezine.jp/article/detail/24043",
     "https://codezine.jp/article/detail/24033",
     "https://codezine.jp/article/detail/24040",
@@ -272,9 +274,7 @@
     "https://codezine.jp/article/detail/23943",
     "https://codezine.jp/article/detail/23999",
     "https://codezine.jp/article/detail/23989",
-    "https://codezine.jp/article/detail/23988",
-    "https://codezine.jp/article/detail/23982",
-    "https://codezine.jp/article/detail/23984"
+    "https://codezine.jp/article/detail/23988"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2765,6 +2765,7 @@
     "2039509102158856600"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2047213020762591248",
     "2046180517704556560",
     "2046167439004901866",
     "2045985802673639740",
@@ -2813,8 +2814,7 @@
     "2024871192260378721",
     "2024020326951383135",
     "2023155390016540928",
-    "2023155392080228695",
-    "2022571369226223905"
+    "2023155392080228695"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
