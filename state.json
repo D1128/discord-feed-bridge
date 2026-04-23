@@ -1606,6 +1606,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260423-burgerking-big-mouth-smoke-house/",
+    "https://gigazine.net/news/20260423-headline/",
     "https://gigazine.net/news/20260423-thunderbird-150/",
     "https://gigazine.net/news/20260423-corona-discharges-treetops-during-storms-captured/",
     "https://gigazine.net/news/20260423-openai-chatgpt-for-clinicians/",
@@ -1653,9 +1655,7 @@
     "https://gigazine.net/news/20260422-playstation-age-verification/",
     "https://gigazine.net/news/20260422-xbox-game-pass-ultimate-drop-price/",
     "https://gigazine.net/news/20260422-google-deep-research-max/",
-    "https://gigazine.net/news/20260422-iran-network-us-backdoor/",
-    "https://gigazine.net/news/20260422-claude-token-counter/",
-    "https://gigazine.net/news/20260422-3d-printing-meta-nfs-electronics/"
+    "https://gigazine.net/news/20260422-iran-network-us-backdoor/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=211941",
@@ -1865,6 +1865,7 @@
     "yt:video:Ks9X9PzDdzo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:g6RSpFCURvk",
     "yt:video:GMiav7jp8ng",
     "yt:video:hT8H4M5Kcvs",
     "yt:video:1KkqUb48Hbo",
@@ -1913,8 +1914,7 @@
     "yt:video:2_TTuPzMQmQ",
     "yt:video:zVYRxvTFnA0",
     "yt:video:Ga4XV4rGcd8",
-    "yt:video:aVvf1kgJkN8",
-    "yt:video:fzX2qA926yo"
+    "yt:video:aVvf1kgJkN8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
     "yt:video:SZk3DevtjYQ",
@@ -2073,6 +2073,7 @@
     "yt:video:Bg9sNpyYuT8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260582",
     "https://garumax.com/?p=260973",
     "https://garumax.com/?p=260968",
     "https://garumax.com/?p=260942",
@@ -2121,8 +2122,7 @@
     "https://garumax.com/?p=259683",
     "https://garumax.com/?p=259520",
     "https://garumax.com/?p=259553",
-    "https://garumax.com/?p=259697",
-    "https://garumax.com/?p=259656"
+    "https://garumax.com/?p=259697"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
@@ -2313,6 +2313,11 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2047237897334693995",
+    "2046988459542466573",
+    "2047246439194173658",
+    "2047246774189097297",
+    "2047210140831805846",
     "2047203041691218221",
     "2046912415963750817",
     "2046828546308637050",
@@ -2357,12 +2362,7 @@
     "2044360240075092252",
     "2043994249407148191",
     "2044280254513197405",
-    "2044323156517847462",
-    "2044221392338726938",
-    "2043887634209202657",
-    "2043893623004229814",
-    "2044075272895615449",
-    "2043986712200929583"
+    "2044323156517847462"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2047088058768777393",
