@@ -1611,6 +1611,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260424-book-not-too-expensive/",
     "https://gigazine.net/news/20260424-cleopatra-lost/",
     "https://gigazine.net/news/20260424-milky-way-star-forming-disc-edge/",
     "https://gigazine.net/news/20260424-headline/",
@@ -1659,10 +1660,17 @@
     "https://gigazine.net/news/20260423-justin-sun-sue-trump-crypto/",
     "https://gigazine.net/news/20260423-nvidia-google-cloud/",
     "https://gigazine.net/news/20260423-apple-ios-26-4-2-notification-bug-fix/",
-    "https://gigazine.net/news/20260423-openai-chatgpt-workspace-agents/",
-    "https://gigazine.net/news/20260423-vaio-sx14-r-appearance/"
+    "https://gigazine.net/news/20260423-openai-chatgpt-workspace-agents/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=212803",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211657",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211143",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211992",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212145",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212394",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212286",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211149",
     "https://aismiley.co.jp/?post_type=ai_news&p=211941",
     "https://aismiley.co.jp/?post_type=ai_news&p=211215",
     "https://aismiley.co.jp/?post_type=ai_news&p=211574",
@@ -1704,15 +1712,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=210779",
     "https://aismiley.co.jp/?post_type=ai_news&p=211076",
     "https://aismiley.co.jp/?post_type=ai_news&p=210431",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211059",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209987",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210379",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210685",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210554",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209981",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210461",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208843",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207572"
+    "https://aismiley.co.jp/?post_type=ai_news&p=211059"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186869",
@@ -2231,6 +2231,11 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2047649415989703132",
+    "2047649432167239717",
+    "2047649447447052319",
+    "2047649465293758474",
+    "2047649812414378161",
     "2047563334489456989",
     "2047563349966328128",
     "2047563364898119978",
@@ -2275,12 +2280,7 @@
     "2046806086456627699",
     "2046806102239777038",
     "2046806117381177535",
-    "2046752616030588932",
-    "2046752632241525024",
-    "2046752647387263046",
-    "2046752662776127973",
-    "2046546948665348598",
-    "2046546964746318104"
+    "2046752616030588932"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
