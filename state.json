@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2104705.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2104643.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2104457.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2104531.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2103691.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2103795.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2103787.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2103793.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2103661.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2103793.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/simrepo/",
@@ -125,6 +125,7 @@
     "https://ainow.ai/?p=277802"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=92435",
     "https://butsuyoku-gadget.com/?p=92419",
     "https://butsuyoku-gadget.com/?p=92415",
     "https://butsuyoku-gadget.com/?p=92408",
@@ -173,8 +174,7 @@
     "https://butsuyoku-gadget.com/?p=91997",
     "https://butsuyoku-gadget.com/?p=91987",
     "https://butsuyoku-gadget.com/?p=91975",
-    "https://butsuyoku-gadget.com/?p=91965",
-    "https://butsuyoku-gadget.com/?p=91961"
+    "https://butsuyoku-gadget.com/?p=91965"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137554",
@@ -229,6 +229,8 @@
     "https://telektlist.com/?p=136953"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24071",
+    "https://codezine.jp/article/detail/24072",
     "https://codezine.jp/article/detail/24047",
     "https://codezine.jp/article/detail/24057",
     "https://codezine.jp/article/detail/24054",
@@ -276,9 +278,7 @@
     "https://codezine.jp/article/detail/24029",
     "https://codezine.jp/article/detail/24021",
     "https://codezine.jp/article/detail/24019",
-    "https://codezine.jp/article/detail/24016",
-    "https://codezine.jp/article/detail/24020",
-    "https://codezine.jp/article/detail/24017"
+    "https://codezine.jp/article/detail/24016"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2771,6 +2771,7 @@
     "2039509102158856600"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2047300871202218053",
     "2047213020762591248",
     "2046180517704556560",
     "2046167439004901866",
@@ -2819,8 +2820,7 @@
     "2024979542373527890",
     "2024871192260378721",
     "2024020326951383135",
-    "2023155390016540928",
-    "2023155392080228695"
+    "2023155390016540928"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
