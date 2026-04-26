@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/ubuntu/2104419.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2104681.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/special/2102875.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2104706.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2104705.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2104643.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2103939.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2103737.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2103782.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2103895.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2103691.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2103795.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2103787.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2103895.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/simrepo/",
