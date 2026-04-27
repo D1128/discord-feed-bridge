@@ -622,6 +622,7 @@
     "https://taskhub.jp/magazine/?p=14140"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=301613",
     "https://tabkul.com/?p=301612",
     "https://tabkul.com/?p=301611",
     "https://tabkul.com/?p=301608",
@@ -670,8 +671,7 @@
     "https://tabkul.com/?p=301449",
     "https://tabkul.com/?p=301447",
     "https://tabkul.com/?p=301445",
-    "https://tabkul.com/?p=301444",
-    "https://tabkul.com/?p=301437"
+    "https://tabkul.com/?p=301444"
   ],
   "https://chinadap.jp/feed": [
     "https://chinadap.jp/?p=35147",
@@ -790,6 +790,10 @@
     "https://liginc.co.jp/?p=669156"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:njU0PZWS6vE",
+    "yt:video:2F_cqhy_rBU",
+    "yt:video:_3dBCT64gMk",
+    "yt:video:-RnEJc76EO8",
     "yt:video:qoMwuZQVW3g",
     "yt:video:ZAXNN-h_Vew",
     "yt:video:ySpb1gDf4R4",
@@ -835,11 +839,7 @@
     "yt:video:gd4AMgmd0WQ",
     "yt:video:UQai_05MAEY",
     "yt:video:c4c_AaYY9dM",
-    "yt:video:9vo3wxKg9Hc",
-    "yt:video:orgF-7jMZfs",
-    "yt:video:kr4xeRFacZw",
-    "yt:video:V0Q3o6f2pzA",
-    "yt:video:TshxNfcLEaQ"
+    "yt:video:9vo3wxKg9Hc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -2427,6 +2427,7 @@
     "2035855038883717240"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2048627144394465472",
     "2048598009911398534",
     "2048537613142044694",
     "2048366043454959955",
@@ -2475,10 +2476,10 @@
     "2044326868313354332",
     "2044354359161741725",
     "2044339953312702650",
-    "2044234830045716718",
-    "2044204997035077903"
+    "2044234830045716718"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2048638123819827473",
     "2048501699502129606",
     "2048514911928721563",
     "2048456463249797325",
@@ -2527,8 +2528,7 @@
     "2046779724249420211",
     "2046782499330957786",
     "2046832968367481259",
-    "2046779170253103255",
-    "2046782776616407255"
+    "2046779170253103255"
   ],
   "https://nitter.net/chibimana/rss": [
     "2044045671192580264",
