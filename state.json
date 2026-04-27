@@ -1615,6 +1615,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260427-switchbot-smart-daily-station/",
     "https://gigazine.net/news/20260427-fairness-probability/",
     "https://gigazine.net/news/20260427-america-rich-get-sad/",
     "https://gigazine.net/news/20260427-nba-court-microphones-broadcast-sound/",
@@ -1663,8 +1664,7 @@
     "https://gigazine.net/news/20260424-openai-gpt-5-5/",
     "https://gigazine.net/news/20260424-anthropic-claude-code-quality/",
     "https://gigazine.net/news/20260424-surveillance-pricing-exploiting-information-asymmetries/",
-    "https://gigazine.net/news/20260424-autoprober-diy-flying-probe/",
-    "https://gigazine.net/news/20260423-hair-dryer-paris-weather-sensor-polymarket/"
+    "https://gigazine.net/news/20260424-autoprober-diy-flying-probe/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=212803",
@@ -2083,6 +2083,8 @@
     "yt:video:JzMsgVa-xVM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=261167",
+    "https://garumax.com/?p=261145",
     "https://garumax.com/?p=261044",
     "https://garumax.com/?p=260757",
     "https://garumax.com/?p=261126",
@@ -2130,9 +2132,7 @@
     "https://garumax.com/?p=260069",
     "https://garumax.com/?p=259969",
     "https://garumax.com/?p=259835",
-    "https://garumax.com/?p=260051",
-    "https://garumax.com/?p=260014",
-    "https://garumax.com/?p=259846"
+    "https://garumax.com/?p=260051"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
