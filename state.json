@@ -1667,6 +1667,12 @@
     "https://gigazine.net/news/20260424-tim-cook-career/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=212318",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212105",
+    "https://aismiley.co.jp/?post_type=ai_news&p=213098",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212219",
+    "https://aismiley.co.jp/?post_type=ai_news&p=211642",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212249",
     "https://aismiley.co.jp/?post_type=ai_news&p=211374",
     "https://aismiley.co.jp/?post_type=ai_news&p=210512",
     "https://aismiley.co.jp/?post_type=ai_news&p=205706",
@@ -1710,13 +1716,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=210656",
     "https://aismiley.co.jp/?post_type=ai_news&p=210875",
     "https://aismiley.co.jp/?post_type=ai_news&p=210796",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211140",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209403",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210444",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210542",
-    "https://aismiley.co.jp/?post_type=ai_news&p=204082",
-    "https://aismiley.co.jp/?post_type=ai_news&p=208767",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210797"
+    "https://aismiley.co.jp/?post_type=ai_news&p=211140"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186842",
@@ -1979,6 +1979,7 @@
     "yt:video:ub4v70k2eRA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:9El5QPSSiys",
     "yt:video:SserVJnLCN4",
     "yt:video:d_iHRM1e-ZE",
     "yt:video:ZrO7tv-uv1E",
@@ -2027,8 +2028,7 @@
     "yt:video:jeeHEksQk6k",
     "yt:video:xAPYzEq9EJU",
     "yt:video:671mD__ObwA",
-    "yt:video:TW21cCPs1T0",
-    "yt:video:uStxLB23pB0"
+    "yt:video:TW21cCPs1T0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:-CMJzz5FiQI",
@@ -2235,6 +2235,11 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2048692949282889870",
+    "2048692965548421197",
+    "2048692981348413652",
+    "2048692997425156406",
+    "2048693734578233397",
     "2048597656440873021",
     "2048597671976518023",
     "2048597813999927614",
@@ -2279,12 +2284,7 @@
     "2047216741391142996",
     "2047216753269461446",
     "2047198906682064966",
-    "2047198922314310023",
-    "2047198938084839558",
-    "2047199198131691680",
-    "2046014387857789246",
-    "2047158071282356457",
-    "2047158368633282743"
+    "2047198922314310023"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
