@@ -1082,6 +1082,11 @@
     "yt:video:KRVjGzQczz4"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/mobile/articles/2604/27/news074.html",
+    "https://www.itmedia.co.jp/pcuser/articles/2604/27/news009.html",
+    "https://www.itmedia.co.jp/news/articles/2604/23/news078.html",
+    "https://www.itmedia.co.jp/news/articles/2604/27/news083.html",
+    "https://www.itmedia.co.jp/news/articles/2604/27/news088.html",
     "https://www.itmedia.co.jp/business/articles/2604/27/news011.html",
     "https://monoist.itmedia.co.jp/mn/articles/2604/27/news010.html",
     "https://www.itmedia.co.jp/news/articles/2604/27/news031.html",
@@ -1126,12 +1131,7 @@
     "https://www.itmedia.co.jp/news/articles/2604/24/news069.html",
     "https://www.itmedia.co.jp/business/articles/2604/24/news024.html",
     "https://www.itmedia.co.jp/business/articles/2604/24/news018.html",
-    "https://www.itmedia.co.jp/business/articles/2604/24/news023.html",
-    "https://www.itmedia.co.jp/business/articles/2604/24/news027.html",
-    "https://www.itmedia.co.jp/news/articles/2604/24/news068.html",
-    "https://www.itmedia.co.jp/mobile/articles/2604/24/news055.html",
-    "https://www.itmedia.co.jp/business/articles/2604/24/news007.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2604/23/news131.html"
+    "https://www.itmedia.co.jp/business/articles/2604/24/news023.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -2602,6 +2602,9 @@
     "2040250341569310733"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2048593197761527907",
+    "2048593315302658513",
+    "2048604139765244105",
     "2048547679568044431",
     "2048547680801153285",
     "2048532331087151190",
@@ -2648,10 +2651,7 @@
     "2047796481139347842",
     "2047699172468588929",
     "2047653026530566585",
-    "2047631318641672674",
-    "2047632815173558710",
-    "2047595147274178899",
-    "2047595774079549472"
+    "2047631318641672674"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2043910870481440820",
