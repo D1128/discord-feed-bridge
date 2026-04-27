@@ -1619,6 +1619,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260428-hepa-air-purifier-brain-function/",
     "https://gigazine.net/news/20260427-mtg-japanese/",
     "https://gigazine.net/news/20260427-alibaba-qwen-ai-coming-cars/",
     "https://gigazine.net/news/20260427-ai-coding-agent-deleted-database/",
@@ -1667,8 +1668,7 @@
     "https://gigazine.net/news/20260424-milky-way-star-forming-disc-edge/",
     "https://gigazine.net/news/20260424-headline/",
     "https://gigazine.net/news/20260424-deepseek-v4/",
-    "https://gigazine.net/news/20260424-domino-pizza-almost-1kg/",
-    "https://gigazine.net/news/20260424-rice-seeds-sprout-faster-sound-rain/"
+    "https://gigazine.net/news/20260424-domino-pizza-almost-1kg/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=212318",
@@ -2327,6 +2327,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2048815931158368621",
+    "2048733291440914574",
+    "2048730422134346067",
     "2048680117833249255",
     "2048728033130061945",
     "2048698320076554520",
@@ -2373,10 +2376,7 @@
     "2045865343651115495",
     "2045855079438389547",
     "2045820476866637845",
-    "2045729790813212918",
-    "2045512658749886876",
-    "2045515041689223587",
-    "2045300598179049567"
+    "2045729790813212918"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2048725595874541932",
