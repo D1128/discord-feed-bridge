@@ -1619,6 +1619,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260428-low-levels-alcohol-damage-brain/",
+    "https://gigazine.net/news/20260428-wordpress-studio-code/",
     "https://gigazine.net/news/20260428-self-updating-screenshot/",
     "https://gigazine.net/news/20260428-elementary-data-stole-user-credentials/",
     "https://gigazine.net/news/20260428-openai-ai-smartphone/",
@@ -1666,11 +1668,10 @@
     "https://gigazine.net/news/20260426-second-language-rude/",
     "https://gigazine.net/news/20260425-dashy/",
     "https://gigazine.net/news/20260425-acer-swift-air-appearance/",
-    "https://gigazine.net/news/20260425-anthropic-hackathon/",
-    "https://gigazine.net/news/20260425-legalize-es/",
-    "https://gigazine.net/news/20260425-france-government-cyber-attack/"
+    "https://gigazine.net/news/20260425-anthropic-hackathon/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=213017",
     "https://aismiley.co.jp/?post_type=ai_news&p=212520",
     "https://aismiley.co.jp/?post_type=ai_news&p=212020",
     "https://aismiley.co.jp/?post_type=ai_news&p=211049",
@@ -1719,8 +1720,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=211550",
     "https://aismiley.co.jp/?post_type=ai_news&p=210511",
     "https://aismiley.co.jp/?post_type=ai_news&p=204887",
-    "https://aismiley.co.jp/?post_type=ai_news&p=209830",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210656"
+    "https://aismiley.co.jp/?post_type=ai_news&p=209830"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186942",
@@ -2087,6 +2087,7 @@
     "yt:video:xO_sI-pzGHM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=261042",
     "https://garumax.com/?p=261167",
     "https://garumax.com/?p=261145",
     "https://garumax.com/?p=261044",
@@ -2135,8 +2136,7 @@
     "https://garumax.com/?p=260118",
     "https://garumax.com/?p=260069",
     "https://garumax.com/?p=259969",
-    "https://garumax.com/?p=259835",
-    "https://garumax.com/?p=260051"
+    "https://garumax.com/?p=259835"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
