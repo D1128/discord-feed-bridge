@@ -1619,6 +1619,12 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260428-noctua-fan-3d-cad/",
+    "https://gigazine.net/news/20260428-amazon-profanity-review/",
+    "https://gigazine.net/news/20260428-canva-apologizes-ai-replaces-palestine/",
+    "https://gigazine.net/news/20260428-eu-android-ai-open/",
+    "https://gigazine.net/news/20260428-xiaomi-mimo-v2-5-pro/",
+    "https://gigazine.net/news/20260428-nissin-hakata-motsu-nabe-udon/",
     "https://gigazine.net/news/20260428-low-levels-alcohol-damage-brain/",
     "https://gigazine.net/news/20260428-wordpress-studio-code/",
     "https://gigazine.net/news/20260428-self-updating-screenshot/",
@@ -1662,13 +1668,7 @@
     "https://gigazine.net/news/20260426-challenges-of-life-on-the-moon/",
     "https://gigazine.net/news/20260426-dell-xps-14-16-benchmark/",
     "https://gigazine.net/news/20260426-langflow/",
-    "https://gigazine.net/news/20260426-coffee-microbiome/",
-    "https://gigazine.net/news/20260426-videojs-v10beta-helloworld-again/",
-    "https://gigazine.net/news/20260426-google-invest-up-to-40-billion-anthropic/",
-    "https://gigazine.net/news/20260426-second-language-rude/",
-    "https://gigazine.net/news/20260425-dashy/",
-    "https://gigazine.net/news/20260425-acer-swift-air-appearance/",
-    "https://gigazine.net/news/20260425-anthropic-hackathon/"
+    "https://gigazine.net/news/20260426-coffee-microbiome/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213017",
@@ -2239,6 +2239,12 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2049024363140456712",
+    "2049024378692911403",
+    "2049024398502539663",
+    "2049024413895634977",
+    "2049024425979466029",
+    "2049026091843826050",
     "2048785237027737633",
     "2048786139822412259",
     "2048786643465929038",
@@ -2282,13 +2288,7 @@
     "2047563364898119978",
     "2047563380458963351",
     "2047563392614092931",
-    "2032031213259759632",
-    "2047492243205038201",
-    "2047494350771519510",
-    "2047302767639965729",
-    "2047302787395133688",
-    "2047302803509612921",
-    "2047305014901899743"
+    "2032031213259759632"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
@@ -2327,6 +2327,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2049033753201184939",
     "2048815931158368621",
     "2048733291440914574",
     "2048730422134346067",
@@ -2375,8 +2376,7 @@
     "2045907248430608589",
     "2045865343651115495",
     "2045855079438389547",
-    "2045820476866637845",
-    "2045729790813212918"
+    "2045820476866637845"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2048901756764164539",
