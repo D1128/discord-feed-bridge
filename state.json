@@ -1619,6 +1619,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260428-brave-container-like-firefox/",
+    "https://gigazine.net/news/20260428-turboquant-a-first-principles-walkthrough/",
+    "https://gigazine.net/news/20260428-super-zsnes/",
     "https://gigazine.net/news/20260428-pre-stuxnet-sabotage-malware-fast16/",
     "https://gigazine.net/news/20260428-openai-symphony/",
     "https://gigazine.net/news/20260428-headline/",
@@ -1665,10 +1668,7 @@
     "https://gigazine.net/news/20260427-sam-altman-vs-elon-musk/",
     "https://gigazine.net/news/20260427-switchbot-smart-daily-station/",
     "https://gigazine.net/news/20260427-fairness-probability/",
-    "https://gigazine.net/news/20260427-america-rich-get-sad/",
-    "https://gigazine.net/news/20260427-nba-court-microphones-broadcast-sound/",
-    "https://gigazine.net/news/20260427-tottori-sand-dunes-visitor-center-jorudan/",
-    "https://gigazine.net/news/20260426-australian-children-sns/"
+    "https://gigazine.net/news/20260427-america-rich-get-sad/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=212750",
@@ -2170,6 +2170,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=61476",
+    "https://androplus.jp/?p=61485",
     "https://androplus.jp/?p=61466",
     "https://androplus.jp/?p=61398",
     "https://androplus.jp/?p=61390",
@@ -2217,9 +2219,7 @@
     "https://androplus.jp/?p=60907",
     "https://androplus.jp/?p=60894",
     "https://androplus.jp/?p=60897",
-    "https://androplus.jp/?p=59991",
-    "https://androplus.jp/?p=60873",
-    "https://androplus.jp/?p=60879"
+    "https://androplus.jp/?p=59991"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2327,6 +2327,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2049107911067283621",
     "2049028438032523765",
     "2049047656878797093",
     "2048378281465172177",
@@ -2375,8 +2376,7 @@
     "2046236553492807976",
     "2046220140011012596",
     "2046103831743013154",
-    "2045985802673639740",
-    "2045907248430608589"
+    "2045985802673639740"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2049089745784017088",
