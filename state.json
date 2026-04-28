@@ -625,6 +625,8 @@
     "https://taskhub.jp/magazine/?p=14140"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=301615",
+    "https://tabkul.com/?p=301617",
     "https://tabkul.com/?p=301613",
     "https://tabkul.com/?p=301612",
     "https://tabkul.com/?p=301611",
@@ -672,9 +674,7 @@
     "https://tabkul.com/?p=301452",
     "https://tabkul.com/?p=301450",
     "https://tabkul.com/?p=301449",
-    "https://tabkul.com/?p=301447",
-    "https://tabkul.com/?p=301445",
-    "https://tabkul.com/?p=301444"
+    "https://tabkul.com/?p=301447"
   ],
   "https://chinadap.jp/feed": [
     "https://chinadap.jp/?p=35157",
@@ -793,6 +793,8 @@
     "https://liginc.co.jp/?p=676949"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:R8jAiz4RfY8",
+    "yt:video:W_7Pprmzk74",
     "yt:video:yIIRxJIXjFQ",
     "yt:video:i4fBgkzFlo0",
     "yt:video:ZCcLr_I_dFY",
@@ -840,9 +842,7 @@
     "yt:video:v_Lvuf961FE",
     "yt:video:IXYJcS3nvy4",
     "yt:video:z0Gczywn4aI",
-    "yt:video:u_9Uhan_hhc",
-    "yt:video:H-EqqqR5ahA",
-    "yt:video:wKLyQAIbDUg"
+    "yt:video:u_9Uhan_hhc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -2431,6 +2431,7 @@
     "2036579311323431297"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2049025116131233949",
     "2048960398704210412",
     "2048899998734328304",
     "2048688614016717086",
@@ -2479,8 +2480,7 @@
     "2044702344470753476",
     "2044611745407230027",
     "2044612264293188064",
-    "2044464067046477952",
-    "2044326868313354332"
+    "2044464067046477952"
   ],
   "https://nitter.net/showheyohtaki/rss": [
     "2048967190943297601",
