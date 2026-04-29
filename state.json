@@ -1619,6 +1619,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260429-airpods-ultra/",
+    "https://gigazine.net/news/20260429-alzheimers-disease-research/",
     "https://gigazine.net/news/20260429-octopus-avoid-using-hectocotylized-arm/",
     "https://gigazine.net/news/20260429-gigazine-kindle-ranking-2026-q1/",
     "https://gigazine.net/news/20260428-brave-container-like-firefox/",
@@ -1666,9 +1668,7 @@
     "https://gigazine.net/news/20260427-adblock-rust-on-firefox/",
     "https://gigazine.net/news/20260427-optimal-amount-sleep-lower-dementia-risk/",
     "https://gigazine.net/news/20260427-folding-ipad-unreleased/",
-    "https://gigazine.net/news/20260427-trump-fired-all-members-of-national-science-board/",
-    "https://gigazine.net/news/20260427-sam-altman-vs-elon-musk/",
-    "https://gigazine.net/news/20260427-switchbot-smart-daily-station/"
+    "https://gigazine.net/news/20260427-trump-fired-all-members-of-national-science-board/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=212750",
@@ -2327,6 +2327,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2049291423716151636",
     "2049107911067283621",
     "2049028438032523765",
     "2049047656878797093",
@@ -2375,8 +2376,7 @@
     "2046210898684162211",
     "2046236553492807976",
     "2046220140011012596",
-    "2046103831743013154",
-    "2045985802673639740"
+    "2046103831743013154"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2049089745784017088",
