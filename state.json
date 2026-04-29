@@ -793,6 +793,9 @@
     "https://liginc.co.jp/?p=676949"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:NM7budb9LiM",
+    "yt:video:jjlV7ELHEJE",
+    "yt:video:vhGo30ZAY8E",
     "yt:video:wg4r1PyCTmQ",
     "yt:video:R8jAiz4RfY8",
     "yt:video:W_7Pprmzk74",
@@ -839,10 +842,7 @@
     "yt:video:CR9eQtG83no",
     "yt:video:uMfgM8Vc2wo",
     "yt:video:v0ypGQ8y4qI",
-    "yt:video:vfMy3VecadU",
-    "yt:video:v_Lvuf961FE",
-    "yt:video:IXYJcS3nvy4",
-    "yt:video:z0Gczywn4aI"
+    "yt:video:vfMy3VecadU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -897,6 +897,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:HlQpr_tYVKs",
     "yt:video:KlG1JXqD4SM",
     "yt:video:meAoEv2SvD4",
     "yt:video:trPcmmsgk6Y",
@@ -945,8 +946,7 @@
     "yt:video:V1now3g9mwo",
     "yt:video:PMIUa_0q7b0",
     "yt:video:xKoG7lvQqS0",
-    "yt:video:r33yJG5Qk_U",
-    "yt:video:SpUsYZYhenI"
+    "yt:video:r33yJG5Qk_U"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:lTX5h9BYVc0",
@@ -2431,6 +2431,7 @@
     "2036942705474101484"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2049383948346892443",
     "2049322794572521474",
     "2049262387098989054",
     "2049051001588736052",
@@ -2479,10 +2480,10 @@
     "2045324530282025422",
     "2045077972257014011",
     "2045064731564945450",
-    "2044974135143747721",
-    "2044702344470753476"
+    "2044974135143747721"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2049367371035660376",
     "2049310524953985093",
     "2049319135381959084",
     "2049325524250714616",
@@ -2531,8 +2532,7 @@
     "2047594643911581943",
     "2047561354123653228",
     "2047522645974143321",
-    "2047531221526405620",
-    "2047531939880689985"
+    "2047531221526405620"
   ],
   "https://nitter.net/chibimana/rss": [
     "2044045671192580264",
