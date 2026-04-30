@@ -1623,6 +1623,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260430-microsoft-fy26-q3-earnings-reports/",
+    "https://gigazine.net/news/20260430-meta-reality-labs-loss/",
+    "https://gigazine.net/news/20260430-ibm-granite-4-1/",
+    "https://gigazine.net/news/20260430-alphabet-google-2025-q2-earnings/",
+    "https://gigazine.net/news/20260430-orangutan-filmed-using-a-human-made-bridge/",
+    "https://gigazine.net/news/20260430-maryland-ban-surveillance-pricing/",
+    "https://gigazine.net/news/20260430-filmmakers-lawsuit/",
     "https://gigazine.net/news/20260430-switchbot-aihub-openclaw/",
     "https://gigazine.net/news/20260430-short-circuit-solid-state-batteries-dendrite/",
     "https://gigazine.net/news/20260430-why-cancelled-claude/",
@@ -1665,16 +1672,10 @@
     "https://gigazine.net/news/20260428-google-ai-pentagon/",
     "https://gigazine.net/news/20260428-i-bought-friendster-30k/",
     "https://gigazine.net/news/20260428-hepa-air-purifier-brain-function/",
-    "https://gigazine.net/news/20260427-mtg-japanese/",
-    "https://gigazine.net/news/20260427-alibaba-qwen-ai-coming-cars/",
-    "https://gigazine.net/news/20260427-ai-coding-agent-deleted-database/",
-    "https://gigazine.net/news/20260427-nissin-cupnoodle-spice-malatang/",
-    "https://gigazine.net/news/20260427-10gbe-adapter/",
-    "https://gigazine.net/news/20260427-headline/",
-    "https://gigazine.net/news/20260427-catholics-pope-vatican-ai-police/",
-    "https://gigazine.net/news/20260427-app-silently-installing-iphone/"
+    "https://gigazine.net/news/20260427-mtg-japanese/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=213315",
     "https://aismiley.co.jp/?post_type=ai_news&p=212750",
     "https://aismiley.co.jp/?post_type=ai_news&p=212125",
     "https://aismiley.co.jp/?post_type=ai_news&p=212303",
@@ -1723,10 +1724,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=210608",
     "https://aismiley.co.jp/?post_type=ai_news&p=211580",
     "https://aismiley.co.jp/?post_type=ai_news&p=210653",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211480",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211550"
+    "https://aismiley.co.jp/?post_type=ai_news&p=211480"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187009",
     "https://win-tab.net/?p=187000",
     "https://win-tab.net/?p=186924",
     "https://win-tab.net/?p=186949",
@@ -1775,8 +1776,7 @@
     "https://win-tab.net/?p=167344",
     "https://win-tab.net/?p=186331",
     "https://win-tab.net/?p=186300",
-    "https://win-tab.net/?p=186288",
-    "https://win-tab.net/?p=186272"
+    "https://win-tab.net/?p=186288"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:ZRKu5FUK_vQ",
@@ -2091,6 +2091,8 @@
     "yt:video:KcAKLpEiHps"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=261263",
+    "https://garumax.com/?p=261297",
     "https://garumax.com/?p=261264",
     "https://garumax.com/?p=261172",
     "https://garumax.com/?p=261042",
@@ -2138,9 +2140,7 @@
     "https://garumax.com/?p=260307",
     "https://garumax.com/?p=259811",
     "https://garumax.com/?p=260179",
-    "https://garumax.com/?p=260127",
-    "https://garumax.com/?p=260118",
-    "https://garumax.com/?p=260069"
+    "https://garumax.com/?p=260127"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
@@ -2243,6 +2243,13 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2049680822488494552",
+    "2049680250905473450",
+    "2049680134496768089",
+    "2049689752895627630",
+    "2049689587375899011",
+    "2049687715021738375",
+    "2049692708051333469",
     "2049515189922595196",
     "2049515204904698121",
     "2049515220004213196",
@@ -2285,14 +2292,7 @@
     "2049024425979466029",
     "2049026091843826050",
     "2048785237027737633",
-    "2048786139822412259",
-    "2048786643465929038",
-    "2048729561089888571",
-    "2048729902812451044",
-    "2048701959457452141",
-    "2048692949282889870",
-    "2048692965548421197",
-    "2048692981348413652"
+    "2048786139822412259"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
