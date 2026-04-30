@@ -1623,6 +1623,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260430-laguna-xs2-m1/",
+    "https://gigazine.net/news/20260430-divine-launches-in-app-stores/",
+    "https://gigazine.net/news/20260430-ultra-processed-foods-focus-dementia/",
+    "https://gigazine.net/news/20260430-google-translate-20-years/",
+    "https://gigazine.net/news/20260430-motorola-8-model/",
+    "https://gigazine.net/news/20260430-nvidia-ai-nemotron-3-nano-omni/",
+    "https://gigazine.net/news/20260430-zap-energy/",
     "https://gigazine.net/news/20260430-microsoft-fy26-q3-earnings-reports/",
     "https://gigazine.net/news/20260430-meta-reality-labs-loss/",
     "https://gigazine.net/news/20260430-ibm-granite-4-1/",
@@ -1665,16 +1672,10 @@
     "https://gigazine.net/news/20260428-openai-ai-smartphone/",
     "https://gigazine.net/news/20260428-trump-shooter-steam-game/",
     "https://gigazine.net/news/20260428-brains-get-full-memory/",
-    "https://gigazine.net/news/20260428-samsung-galaxy-glasses/",
-    "https://gigazine.net/news/20260428-happyhorse-1-video-generation-ai-review/",
-    "https://gigazine.net/news/20260428-github-copilot-usage-based/",
-    "https://gigazine.net/news/20260428-china-blocks-meta-acquire-manus/",
-    "https://gigazine.net/news/20260428-google-ai-pentagon/",
-    "https://gigazine.net/news/20260428-i-bought-friendster-30k/",
-    "https://gigazine.net/news/20260428-hepa-air-purifier-brain-function/",
-    "https://gigazine.net/news/20260427-mtg-japanese/"
+    "https://gigazine.net/news/20260428-samsung-galaxy-glasses/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=211173",
     "https://aismiley.co.jp/?post_type=ai_news&p=213315",
     "https://aismiley.co.jp/?post_type=ai_news&p=212750",
     "https://aismiley.co.jp/?post_type=ai_news&p=212125",
@@ -1723,10 +1724,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=207487",
     "https://aismiley.co.jp/?post_type=ai_news&p=210608",
     "https://aismiley.co.jp/?post_type=ai_news&p=211580",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210653",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211480"
+    "https://aismiley.co.jp/?post_type=ai_news&p=210653"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187025",
     "https://win-tab.net/?p=187009",
     "https://win-tab.net/?p=187000",
     "https://win-tab.net/?p=186924",
@@ -1775,8 +1776,7 @@
     "https://win-tab.net/?p=186354",
     "https://win-tab.net/?p=167344",
     "https://win-tab.net/?p=186331",
-    "https://win-tab.net/?p=186300",
-    "https://win-tab.net/?p=186288"
+    "https://win-tab.net/?p=186300"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:ZRKu5FUK_vQ",
@@ -2243,6 +2243,10 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2049680208937341255",
+    "2049680224129008076",
+    "2049680238955962497",
+    "2049689083144978658",
     "2049680822488494552",
     "2049680250905473450",
     "2049680134496768089",
@@ -2288,11 +2292,7 @@
     "2049024363140456712",
     "2049024378692911403",
     "2049024398502539663",
-    "2049024413895634977",
-    "2049024425979466029",
-    "2049026091843826050",
-    "2048785237027737633",
-    "2048786139822412259"
+    "2049024413895634977"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
