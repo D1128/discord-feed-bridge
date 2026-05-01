@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2106195.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2106193.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2106308.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2106216.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2106034.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2106051.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2105170.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2105202.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2105175.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2105222.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2105208.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2105226.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2105247.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2105222.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/text/IME-Edge-Bar.html",
@@ -234,6 +234,7 @@
     "https://telektlist.com/?p=136980"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24132",
     "https://codezine.jp/article/detail/24113",
     "https://codezine.jp/article/detail/24112",
     "https://codezine.jp/article/detail/24096",
@@ -282,8 +283,7 @@
     "https://codezine.jp/article/detail/24070",
     "https://codezine.jp/article/detail/24078",
     "https://codezine.jp/article/detail/24075",
-    "https://codezine.jp/article/detail/24077",
-    "https://codezine.jp/article/detail/24074"
+    "https://codezine.jp/article/detail/24077"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -523,6 +523,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:IY6QwRA9cNo",
     "yt:video:Y8BN13y7gYw",
     "yt:video:JtTZtZpuqtQ",
     "yt:video:Cg0GzdnQTYA",
@@ -571,8 +572,7 @@
     "yt:video:m2TUacRX36I",
     "yt:video:rQuOXZSOZjw",
     "yt:video:Ze7zzkNhye4",
-    "yt:video:_L2yTLxPhm4",
-    "yt:video:AWGy4SsGzIU"
+    "yt:video:_L2yTLxPhm4"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=14658",
