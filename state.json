@@ -1088,6 +1088,9 @@
     "yt:video:VSrB_yF9b8I"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2605/01/news099.html",
+    "https://www.itmedia.co.jp/news/articles/2605/01/news103.html",
+    "https://www.itmedia.co.jp/news/articles/2605/01/news105.html",
     "https://www.itmedia.co.jp/aiplus/articles/2605/01/news085.html",
     "https://www.itmedia.co.jp/pcuser/articles/2605/01/news076.html",
     "https://www.itmedia.co.jp/news/articles/2605/01/news063.html",
@@ -1134,13 +1137,12 @@
     "https://www.itmedia.co.jp/news/articles/2604/29/news030.html",
     "https://www.itmedia.co.jp/pcuser/articles/2604/29/news031.html",
     "https://www.itmedia.co.jp/mobile/articles/2604/29/news024.html",
-    "https://www.itmedia.co.jp/news/articles/2604/29/news029.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2604/29/news016.html",
-    "https://www.itmedia.co.jp/business/articles/2604/29/news008.html",
-    "https://www.itmedia.co.jp/news/articles/2604/29/news028.html"
+    "https://www.itmedia.co.jp/news/articles/2604/29/news029.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=281088",
+    "https://smhn.info/?p=281063",
     "https://smhn.info/?p=281029",
     "https://smhn.info/?p=281132",
     "https://smhn.info/?p=281106",
@@ -1188,11 +1190,10 @@
     "https://smhn.info/?p=280339",
     "https://smhn.info/?p=280048",
     "https://smhn.info/?p=280236",
-    "https://smhn.info/?p=280078",
-    "https://smhn.info/?p=280267",
-    "https://smhn.info/?p=280239"
+    "https://smhn.info/?p=280078"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=113394",
     "https://daily-gadget.net/?p=113367",
     "https://daily-gadget.net/?p=113376",
     "https://daily-gadget.net/?p=113356",
@@ -1241,8 +1242,7 @@
     "https://daily-gadget.net/?p=113009",
     "https://daily-gadget.net/?p=112938",
     "https://daily-gadget.net/?p=112919",
-    "https://daily-gadget.net/?p=112909",
-    "https://daily-gadget.net/?p=112900"
+    "https://daily-gadget.net/?p=112909"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=60070",
