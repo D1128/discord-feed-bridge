@@ -1623,6 +1623,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260501-headline/",
+    "https://gigazine.net/news/20260501-claude-code-ban-openclaw/",
     "https://gigazine.net/news/20260501-internet-ai-generated-text/",
     "https://gigazine.net/news/20260501-china-nvidia/",
     "https://gigazine.net/news/20260501-asahiinryo-mitsuya-fruit-soda-plum/",
@@ -1670,9 +1672,7 @@
     "https://gigazine.net/news/20260430-switchbot-aihub-openclaw/",
     "https://gigazine.net/news/20260430-short-circuit-solid-state-batteries-dendrite/",
     "https://gigazine.net/news/20260430-why-cancelled-claude/",
-    "https://gigazine.net/news/20260430-heartbeat-suppress-cancer-growth/",
-    "https://gigazine.net/news/20260429-fix-time-in-javascript/",
-    "https://gigazine.net/news/20260429-claude-for-creative-work/"
+    "https://gigazine.net/news/20260430-heartbeat-suppress-cancer-growth/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213488",
@@ -2331,6 +2331,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2050102310575964556",
+    "2049861740092125642",
+    "2050159359133680075",
     "2050149478536212656",
     "2050151147353285024",
     "2049778780047294467",
@@ -2377,10 +2380,7 @@
     "2046988459542466573",
     "2047246439194173658",
     "2047246774189097297",
-    "2047210140831805846",
-    "2047203041691218221",
-    "2046912415963750817",
-    "2046828546308637050"
+    "2047210140831805846"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2049988668845121944",
