@@ -1623,6 +1623,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260501-zig-no-ai-contributor-poker/",
+    "https://gigazine.net/news/20260501-ai-bioinformatics-biomysterybench/",
+    "https://gigazine.net/news/20260501-samsung-expect-memory-crisis-worse-2027/",
     "https://gigazine.net/news/20260501-ai-policy-withdraw/",
     "https://gigazine.net/news/20260501-hidden-phenomenon-old-buildings-feel-haunted/",
     "https://gigazine.net/news/20260501-gpt-5-5-cyber-capabilities/",
@@ -1669,12 +1672,12 @@
     "https://gigazine.net/news/20260429-claude-for-creative-work/",
     "https://gigazine.net/news/20260429-tududi/",
     "https://gigazine.net/news/20260429-xiaomi-17-ultra-photo-example/",
-    "https://gigazine.net/news/20260429-space-toilet/",
-    "https://gigazine.net/news/20260429-asus-zenscreen-mb16fc/",
-    "https://gigazine.net/news/20260429-swe-bench-verified/",
-    "https://gigazine.net/news/20260429-airpods-ultra/"
+    "https://gigazine.net/news/20260429-space-toilet/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=213104",
+    "https://aismiley.co.jp/?post_type=ai_news&p=213581",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212007",
     "https://aismiley.co.jp/?post_type=ai_news&p=211173",
     "https://aismiley.co.jp/?post_type=ai_news&p=213315",
     "https://aismiley.co.jp/?post_type=ai_news&p=212750",
@@ -1721,10 +1724,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=211056",
     "https://aismiley.co.jp/?post_type=ai_news&p=210913",
     "https://aismiley.co.jp/?post_type=ai_news&p=211273",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207487",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210608",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211580",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210653"
+    "https://aismiley.co.jp/?post_type=ai_news&p=207487"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=187056",
@@ -2091,6 +2091,7 @@
     "yt:video:iBphoA5ZeMc"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=261177",
     "https://garumax.com/?p=261369",
     "https://garumax.com/?p=260336",
     "https://garumax.com/?p=261345",
@@ -2139,8 +2140,7 @@
     "https://garumax.com/?p=260004",
     "https://garumax.com/?p=260322",
     "https://garumax.com/?p=257428",
-    "https://garumax.com/?p=257344",
-    "https://garumax.com/?p=260307"
+    "https://garumax.com/?p=257344"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
@@ -2243,6 +2243,12 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2050085005582606342",
+    "2050085020518502614",
+    "2050085035349512625",
+    "2050085050163896328",
+    "2050087270141878527",
+    "2050095810629800398",
     "2049947732551647704",
     "2049947794237260269",
     "2049947778890220000",
@@ -2286,13 +2292,7 @@
     "2049345529709228511",
     "2049345544489971748",
     "2049346544168804609",
-    "2049155211076554983",
-    "2049155499040612485",
-    "2049155516447043589",
-    "2049155532846715095",
-    "2049155545119310081",
-    "2049155758818984047",
-    "2049070171307045235"
+    "2049155211076554983"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
