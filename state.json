@@ -1623,6 +1623,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260501-internet-ai-generated-text/",
+    "https://gigazine.net/news/20260501-china-nvidia/",
+    "https://gigazine.net/news/20260501-asahiinryo-mitsuya-fruit-soda-plum/",
     "https://gigazine.net/news/20260501-zig-no-ai-contributor-poker/",
     "https://gigazine.net/news/20260501-ai-bioinformatics-biomysterybench/",
     "https://gigazine.net/news/20260501-samsung-expect-memory-crisis-worse-2027/",
@@ -1669,12 +1672,10 @@
     "https://gigazine.net/news/20260430-why-cancelled-claude/",
     "https://gigazine.net/news/20260430-heartbeat-suppress-cancer-growth/",
     "https://gigazine.net/news/20260429-fix-time-in-javascript/",
-    "https://gigazine.net/news/20260429-claude-for-creative-work/",
-    "https://gigazine.net/news/20260429-tududi/",
-    "https://gigazine.net/news/20260429-xiaomi-17-ultra-photo-example/",
-    "https://gigazine.net/news/20260429-space-toilet/"
+    "https://gigazine.net/news/20260429-claude-for-creative-work/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=213488",
     "https://aismiley.co.jp/?post_type=ai_news&p=213104",
     "https://aismiley.co.jp/?post_type=ai_news&p=213581",
     "https://aismiley.co.jp/?post_type=ai_news&p=212007",
@@ -1723,8 +1724,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=211771",
     "https://aismiley.co.jp/?post_type=ai_news&p=211056",
     "https://aismiley.co.jp/?post_type=ai_news&p=210913",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211273",
-    "https://aismiley.co.jp/?post_type=ai_news&p=207487"
+    "https://aismiley.co.jp/?post_type=ai_news&p=211273"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=187056",
@@ -2243,6 +2243,9 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2050117166553506219",
+    "2050117182189896169",
+    "2050117194294649128",
     "2050085005582606342",
     "2050085020518502614",
     "2050085035349512625",
@@ -2289,10 +2292,7 @@
     "2049320859530350964",
     "2049320875288326635",
     "2049345514278367563",
-    "2049345529709228511",
-    "2049345544489971748",
-    "2049346544168804609",
-    "2049155211076554983"
+    "2049345529709228511"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042464958844485665",
