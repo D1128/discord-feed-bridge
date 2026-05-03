@@ -1631,6 +1631,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260503-japanese-train-city-project/",
     "https://gigazine.net/news/20260503-flameshot/",
     "https://gigazine.net/news/20260503-metal-gear-solid-2-source-code-assets-leaked/",
     "https://gigazine.net/news/20260503-young-cancer-patients-survive-depends-insurance/",
@@ -1679,8 +1680,7 @@
     "https://gigazine.net/news/20260430-openai-ban-codex-ai-goblins-gremlins/",
     "https://gigazine.net/news/20260430-mistral-medium-3-5/",
     "https://gigazine.net/news/20260430-calpis-lemon-lassi/",
-    "https://gigazine.net/news/20260430-openai-revenue-user-target/",
-    "https://gigazine.net/news/20260430-youtube-tv-custom-multiview/"
+    "https://gigazine.net/news/20260430-openai-revenue-user-target/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213488",
@@ -1891,6 +1891,7 @@
     "yt:video:GlRmAgnkw-M"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:UCMx_LWhQXo",
     "yt:video:_MVtxCLR77U",
     "yt:video:clYTu-HZLB4",
     "yt:video:g6RSpFCURvk",
@@ -1939,8 +1940,7 @@
     "yt:video:9UM6p_aNObQ",
     "yt:video:jVBEM8NGSR0",
     "yt:video:NR_aAAKqgnU",
-    "yt:video:2_TTuPzMQmQ",
-    "yt:video:zVYRxvTFnA0"
+    "yt:video:2_TTuPzMQmQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
     "yt:video:pkrk-EiuAlo",
@@ -2099,6 +2099,7 @@
     "yt:video:8zbJbKmUI4U"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=260500",
     "https://garumax.com/?p=261413",
     "https://garumax.com/?p=261177",
     "https://garumax.com/?p=261369",
@@ -2147,8 +2148,7 @@
     "https://garumax.com/?p=260422",
     "https://garumax.com/?p=260216",
     "https://garumax.com/?p=260004",
-    "https://garumax.com/?p=260322",
-    "https://garumax.com/?p=257428"
+    "https://garumax.com/?p=260322"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
@@ -2339,6 +2339,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2050756258844864735",
+    "2050616076363497859",
     "2050140716811059430",
     "2050209217982894096",
     "2050384318955204792",
@@ -2386,9 +2388,7 @@
     "2048055408015872425",
     "2047998042721406991",
     "2047997946134958238",
-    "2047811185983308138",
-    "2047623253443957197",
-    "2047414941590880406"
+    "2047811185983308138"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2050770822441181599",
