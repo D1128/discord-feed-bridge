@@ -1093,6 +1093,7 @@
     "yt:video:Z9q1Y7KDjnQ"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/mobile/articles/2605/03/news024.html",
     "https://www.itmedia.co.jp/business/articles/2605/03/news022.html",
     "https://www.itmedia.co.jp/business/articles/2605/03/news002.html",
     "https://www.itmedia.co.jp/business/articles/2605/03/news005.html",
@@ -1141,8 +1142,7 @@
     "https://www.itmedia.co.jp/aiplus/articles/2604/30/news105.html",
     "https://www.itmedia.co.jp/news/articles/2604/30/news102.html",
     "https://www.itmedia.co.jp/news/articles/2604/30/news108.html",
-    "https://www.itmedia.co.jp/news/articles/2604/30/news111.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2604/30/news059.html"
+    "https://www.itmedia.co.jp/news/articles/2604/30/news111.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1198,6 +1198,7 @@
     "https://smhn.info/?p=276100"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=113555",
     "https://daily-gadget.net/?p=113478",
     "https://daily-gadget.net/?p=113476",
     "https://daily-gadget.net/?p=113546",
@@ -1246,8 +1247,7 @@
     "https://daily-gadget.net/?p=113129",
     "https://daily-gadget.net/?p=113125",
     "https://daily-gadget.net/?p=113121",
-    "https://daily-gadget.net/?p=113110",
-    "https://daily-gadget.net/?p=113104"
+    "https://daily-gadget.net/?p=113110"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=60165",
