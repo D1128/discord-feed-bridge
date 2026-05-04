@@ -633,6 +633,8 @@
     "https://taskhub.jp/magazine/?p=14140"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=301633",
+    "https://tabkul.com/?p=301635",
     "https://tabkul.com/?p=301630",
     "https://tabkul.com/?p=301632",
     "https://tabkul.com/?p=301628",
@@ -680,9 +682,7 @@
     "https://tabkul.com/?p=301501",
     "https://tabkul.com/?p=301503",
     "https://tabkul.com/?p=301499",
-    "https://tabkul.com/?p=301500",
-    "https://tabkul.com/?p=301473",
-    "https://tabkul.com/?p=301472"
+    "https://tabkul.com/?p=301500"
   ],
   "https://chinadap.jp/feed": [
     "https://chinadap.jp/?p=35323",
@@ -801,6 +801,7 @@
     "https://liginc.co.jp/?p=676653"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:KZDoSPvP91E",
     "yt:video:KGSR1Vqf48U",
     "yt:video:R8BRpkX6C9c",
     "yt:video:5ji7z2Wxelw",
@@ -849,8 +850,7 @@
     "yt:video:IVIFhsk6eIU",
     "yt:video:_BBhd4IsOZM",
     "yt:video:jFCy5HQRDaI",
-    "yt:video:OoxhRpC-thY",
-    "yt:video:ANgIKEL9pWY"
+    "yt:video:OoxhRpC-thY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -905,6 +905,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:BijQE2lpkJI",
     "yt:video:esMM8sbZe8Q",
     "yt:video:0zgJ-BC_HL8",
     "yt:video:RLwC_uEmjhA",
@@ -953,8 +954,7 @@
     "yt:video:pzDnVYqNcww",
     "yt:video:8VxolxucxS0",
     "yt:video:aG7FLHK7Bs4",
-    "yt:video:jHvM3GC73gI",
-    "yt:video:OG8mzNaxEKA"
+    "yt:video:jHvM3GC73gI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:IhmWoTr7DWM",
@@ -2443,6 +2443,7 @@
     "2040203945247932530"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2051119622636626114",
     "2050802533543657931",
     "2050757236524298540",
     "2050371767097770179",
@@ -2491,8 +2492,7 @@
     "2047858132760883686",
     "2047838029193318887",
     "2047604785390707177",
-    "2047552181717627055",
-    "2047601452626087994"
+    "2047552181717627055"
   ],
   "https://nitter.net/showheyohtaki/rss": [
     "2050923988894003497",
