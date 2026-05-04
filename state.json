@@ -355,6 +355,7 @@
     "yt:video:_-qsrlFAmwg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:DCVaCgvMMtc",
     "yt:video:9DJ5IoVR4-s",
     "yt:video:GFIVP8iX0mU",
     "yt:video:GtIoGyONrco",
@@ -403,10 +404,10 @@
     "yt:video:X4KF_qM7njo",
     "yt:video:ISHK9fTFB6E",
     "yt:video:DgjG0Ycvgfk",
-    "yt:video:-ngqeDxIyfw",
-    "yt:video:M-x0yHWaaVs"
+    "yt:video:-ngqeDxIyfw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:cXpMtUczXWE",
     "yt:video:C1eEwkdwrMU",
     "yt:video:ZO0cyKgQZgE",
     "yt:video:pJm-bSMY16w",
@@ -455,8 +456,7 @@
     "yt:video:HQsCkivaFW4",
     "yt:video:Xr5xoVj18Lg",
     "yt:video:lbbL7FGzXOg",
-    "yt:video:pF-18JC69N8",
-    "yt:video:pViiGoFA8xI"
+    "yt:video:pF-18JC69N8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:p_qSi_07XAA",
@@ -2689,6 +2689,13 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2051264346463129987",
+    "2051264536968327522",
+    "2051264571130909045",
+    "2051264629205295142",
+    "2051264798122545638",
+    "2051264829005111666",
+    "2051264900341940576",
     "2050892918001664444",
     "2050892977317540202",
     "2050892871025533354",
@@ -2731,14 +2738,7 @@
     "2049781930451951951",
     "2049782065328165072",
     "2049782271625105776",
-    "2049782303984078887",
-    "2049782341716115638",
-    "2049782464139444410",
-    "2049782488348946616",
-    "2049782538756121081",
-    "2049693713245557190",
-    "2049693772666335657",
-    "2049693838235865136"
+    "2049782303984078887"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2050290846558535770",
