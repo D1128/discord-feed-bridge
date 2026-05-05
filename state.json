@@ -1632,6 +1632,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260505-iphone-17-global-best-selling-smartphone-q1-2026/",
+    "https://gigazine.net/news/20260505-asus-zenbook-duo-benchmark/",
     "https://gigazine.net/news/20260505-speaking-words-decreasing/",
     "https://gigazine.net/news/20260504-wallos/",
     "https://gigazine.net/news/20260504-protect-your-hobbies/",
@@ -1679,9 +1681,7 @@
     "https://gigazine.net/news/20260501-chatgpt-advanced-account-security/",
     "https://gigazine.net/news/20260501-ai-sycophantically-response/",
     "https://gigazine.net/news/20260501-china-court-labor-ai-replace/",
-    "https://gigazine.net/news/20260501-preferred-sources/",
-    "https://gigazine.net/news/20260501-eshima-san-comics/",
-    "https://gigazine.net/news/20260501-copy-fail/"
+    "https://gigazine.net/news/20260501-preferred-sources/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213488",
@@ -1736,6 +1736,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=211273"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187148",
     "https://win-tab.net/?p=187133",
     "https://win-tab.net/?p=186992",
     "https://win-tab.net/?p=187116",
@@ -1784,8 +1785,7 @@
     "https://win-tab.net/?p=186501",
     "https://win-tab.net/?p=186479",
     "https://win-tab.net/?p=186415",
-    "https://win-tab.net/?p=186442",
-    "https://win-tab.net/?p=186431"
+    "https://win-tab.net/?p=186442"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:mW_kWZ8ihcQ",
@@ -2100,6 +2100,8 @@
     "yt:video:-hXD0TqULpk"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=261427",
+    "https://garumax.com/?p=261692",
     "https://garumax.com/?p=261604",
     "https://garumax.com/?p=261181",
     "https://garumax.com/?p=260500",
@@ -2147,9 +2149,7 @@
     "https://garumax.com/?p=259875",
     "https://garumax.com/?p=260481",
     "https://garumax.com/?p=260410",
-    "https://garumax.com/?p=260466",
-    "https://garumax.com/?p=260422",
-    "https://garumax.com/?p=260216"
+    "https://garumax.com/?p=260466"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/noto-emoji",
@@ -2340,6 +2340,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2051160111255523559",
+    "2051289990278324465",
+    "2051431130789040227",
+    "2051452036991119780",
     "2050952138151571574",
     "2050946800060924338",
     "2050756258844864735",
@@ -2385,13 +2389,10 @@
     "2048227253721690604",
     "2048314535241769329",
     "2048553965487378534",
-    "2048456463249797325",
-    "2048177393677091002",
-    "2048091031162466314",
-    "2048055408015872425",
-    "2047998042721406991"
+    "2048456463249797325"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2051506671097377152",
     "2051262059434700964",
     "2051136985289367700",
     "2050898916527554881",
@@ -2440,8 +2441,7 @@
     "2042202865964601777",
     "2041840984909033808",
     "2041478597232501033",
-    "2040928469110923444",
-    "2040566081505427754"
+    "2040928469110923444"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2051164924077129861",
