@@ -1634,6 +1634,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260506-google-pixel-10a-appearance/",
+    "https://gigazine.net/news/20260506-the-one-piece-netflix/",
+    "https://gigazine.net/news/20260506-insomnia-independent-disorder/",
     "https://gigazine.net/news/20260506-swift-air-16-benchmark/",
     "https://gigazine.net/news/20260506-google-chrome-148/",
     "https://gigazine.net/news/20260506-cat-gatekeeper/",
@@ -1680,10 +1683,7 @@
     "https://gigazine.net/news/20260501-ps5-linux/",
     "https://gigazine.net/news/20260501-how-oil-refinery-works/",
     "https://gigazine.net/news/20260501-headline/",
-    "https://gigazine.net/news/20260501-claude-code-ban-openclaw/",
-    "https://gigazine.net/news/20260501-internet-ai-generated-text/",
-    "https://gigazine.net/news/20260501-china-nvidia/",
-    "https://gigazine.net/news/20260501-asahiinryo-mitsuya-fruit-soda-plum/"
+    "https://gigazine.net/news/20260501-claude-code-ban-openclaw/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213488",
@@ -1790,6 +1790,7 @@
     "https://win-tab.net/?p=186501"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:KlDHGGZ2nJM",
     "yt:video:mW_kWZ8ihcQ",
     "yt:video:ZRKu5FUK_vQ",
     "yt:video:4LUXz5lo0NQ",
@@ -1838,8 +1839,7 @@
     "yt:video:DOBmK__s9GY",
     "yt:video:D8JXVzugTMo",
     "yt:video:YLcFASGyLmc",
-    "yt:video:FV2NaaLKK5g",
-    "yt:video:jCPqVQ26e6k"
+    "yt:video:FV2NaaLKK5g"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
     "yt:video:PdPaV3XWqDA",
@@ -2394,6 +2394,7 @@
     "2048553965487378534"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2051991113649598843",
     "2051868807313133981",
     "2051623189009301729",
     "2051506671097377152",
@@ -2442,8 +2443,7 @@
     "2042564498930962459",
     "2042565505840709671",
     "2042384815006331123",
-    "2042202865964601777",
-    "2041840984909033808"
+    "2042202865964601777"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2051875467394011514",
