@@ -1633,6 +1633,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260506-microsoft-copilot-no-longer-consoles-xbox-ceo/",
+    "https://gigazine.net/news/20260506-cherri/",
     "https://gigazine.net/news/20260506-sea-urchin-spine-sensor/",
     "https://gigazine.net/news/20260505-photogimp/",
     "https://gigazine.net/news/20260505-waking-at-3am-every-night/",
@@ -1680,9 +1682,7 @@
     "https://gigazine.net/news/20260501-asahiinryo-mitsuya-fruit-soda-plum/",
     "https://gigazine.net/news/20260501-zig-no-ai-contributor-poker/",
     "https://gigazine.net/news/20260501-ai-bioinformatics-biomysterybench/",
-    "https://gigazine.net/news/20260501-samsung-expect-memory-crisis-worse-2027/",
-    "https://gigazine.net/news/20260501-ai-policy-withdraw/",
-    "https://gigazine.net/news/20260501-hidden-phenomenon-old-buildings-feel-haunted/"
+    "https://gigazine.net/news/20260501-samsung-expect-memory-crisis-worse-2027/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213488",
@@ -1737,6 +1737,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=211273"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=168753",
     "https://win-tab.net/?p=187165",
     "https://win-tab.net/?p=187148",
     "https://win-tab.net/?p=187133",
@@ -1785,8 +1786,7 @@
     "https://win-tab.net/?p=186517",
     "https://win-tab.net/?p=186506",
     "https://win-tab.net/?p=186501",
-    "https://win-tab.net/?p=186479",
-    "https://win-tab.net/?p=186415"
+    "https://win-tab.net/?p=186479"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:mW_kWZ8ihcQ",
@@ -2393,6 +2393,7 @@
     "2048456463249797325"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2051868807313133981",
     "2051623189009301729",
     "2051506671097377152",
     "2051262059434700964",
@@ -2441,8 +2442,7 @@
     "2042565505840709671",
     "2042384815006331123",
     "2042202865964601777",
-    "2041840984909033808",
-    "2041478597232501033"
+    "2041840984909033808"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2051829044346519896",
