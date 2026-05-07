@@ -1097,6 +1097,9 @@
     "yt:video:kuKHsO_wYqA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2605/07/news052.html",
+    "https://www.itmedia.co.jp/mobile/articles/2605/07/news055.html",
+    "https://www.itmedia.co.jp/news/articles/2605/07/news054.html",
     "https://www.itmedia.co.jp/news/articles/2605/07/news049.html",
     "https://www.itmedia.co.jp/business/articles/2605/07/news005.html",
     "https://www.itmedia.co.jp/news/articles/2605/07/news048.html",
@@ -1143,10 +1146,7 @@
     "https://www.itmedia.co.jp/business/articles/2605/02/news022.html",
     "https://www.itmedia.co.jp/pcuser/articles/2605/02/news032.html",
     "https://www.itmedia.co.jp/business/articles/2605/02/news016.html",
-    "https://www.itmedia.co.jp/mobile/articles/2605/02/news029.html",
-    "https://www.itmedia.co.jp/business/articles/2605/02/news005.html",
-    "https://www.itmedia.co.jp/news/articles/2605/01/news119.html",
-    "https://www.itmedia.co.jp/news/articles/2605/01/news118.html"
+    "https://www.itmedia.co.jp/mobile/articles/2605/02/news029.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1202,6 +1202,7 @@
     "https://smhn.info/?p=280580"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=113697",
     "https://daily-gadget.net/?p=113688",
     "https://daily-gadget.net/?p=113677",
     "https://daily-gadget.net/?p=113683",
@@ -1250,8 +1251,7 @@
     "https://daily-gadget.net/?p=113376",
     "https://daily-gadget.net/?p=113356",
     "https://daily-gadget.net/?p=113350",
-    "https://daily-gadget.net/?p=113337",
-    "https://daily-gadget.net/?p=113329"
+    "https://daily-gadget.net/?p=113337"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=60414",
@@ -1358,6 +1358,15 @@
     "hatenablog://entry/17179246901335799229"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=23084",
+    "https://official.gfs.tokyo/blog/?p=23087",
+    "https://official.gfs.tokyo/blog/?p=23090",
+    "https://official.gfs.tokyo/blog/?p=23095",
+    "https://official.gfs.tokyo/blog/?p=22994",
+    "https://official.gfs.tokyo/blog/?p=22990",
+    "https://official.gfs.tokyo/blog/?p=22998",
+    "https://official.gfs.tokyo/blog/?p=23003",
+    "https://official.gfs.tokyo/blog/?p=23074",
     "https://official.gfs.tokyo/blog/?p=23098",
     "https://official.gfs.tokyo/blog/?p=23104",
     "https://official.gfs.tokyo/blog/?p=23108",
@@ -1398,16 +1407,7 @@
     "https://official.gfs.tokyo/blog/?p=22694",
     "https://official.gfs.tokyo/blog/?p=22700",
     "https://official.gfs.tokyo/blog/?p=22759",
-    "https://official.gfs.tokyo/blog/?p=22725",
-    "https://official.gfs.tokyo/blog/?p=22769",
-    "https://official.gfs.tokyo/blog/?p=22594",
-    "https://official.gfs.tokyo/blog/?p=22597",
-    "https://official.gfs.tokyo/blog/?p=22602",
-    "https://official.gfs.tokyo/blog/?p=22605",
-    "https://official.gfs.tokyo/blog/?p=22537",
-    "https://official.gfs.tokyo/blog/?p=22591",
-    "https://official.gfs.tokyo/blog/?p=22650",
-    "https://official.gfs.tokyo/blog/?p=22678"
+    "https://official.gfs.tokyo/blog/?p=22725"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:umTYQ1LKvVI",
@@ -2572,6 +2572,9 @@
     "2021794316444926259"
   ],
   "https://nitter.net/ctgptlb/rss": [
+    "2052198274472546565",
+    "2052198537186918786",
+    "2052202709017940438",
     "2051263612992581642",
     "2051207017654813065",
     "2050184606666932467",
@@ -2618,12 +2621,14 @@
     "2042177716670398926",
     "2041914139023720951",
     "2041836784582324375",
-    "2041773291560726817",
-    "2041773294609920086",
-    "2041725045429727432",
-    "2041666524306677825"
+    "2041773291560726817"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2052176723786268743",
+    "2052176743759577237",
+    "2052176764466868490",
+    "2052176784712724780",
+    "2052176805176697113",
     "2052165272002556146",
     "2052165284036043160",
     "2052165295599768023",
@@ -2668,12 +2673,7 @@
     "2051248283843264816",
     "2051199600351203473",
     "2051207228468985878",
-    "2051230602234306901",
-    "2051192248503873589",
-    "2051192548354605301",
-    "2051143753755181568",
-    "2051143812257566996",
-    "2051073315800760785"
+    "2051230602234306901"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2043910870481440820",
