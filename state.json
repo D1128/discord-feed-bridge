@@ -1097,6 +1097,7 @@
     "yt:video:kuKHsO_wYqA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2605/07/news117.html",
     "https://www.itmedia.co.jp/news/articles/2605/07/news104.html",
     "https://www.itmedia.co.jp/business/articles/2605/07/news098.html",
     "https://www.itmedia.co.jp/aiplus/articles/2605/07/news099.html",
@@ -1145,11 +1146,12 @@
     "https://www.itmedia.co.jp/pcuser/articles/2605/04/news029.html",
     "https://www.itmedia.co.jp/mobile/articles/2605/04/news028.html",
     "https://www.itmedia.co.jp/pcuser/articles/2605/04/news030.html",
-    "https://www.itmedia.co.jp/business/articles/2605/04/news005.html",
-    "https://www.itmedia.co.jp/business/articles/2605/04/news002.html"
+    "https://www.itmedia.co.jp/business/articles/2605/04/news005.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=281220",
+    "https://smhn.info/?p=281360",
     "https://smhn.info/?p=281341",
     "https://smhn.info/?p=281334",
     "https://smhn.info/?p=281331",
@@ -1197,11 +1199,11 @@
     "https://smhn.info/?p=280889",
     "https://smhn.info/?p=280915",
     "https://smhn.info/?p=280797",
-    "https://smhn.info/?p=280098",
-    "https://smhn.info/?p=280826",
-    "https://smhn.info/?p=280895"
+    "https://smhn.info/?p=280098"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=113727",
+    "https://daily-gadget.net/?p=113731",
     "https://daily-gadget.net/?p=113719",
     "https://daily-gadget.net/?p=113738",
     "https://daily-gadget.net/?p=113705",
@@ -1249,11 +1251,10 @@
     "https://daily-gadget.net/?p=113470",
     "https://daily-gadget.net/?p=113416",
     "https://daily-gadget.net/?p=113274",
-    "https://daily-gadget.net/?p=113395",
-    "https://daily-gadget.net/?p=113394",
-    "https://daily-gadget.net/?p=113367"
+    "https://daily-gadget.net/?p=113395"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=60418",
     "https://sumahodigest.com/?p=60414",
     "https://sumahodigest.com/?p=60409",
     "https://sumahodigest.com/?p=60405",
@@ -1302,8 +1303,7 @@
     "https://sumahodigest.com/?p=60176",
     "https://sumahodigest.com/?p=59081",
     "https://sumahodigest.com/?p=60165",
-    "https://sumahodigest.com/?p=60158",
-    "https://sumahodigest.com/?p=60145"
+    "https://sumahodigest.com/?p=60158"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/17179246901366822461",
@@ -2626,6 +2626,7 @@
     "2041773291560726817"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2051199600351203473",
     "2052288601610989603",
     "2052288599710982495",
     "2052288041897852983",
@@ -2674,8 +2675,7 @@
     "2051547703084294492",
     "2051547715193172289",
     "2051496107914699134",
-    "2051496109688901791",
-    "2051449544768917994"
+    "2051496109688901791"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2043910870481440820",
