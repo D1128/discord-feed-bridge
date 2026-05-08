@@ -1636,6 +1636,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260508-anthropic-bug-bounty-program/",
+    "https://gigazine.net/news/20260508-proton-mail-post-quantum-encryption/",
     "https://gigazine.net/news/20260508-apple-intelligence-lawsuit/",
     "https://gigazine.net/news/20260508-headline/",
     "https://gigazine.net/news/20260508-yoshinoya-zeppin-gyujyu/",
@@ -1683,9 +1685,7 @@
     "https://gigazine.net/news/20260507-oscars-ai-rule/",
     "https://gigazine.net/news/20260507-california-ticket-robotaxis/",
     "https://gigazine.net/news/20260507-grok-4-3-custom-voices/",
-    "https://gigazine.net/news/20260507-neo-store/",
-    "https://gigazine.net/news/20260507-steam-controller-cad-creative-commons/",
-    "https://gigazine.net/news/20260507-multi-token-prediction/"
+    "https://gigazine.net/news/20260507-neo-store/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=212878",
@@ -2398,6 +2398,7 @@
     "2048378281465172177"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2052712365754290349",
     "2052528655251972491",
     "2052345747643977965",
     "2051991113649598843",
@@ -2446,8 +2447,7 @@
     "2043291288238526750",
     "2042927138375110902",
     "2042927390234677289",
-    "2042564498930962459",
-    "2042565505840709671"
+    "2042564498930962459"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2052674882412961910",
