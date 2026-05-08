@@ -1636,6 +1636,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260508-germany-is-over/",
+    "https://gigazine.net/news/20260508-black-cpu-fan-long-time/",
     "https://gigazine.net/news/20260508-anthropic-bug-bounty-program/",
     "https://gigazine.net/news/20260508-proton-mail-post-quantum-encryption/",
     "https://gigazine.net/news/20260508-apple-intelligence-lawsuit/",
@@ -1683,9 +1685,7 @@
     "https://gigazine.net/news/20260507-openai-gpt-5-5-instant/",
     "https://gigazine.net/news/20260507-microsoft-edge-loads-passwords-into-memory-in-cleartext/",
     "https://gigazine.net/news/20260507-oscars-ai-rule/",
-    "https://gigazine.net/news/20260507-california-ticket-robotaxis/",
-    "https://gigazine.net/news/20260507-grok-4-3-custom-voices/",
-    "https://gigazine.net/news/20260507-neo-store/"
+    "https://gigazine.net/news/20260507-california-ticket-robotaxis/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=212878",
@@ -1844,6 +1844,7 @@
     "yt:video:FV2NaaLKK5g"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:CEM7zBgnReY",
     "yt:video:lggHmx4khfI",
     "yt:video:PdPaV3XWqDA",
     "yt:video:PxZZKd3FUjI",
@@ -1892,8 +1893,7 @@
     "yt:video:z95jYU5RF6M",
     "yt:video:3bv6ZE09vok",
     "yt:video:ByxmvVpxnZY",
-    "yt:video:TKjQBsv8oxM",
-    "yt:video:s8fF0IfbcjM"
+    "yt:video:TKjQBsv8oxM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:JnNg-4C4AhU",
