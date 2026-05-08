@@ -1097,6 +1097,13 @@
     "yt:video:kuKHsO_wYqA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2605/07/news058.html",
+    "https://www.itmedia.co.jp/pcuser/articles/2605/08/news049.html",
+    "https://www.itmedia.co.jp/news/articles/2605/08/news059.html",
+    "https://www.itmedia.co.jp/news/articles/2605/08/news062.html",
+    "https://www.itmedia.co.jp/aiplus/articles/2605/08/news073.html",
+    "https://www.itmedia.co.jp/news/articles/2605/08/news072.html",
+    "https://www.itmedia.co.jp/news/articles/2605/08/news077.html",
     "https://www.itmedia.co.jp/business/articles/2605/08/news017.html",
     "https://www.itmedia.co.jp/news/articles/2605/08/news020.html",
     "https://www.itmedia.co.jp/news/articles/2605/08/news054.html",
@@ -1139,14 +1146,7 @@
     "https://www.itmedia.co.jp/pcuser/articles/2605/06/news006.html",
     "https://www.itmedia.co.jp/news/articles/2605/06/news023.html",
     "https://www.itmedia.co.jp/business/articles/2605/06/news003.html",
-    "https://www.itmedia.co.jp/news/articles/2605/06/news019.html",
-    "https://www.itmedia.co.jp/business/articles/2605/06/news005.html",
-    "https://www.itmedia.co.jp/business/articles/2605/06/news004.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2605/05/news014.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2605/05/news025.html",
-    "https://www.itmedia.co.jp/news/articles/2605/05/news022.html",
-    "https://www.itmedia.co.jp/business/articles/2605/05/news005.html",
-    "https://www.itmedia.co.jp/business/articles/2605/05/news007.html"
+    "https://www.itmedia.co.jp/news/articles/2605/06/news019.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1202,6 +1202,7 @@
     "https://smhn.info/?p=280098"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=113768",
     "https://daily-gadget.net/?p=113727",
     "https://daily-gadget.net/?p=113731",
     "https://daily-gadget.net/?p=113719",
@@ -1250,8 +1251,7 @@
     "https://daily-gadget.net/?p=113460",
     "https://daily-gadget.net/?p=113470",
     "https://daily-gadget.net/?p=113416",
-    "https://daily-gadget.net/?p=113274",
-    "https://daily-gadget.net/?p=113395"
+    "https://daily-gadget.net/?p=113274"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=60465",
@@ -1358,6 +1358,11 @@
     "hatenablog://entry/17179246901335799229"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=23161",
+    "https://official.gfs.tokyo/blog/?p=23195",
+    "https://official.gfs.tokyo/blog/?p=23189",
+    "https://official.gfs.tokyo/blog/?p=23192",
+    "https://official.gfs.tokyo/blog/?p=23178",
     "https://official.gfs.tokyo/blog/?p=23154",
     "https://official.gfs.tokyo/blog/?p=23158",
     "https://official.gfs.tokyo/blog/?p=23166",
@@ -1402,12 +1407,7 @@
     "https://official.gfs.tokyo/blog/?p=22790",
     "https://official.gfs.tokyo/blog/?p=22793",
     "https://official.gfs.tokyo/blog/?p=22800",
-    "https://official.gfs.tokyo/blog/?p=22808",
-    "https://official.gfs.tokyo/blog/?p=22816",
-    "https://official.gfs.tokyo/blog/?p=22842",
-    "https://official.gfs.tokyo/blog/?p=22717",
-    "https://official.gfs.tokyo/blog/?p=22713",
-    "https://official.gfs.tokyo/blog/?p=22710"
+    "https://official.gfs.tokyo/blog/?p=22808"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:umTYQ1LKvVI",
@@ -2626,6 +2626,9 @@
     "2041836784582324375"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2052568865163628980",
+    "2052568950266024218",
+    "2052585073304817878",
     "2052529164016812473",
     "2052529165384188070",
     "2052513561923207213",
@@ -2672,10 +2675,7 @@
     "2051801116900528434",
     "2051801118330789908",
     "2051783501347999883",
-    "2051783503038370075",
-    "2051654929258053791",
-    "2051623198492663917",
-    "2051600203736879535"
+    "2051783503038370075"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2043910870481440820",
