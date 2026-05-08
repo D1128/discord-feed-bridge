@@ -1636,6 +1636,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260508-google-fitbit-air/",
+    "https://gigazine.net/news/20260508-mozilla-claude-mythos-preview-security/",
+    "https://gigazine.net/news/20260508-disney-make-unified-super-app/",
+    "https://gigazine.net/news/20260508-cloudflare-lay-off-1100/",
+    "https://gigazine.net/news/20260508-deepl-lay-off-250/",
+    "https://gigazine.net/news/20260508-gpt-realtime-2-translate-whisper/",
+    "https://gigazine.net/news/20260508-trusted-contact-chatgpt/",
+    "https://gigazine.net/news/20260508-ai-slop-online-community/",
+    "https://gigazine.net/news/20260508-energy-bills-research/",
+    "https://gigazine.net/news/20260508-anthropic-natural-language-autoencoders/",
     "https://gigazine.net/news/20260508-new-ways-to-buy-chatgpt-ads/",
     "https://gigazine.net/news/20260508-star-labs-starfighter/",
     "https://gigazine.net/news/20260508-kodomonokuni-golden-week/",
@@ -1675,17 +1685,7 @@
     "https://gigazine.net/news/20260506-china-ar-battle-royale-mall/",
     "https://gigazine.net/news/20260506-free-gifts-boost-customer-spending/",
     "https://gigazine.net/news/20260506-google-pixel-10a-appearance/",
-    "https://gigazine.net/news/20260506-the-one-piece-netflix/",
-    "https://gigazine.net/news/20260506-insomnia-independent-disorder/",
-    "https://gigazine.net/news/20260506-swift-air-16-benchmark/",
-    "https://gigazine.net/news/20260506-google-chrome-148/",
-    "https://gigazine.net/news/20260506-cat-gatekeeper/",
-    "https://gigazine.net/news/20260506-microsoft-copilot-no-longer-consoles-xbox-ceo/",
-    "https://gigazine.net/news/20260506-cherri/",
-    "https://gigazine.net/news/20260506-sea-urchin-spine-sensor/",
-    "https://gigazine.net/news/20260505-photogimp/",
-    "https://gigazine.net/news/20260505-waking-at-3am-every-night/",
-    "https://gigazine.net/news/20260505-mercedes-benz-physical-buttons/"
+    "https://gigazine.net/news/20260506-the-one-piece-netflix/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=211156",
@@ -1740,6 +1740,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=210550"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187247",
     "https://win-tab.net/?p=187236",
     "https://win-tab.net/?p=187212",
     "https://win-tab.net/?p=187197",
@@ -1788,8 +1789,7 @@
     "https://win-tab.net/?p=186590",
     "https://win-tab.net/?p=186544",
     "https://win-tab.net/?p=186551",
-    "https://win-tab.net/?p=186530",
-    "https://win-tab.net/?p=186517"
+    "https://win-tab.net/?p=186530"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:KlDHGGZ2nJM",
@@ -2104,6 +2104,8 @@
     "yt:video:eDa1nqYEw1w"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=261806",
+    "https://garumax.com/?p=261764",
     "https://garumax.com/?p=261325",
     "https://garumax.com/?p=261719",
     "https://garumax.com/?p=261730",
@@ -2151,9 +2153,7 @@
     "https://garumax.com/?p=260622",
     "https://garumax.com/?p=260534",
     "https://garumax.com/?p=260608",
-    "https://garumax.com/?p=260527",
-    "https://garumax.com/?p=260501",
-    "https://garumax.com/?p=259875"
+    "https://garumax.com/?p=260527"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/teapair",
@@ -2346,6 +2346,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2052504347947454652",
     "2052353032147681323",
     "2052353416878518699",
     "2052353578061488456",
@@ -2394,8 +2395,7 @@
     "2048378281465172177",
     "2049033753201184939",
     "2048815931158368621",
-    "2048733291440914574",
-    "2048730422134346067"
+    "2048733291440914574"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2052528655251972491",
