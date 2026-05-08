@@ -1636,6 +1636,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260508-apple-iphone-17-pro-max-movies/",
+    "https://gigazine.net/news/20260508-codex-chrome/",
+    "https://gigazine.net/news/20260508-collaborate-with-claude/",
+    "https://gigazine.net/news/20260508-zaya1-8b/",
+    "https://gigazine.net/news/20260508-huge-insect-oxygen-supply/",
+    "https://gigazine.net/news/20260508-suitable-aqueous-battery/",
+    "https://gigazine.net/news/20260508-google-deepmind-alphaevolve/",
     "https://gigazine.net/news/20260508-google-fitbit-air/",
     "https://gigazine.net/news/20260508-mozilla-claude-mythos-preview-security/",
     "https://gigazine.net/news/20260508-disney-make-unified-super-app/",
@@ -1678,16 +1685,14 @@
     "https://gigazine.net/news/20260507-claude-dreaming/",
     "https://gigazine.net/news/20260507-google-shuts-down-project-mariner/",
     "https://gigazine.net/news/20260507-sheets-ai-exfiltrates/",
-    "https://gigazine.net/news/20260507-snowball-earth-stranger-climate/",
-    "https://gigazine.net/news/20260507-slow-motion-glass/",
-    "https://gigazine.net/news/20260506-when-dog-brain-smaller-wolf/",
-    "https://gigazine.net/news/20260506-ai-cancer/",
-    "https://gigazine.net/news/20260506-china-ar-battle-royale-mall/",
-    "https://gigazine.net/news/20260506-free-gifts-boost-customer-spending/",
-    "https://gigazine.net/news/20260506-google-pixel-10a-appearance/",
-    "https://gigazine.net/news/20260506-the-one-piece-netflix/"
+    "https://gigazine.net/news/20260507-snowball-earth-stranger-climate/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=212878",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212858",
+    "https://aismiley.co.jp/?post_type=ai_news&p=213618",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212623",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212078",
     "https://aismiley.co.jp/?post_type=ai_news&p=211156",
     "https://aismiley.co.jp/?post_type=ai_news&p=212011",
     "https://aismiley.co.jp/?post_type=ai_news&p=212650",
@@ -1732,12 +1737,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=211215",
     "https://aismiley.co.jp/?post_type=ai_news&p=211574",
     "https://aismiley.co.jp/?post_type=ai_news&p=212453",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212092",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212218",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211863",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211963",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211877",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210550"
+    "https://aismiley.co.jp/?post_type=ai_news&p=212092"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=187247",
@@ -2346,6 +2346,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2052625077787857094",
+    "2052608319467213023",
+    "2052626361765036525",
     "2052504347947454652",
     "2052353032147681323",
     "2052353416878518699",
@@ -2392,10 +2395,7 @@
     "2049107911067283621",
     "2049028438032523765",
     "2049047656878797093",
-    "2048378281465172177",
-    "2049033753201184939",
-    "2048815931158368621",
-    "2048733291440914574"
+    "2048378281465172177"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2052528655251972491",
