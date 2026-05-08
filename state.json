@@ -1358,6 +1358,12 @@
     "hatenablog://entry/17179246901335799229"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=23154",
+    "https://official.gfs.tokyo/blog/?p=23158",
+    "https://official.gfs.tokyo/blog/?p=23166",
+    "https://official.gfs.tokyo/blog/?p=23169",
+    "https://official.gfs.tokyo/blog/?p=23179",
+    "https://official.gfs.tokyo/blog/?p=23188",
     "https://official.gfs.tokyo/blog/?p=23084",
     "https://official.gfs.tokyo/blog/?p=23087",
     "https://official.gfs.tokyo/blog/?p=23090",
@@ -1401,13 +1407,7 @@
     "https://official.gfs.tokyo/blog/?p=22842",
     "https://official.gfs.tokyo/blog/?p=22717",
     "https://official.gfs.tokyo/blog/?p=22713",
-    "https://official.gfs.tokyo/blog/?p=22710",
-    "https://official.gfs.tokyo/blog/?p=22688",
-    "https://official.gfs.tokyo/blog/?p=22691",
-    "https://official.gfs.tokyo/blog/?p=22694",
-    "https://official.gfs.tokyo/blog/?p=22700",
-    "https://official.gfs.tokyo/blog/?p=22759",
-    "https://official.gfs.tokyo/blog/?p=22725"
+    "https://official.gfs.tokyo/blog/?p=22710"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:umTYQ1LKvVI",
@@ -2574,6 +2574,7 @@
     "2021794316444926259"
   ],
   "https://nitter.net/ctgptlb/rss": [
+    "2052545197087855094",
     "2052198274472546565",
     "2052198537186918786",
     "2052202709017940438",
@@ -2622,8 +2623,7 @@
     "2042177714342563927",
     "2042177716670398926",
     "2041914139023720951",
-    "2041836784582324375",
-    "2041773291560726817"
+    "2041836784582324375"
   ],
   "https://nitter.net/masahirochaen/rss": [
     "2052529164016812473",
