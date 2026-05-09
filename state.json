@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107378.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107363.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107364.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2107239.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2106061.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2106465.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2106466.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2106460.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2106461.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2106460.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/text/IME-Edge-Bar.html",
@@ -241,6 +241,7 @@
     "https://telektlist.com/?p=137018"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24170",
     "https://codezine.jp/article/detail/24166",
     "https://codezine.jp/article/detail/24168",
     "https://codezine.jp/article/detail/24174",
@@ -289,8 +290,7 @@
     "https://codezine.jp/article/detail/24132",
     "https://codezine.jp/article/detail/24113",
     "https://codezine.jp/article/detail/24112",
-    "https://codezine.jp/article/detail/24096",
-    "https://codezine.jp/article/detail/22347"
+    "https://codezine.jp/article/detail/24096"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -409,6 +409,7 @@
     "yt:video:VMgsdb4pa1A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:bQ_8D_w86Yc",
     "yt:video:NogXAlmY_n0",
     "yt:video:wMqlEFImWaQ",
     "yt:video:1mZzxtwnkzw",
@@ -457,8 +458,7 @@
     "yt:video:ghYUx24fYJI",
     "yt:video:7ltIGiXGSf0",
     "yt:video:GeVFCTxqm1o",
-    "yt:video:zRQOzI5dUfg",
-    "yt:video:yx9mwBhlZ0c"
+    "yt:video:zRQOzI5dUfg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:p_qSi_07XAA",
