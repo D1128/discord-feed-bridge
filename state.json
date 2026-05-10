@@ -1642,6 +1642,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260510-read-you/",
+    "https://gigazine.net/news/20260510-llm-lost-laziness/",
+    "https://gigazine.net/news/20260510-maryland-ai-data-center-cost/",
     "https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/",
     "https://gigazine.net/news/20260510-dji-goggles-n3/",
     "https://gigazine.net/news/20260510-cybertruck-recall-tesla-rotor-cracks/",
@@ -1688,10 +1691,7 @@
     "https://gigazine.net/news/20260508-anthropic-natural-language-autoencoders/",
     "https://gigazine.net/news/20260508-new-ways-to-buy-chatgpt-ads/",
     "https://gigazine.net/news/20260508-star-labs-starfighter/",
-    "https://gigazine.net/news/20260508-kodomonokuni-golden-week/",
-    "https://gigazine.net/news/20260508-kids-bypass-age-checks-mustache/",
-    "https://gigazine.net/news/20260508-tatsuo-sato-passed-away/",
-    "https://gigazine.net/news/20260507-familiar-machines-magic-ai-robot/"
+    "https://gigazine.net/news/20260508-kodomonokuni-golden-week/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=212878",
@@ -2110,6 +2110,7 @@
     "yt:video:Hw2L3EcBlXw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=261743",
     "https://garumax.com/?p=261882",
     "https://garumax.com/?p=261848",
     "https://garumax.com/?p=261255",
@@ -2158,8 +2159,7 @@
     "https://garumax.com/?p=260675",
     "https://garumax.com/?p=260657",
     "https://garumax.com/?p=260636",
-    "https://garumax.com/?p=260517",
-    "https://garumax.com/?p=260622"
+    "https://garumax.com/?p=260517"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/teapair",
@@ -2404,6 +2404,8 @@
     "2049492454416830804"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2053444146074153241",
+    "2053451471791034714",
     "2052958235720651152",
     "2052712365754290349",
     "2052528655251972491",
@@ -2451,9 +2453,7 @@
     "2044016935785115811",
     "2043651914223526058",
     "2043652417422512337",
-    "2043291288238526750",
-    "2042927138375110902",
-    "2042927390234677289"
+    "2043291288238526750"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2053354347233423456",
