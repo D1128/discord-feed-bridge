@@ -1642,6 +1642,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260512-openai-daybreak/",
+    "https://gigazine.net/news/20260512-ios-ipados-26-5/",
+    "https://gigazine.net/news/20260512-steve-jobs-innovation-coin-circulation/",
+    "https://gigazine.net/news/20260512-game-image-ai-sony-patent/",
+    "https://gigazine.net/news/20260512-openai-deployment-company/",
+    "https://gigazine.net/news/20260512-gitlab-act-2/",
+    "https://gigazine.net/news/20260512-discord-nitro-rewards/",
+    "https://gigazine.net/news/20260512-ultrasound-destroy-influenza-covid-viruses/",
+    "https://gigazine.net/news/20260512-texas-sues-netflix-for-spying/",
+    "https://gigazine.net/news/20260512-katsuhiro-ohtomo-oval-gear-animation-studio/",
     "https://gigazine.net/news/20260512-gigazine-user-convenience-store-onigiri/",
     "https://gigazine.net/news/20260512-atomic-gap-materials/",
     "https://gigazine.net/news/20260512-ai-ecosystem-china/",
@@ -1681,19 +1691,16 @@
     "https://gigazine.net/news/20260510-anger-accelerates-misinformation-sharing/",
     "https://gigazine.net/news/20260510-dji-mavic-4-pro-gravitate-osaka/",
     "https://gigazine.net/news/20260510-rembg/",
-    "https://gigazine.net/news/20260510-dji-flip-gravitate-osaka/",
-    "https://gigazine.net/news/20260510-burning-man-moop/",
-    "https://gigazine.net/news/20260510-duoling-interview-test/",
-    "https://gigazine.net/news/20260509-bodega-cats-of-new-york/",
-    "https://gigazine.net/news/20260509-horror-novel-pulled-ai-concerns/",
-    "https://gigazine.net/news/20260509-chrome-on-device-ai/",
-    "https://gigazine.net/news/20260509-obtainium/",
-    "https://gigazine.net/news/20260509-apple-intel-preliminary-chip-making-agreement/",
-    "https://gigazine.net/news/20260509-google-pixel-10a-photo-example/",
-    "https://gigazine.net/news/20260509-affine/",
-    "https://gigazine.net/news/20260509-universal-kidneys/"
+    "https://gigazine.net/news/20260510-dji-flip-gravitate-osaka/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=213897",
+    "https://aismiley.co.jp/?post_type=ai_news&p=214173",
+    "https://aismiley.co.jp/?post_type=ai_news&p=214186",
+    "https://aismiley.co.jp/?post_type=ai_news&p=209423",
+    "https://aismiley.co.jp/?post_type=ai_news&p=209898",
+    "https://aismiley.co.jp/?post_type=ai_news&p=212173",
+    "https://aismiley.co.jp/?post_type=ai_news&p=213855",
     "https://aismiley.co.jp/?post_type=ai_news&p=213729",
     "https://aismiley.co.jp/?post_type=ai_news&p=213860",
     "https://aismiley.co.jp/?post_type=ai_news&p=213067",
@@ -1736,14 +1743,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=211374",
     "https://aismiley.co.jp/?post_type=ai_news&p=210512",
     "https://aismiley.co.jp/?post_type=ai_news&p=205706",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211198",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212803",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211657",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211143",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211992",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212145",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212394",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212286"
+    "https://aismiley.co.jp/?post_type=ai_news&p=211198"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=168253",
@@ -2110,6 +2110,7 @@
     "yt:video:Hw2L3EcBlXw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=261691",
     "https://garumax.com/?p=262018",
     "https://garumax.com/?p=261743",
     "https://garumax.com/?p=261882",
@@ -2158,8 +2159,7 @@
     "https://garumax.com/?p=260728",
     "https://garumax.com/?p=260560",
     "https://garumax.com/?p=260675",
-    "https://garumax.com/?p=260657",
-    "https://garumax.com/?p=260636"
+    "https://garumax.com/?p=260657"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/teapair",
@@ -2352,6 +2352,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2054031921475428500",
     "2053467159221932312",
     "2053785383666950572",
     "2053770452473184329",
@@ -2400,8 +2401,7 @@
     "2049861740092125642",
     "2050159359133680075",
     "2050149478536212656",
-    "2050151147353285024",
-    "2049778780047294467"
+    "2050151147353285024"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2053979465160532135",
