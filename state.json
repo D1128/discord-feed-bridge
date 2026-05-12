@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2107980.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2107982.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2107987.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2108044.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2107855.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2107849.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107043.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107052.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2107037.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107063.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107078.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2107065.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2107082.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107063.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/text/IME-Edge-Bar.html",
@@ -91,6 +91,9 @@
     "https://www.gigafree.net/media/transcription/Handy.html"
   ],
   "https://ainow.ai/feed/": [
+    "https://ainow.ai/?p=278066",
+    "https://ainow.ai/?p=278070",
+    "https://ainow.ai/?p=278074",
     "https://ainow.ai/?p=278062",
     "https://ainow.ai/?p=278055",
     "https://ainow.ai/?p=278058",
