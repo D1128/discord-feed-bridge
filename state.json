@@ -1642,6 +1642,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260512-tanstack-supply-chain-attack/",
+    "https://gigazine.net/news/20260512-disclosure-policy-dead/",
+    "https://gigazine.net/news/20260512-claude-mythos-curl-vulnerability/",
+    "https://gigazine.net/news/20260512-burgerking-mushroom-ugly/",
     "https://gigazine.net/news/20260512-hacker-use-ai-mass-exploitation-google/",
     "https://gigazine.net/news/20260512-thinking-machines-lab-interaction-models/",
     "https://gigazine.net/news/20260512-claude-code-agent-view-aws/",
@@ -1687,11 +1691,7 @@
     "https://gigazine.net/news/20260511-deepclaude/",
     "https://gigazine.net/news/20260511-ai-self-preferencing-hiring/",
     "https://gigazine.net/news/20260510-ai-datacenter-megaprojects/",
-    "https://gigazine.net/news/20260510-air-transport-efficiency-halve-emissions/",
-    "https://gigazine.net/news/20260510-read-you/",
-    "https://gigazine.net/news/20260510-llm-lost-laziness/",
-    "https://gigazine.net/news/20260510-maryland-ai-data-center-cost/",
-    "https://gigazine.net/news/20260510-google-pixel-10a-benchmark-battery/"
+    "https://gigazine.net/news/20260510-air-transport-efficiency-halve-emissions/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213897",
@@ -1850,6 +1850,7 @@
     "yt:video:YLcFASGyLmc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:-BuQI0iEjPI",
     "yt:video:fCwuXLz34OI",
     "yt:video:KH4Kz8m7n8E",
     "yt:video:vehlxYxIHc0",
@@ -1898,8 +1899,7 @@
     "yt:video:tNmyy4h3iFo",
     "yt:video:GvGPzwwrDR0",
     "yt:video:ID_o973dtuk",
-    "yt:video:hagkbPH-cV4",
-    "yt:video:z95jYU5RF6M"
+    "yt:video:hagkbPH-cV4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:JnNg-4C4AhU",
@@ -2006,6 +2006,7 @@
     "yt:video:GWNKkGs_wgY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:sqJOQcUmrZM",
     "yt:video:OdjEWzswLzo",
     "yt:video:PizIN9mhuzk",
     "yt:video:r2vXf07eEXQ",
@@ -2054,8 +2055,7 @@
     "yt:video:2mcFOTOhfL4",
     "yt:video:dDyh-OwUj7o",
     "yt:video:K9IF_mpEkp8",
-    "yt:video:XfhC1-Wi7_w",
-    "yt:video:F0ngLw9tInc"
+    "yt:video:XfhC1-Wi7_w"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:FDFr64CfIx0",
@@ -2110,6 +2110,7 @@
     "yt:video:Hw2L3EcBlXw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=262146",
     "https://garumax.com/?p=261691",
     "https://garumax.com/?p=262018",
     "https://garumax.com/?p=261743",
@@ -2158,8 +2159,7 @@
     "https://garumax.com/?p=260730",
     "https://garumax.com/?p=260728",
     "https://garumax.com/?p=260560",
-    "https://garumax.com/?p=260675",
-    "https://garumax.com/?p=260657"
+    "https://garumax.com/?p=260675"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/teapair",
