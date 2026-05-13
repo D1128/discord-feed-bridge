@@ -1645,6 +1645,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260513-fcc-debating-ban-on-chinese-cellular-modules/",
+    "https://gigazine.net/news/20260513-headline/",
     "https://gigazine.net/news/20260513-google-android-new-security-privacy/",
     "https://gigazine.net/news/20260513-anthropic-china-mythos/",
     "https://gigazine.net/news/20260513-anthropic-claude-legal-solutions/",
@@ -1692,9 +1694,7 @@
     "https://gigazine.net/news/20260512-gigazine-user-convenience-store-onigiri/",
     "https://gigazine.net/news/20260512-atomic-gap-materials/",
     "https://gigazine.net/news/20260512-ai-ecosystem-china/",
-    "https://gigazine.net/news/20260511-local-ai-norm/",
-    "https://gigazine.net/news/20260511-american-health-and-wellness-influencers/",
-    "https://gigazine.net/news/20260511-doge-chatgpt/"
+    "https://gigazine.net/news/20260511-local-ai-norm/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=214366",
@@ -1905,6 +1905,7 @@
     "yt:video:hagkbPH-cV4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:FY5mZhr1cVI",
     "yt:video:JnNg-4C4AhU",
     "yt:video:UCMx_LWhQXo",
     "yt:video:_MVtxCLR77U",
@@ -1953,8 +1954,7 @@
     "yt:video:1UbLuqdnYso",
     "yt:video:n3gYLYHoxCs",
     "yt:video:9UM6p_aNObQ",
-    "yt:video:jVBEM8NGSR0",
-    "yt:video:NR_aAAKqgnU"
+    "yt:video:jVBEM8NGSR0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
     "yt:video:7TfX5LZz8Xo",
@@ -2355,6 +2355,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2054414766987420150",
+    "2054351721837846971",
+    "2054193352657277174",
     "2053977147623301319",
     "2054162713677639684",
     "2054161540606226487",
@@ -2401,10 +2404,7 @@
     "2051289990278324465",
     "2051431130789040227",
     "2051452036991119780",
-    "2050952138151571574",
-    "2050946800060924338",
-    "2050756258844864735",
-    "2050616076363497859"
+    "2050952138151571574"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2054339588064518499",
