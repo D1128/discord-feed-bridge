@@ -1645,6 +1645,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260513-android-auto-update/",
+    "https://gigazine.net/news/20260513-supplements-not-shortcut-healthy-ageing/",
+    "https://gigazine.net/news/20260513-gemini-intelligence-ai-android/",
+    "https://gigazine.net/news/20260513-spacex-google-data-center-orbit/",
+    "https://gigazine.net/news/20260513-microsoft-mdash/",
+    "https://gigazine.net/news/20260513-amazon-now-delivers-fresh-groceries-30-minutes/",
+    "https://gigazine.net/news/20260513-aluminium-os-leak/",
+    "https://gigazine.net/news/20260513-windows-update/",
+    "https://gigazine.net/news/20260513-they-live-adblocker/",
+    "https://gigazine.net/news/20260513-trump-china-delegation-with-jensen-huang/",
     "https://gigazine.net/news/20260513-louis-rossmann-bambu-lab/",
     "https://gigazine.net/news/20260513-poland-economy-growth-worlds-20th/",
     "https://gigazine.net/news/20260513-humanoidturk-vr-driving-haptics/",
@@ -1684,19 +1694,10 @@
     "https://gigazine.net/news/20260511-headline/",
     "https://gigazine.net/news/20260511-google-new-recaptcha-needs-google-play-services/",
     "https://gigazine.net/news/20260511-ai-agentic-misalignment/",
-    "https://gigazine.net/news/20260511-thailand-obon/",
-    "https://gigazine.net/news/20260511-canvas-shinyhunters/",
-    "https://gigazine.net/news/20260511-first-dual-core-quantum-computer-hanyuan-2/",
-    "https://gigazine.net/news/20260511-pc-motherboard-sales-collapse/",
-    "https://gigazine.net/news/20260511-octonous-open-beta-mozilla-ai/",
-    "https://gigazine.net/news/20260511-california-gm-driver-privacy-settlement/",
-    "https://gigazine.net/news/20260511-internet-archive-switzerland/",
-    "https://gigazine.net/news/20260511-amazon-prime-video-clips/",
-    "https://gigazine.net/news/20260511-playstation-ai/",
-    "https://gigazine.net/news/20260511-one-dollar-counterfeiter/",
-    "https://gigazine.net/news/20260511-sony-tsmc-image-sensor-agreement/"
+    "https://gigazine.net/news/20260511-thailand-obon/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=214366",
     "https://aismiley.co.jp/?post_type=ai_news&p=214329",
     "https://aismiley.co.jp/?post_type=ai_news&p=213897",
     "https://aismiley.co.jp/?post_type=ai_news&p=214173",
@@ -1745,10 +1746,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=211642",
     "https://aismiley.co.jp/?post_type=ai_news&p=212249",
     "https://aismiley.co.jp/?post_type=ai_news&p=211374",
-    "https://aismiley.co.jp/?post_type=ai_news&p=210512",
-    "https://aismiley.co.jp/?post_type=ai_news&p=205706"
+    "https://aismiley.co.jp/?post_type=ai_news&p=210512"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187361",
     "https://win-tab.net/?p=187330",
     "https://win-tab.net/?p=187321",
     "https://win-tab.net/?p=168253",
@@ -1797,8 +1798,7 @@
     "https://win-tab.net/?p=186694",
     "https://win-tab.net/?p=186687",
     "https://win-tab.net/?p=186651",
-    "https://win-tab.net/?p=186642",
-    "https://win-tab.net/?p=186630"
+    "https://win-tab.net/?p=186642"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:-DxczGF87XU",
@@ -2266,6 +2266,15 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2054398621798609231",
+    "2054398636537327987",
+    "2054398650818953393",
+    "2054398665880695278",
+    "2054398677897363484",
+    "2054398694179631267",
+    "2054398706116661746",
+    "2054398717978185854",
+    "2054403748005601683",
     "2053839441698185221",
     "2053839457338659032",
     "2053660923542536428",
@@ -2306,16 +2315,7 @@
     "2052012609524875460",
     "2052013023536259144",
     "2052013306630807920",
-    "2051947782932713509",
-    "2051947800406180259",
-    "2051947816306835493",
-    "2051948095207072240",
-    "2051948953130959190",
-    "2051968276264308924",
-    "2051968291380552004",
-    "2051968306228441278",
-    "2051968318177972477",
-    "2051968329699729482"
+    "2051947782932713509"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2052342692454269117",
@@ -2355,6 +2355,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2053977147623301319",
     "2054162713677639684",
     "2054161540606226487",
     "2054168734106042455",
@@ -2403,8 +2404,7 @@
     "2050952138151571574",
     "2050946800060924338",
     "2050756258844864735",
-    "2050616076363497859",
-    "2050140716811059430"
+    "2050616076363497859"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2054339588064518499",
