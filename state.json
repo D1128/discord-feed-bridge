@@ -1646,6 +1646,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260513-obsidian-plugin-future/",
+    "https://gigazine.net/news/20260513-puter/",
     "https://gigazine.net/news/20260513-fcc-debating-ban-on-chinese-cellular-modules/",
     "https://gigazine.net/news/20260513-headline/",
     "https://gigazine.net/news/20260513-google-android-new-security-privacy/",
@@ -1693,9 +1695,7 @@
     "https://gigazine.net/news/20260512-texas-sues-netflix-for-spying/",
     "https://gigazine.net/news/20260512-katsuhiro-ohtomo-oval-gear-animation-studio/",
     "https://gigazine.net/news/20260512-gigazine-user-convenience-store-onigiri/",
-    "https://gigazine.net/news/20260512-atomic-gap-materials/",
-    "https://gigazine.net/news/20260512-ai-ecosystem-china/",
-    "https://gigazine.net/news/20260511-local-ai-norm/"
+    "https://gigazine.net/news/20260512-atomic-gap-materials/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=214366",
@@ -2062,6 +2062,7 @@
     "yt:video:XfhC1-Wi7_w"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:iFWyw2ZZRm4",
     "yt:video:P3P97U5CWqs",
     "yt:video:FDFr64CfIx0",
     "yt:video:WZs1CfgWu8Y",
@@ -2110,8 +2111,7 @@
     "yt:video:pk3JzzQ7kRw",
     "yt:video:hoEa7EcTk1U",
     "yt:video:1XEewjEfvII",
-    "yt:video:SA8SFNL2CGw",
-    "yt:video:MzMpdadAA5s"
+    "yt:video:SA8SFNL2CGw"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=262005",
@@ -2356,6 +2356,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2054523249388871985",
+    "2054523336978477171",
     "2054414766987420150",
     "2054351721837846971",
     "2054193352657277174",
@@ -2403,11 +2405,10 @@
     "2049800108020252812",
     "2051160111255523559",
     "2051289990278324465",
-    "2051431130789040227",
-    "2051452036991119780",
-    "2050952138151571574"
+    "2051431130789040227"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2054523801812283853",
     "2054339588064518499",
     "2054162672338485709",
     "2053979465160532135",
@@ -2456,8 +2457,7 @@
     "2044739832916627555",
     "2044740086487540168",
     "2044377698978631916",
-    "2044262643947765917",
-    "2044015309540020256"
+    "2044262643947765917"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2054443078505963833",
