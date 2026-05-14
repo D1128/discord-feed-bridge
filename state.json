@@ -696,6 +696,7 @@
     "https://tabkul.com/?p=301530"
   ],
   "https://chinadap.jp/feed": [
+    "https://chinadap.jp/?p=35419",
     "https://chinadap.jp/?p=35338",
     "https://chinadap.jp/?p=35323",
     "https://chinadap.jp/?p=35274",
@@ -744,8 +745,7 @@
     "https://chinadap.jp/?p=33187",
     "https://chinadap.jp/?p=32860",
     "https://chinadap.jp/?p=32949",
-    "https://chinadap.jp/?p=33090",
-    "https://chinadap.jp/?p=33041"
+    "https://chinadap.jp/?p=33090"
   ],
   "https://feeds.feedburner.com/Jugglycn": [
     "https://juggly.cn/?p=251836",
@@ -2514,6 +2514,8 @@
     "2049498069931262183"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2054929707515424894",
+    "2054932022087585916",
     "2054890450633564169",
     "2054898049231827202",
     "2054698704620474776",
@@ -2561,9 +2563,7 @@
     "2052226419934281873",
     "2052143132062749166",
     "2052203640048533697",
-    "2052060691893227611",
-    "2052068847113667001",
-    "2052064938840228237"
+    "2052060691893227611"
   ],
   "https://nitter.net/chibimana/rss": [
     "2049391025765179797",
