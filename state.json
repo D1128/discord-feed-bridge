@@ -247,6 +247,10 @@
     "https://telektlist.com/?p=137036"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24207",
+    "https://codezine.jp/article/detail/24202",
+    "https://codezine.jp/article/detail/24201",
+    "https://codezine.jp/article/detail/24187",
     "https://codezine.jp/article/detail/24216",
     "https://codezine.jp/article/detail/24211",
     "https://codezine.jp/article/detail/24212",
@@ -292,11 +296,7 @@
     "https://codezine.jp/article/detail/24169",
     "https://codezine.jp/article/detail/24172",
     "https://codezine.jp/article/detail/24170",
-    "https://codezine.jp/article/detail/24166",
-    "https://codezine.jp/article/detail/24168",
-    "https://codezine.jp/article/detail/24174",
-    "https://codezine.jp/article/detail/24163",
-    "https://codezine.jp/article/detail/24153"
+    "https://codezine.jp/article/detail/24166"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2706,6 +2706,16 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2054710250113319004",
+    "2054710228978225187",
+    "2054710369818693922",
+    "2054710348146757790",
+    "2054710496411140439",
+    "2054710474328191252",
+    "2054710707183362288",
+    "2054710799810367506",
+    "2054711112705466389",
+    "2054711064382877727",
     "2054698290067964282",
     "2054698352496034259",
     "2054698412852003302",
@@ -2745,17 +2755,7 @@
     "2054152855876182232",
     "2054152905851322483",
     "2054153036906545164",
-    "2054153076374987201",
-    "2054153163528356131",
-    "2054153218280788309",
-    "2054153323608170837",
-    "2054153366692135080",
-    "2054153411109757049",
-    "2054043048708083785",
-    "2054043187766051180",
-    "2054043307333099980",
-    "2054043330418548819",
-    "2054043494893994172"
+    "2054153076374987201"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2054291239152050641",
