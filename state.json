@@ -1647,6 +1647,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260514-matsunoya-tomato-loin-cutlet/",
+    "https://gigazine.net/news/20260514-twin-bros-wipe-us-governmnt-databeses/",
+    "https://gigazine.net/news/20260514-headline/",
     "https://gigazine.net/news/20260514-netflix-ui-appeal/",
     "https://gigazine.net/news/20260514-claude-for-small-business/",
     "https://gigazine.net/news/20260514-instants-instagram/",
@@ -1693,12 +1696,10 @@
     "https://gigazine.net/news/20260513-poland-economy-growth-worlds-20th/",
     "https://gigazine.net/news/20260513-humanoidturk-vr-driving-haptics/",
     "https://gigazine.net/news/20260512-red-squares/",
-    "https://gigazine.net/news/20260512-headline/",
-    "https://gigazine.net/news/20260512-forza-forums-closure/",
-    "https://gigazine.net/news/20260512-caisi-evaluation-deepseek-v4-pro/",
-    "https://gigazine.net/news/20260512-tanstack-supply-chain-attack/"
+    "https://gigazine.net/news/20260512-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=215119",
     "https://aismiley.co.jp/?post_type=ai_news&p=212624",
     "https://aismiley.co.jp/?post_type=ai_news&p=214474",
     "https://aismiley.co.jp/?post_type=ai_news&p=214679",
@@ -1747,8 +1748,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=212520",
     "https://aismiley.co.jp/?post_type=ai_news&p=212020",
     "https://aismiley.co.jp/?post_type=ai_news&p=211049",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212318",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212105"
+    "https://aismiley.co.jp/?post_type=ai_news&p=212318"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=187343",
@@ -2011,6 +2011,7 @@
     "yt:video:RmjkwXUBLLM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:U59OIItR_3s",
     "yt:video:sqJOQcUmrZM",
     "yt:video:OdjEWzswLzo",
     "yt:video:PizIN9mhuzk",
@@ -2059,8 +2060,7 @@
     "yt:video:Dv0T0BqT1D0",
     "yt:video:2mcFOTOhfL4",
     "yt:video:dDyh-OwUj7o",
-    "yt:video:K9IF_mpEkp8",
-    "yt:video:XfhC1-Wi7_w"
+    "yt:video:K9IF_mpEkp8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:iFWyw2ZZRm4",
@@ -2357,6 +2357,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2054849272118751730",
+    "2054849703980974209",
     "2054702898467176651",
     "2054690653351686565",
     "2054705624802611348",
@@ -2404,9 +2406,7 @@
     "2052353578061488456",
     "2051945806572229053",
     "2052219055072067900",
-    "2052226419934281873",
-    "2052209206200303685",
-    "2047246439194173658"
+    "2052226419934281873"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2054699962643198098",
