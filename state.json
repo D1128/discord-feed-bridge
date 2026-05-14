@@ -1647,6 +1647,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260514-meta-ai-incognito-chat/",
+    "https://gigazine.net/news/20260514-linkedin-planning-to-lay-off/",
+    "https://gigazine.net/news/20260514-amazon-ai-usage-inflating/",
+    "https://gigazine.net/news/20260514-bitlocker-vulnerability-yellowkey/",
+    "https://gigazine.net/news/20260514-cisco-4000-lay-off/",
+    "https://gigazine.net/news/20260514-ai-self-replication-hacks/",
+    "https://gigazine.net/news/20260514-sony-alpha7r-vi/",
+    "https://gigazine.net/news/20260514-ai-cheat-princeton/",
+    "https://gigazine.net/news/20260514-anthropic-claude-agent-sdk-credits/",
+    "https://gigazine.net/news/20260514-trump-mobile-t1-will-start-shipping/",
     "https://gigazine.net/news/20260514-fulu-foundation-orcaslicer-bambulab/",
     "https://gigazine.net/news/20260514-needle-tool-calling--distilled-gemini/",
     "https://gigazine.net/news/20260514-youtube-creators-advertisers/",
@@ -1686,17 +1696,7 @@
     "https://gigazine.net/news/20260512-thinking-machines-lab-interaction-models/",
     "https://gigazine.net/news/20260512-claude-code-agent-view-aws/",
     "https://gigazine.net/news/20260512-tcg-fake/",
-    "https://gigazine.net/news/20260512-interfaze-new-model-architecture/",
-    "https://gigazine.net/news/20260512-google-search/",
-    "https://gigazine.net/news/20260512-openai-daybreak/",
-    "https://gigazine.net/news/20260512-ios-ipados-26-5/",
-    "https://gigazine.net/news/20260512-steve-jobs-innovation-coin-circulation/",
-    "https://gigazine.net/news/20260512-game-image-ai-sony-patent/",
-    "https://gigazine.net/news/20260512-openai-deployment-company/",
-    "https://gigazine.net/news/20260512-gitlab-act-2/",
-    "https://gigazine.net/news/20260512-discord-nitro-rewards/",
-    "https://gigazine.net/news/20260512-ultrasound-destroy-influenza-covid-viruses/",
-    "https://gigazine.net/news/20260512-texas-sues-netflix-for-spying/"
+    "https://gigazine.net/news/20260512-interfaze-new-model-architecture/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=214366",
@@ -1751,6 +1751,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=210512"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187343",
     "https://win-tab.net/?p=187391",
     "https://win-tab.net/?p=187361",
     "https://win-tab.net/?p=187330",
@@ -1799,8 +1800,7 @@
     "https://win-tab.net/?p=186721",
     "https://win-tab.net/?p=186679",
     "https://win-tab.net/?p=186694",
-    "https://win-tab.net/?p=186687",
-    "https://win-tab.net/?p=186651"
+    "https://win-tab.net/?p=186687"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:-DxczGF87XU",
@@ -2115,6 +2115,7 @@
     "yt:video:SA8SFNL2CGw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=262212",
     "https://garumax.com/?p=262005",
     "https://garumax.com/?p=261896",
     "https://garumax.com/?p=262146",
@@ -2163,8 +2164,7 @@
     "https://garumax.com/?p=260843",
     "https://garumax.com/?p=260919",
     "https://garumax.com/?p=260796",
-    "https://garumax.com/?p=260730",
-    "https://garumax.com/?p=260728"
+    "https://garumax.com/?p=260730"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/teapair",
@@ -2199,6 +2199,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=61708",
     "https://androplus.jp/?p=61705",
     "https://androplus.jp/?p=61692",
     "https://androplus.jp/?p=61689",
@@ -2247,8 +2248,7 @@
     "https://androplus.jp/?p=61108",
     "https://androplus.jp/?p=60747",
     "https://androplus.jp/?p=59606",
-    "https://androplus.jp/?p=55264",
-    "https://androplus.jp/?p=58434"
+    "https://androplus.jp/?p=55264"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2268,6 +2268,10 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2054744113153790057",
+    "2054744129226342716",
+    "2054744144904700010",
+    "2054744160285110493",
     "2054398621798609231",
     "2054398636537327987",
     "2054398650818953393",
@@ -2313,11 +2317,7 @@
     "2052001873499205642",
     "2052001885188657301",
     "2052003988586029437",
-    "2052010470329184625",
-    "2052012609524875460",
-    "2052013023536259144",
-    "2052013306630807920",
-    "2051947782932713509"
+    "2052010470329184625"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2052342692454269117",
