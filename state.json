@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2108791.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2108723.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/news_flash/2108753.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2108776.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107786.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2107766.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2107781.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107809.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2107574.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2107809.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/text/IME-Edge-Bar.html",
@@ -363,6 +363,7 @@
     "yt:video:fHzrgfUTT7I"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:Ms48iIL7P9c",
     "yt:video:LethPSupenw",
     "yt:video:y9EbGpST-2A",
     "yt:video:mk_IN8yvS3E",
@@ -411,8 +412,7 @@
     "yt:video:z56-VnXx5kY",
     "yt:video:pwKepohINck",
     "yt:video:aNa9wM0ZzTU",
-    "yt:video:Ck-NEDQyjSM",
-    "yt:video:nR9ahmM4raU"
+    "yt:video:Ck-NEDQyjSM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
     "yt:video:ZPYXDpmzeeI",
@@ -2707,6 +2707,12 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2054876248565027177",
+    "2054876270354395282",
+    "2054876312347849041",
+    "2054876352143360212",
+    "2054876483328647630",
+    "2054876552492666941",
     "2054768284936065073",
     "2054768319983661469",
     "2054768408663826801",
@@ -2750,13 +2756,7 @@
     "2054342156391940251",
     "2054348954691842556",
     "2054349026330595512",
-    "2054349140566614229",
-    "2054349225509662771",
-    "2054349366337609975",
-    "2054349412328210797",
-    "2054223387334205724",
-    "2054223347236696090",
-    "2054223593823981646"
+    "2054349140566614229"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2054291239152050641",
