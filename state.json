@@ -1105,6 +1105,9 @@
     "yt:video:MW1khdo2Sq8"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2605/14/news133.html",
+    "https://www.itmedia.co.jp/news/articles/2605/14/news140.html",
+    "https://www.itmedia.co.jp/mobile/articles/2605/14/news149.html",
     "https://www.itmedia.co.jp/news/articles/2605/14/news109.html",
     "https://www.itmedia.co.jp/aiplus/articles/2605/14/news110.html",
     "https://www.itmedia.co.jp/news/articles/2605/14/news117.html",
@@ -1151,13 +1154,11 @@
     "https://www.itmedia.co.jp/news/articles/2605/13/news097.html",
     "https://www.itmedia.co.jp/news/articles/2605/13/news103.html",
     "https://built.itmedia.co.jp/bt/articles/2605/13/news010.html",
-    "https://www.itmedia.co.jp/business/articles/2605/13/news012.html",
-    "https://www.itmedia.co.jp/mobile/articles/2605/13/news036.html",
-    "https://monoist.itmedia.co.jp/mn/articles/2605/13/news006.html",
-    "https://www.itmedia.co.jp/business/articles/2605/13/news022.html"
+    "https://www.itmedia.co.jp/business/articles/2605/13/news012.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=281741",
     "https://smhn.info/?p=281874",
     "https://smhn.info/?p=281618",
     "https://smhn.info/?p=281811",
@@ -1206,8 +1207,7 @@
     "https://smhn.info/?p=281341",
     "https://smhn.info/?p=281334",
     "https://smhn.info/?p=281331",
-    "https://smhn.info/?p=281338",
-    "https://smhn.info/?p=281307"
+    "https://smhn.info/?p=281338"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=114038",
@@ -1468,6 +1468,7 @@
     "yt:video:_A_5MwHo1oY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg": [
+    "yt:video:F4tkjrnTp_U",
     "yt:video:DQr-aGvaadI",
     "yt:video:5xhXw7_TVj8",
     "yt:video:pWioKZay9uk",
@@ -1516,8 +1517,7 @@
     "yt:video:K_S2sgAPAnI",
     "yt:video:GGl1oh5XNFo",
     "yt:video:m5CvVSpwwdM",
-    "yt:video:45i0c9bBl0E",
-    "yt:video:ITDG3vfIP-I"
+    "yt:video:45i0c9bBl0E"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
     "yt:video:3g34nnMBa0U",
