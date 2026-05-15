@@ -1648,6 +1648,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260515-google-gemini-spark/",
+    "https://gigazine.net/news/20260515-rtx-5090-m4-macbook-air/",
+    "https://gigazine.net/news/20260515-dwarfstar-4/",
     "https://gigazine.net/news/20260515-wakana-yamazaki-passed-away/",
     "https://gigazine.net/news/20260515-headline/",
     "https://gigazine.net/news/20260515-apple-mie-kernel-memory-corruption/",
@@ -1694,10 +1697,7 @@
     "https://gigazine.net/news/20260514-anthropic-claude-agent-sdk-credits/",
     "https://gigazine.net/news/20260514-trump-mobile-t1-will-start-shipping/",
     "https://gigazine.net/news/20260514-fulu-foundation-orcaslicer-bambulab/",
-    "https://gigazine.net/news/20260514-needle-tool-calling--distilled-gemini/",
-    "https://gigazine.net/news/20260514-youtube-creators-advertisers/",
-    "https://gigazine.net/news/20260513-obsidian-plugin-future/",
-    "https://gigazine.net/news/20260513-puter/"
+    "https://gigazine.net/news/20260514-needle-tool-calling--distilled-gemini/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213290",
@@ -1804,6 +1804,7 @@
     "https://win-tab.net/?p=186721"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:eBY7cJrUJ9c",
     "yt:video:-DxczGF87XU",
     "yt:video:zpuhE79yPds",
     "yt:video:KlDHGGZ2nJM",
@@ -1852,8 +1853,7 @@
     "yt:video:xbj8pqR5r7Q",
     "yt:video:vPFAv49RZc0",
     "yt:video:Yhr-Eyihidk",
-    "yt:video:DOBmK__s9GY",
-    "yt:video:D8JXVzugTMo"
+    "yt:video:DOBmK__s9GY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
     "yt:video:-BuQI0iEjPI",
@@ -2064,6 +2064,7 @@
     "yt:video:K9IF_mpEkp8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:6v-gzUGOZKg",
     "yt:video:Lml_oTIynNw",
     "yt:video:XXqjiyG6h54",
     "yt:video:iFWyw2ZZRm4",
@@ -2112,8 +2113,7 @@
     "yt:video:iCbO3_UWikM",
     "yt:video:pH2tvzZEW48",
     "yt:video:hsJZOpxYrOc",
-    "yt:video:pk3JzzQ7kRw",
-    "yt:video:hoEa7EcTk1U"
+    "yt:video:pk3JzzQ7kRw"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=262356",
