@@ -1648,6 +1648,15 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260515-ring-2-6-1t-ai-china/",
+    "https://gigazine.net/news/20260515-nginx-remote-code-execution/",
+    "https://gigazine.net/news/20260515-160-kmh-pitching/",
+    "https://gigazine.net/news/20260515-nvidia-h200-chip-sales-to-china-firms/",
+    "https://gigazine.net/news/20260515-gallup-survey-constructing-ai-data-center/",
+    "https://gigazine.net/news/20260515-flux-outpainting/",
+    "https://gigazine.net/news/20260515-runway-comes-to-japan/",
+    "https://gigazine.net/news/20260515-anima-image-generation-ai/",
+    "https://gigazine.net/news/20260515-ensitrelvir-stop-developing-covid-postexposure/",
     "https://gigazine.net/news/20260515-codex-mobile-app/",
     "https://gigazine.net/news/20260515-arxiv-ai-paper-banned/",
     "https://gigazine.net/news/20260515-collectopia/",
@@ -1688,18 +1697,14 @@
     "https://gigazine.net/news/20260513-headline/",
     "https://gigazine.net/news/20260513-google-android-new-security-privacy/",
     "https://gigazine.net/news/20260513-anthropic-china-mythos/",
-    "https://gigazine.net/news/20260513-anthropic-claude-legal-solutions/",
-    "https://gigazine.net/news/20260513-spacexs-starship-v3/",
-    "https://gigazine.net/news/20260513-google-deepmind-ai-pointer/",
-    "https://gigazine.net/news/20260513-apple-ios-27-siri/",
-    "https://gigazine.net/news/20260513-yurakuseika-hawaiian-thunder/",
-    "https://gigazine.net/news/20260513-android-auto-update/",
-    "https://gigazine.net/news/20260513-supplements-not-shortcut-healthy-ageing/",
-    "https://gigazine.net/news/20260513-gemini-intelligence-ai-android/",
-    "https://gigazine.net/news/20260513-spacex-google-data-center-orbit/",
-    "https://gigazine.net/news/20260513-microsoft-mdash/"
+    "https://gigazine.net/news/20260513-anthropic-claude-legal-solutions/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=213290",
+    "https://aismiley.co.jp/?post_type=ai_news&p=213336",
+    "https://aismiley.co.jp/?post_type=ai_news&p=214889",
+    "https://aismiley.co.jp/?post_type=ai_news&p=213885",
+    "https://aismiley.co.jp/?post_type=ai_news&p=215008",
     "https://aismiley.co.jp/?post_type=ai_news&p=215119",
     "https://aismiley.co.jp/?post_type=ai_news&p=212624",
     "https://aismiley.co.jp/?post_type=ai_news&p=214474",
@@ -1744,14 +1749,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=213315",
     "https://aismiley.co.jp/?post_type=ai_news&p=212750",
     "https://aismiley.co.jp/?post_type=ai_news&p=212125",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212303",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213017",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212520",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212020",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211049",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212318"
+    "https://aismiley.co.jp/?post_type=ai_news&p=212303"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187422",
     "https://win-tab.net/?p=187411",
     "https://win-tab.net/?p=187343",
     "https://win-tab.net/?p=187391",
@@ -1800,8 +1801,7 @@
     "https://win-tab.net/?p=186761",
     "https://win-tab.net/?p=186734",
     "https://win-tab.net/?p=186721",
-    "https://win-tab.net/?p=186679",
-    "https://win-tab.net/?p=186694"
+    "https://win-tab.net/?p=186679"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:-DxczGF87XU",
@@ -2116,6 +2116,8 @@
     "yt:video:1XEewjEfvII"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=262291",
+    "https://garumax.com/?p=262325",
     "https://garumax.com/?p=262243",
     "https://garumax.com/?p=262264",
     "https://garumax.com/?p=262212",
@@ -2163,9 +2165,7 @@
     "https://garumax.com/?p=260582",
     "https://garumax.com/?p=260973",
     "https://garumax.com/?p=260968",
-    "https://garumax.com/?p=260942",
-    "https://garumax.com/?p=260843",
-    "https://garumax.com/?p=260919"
+    "https://garumax.com/?p=260942"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/teapair",
