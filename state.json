@@ -1650,6 +1650,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260516-houseplants-air/",
     "https://gigazine.net/news/20260516-older-adults-vote-live-longer/",
     "https://gigazine.net/news/20260516-health-insurance-denials-business/",
     "https://gigazine.net/news/20260516-anime-studio-stamp-rally-machiasobi30/",
@@ -1698,8 +1699,7 @@
     "https://gigazine.net/news/20260514-ai-iq/",
     "https://gigazine.net/news/20260514-matsunoya-tomato-loin-cutlet/",
     "https://gigazine.net/news/20260514-twin-bros-wipe-us-governmnt-databeses/",
-    "https://gigazine.net/news/20260514-headline/",
-    "https://gigazine.net/news/20260514-netflix-ui-appeal/"
+    "https://gigazine.net/news/20260514-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213290",
@@ -2360,6 +2360,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2055597270876422543",
+    "2054530309656617115",
     "2055514961150124065",
     "2055562866221297911",
     "2055192035620250024",
@@ -2407,9 +2409,7 @@
     "2053785383666950572",
     "2053770452473184329",
     "2053678921934405881",
-    "2053417203568189624",
-    "2053330988500144587",
-    "2053248652152541387"
+    "2053417203568189624"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2055613481974386976",
