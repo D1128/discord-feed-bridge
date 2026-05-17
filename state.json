@@ -1650,6 +1650,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260517-mahoyo-machiasobi30/",
+    "https://gigazine.net/news/20260517-changedetection-io/",
     "https://gigazine.net/news/20260517-super-kigurumi-fight-winner-machiasobi30/",
     "https://gigazine.net/news/20260517-cho-kaguyahime-machiasobi30/",
     "https://gigazine.net/news/20260517-known-as-mizuho-bank-tokushima-machiasobi30/",
@@ -1697,9 +1699,7 @@
     "https://gigazine.net/news/20260515-runway-comes-to-japan/",
     "https://gigazine.net/news/20260515-anima-image-generation-ai/",
     "https://gigazine.net/news/20260515-ensitrelvir-stop-developing-covid-postexposure/",
-    "https://gigazine.net/news/20260515-codex-mobile-app/",
-    "https://gigazine.net/news/20260515-arxiv-ai-paper-banned/",
-    "https://gigazine.net/news/20260515-collectopia/"
+    "https://gigazine.net/news/20260515-codex-mobile-app/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=213290",
@@ -1754,6 +1754,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=212303"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187477",
     "https://win-tab.net/?p=187445",
     "https://win-tab.net/?p=187435",
     "https://win-tab.net/?p=187422",
@@ -1802,8 +1803,7 @@
     "https://win-tab.net/?p=186774",
     "https://win-tab.net/?p=186795",
     "https://win-tab.net/?p=186754",
-    "https://win-tab.net/?p=186761",
-    "https://win-tab.net/?p=186734"
+    "https://win-tab.net/?p=186761"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:eBY7cJrUJ9c",
@@ -2360,6 +2360,11 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2055833735434793035",
+    "2055673484160974912",
+    "2055870341663383759",
+    "2055901468763541745",
+    "2055874310510870563",
     "2055951460215714188",
     "2055951464791515149",
     "2055597270876422543",
@@ -2404,14 +2409,10 @@
     "2054046590193791056",
     "2054023204285637025",
     "2053840118251987216",
-    "2054139677226213653",
-    "2048698320076554520",
-    "2054031921475428500",
-    "2053467159221932312",
-    "2053785383666950572",
-    "2053770452473184329"
+    "2054139677226213653"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2055970836822278623",
     "2055838213055615066",
     "2055613481974386976",
     "2055485387942797737",
@@ -2460,8 +2461,7 @@
     "2046914160319987844",
     "2046915418426904581",
     "2046552275532046420",
-    "2046190391070699667",
-    "2046190642955465200"
+    "2046190391070699667"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2055513573724496117",
