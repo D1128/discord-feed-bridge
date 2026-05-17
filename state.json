@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/tidbit/2109099.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/special/2107526.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2109120.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2109124.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2109147.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2108139.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2108161.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2108160.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2108185.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2108231.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2108224.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2108185.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/text/IME-Edge-Bar.html",
@@ -2814,6 +2814,7 @@
     "2039835741241684102"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2056132660347699555",
     "2054046590193791056",
     "2047300871202218053",
     "2047213020762591248",
@@ -2862,8 +2863,7 @@
     "2025692092044099977",
     "2025692090500562946",
     "2024979542373527890",
-    "2024871192260378721",
-    "2024020326951383135"
+    "2024871192260378721"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
