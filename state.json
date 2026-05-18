@@ -1105,6 +1105,10 @@
     "yt:video:GNBa2CGfZsk"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/business/articles/2605/18/news001.html",
+    "https://www.itmedia.co.jp/business/articles/2605/18/news005.html",
+    "https://www.itmedia.co.jp/news/articles/2605/15/news115.html",
+    "https://www.itmedia.co.jp/business/articles/2605/18/news030.html",
     "https://www.itmedia.co.jp/business/articles/2605/18/news017.html",
     "https://monoist.itmedia.co.jp/mn/articles/2605/18/news028.html",
     "https://www.itmedia.co.jp/business/articles/2605/18/news009.html",
@@ -1150,14 +1154,11 @@
     "https://www.itmedia.co.jp/business/articles/2605/15/news012.html",
     "https://www.itmedia.co.jp/business/articles/2605/15/news018.html",
     "https://www.itmedia.co.jp/business/articles/2605/15/news022.html",
-    "https://www.itmedia.co.jp/news/articles/2605/14/news155.html",
-    "https://www.itmedia.co.jp/news/articles/2605/14/news150.html",
-    "https://www.itmedia.co.jp/news/articles/2605/14/news151.html",
-    "https://www.itmedia.co.jp/mobile/articles/2605/14/news153.html",
-    "https://www.itmedia.co.jp/news/articles/2605/14/news133.html"
+    "https://www.itmedia.co.jp/news/articles/2605/14/news155.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=282048",
     "https://smhn.info/?p=282018",
     "https://smhn.info/?p=282126",
     "https://smhn.info/?p=281625",
@@ -1206,8 +1207,7 @@
     "https://smhn.info/?p=281536",
     "https://smhn.info/?p=281257",
     "https://smhn.info/?p=281569",
-    "https://smhn.info/?p=281539",
-    "https://smhn.info/?p=281522"
+    "https://smhn.info/?p=281539"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=114246",
@@ -2640,6 +2640,7 @@
     "2046693935209455730"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2056160838730621082",
     "2056026847172038832",
     "2056126251631517717",
     "2056013938006069327",
@@ -2688,8 +2689,7 @@
     "2054683219115880825",
     "2054683230868238434",
     "2054683242524262522",
-    "2054698459517894837",
-    "2054698460860047401"
+    "2054698459517894837"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
