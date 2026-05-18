@@ -1650,6 +1650,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260518-siri-app-privacy-ios-27/",
+    "https://gigazine.net/news/20260518-university-arizona-boo-eric-schmidt-ai/",
+    "https://gigazine.net/news/20260518-nvidia-sana-wm/",
+    "https://gigazine.net/news/20260518-fast16-malware-sabotage-nuclear-test/",
+    "https://gigazine.net/news/20260518-shein-acquire-everlane/",
+    "https://gigazine.net/news/20260518-brain-transplants-impossible/",
+    "https://gigazine.net/news/20260518-google-account-storage-limit/",
+    "https://gigazine.net/news/20260518-microsoft-discontinued-claude-code/",
+    "https://gigazine.net/news/20260518-ai-run-radio-stations/",
+    "https://gigazine.net/news/20260518-grafana-github/",
     "https://gigazine.net/news/20260518-biochemical-beauty-retatrutide-glp-1s/",
     "https://gigazine.net/news/20260518-doctor-ai-blow-basic-fact/",
     "https://gigazine.net/news/20260518-senior-developers-communicate-expertise/",
@@ -1689,19 +1699,14 @@
     "https://gigazine.net/news/20260515-removing-modem-gps-from-car/",
     "https://gigazine.net/news/20260515-familymart-conveniencewear-machiasobi30/",
     "https://gigazine.net/news/20260515-mit-message-funding-talent-pipeline/",
-    "https://gigazine.net/news/20260515-google-gemini-spark/",
-    "https://gigazine.net/news/20260515-rtx-5090-m4-macbook-air/",
-    "https://gigazine.net/news/20260515-dwarfstar-4/",
-    "https://gigazine.net/news/20260515-wakana-yamazaki-passed-away/",
-    "https://gigazine.net/news/20260515-headline/",
-    "https://gigazine.net/news/20260515-apple-mie-kernel-memory-corruption/",
-    "https://gigazine.net/news/20260515-razer-blade-18/",
-    "https://gigazine.net/news/20260515-calpis-soda-acerola/",
-    "https://gigazine.net/news/20260515-ring-2-6-1t-ai-china/",
-    "https://gigazine.net/news/20260515-nginx-remote-code-execution/",
-    "https://gigazine.net/news/20260515-160-kmh-pitching/"
+    "https://gigazine.net/news/20260515-google-gemini-spark/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=214253",
+    "https://aismiley.co.jp/?post_type=ai_news&p=214614",
+    "https://aismiley.co.jp/?post_type=ai_news&p=214469",
+    "https://aismiley.co.jp/?post_type=ai_news&p=214406",
+    "https://aismiley.co.jp/?post_type=ai_news&p=213852",
     "https://aismiley.co.jp/?post_type=ai_news&p=213290",
     "https://aismiley.co.jp/?post_type=ai_news&p=213336",
     "https://aismiley.co.jp/?post_type=ai_news&p=214889",
@@ -1746,14 +1751,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=213488",
     "https://aismiley.co.jp/?post_type=ai_news&p=213104",
     "https://aismiley.co.jp/?post_type=ai_news&p=213581",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212007",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211173",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213315",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212750",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212125",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212303"
+    "https://aismiley.co.jp/?post_type=ai_news&p=212007"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187498",
     "https://win-tab.net/?p=187477",
     "https://win-tab.net/?p=187445",
     "https://win-tab.net/?p=187435",
@@ -1802,8 +1803,7 @@
     "https://win-tab.net/?p=186807",
     "https://win-tab.net/?p=186774",
     "https://win-tab.net/?p=186795",
-    "https://win-tab.net/?p=186754",
-    "https://win-tab.net/?p=186761"
+    "https://win-tab.net/?p=186754"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:eBY7cJrUJ9c",
@@ -2118,6 +2118,7 @@
     "yt:video:pH2tvzZEW48"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=262014",
     "https://garumax.com/?p=262457",
     "https://garumax.com/?p=262417",
     "https://garumax.com/?p=262390",
@@ -2166,10 +2167,10 @@
     "https://garumax.com/?p=261116",
     "https://garumax.com/?p=260829",
     "https://garumax.com/?p=260997",
-    "https://garumax.com/?p=261104",
-    "https://garumax.com/?p=260571"
+    "https://garumax.com/?p=261104"
   ],
   "https://www.webcreatorbox.com/feed/": [
+    "https://www.webcreatorbox.com//blog/tts-fail",
     "https://www.webcreatorbox.com//blog/teapair",
     "https://www.webcreatorbox.com//blog/noto-emoji",
     "https://www.webcreatorbox.com//blog/voice-counter",
@@ -2202,6 +2203,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=61798",
     "https://androplus.jp/?p=61786",
     "https://androplus.jp/?p=61763",
     "https://androplus.jp/?p=61708",
@@ -2250,8 +2252,7 @@
     "https://androplus.jp/?p=61164",
     "https://androplus.jp/?p=61121",
     "https://androplus.jp/?p=61103",
-    "https://androplus.jp/?p=61108",
-    "https://androplus.jp/?p=60747"
+    "https://androplus.jp/?p=61108"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
