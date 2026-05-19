@@ -1650,6 +1650,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260519-pope-leo-xiv-first-encyclical-ai/",
+    "https://gigazine.net/news/20260519-ai-video-contest/",
+    "https://gigazine.net/news/20260519-cup-noodle-spice-shock-curry/",
     "https://gigazine.net/news/20260519-playstation-plus-price-raising/",
     "https://gigazine.net/news/20260519-cloudflare-claude-mythos-preview/",
     "https://gigazine.net/news/20260519-undersea-data-center-china/",
@@ -1696,12 +1699,16 @@
     "https://gigazine.net/news/20260518-official-supporter-machiasobi30/",
     "https://gigazine.net/news/20260517-kimetsu-standy-road-machiasobi30/",
     "https://gigazine.net/news/20260517-bellepalette-signature-machiasobi30/",
-    "https://gigazine.net/news/20260517-severe-infections-amplify-dementia-risk/",
-    "https://gigazine.net/news/20260517-mahoyo-machiasobi30/",
-    "https://gigazine.net/news/20260517-changedetection-io/",
-    "https://gigazine.net/news/20260517-super-kigurumi-fight-winner-machiasobi30/"
+    "https://gigazine.net/news/20260517-severe-infections-amplify-dementia-risk/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=214038",
+    "https://aismiley.co.jp/?post_type=ai_news&p=215066",
+    "https://aismiley.co.jp/?post_type=ai_news&p=213924",
+    "https://aismiley.co.jp/?post_type=ai_news&p=214607",
+    "https://aismiley.co.jp/?post_type=ai_news&p=215109",
+    "https://aismiley.co.jp/?post_type=ai_news&p=215252",
+    "https://aismiley.co.jp/?post_type=ai_news&p=215444",
     "https://aismiley.co.jp/?post_type=ai_news&p=215075",
     "https://aismiley.co.jp/?post_type=ai_news&p=213935",
     "https://aismiley.co.jp/?post_type=ai_news&p=215085",
@@ -1744,14 +1751,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=212078",
     "https://aismiley.co.jp/?post_type=ai_news&p=211156",
     "https://aismiley.co.jp/?post_type=ai_news&p=212011",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212650",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211159",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212014",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212190",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213351",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213628",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213788",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213488"
+    "https://aismiley.co.jp/?post_type=ai_news&p=212650"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=187545",
@@ -2118,6 +2118,8 @@
     "yt:video:iCbO3_UWikM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=262524",
+    "https://garumax.com/?p=262538",
     "https://garumax.com/?p=262482",
     "https://garumax.com/?p=262495",
     "https://garumax.com/?p=262014",
@@ -2165,9 +2167,7 @@
     "https://garumax.com/?p=261145",
     "https://garumax.com/?p=261044",
     "https://garumax.com/?p=260757",
-    "https://garumax.com/?p=261126",
-    "https://garumax.com/?p=261116",
-    "https://garumax.com/?p=260829"
+    "https://garumax.com/?p=261126"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
