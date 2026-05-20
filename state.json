@@ -1650,6 +1650,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260520-firefox-151/",
+    "https://gigazine.net/news/20260520-google-synthid-openai/",
+    "https://gigazine.net/news/20260520-google-monthly-tokens-processed/",
+    "https://gigazine.net/news/20260520-apple-intelligence-accessibility-features/",
+    "https://gigazine.net/news/20260520-global-warming-thermal-limits-rice-cultivation/",
+    "https://gigazine.net/news/20260520-android-xr/",
+    "https://gigazine.net/news/20260520-google-gemini-spark/",
+    "https://gigazine.net/news/20260520-google-gemini-api-managed-agents/",
+    "https://gigazine.net/news/20260520-epic-games-fortnite-returns-app-stores-worldwide/",
+    "https://gigazine.net/news/20260520-microsoft-surface-for-business/",
     "https://gigazine.net/news/20260520-agora-1-multi-agent-world-model/",
     "https://gigazine.net/news/20260520-fog-bacteria-formaldehyde/",
     "https://gigazine.net/news/20260519-click/",
@@ -1689,19 +1699,13 @@
     "https://gigazine.net/news/20260518-pirate-repacker-focus-on-law/",
     "https://gigazine.net/news/20260518-trump-stock-trade/",
     "https://gigazine.net/news/20260518-malta-chatgpt-plus/",
-    "https://gigazine.net/news/20260518-haagen-dazs-chocolat-mint-extra/",
-    "https://gigazine.net/news/20260518-siri-app-privacy-ios-27/",
-    "https://gigazine.net/news/20260518-university-arizona-boo-eric-schmidt-ai/",
-    "https://gigazine.net/news/20260518-nvidia-sana-wm/",
-    "https://gigazine.net/news/20260518-fast16-malware-sabotage-nuclear-test/",
-    "https://gigazine.net/news/20260518-shein-acquire-everlane/",
-    "https://gigazine.net/news/20260518-brain-transplants-impossible/",
-    "https://gigazine.net/news/20260518-google-account-storage-limit/",
-    "https://gigazine.net/news/20260518-microsoft-discontinued-claude-code/",
-    "https://gigazine.net/news/20260518-ai-run-radio-stations/",
-    "https://gigazine.net/news/20260518-grafana-github/"
+    "https://gigazine.net/news/20260518-haagen-dazs-chocolat-mint-extra/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=214945",
+    "https://aismiley.co.jp/?post_type=ai_news&p=215609",
+    "https://aismiley.co.jp/?post_type=ai_news&p=215724",
+    "https://aismiley.co.jp/?post_type=ai_news&p=214172",
     "https://aismiley.co.jp/?post_type=ai_news&p=214038",
     "https://aismiley.co.jp/?post_type=ai_news&p=215066",
     "https://aismiley.co.jp/?post_type=ai_news&p=213924",
@@ -1747,11 +1751,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=212878",
     "https://aismiley.co.jp/?post_type=ai_news&p=212858",
     "https://aismiley.co.jp/?post_type=ai_news&p=213618",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212623",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212078",
-    "https://aismiley.co.jp/?post_type=ai_news&p=211156",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212011",
-    "https://aismiley.co.jp/?post_type=ai_news&p=212650"
+    "https://aismiley.co.jp/?post_type=ai_news&p=212623"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=186544",
@@ -2118,6 +2118,9 @@
     "yt:video:y2VetdSlzX0"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=262605",
+    "https://garumax.com/?p=262630",
+    "https://garumax.com/?p=262646",
     "https://garumax.com/?p=262524",
     "https://garumax.com/?p=262538",
     "https://garumax.com/?p=262482",
@@ -2164,10 +2167,7 @@
     "https://garumax.com/?p=261172",
     "https://garumax.com/?p=261042",
     "https://garumax.com/?p=261167",
-    "https://garumax.com/?p=261145",
-    "https://garumax.com/?p=261044",
-    "https://garumax.com/?p=260757",
-    "https://garumax.com/?p=261126"
+    "https://garumax.com/?p=261145"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
@@ -2361,6 +2361,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2056946729455653307",
     "2056392455675850802",
     "2056564872704606420",
     "2056712181585150409",
@@ -2409,8 +2410,7 @@
     "2054698202109284798",
     "2054523249388871985",
     "2054523336978477171",
-    "2054414766987420150",
-    "2054351721837846971"
+    "2054414766987420150"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2056875296373068269",
