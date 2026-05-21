@@ -1651,6 +1651,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260521-anthropic-spacexai-colossus/",
+    "https://gigazine.net/news/20260521-firefox-shake-to-summarize/",
+    "https://gigazine.net/news/20260521-annas-archive-order/",
+    "https://gigazine.net/news/20260521-spacex-ipo-s-1/",
+    "https://gigazine.net/news/20260521-signal-cognitive-decline-handwriting-speed/",
+    "https://gigazine.net/news/20260521-openclaw-grok/",
+    "https://gigazine.net/news/20260521-google-marketing-ai-search/",
+    "https://gigazine.net/news/20260521-openai-model-disproves-discrete-geometry-conjecture/",
+    "https://gigazine.net/news/20260521-github-unauthorized-access/",
+    "https://gigazine.net/news/20260521-anthropic-ai-conversation-philosophers-clergy/",
     "https://gigazine.net/news/20260521-apple-sports/",
     "https://gigazine.net/news/20260521-abandoned-mine-ultra-pure-quantum-crystals/",
     "https://gigazine.net/news/20260521-llms-pelicans-on-bicycles-2026/",
@@ -1690,19 +1700,10 @@
     "https://gigazine.net/news/20260519-ai-video-contest/",
     "https://gigazine.net/news/20260519-cup-noodle-spice-shock-curry/",
     "https://gigazine.net/news/20260519-playstation-plus-price-raising/",
-    "https://gigazine.net/news/20260519-cloudflare-claude-mythos-preview/",
-    "https://gigazine.net/news/20260519-undersea-data-center-china/",
-    "https://gigazine.net/news/20260519-x-post-limits/",
-    "https://gigazine.net/news/20260519-atlas-hard-work/",
-    "https://gigazine.net/news/20260519-mythos-cyber-flaw-anthropic-fsb/",
-    "https://gigazine.net/news/20260519-steam-store-new-tag/",
-    "https://gigazine.net/news/20260519-cursor-composer-2-5/",
-    "https://gigazine.net/news/20260519-playstation-2-portable/",
-    "https://gigazine.net/news/20260519-amazon-alexa-podcasts/",
-    "https://gigazine.net/news/20260519-what-new-categories-gigazine/",
-    "https://gigazine.net/news/20260519-sony-pull-back-playstation-exclusives-games-pc/"
+    "https://gigazine.net/news/20260519-cloudflare-claude-mythos-preview/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=215226",
     "https://aismiley.co.jp/?post_type=ai_news&p=216089",
     "https://aismiley.co.jp/?post_type=ai_news&p=215668",
     "https://aismiley.co.jp/?post_type=ai_news&p=215643",
@@ -1751,8 +1752,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=213855",
     "https://aismiley.co.jp/?post_type=ai_news&p=213729",
     "https://aismiley.co.jp/?post_type=ai_news&p=213860",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213067",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213014"
+    "https://aismiley.co.jp/?post_type=ai_news&p=213067"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=187569",
@@ -2119,6 +2119,9 @@
     "yt:video:fsGqDXBRv94"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=262685",
+    "https://garumax.com/?p=262694",
+    "https://garumax.com/?p=262715",
     "https://garumax.com/?p=262605",
     "https://garumax.com/?p=262630",
     "https://garumax.com/?p=262646",
@@ -2165,10 +2168,7 @@
     "https://garumax.com/?p=261263",
     "https://garumax.com/?p=261297",
     "https://garumax.com/?p=261264",
-    "https://garumax.com/?p=261172",
-    "https://garumax.com/?p=261042",
-    "https://garumax.com/?p=261167",
-    "https://garumax.com/?p=261145"
+    "https://garumax.com/?p=261172"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
@@ -2414,6 +2414,7 @@
     "2054698202109284798"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2057325435365794181",
     "2057249568040095818",
     "2057235671329427912",
     "2057241962416427213",
@@ -2462,8 +2463,7 @@
     "2049089745784017088",
     "2048901756764164539",
     "2048725595874541932",
-    "2048002330424135951",
-    "2047814341584445827"
+    "2048002330424135951"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2057250786275639777",
