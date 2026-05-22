@@ -1653,6 +1653,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260522-spotify-audiobooks-elevenlabs/",
+    "https://gigazine.net/news/20260522-stable-audio-3/",
     "https://gigazine.net/news/20260522-commonwealth-short-story-winner-ai-generated/",
     "https://gigazine.net/news/20260522-ban-prediction-markets/",
     "https://gigazine.net/news/20260522-anthropic-sales-leader-claude-cowork/",
@@ -1700,9 +1702,7 @@
     "https://gigazine.net/news/20260520-global-warming-thermal-limits-rice-cultivation/",
     "https://gigazine.net/news/20260520-android-xr/",
     "https://gigazine.net/news/20260520-google-gemini-spark/",
-    "https://gigazine.net/news/20260520-google-gemini-api-managed-agents/",
-    "https://gigazine.net/news/20260520-epic-games-fortnite-returns-app-stores-worldwide/",
-    "https://gigazine.net/news/20260520-microsoft-surface-for-business/"
+    "https://gigazine.net/news/20260520-google-gemini-api-managed-agents/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=215865",
@@ -2121,6 +2121,7 @@
     "yt:video:dJQwdn5DG9I"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=262784",
     "https://garumax.com/?p=262773",
     "https://garumax.com/?p=262728",
     "https://garumax.com/?p=262747",
@@ -2169,8 +2170,7 @@
     "https://garumax.com/?p=261413",
     "https://garumax.com/?p=261177",
     "https://garumax.com/?p=261369",
-    "https://garumax.com/?p=260336",
-    "https://garumax.com/?p=261345"
+    "https://garumax.com/?p=260336"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
