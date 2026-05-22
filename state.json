@@ -1106,6 +1106,10 @@
     "yt:video:YFVEucJLBNw"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/business/articles/2605/23/news003.html",
+    "https://www.itmedia.co.jp/news/articles/2605/23/news033.html",
+    "https://www.itmedia.co.jp/pcuser/articles/2605/23/news028.html",
+    "https://www.itmedia.co.jp/news/articles/2605/23/news012.html",
     "https://www.itmedia.co.jp/mobile/articles/2605/23/news032.html",
     "https://www.itmedia.co.jp/pcuser/articles/2605/23/news029.html",
     "https://www.itmedia.co.jp/aiplus/article/2605/22/2000000018/",
@@ -1151,11 +1155,7 @@
     "https://www.itmedia.co.jp/mobile/articles/2605/21/news098.html",
     "https://www.itmedia.co.jp/news/articles/2605/21/news063.html",
     "https://built.itmedia.co.jp/bt/articles/2605/21/news062.html",
-    "https://www.itmedia.co.jp/mobile/articles/2605/21/news065.html",
-    "https://www.itmedia.co.jp/news/articles/2605/21/news067.html",
-    "https://www.itmedia.co.jp/business/articles/2605/21/news011.html",
-    "https://www.itmedia.co.jp/news/articles/2605/21/news061.html",
-    "https://www.itmedia.co.jp/business/articles/2605/21/news026.html"
+    "https://www.itmedia.co.jp/mobile/articles/2605/21/news065.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1263,6 +1263,8 @@
     "https://daily-gadget.net/?p=114190"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=61704",
+    "https://sumahodigest.com/?p=61710",
     "https://sumahodigest.com/?p=61678",
     "https://sumahodigest.com/?p=61682",
     "https://sumahodigest.com/?p=61686",
@@ -1310,9 +1312,7 @@
     "https://sumahodigest.com/?p=61441",
     "https://sumahodigest.com/?p=61446",
     "https://sumahodigest.com/?p=61450",
-    "https://sumahodigest.com/?p=61454",
-    "https://sumahodigest.com/?p=61458",
-    "https://sumahodigest.com/?p=61463"
+    "https://sumahodigest.com/?p=61454"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/4207112889926966935",
