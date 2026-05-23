@@ -143,6 +143,7 @@
     "https://ainow.ai/?p=277771"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=92869",
     "https://butsuyoku-gadget.com/?p=92737",
     "https://butsuyoku-gadget.com/?p=92839",
     "https://butsuyoku-gadget.com/?p=92832",
@@ -191,8 +192,7 @@
     "https://butsuyoku-gadget.com/?p=92330",
     "https://butsuyoku-gadget.com/?p=92324",
     "https://butsuyoku-gadget.com/?p=92316",
-    "https://butsuyoku-gadget.com/?p=92305",
-    "https://butsuyoku-gadget.com/?p=92304"
+    "https://butsuyoku-gadget.com/?p=92305"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137702",
@@ -247,6 +247,7 @@
     "https://telektlist.com/?p=137092"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24308",
     "https://codezine.jp/article/detail/24305",
     "https://codezine.jp/article/detail/24320",
     "https://codezine.jp/article/detail/24298",
@@ -295,8 +296,7 @@
     "https://codezine.jp/article/detail/24257",
     "https://codezine.jp/article/detail/24262",
     "https://codezine.jp/article/detail/24249",
-    "https://codezine.jp/article/detail/24263",
-    "https://codezine.jp/article/detail/24254"
+    "https://codezine.jp/article/detail/24263"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2715,6 +2715,10 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2058035714584183197",
+    "2058035807617966425",
+    "2058035843634487339",
+    "2058036077324320775",
     "2057954496798769514",
     "2057954651438567856",
     "2057954690734903507",
@@ -2760,11 +2764,7 @@
     "2057391186865000646",
     "2057301551820276178",
     "2057301661857788393",
-    "2057301722297733319",
-    "2057301780338553314",
-    "2057301813322506530",
-    "2057301851671089322",
-    "2057302231888851063"
+    "2057301722297733319"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2054291239152050641",
@@ -2819,6 +2819,7 @@
     "2039835741241684102"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2058011287804944505",
     "2056731680325648730",
     "2056952775519691259",
     "2056132660347699555",
@@ -2867,8 +2868,7 @@
     "2028228807761838564",
     "2027168064597537033",
     "2026856017829703812",
-    "2025692092044099977",
-    "2025692090500562946"
+    "2025692092044099977"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
