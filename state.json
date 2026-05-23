@@ -1656,6 +1656,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260523-yet-another-bench-script/",
     "https://gigazine.net/news/20260523-ayaneo-pocket-s-mini-appearance/",
     "https://gigazine.net/news/20260523-smartcoby-ultra-slim-3k/",
     "https://gigazine.net/news/20260523-college-students-time-management/",
@@ -1704,8 +1705,7 @@
     "https://gigazine.net/news/20260521-openclaw-grok/",
     "https://gigazine.net/news/20260521-google-marketing-ai-search/",
     "https://gigazine.net/news/20260521-openai-model-disproves-discrete-geometry-conjecture/",
-    "https://gigazine.net/news/20260521-github-unauthorized-access/",
-    "https://gigazine.net/news/20260521-anthropic-ai-conversation-philosophers-clergy/"
+    "https://gigazine.net/news/20260521-github-unauthorized-access/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=215800",
@@ -2367,6 +2367,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2058080630404219311",
     "2058011287804944505",
     "2057887775937192322",
     "2057792584270135483",
@@ -2415,10 +2416,10 @@
     "2055259244447015374",
     "2055235070244573621",
     "2055196886274060790",
-    "2055153299846996414",
-    "2055226694219485583"
+    "2055153299846996414"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2058164916180410394",
     "2058057463019307165",
     "2058057669735538847",
     "2057784034881950076",
@@ -2467,8 +2468,7 @@
     "2050176657621934302",
     "2049988668845121944",
     "2049837614002528715",
-    "2049814117511475290",
-    "2049636718111043875"
+    "2049814117511475290"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2056896408675144132",
