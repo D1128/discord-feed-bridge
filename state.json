@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/ubuntu/2110995.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/ubiq/2111027.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/semicon/2111161.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111148.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111132.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2111070.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2110411.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2110414.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2110298.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2110315.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2110281.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2110215.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2110206.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2110315.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/text/IME-Edge-Bar.html",
