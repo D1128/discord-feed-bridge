@@ -1656,6 +1656,12 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260525-ml-pico/",
+    "https://gigazine.net/news/20260525-shipping-laptop-uganda/",
+    "https://gigazine.net/news/20260525-asahi-natural-water-salty-grapefruit/",
+    "https://gigazine.net/news/20260525-noroboto/",
+    "https://gigazine.net/news/20260525-yt-dlp-bun/",
+    "https://gigazine.net/news/20260525-headline/",
     "https://gigazine.net/news/20260525-taiwan-detain-nvidia-chip-smuggling/",
     "https://gigazine.net/news/20260525-nintendo-switch-2-producing-20-million/",
     "https://gigazine.net/news/20260525-scammers-use-internal-microsoft-account/",
@@ -1699,15 +1705,11 @@
     "https://gigazine.net/news/20260522-cohere-command-a-plus/",
     "https://gigazine.net/news/20260522-jeff-bezos-taxes-ai-trump/",
     "https://gigazine.net/news/20260522-flux-erase-black-forest-labs/",
-    "https://gigazine.net/news/20260522-spotify-ai-licensed-cover-remix-tool/",
-    "https://gigazine.net/news/20260522-kickstarter-adult-guidelines/",
-    "https://gigazine.net/news/20260522-firefox-project-nova/",
-    "https://gigazine.net/news/20260522-great-pyramid-giza-resilient-earthquakes/",
-    "https://gigazine.net/news/20260522-chatgpt-for-powerpoint/",
-    "https://gigazine.net/news/20260522-flipper-one/",
-    "https://gigazine.net/news/20260522-starbucks-abandons-ai-inventory-tool/"
+    "https://gigazine.net/news/20260522-spotify-ai-licensed-cover-remix-tool/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=214748",
+    "https://aismiley.co.jp/?post_type=ai_news&p=216297",
     "https://aismiley.co.jp/?post_type=ai_news&p=214715",
     "https://aismiley.co.jp/?post_type=ai_news&p=215800",
     "https://aismiley.co.jp/?post_type=ai_news&p=214787",
@@ -1755,9 +1757,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=212678",
     "https://aismiley.co.jp/?post_type=ai_news&p=212707",
     "https://aismiley.co.jp/?post_type=ai_news&p=214703",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214366",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214329",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213897"
+    "https://aismiley.co.jp/?post_type=ai_news&p=214366"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=187624",
@@ -2020,6 +2020,7 @@
     "yt:video:MmiX_Ed9Iak"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:-AcT2C1trCw",
     "yt:video:It6G2yIhY50",
     "yt:video:CKZeD3UhmTY",
     "yt:video:OmfWgg5MRok",
@@ -2068,8 +2069,7 @@
     "yt:video:UUDA0KhUxZE",
     "yt:video:KKfBPgCiEJA",
     "yt:video:jgwXFYynHCY",
-    "yt:video:Asuw6jHVcSs",
-    "yt:video:LhRTXwoHj4c"
+    "yt:video:Asuw6jHVcSs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:hEmwgoP820Y",
@@ -2124,6 +2124,7 @@
     "yt:video:CRAtAIS5RI8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=263171",
     "https://garumax.com/?p=262695",
     "https://garumax.com/?p=263131",
     "https://garumax.com/?p=262004",
@@ -2172,8 +2173,7 @@
     "https://garumax.com/?p=261743",
     "https://garumax.com/?p=261882",
     "https://garumax.com/?p=261848",
-    "https://garumax.com/?p=261255",
-    "https://garumax.com/?p=261806"
+    "https://garumax.com/?p=261255"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
