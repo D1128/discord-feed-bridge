@@ -143,6 +143,7 @@
     "https://ainow.ai/?p=277771"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=92879",
     "https://butsuyoku-gadget.com/?p=92874",
     "https://butsuyoku-gadget.com/?p=92869",
     "https://butsuyoku-gadget.com/?p=92737",
@@ -191,8 +192,7 @@
     "https://butsuyoku-gadget.com/?p=92348",
     "https://butsuyoku-gadget.com/?p=92337",
     "https://butsuyoku-gadget.com/?p=92330",
-    "https://butsuyoku-gadget.com/?p=92324",
-    "https://butsuyoku-gadget.com/?p=92316"
+    "https://butsuyoku-gadget.com/?p=92324"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137716",
@@ -415,6 +415,7 @@
     "yt:video:4Eeppn-IByc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:CgQYKRtiA80",
     "yt:video:jAf9x7xXgp4",
     "yt:video:-KJGVgg6O-8",
     "yt:video:el_IGHJZgRs",
@@ -463,8 +464,7 @@
     "yt:video:LLaEB8DIRKk",
     "yt:video:8u447-X7LJ4",
     "yt:video:bJ_7eziE3YI",
-    "yt:video:NyeOXIv9dsA",
-    "yt:video:-pVNv_beIVs"
+    "yt:video:NyeOXIv9dsA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:gEexPX_l7u4",
@@ -2719,6 +2719,8 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2058866031813398571",
+    "2058866095545864676",
     "2058749504250331210",
     "2058749581111046334",
     "2058749609854546393",
@@ -2766,9 +2768,7 @@
     "2057618368568742085",
     "2057618446675059063",
     "2057481942552256602",
-    "2057482000987197624",
-    "2057482323101458845",
-    "2057482364339814755"
+    "2057482000987197624"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2054291239152050641",
