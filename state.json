@@ -1656,6 +1656,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260525-taiwan-detain-nvidia-chip-smuggling/",
+    "https://gigazine.net/news/20260525-nintendo-switch-2-producing-20-million/",
+    "https://gigazine.net/news/20260525-scammers-use-internal-microsoft-account/",
+    "https://gigazine.net/news/20260525-anthropic-project-glasswing/",
+    "https://gigazine.net/news/20260525-ai-overviews-disregard/",
+    "https://gigazine.net/news/20260525-ai-generated-images-truth-fiction-distinguish/",
+    "https://gigazine.net/news/20260525-nvidia-video-generation-ai-longlive-2/",
+    "https://gigazine.net/news/20260525-ai-chip-memory-cost/",
+    "https://gigazine.net/news/20260525-atomic-reason-gold-refuses-rust/",
+    "https://gigazine.net/news/20260525-facebook-post-arrest-water-issue/",
     "https://gigazine.net/news/20260525-ai-spot-fake-review/",
     "https://gigazine.net/news/20260525-trinity-nuclear-test-images/",
     "https://gigazine.net/news/20260525-data-center-waste-heat-downwind/",
@@ -1695,19 +1705,10 @@
     "https://gigazine.net/news/20260522-great-pyramid-giza-resilient-earthquakes/",
     "https://gigazine.net/news/20260522-chatgpt-for-powerpoint/",
     "https://gigazine.net/news/20260522-flipper-one/",
-    "https://gigazine.net/news/20260522-starbucks-abandons-ai-inventory-tool/",
-    "https://gigazine.net/news/20260522-web-serial/",
-    "https://gigazine.net/news/20260522-california-ai-job-losses/",
-    "https://gigazine.net/news/20260522-ofcom-anti-grooming/",
-    "https://gigazine.net/news/20260522-spotify-audiobooks-elevenlabs/",
-    "https://gigazine.net/news/20260522-stable-audio-3/",
-    "https://gigazine.net/news/20260522-commonwealth-short-story-winner-ai-generated/",
-    "https://gigazine.net/news/20260522-ban-prediction-markets/",
-    "https://gigazine.net/news/20260522-anthropic-sales-leader-claude-cowork/",
-    "https://gigazine.net/news/20260521-headline/",
-    "https://gigazine.net/news/20260521-wikimedia-foundation-ceo-interview/"
+    "https://gigazine.net/news/20260522-starbucks-abandons-ai-inventory-tool/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=214715",
     "https://aismiley.co.jp/?post_type=ai_news&p=215800",
     "https://aismiley.co.jp/?post_type=ai_news&p=214787",
     "https://aismiley.co.jp/?post_type=ai_news&p=214133",
@@ -1756,10 +1757,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=214703",
     "https://aismiley.co.jp/?post_type=ai_news&p=214366",
     "https://aismiley.co.jp/?post_type=ai_news&p=214329",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213897",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214173"
+    "https://aismiley.co.jp/?post_type=ai_news&p=213897"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187624",
     "https://win-tab.net/?p=187664",
     "https://win-tab.net/?p=187667",
     "https://win-tab.net/?p=186902",
@@ -1808,8 +1809,7 @@
     "https://win-tab.net/?p=187056",
     "https://win-tab.net/?p=187025",
     "https://win-tab.net/?p=187009",
-    "https://win-tab.net/?p=187000",
-    "https://win-tab.net/?p=186924"
+    "https://win-tab.net/?p=187000"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:6j9FHegOgM4",
@@ -2124,6 +2124,9 @@
     "yt:video:CRAtAIS5RI8"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=262695",
+    "https://garumax.com/?p=263131",
+    "https://garumax.com/?p=262004",
     "https://garumax.com/?p=263047",
     "https://garumax.com/?p=262964",
     "https://garumax.com/?p=262939",
@@ -2170,10 +2173,7 @@
     "https://garumax.com/?p=261882",
     "https://garumax.com/?p=261848",
     "https://garumax.com/?p=261255",
-    "https://garumax.com/?p=261806",
-    "https://garumax.com/?p=261764",
-    "https://garumax.com/?p=261325",
-    "https://garumax.com/?p=261719"
+    "https://garumax.com/?p=261806"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
@@ -2419,6 +2419,7 @@
     "2055259244447015374"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2058744559430140145",
     "2058509061990334902",
     "2058396391609889262",
     "2058164916180410394",
@@ -2467,8 +2468,7 @@
     "2050770822441181599",
     "2050540052066037863",
     "2050432090462695720",
-    "2050176657621934302",
-    "2049988668845121944"
+    "2050176657621934302"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2058684473554678006",
