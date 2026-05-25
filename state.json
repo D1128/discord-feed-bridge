@@ -1656,6 +1656,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260525-japanese-companies-do-so-many/",
+    "https://gigazine.net/news/20260525-k6-project-uk/",
+    "https://gigazine.net/news/20260525-tobacco-plants-make-nicotine-puzzle/",
     "https://gigazine.net/news/20260525-ml-pico/",
     "https://gigazine.net/news/20260525-shipping-laptop-uganda/",
     "https://gigazine.net/news/20260525-asahi-natural-water-salty-grapefruit/",
@@ -1702,10 +1705,7 @@
     "https://gigazine.net/news/20260522-project-hail-mary-star-map/",
     "https://gigazine.net/news/20260522-skal-pineapple/",
     "https://gigazine.net/news/20260522-google-api-key-remain-live/",
-    "https://gigazine.net/news/20260522-cohere-command-a-plus/",
-    "https://gigazine.net/news/20260522-jeff-bezos-taxes-ai-trump/",
-    "https://gigazine.net/news/20260522-flux-erase-black-forest-labs/",
-    "https://gigazine.net/news/20260522-spotify-ai-licensed-cover-remix-tool/"
+    "https://gigazine.net/news/20260522-cohere-command-a-plus/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=214748",
@@ -2367,6 +2367,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2058476617354432790",
+    "2058791424506896505",
+    "2058687236305031254",
+    "2058868264361742764",
     "2058509055862456545",
     "2058188410062598395",
     "2056037013573468642",
@@ -2412,13 +2416,10 @@
     "2054530309656617115",
     "2055514961150124065",
     "2055562866221297911",
-    "2055192035620250024",
-    "2055463171385913584",
-    "2055395276496801885",
-    "2055277080376660288",
-    "2055259244447015374"
+    "2055192035620250024"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2058870695006745002",
     "2058744559430140145",
     "2058509061990334902",
     "2058396391609889262",
@@ -2467,8 +2468,7 @@
     "2050898916527554881",
     "2050770822441181599",
     "2050540052066037863",
-    "2050432090462695720",
-    "2050176657621934302"
+    "2050432090462695720"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2058835463751024859",
