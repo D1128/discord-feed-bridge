@@ -1107,6 +1107,12 @@
     "yt:video:KZjJCRIYLIM"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://techtarget.itmedia.co.jp/tt/news/2205/30/news09.html",
+    "https://techtarget.itmedia.co.jp/tt/news/2412/27/news03.html",
+    "https://www.itmedia.co.jp/news/articles/2605/26/news073.html",
+    "https://www.itmedia.co.jp/news/articles/2605/27/news023.html",
+    "https://monoist.itmedia.co.jp/mn/articles/2605/27/news003.html",
+    "https://www.itmedia.co.jp/business/articles/2605/27/news018.html",
     "https://www.itmedia.co.jp/business/articles/2605/27/news020.html",
     "https://monoist.itmedia.co.jp/mn/articles/2605/27/news006.html",
     "https://www.itmedia.co.jp/news/articles/2605/27/news065.html",
@@ -1150,13 +1156,7 @@
     "https://www.itmedia.co.jp/news/articles/2605/25/news083.html",
     "https://www.itmedia.co.jp/news/articles/2605/25/news111.html",
     "https://www.itmedia.co.jp/news/articles/2605/25/news114.html",
-    "https://www.itmedia.co.jp/mobile/articles/2605/25/news116.html",
-    "https://www.itmedia.co.jp/news/articles/2605/25/news127.html",
-    "https://www.itmedia.co.jp/mobile/articles/2605/25/news011.html",
-    "https://www.itmedia.co.jp/news/articles/2605/25/news079.html",
-    "https://www.itmedia.co.jp/news/articles/2605/25/news086.html",
-    "https://www.itmedia.co.jp/news/articles/2605/25/news089.html",
-    "https://www.itmedia.co.jp/news/articles/2605/25/news094.html"
+    "https://www.itmedia.co.jp/mobile/articles/2605/25/news116.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1264,6 +1264,7 @@
     "https://daily-gadget.net/?p=114378"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=61936",
     "https://sumahodigest.com/?p=61932",
     "https://sumahodigest.com/?p=61915",
     "https://sumahodigest.com/?p=61921",
@@ -1312,8 +1313,7 @@
     "https://sumahodigest.com/?p=61686",
     "https://sumahodigest.com/?p=61694",
     "https://sumahodigest.com/?p=61698",
-    "https://sumahodigest.com/?p=61669",
-    "https://sumahodigest.com/?p=61657"
+    "https://sumahodigest.com/?p=61669"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/4207112889926966935",
@@ -1368,6 +1368,13 @@
     "hatenablog://entry/6802888565228163254"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=24286",
+    "https://official.gfs.tokyo/blog/?p=24289",
+    "https://official.gfs.tokyo/blog/?p=24291",
+    "https://official.gfs.tokyo/blog/?p=24294",
+    "https://official.gfs.tokyo/blog/?p=24326",
+    "https://official.gfs.tokyo/blog/?p=24333",
+    "https://official.gfs.tokyo/blog/?p=24341",
     "https://official.gfs.tokyo/blog/?p=24177",
     "https://official.gfs.tokyo/blog/?p=24181",
     "https://official.gfs.tokyo/blog/?p=24186",
@@ -1410,14 +1417,7 @@
     "https://official.gfs.tokyo/blog/?p=23976",
     "https://official.gfs.tokyo/blog/?p=23990",
     "https://official.gfs.tokyo/blog/?p=23913",
-    "https://official.gfs.tokyo/blog/?p=23920",
-    "https://official.gfs.tokyo/blog/?p=23928",
-    "https://official.gfs.tokyo/blog/?p=23934",
-    "https://official.gfs.tokyo/blog/?p=23854",
-    "https://official.gfs.tokyo/blog/?p=23857",
-    "https://official.gfs.tokyo/blog/?p=23860",
-    "https://official.gfs.tokyo/blog/?p=23865",
-    "https://official.gfs.tokyo/blog/?p=23838"
+    "https://official.gfs.tokyo/blog/?p=23920"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:XkiJjMwIUD8",
@@ -2649,6 +2649,8 @@
     "2050156964790083731"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2059411012651290850",
+    "2059411010679894109",
     "2059393646391411070",
     "2059393647750389799",
     "2059281935323807964",
@@ -2696,9 +2698,7 @@
     "2057580970887508251",
     "2057480199584010635",
     "2057400044609790090",
-    "2057400097949004064",
-    "2057426931445022746",
-    "2057345184229437466"
+    "2057400097949004064"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
