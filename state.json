@@ -1656,6 +1656,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260526-wix-layoff/",
+    "https://gigazine.net/news/20260526-headline/",
+    "https://gigazine.net/news/20260526-ai-hallucinations-scientific-research-fake-citations/",
+    "https://gigazine.net/news/20260526-deepseek-strategy/",
     "https://gigazine.net/news/20260526-age-verification-law-linux/",
     "https://gigazine.net/news/20260526-minicpm5-1b-openbmb-ai/",
     "https://gigazine.net/news/20260526-nissin-donbei-kiwami-udon-soba/",
@@ -1701,11 +1705,7 @@
     "https://gigazine.net/news/20260524-space-does-something-strange-to-astronauts/",
     "https://gigazine.net/news/20260524-seina-imamura-wins-oaks/",
     "https://gigazine.net/news/20260524-ayaneo-pocket-s-mini-game-play/",
-    "https://gigazine.net/news/20260524-conan-precure-detective-collaboration/",
-    "https://gigazine.net/news/20260524-starlink-ethernet-adapter-gen2/",
-    "https://gigazine.net/news/20260524-john-deere-right-to-repair-settlement/",
-    "https://gigazine.net/news/20260524-earths-signal-space/",
-    "https://gigazine.net/news/20260524-gigazine-kindle-ranking-2026-04/"
+    "https://gigazine.net/news/20260524-conan-precure-detective-collaboration/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=212954",
@@ -1812,6 +1812,7 @@
     "https://win-tab.net/?p=187025"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:xXgisL9_jeg",
     "yt:video:6j9FHegOgM4",
     "yt:video:GneSXH6lt0Q",
     "yt:video:eBY7cJrUJ9c",
@@ -1860,8 +1861,7 @@
     "yt:video:aguASB-lY-Y",
     "yt:video:OHmvbLqW-Ak",
     "yt:video:92d8BDESyWI",
-    "yt:video:xbj8pqR5r7Q",
-    "yt:video:vPFAv49RZc0"
+    "yt:video:xbj8pqR5r7Q"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
     "yt:video:-BuQI0iEjPI",
@@ -1968,6 +1968,7 @@
     "yt:video:n3gYLYHoxCs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:5KU93CQZnhI",
     "yt:video:oawoMkizoew",
     "yt:video:mjZjKh2Gn-s",
     "yt:video:7of_Nl9XG_0",
@@ -2016,8 +2017,7 @@
     "yt:video:1wigHxCcJgk",
     "yt:video:ABP48-39WE4",
     "yt:video:Y8Mp-SDBrC4",
-    "yt:video:EybjBbUOokE",
-    "yt:video:MmiX_Ed9Iak"
+    "yt:video:EybjBbUOokE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
     "yt:video:-AcT2C1trCw",
@@ -2072,6 +2072,7 @@
     "yt:video:Asuw6jHVcSs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:k9jONrF_c2Y",
     "yt:video:hEmwgoP820Y",
     "yt:video:pcWWBfHM0E0",
     "yt:video:HYv5tDWqjr4",
@@ -2120,10 +2121,11 @@
     "yt:video:9KNeblPQkzA",
     "yt:video:ZDxx3eWerwo",
     "yt:video:zVC_advUcbI",
-    "yt:video:JvCIgFPgOlk",
-    "yt:video:CRAtAIS5RI8"
+    "yt:video:JvCIgFPgOlk"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=263227",
+    "https://garumax.com/?p=263237",
     "https://garumax.com/?p=263256",
     "https://garumax.com/?p=263163",
     "https://garumax.com/?p=263171",
@@ -2171,9 +2173,7 @@
     "https://garumax.com/?p=261896",
     "https://garumax.com/?p=262146",
     "https://garumax.com/?p=261691",
-    "https://garumax.com/?p=262018",
-    "https://garumax.com/?p=261743",
-    "https://garumax.com/?p=261882"
+    "https://garumax.com/?p=262018"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
@@ -2419,6 +2419,7 @@
     "2055597270876422543"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2059237360643248573",
     "2059109518269620724",
     "2059050881749033248",
     "2058870695006745002",
@@ -2467,8 +2468,7 @@
     "2051506671097377152",
     "2051262059434700964",
     "2051136985289367700",
-    "2050898916527554881",
-    "2050770822441181599"
+    "2050898916527554881"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2058838370785296833",
