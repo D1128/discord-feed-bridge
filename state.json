@@ -247,6 +247,7 @@
     "https://telektlist.com/?p=137117"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24346",
     "https://codezine.jp/article/detail/24336",
     "https://codezine.jp/article/detail/24337",
     "https://codezine.jp/article/detail/24329",
@@ -295,8 +296,7 @@
     "https://codezine.jp/article/detail/24177",
     "https://codezine.jp/article/detail/24284",
     "https://codezine.jp/article/detail/24285",
-    "https://codezine.jp/article/detail/24282",
-    "https://codezine.jp/article/detail/24283"
+    "https://codezine.jp/article/detail/24282"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -311,6 +311,7 @@
     "https://magazine.techacademy.jp/magazine/?p=87264"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA": [
+    "yt:video:BXc0UX-6ux8",
     "yt:video:yhuMws3gCZM",
     "yt:video:tdyhFogAaz4",
     "yt:video:4Mgt0Qo75KM",
@@ -359,10 +360,10 @@
     "yt:video:bJX_hzKGKlA",
     "yt:video:EWqnSbHIhYo",
     "yt:video:wmNgR_Tmf8Y",
-    "yt:video:GuWkE3JtRNk",
-    "yt:video:4NuiG2g5bVo"
+    "yt:video:GuWkE3JtRNk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:Efq1DPdcokI",
     "yt:video:TaerSmbSnLM",
     "yt:video:8lYFqdDeeqs",
     "yt:video:ZrzgriZWjEU",
@@ -411,8 +412,7 @@
     "yt:video:mYj8ZmcC1EM",
     "yt:video:5S_WREQ_IVs",
     "yt:video:uasBMNUMn8A",
-    "yt:video:xDUB53KyiIk",
-    "yt:video:4Eeppn-IByc"
+    "yt:video:xDUB53KyiIk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
     "yt:video:G4T73AXyeH4",
@@ -2719,6 +2719,9 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2059252989085589707",
+    "2059253047113724128",
+    "2059253120182751680",
     "2059111004806738149",
     "2059042747622023331",
     "2059042841519857970",
@@ -2765,10 +2768,7 @@
     "2057672759761916299",
     "2057613666925920720",
     "2057613687901581678",
-    "2057613769216491776",
-    "2057613790011953540",
-    "2057613966223020073",
-    "2057613989358801336"
+    "2057613769216491776"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2054291239152050641",
