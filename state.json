@@ -1658,6 +1658,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260527-stack-overflow-ai/",
+    "https://gigazine.net/news/20260527-tether-georgia-stablecoin-gelt/",
+    "https://gigazine.net/news/20260527-netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+    "https://gigazine.net/news/20260527-colorectal-cancer-rising-in-young/",
     "https://gigazine.net/news/20260527-wikipedia-anti-labor-fired-union-organizers/",
     "https://gigazine.net/news/20260527-headline/",
     "https://gigazine.net/news/20260527-acecook-black-pepper-noodle/",
@@ -1703,11 +1707,7 @@
     "https://gigazine.net/news/20260525-ml-pico/",
     "https://gigazine.net/news/20260525-shipping-laptop-uganda/",
     "https://gigazine.net/news/20260525-asahi-natural-water-salty-grapefruit/",
-    "https://gigazine.net/news/20260525-noroboto/",
-    "https://gigazine.net/news/20260525-yt-dlp-bun/",
-    "https://gigazine.net/news/20260525-headline/",
-    "https://gigazine.net/news/20260525-taiwan-detain-nvidia-chip-smuggling/",
-    "https://gigazine.net/news/20260525-nintendo-switch-2-producing-20-million/"
+    "https://gigazine.net/news/20260525-noroboto/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=216776",
@@ -1762,6 +1762,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=215075"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187506",
     "https://win-tab.net/?p=187755",
     "https://win-tab.net/?p=187727",
     "https://win-tab.net/?p=187647",
@@ -1810,8 +1811,7 @@
     "https://win-tab.net/?p=187104",
     "https://win-tab.net/?p=187086",
     "https://win-tab.net/?p=187078",
-    "https://win-tab.net/?p=187070",
-    "https://win-tab.net/?p=187056"
+    "https://win-tab.net/?p=187070"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:xXgisL9_jeg",
@@ -1918,6 +1918,7 @@
     "yt:video:hagkbPH-cV4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:6D2UxPQ8Lrc",
     "yt:video:UMtbvdpEujc",
     "yt:video:BxbTLV1GLwY",
     "yt:video:FY5mZhr1cVI",
@@ -1966,8 +1967,7 @@
     "yt:video:wdf0FP0i1bw",
     "yt:video:FdpmgxBhIJ0",
     "yt:video:9zDiTHcON-0",
-    "yt:video:1UbLuqdnYso",
-    "yt:video:n3gYLYHoxCs"
+    "yt:video:1UbLuqdnYso"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
     "yt:video:eBcQQ0KNzdQ",
@@ -2074,6 +2074,7 @@
     "yt:video:jgwXFYynHCY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:Wlq2wKMrn-I",
     "yt:video:k9jONrF_c2Y",
     "yt:video:hEmwgoP820Y",
     "yt:video:pcWWBfHM0E0",
@@ -2122,8 +2123,7 @@
     "yt:video:YWNRBzIVFCY",
     "yt:video:9KNeblPQkzA",
     "yt:video:ZDxx3eWerwo",
-    "yt:video:zVC_advUcbI",
-    "yt:video:JvCIgFPgOlk"
+    "yt:video:zVC_advUcbI"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=263404",
@@ -2369,6 +2369,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2059441678482862507",
+    "2059420031264706976",
+    "2059528052582088846",
     "2059238261676228935",
     "2059042228471992792",
     "2058962246546673977",
@@ -2415,12 +2418,11 @@
     "2055833735434793035",
     "2055673484160974912",
     "2055870341663383759",
-    "2055901468763541745",
-    "2055874310510870563",
-    "2055951460215714188",
-    "2055951464791515149"
+    "2055901468763541745"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2059595721888981181",
+    "2059601258483519605",
     "2059413269753012529",
     "2059237360643248573",
     "2059109518269620724",
@@ -2468,9 +2470,7 @@
     "2051991113649598843",
     "2051868807313133981",
     "2051623189009301729",
-    "2051506671097377152",
-    "2051262059434700964",
-    "2051136985289367700"
+    "2051506671097377152"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2059560246771593545",
