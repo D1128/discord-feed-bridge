@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2112671.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2112673.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/news_flash/2112657.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2112529.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2112527.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2112559.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2111329.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2111549.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111585.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2111502.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2111526.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111592.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2111603.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2111502.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/Clock/DesktopClock.html",
@@ -2722,6 +2722,11 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2059956144802836952",
+    "2059956164956439036",
+    "2059956295491608940",
+    "2059956383274127463",
+    "2059956451523850571",
     "2059843768992612783",
     "2059843860986224672",
     "2059843930225824246",
@@ -2766,12 +2771,7 @@
     "2059411598146719798",
     "2059411668644643246",
     "2059412180190269712",
-    "2059412200201318610",
-    "2059412238285652426",
-    "2059412361036124375",
-    "2059252989085589707",
-    "2059253047113724128",
-    "2059253120182751680"
+    "2059412200201318610"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2054291239152050641",
