@@ -1659,6 +1659,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260528-ai-product-market-fit/",
+    "https://gigazine.net/news/20260528-push-notification-apple-google/",
+    "https://gigazine.net/news/20260528-agingbench-ai-agents-age-too/",
+    "https://gigazine.net/news/20260528-openai-election-safeguards/",
+    "https://gigazine.net/news/20260528-asahi-welchs-sparkling-red-concord-grape/",
     "https://gigazine.net/news/20260528-steam-deck-price-increase/",
     "https://gigazine.net/news/20260528-meta-new-plan/",
     "https://gigazine.net/news/20260528-google-deepmind-ceo-demis-hassabis-agi-2030/",
@@ -1703,12 +1708,7 @@
     "https://gigazine.net/news/20260526-age-verification-law-linux/",
     "https://gigazine.net/news/20260526-minicpm5-1b-openbmb-ai/",
     "https://gigazine.net/news/20260526-nissin-donbei-kiwami-udon-soba/",
-    "https://gigazine.net/news/20260526-sugary-diets-cause-memory-damage/",
-    "https://gigazine.net/news/20260526-fossil-new-predator/",
-    "https://gigazine.net/news/20260526-leo-xiv-magnifica-humanitas/",
-    "https://gigazine.net/news/20260526-x-impression-steal-counterplan/",
-    "https://gigazine.net/news/20260526-deepseek-v4-pro-pricing/",
-    "https://gigazine.net/news/20260526-apple-broadcast-soccer-iphone-17-pros/"
+    "https://gigazine.net/news/20260526-sugary-diets-cause-memory-damage/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=216776",
@@ -2127,6 +2127,7 @@
     "yt:video:zVC_advUcbI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=263426",
     "https://garumax.com/?p=263437",
     "https://garumax.com/?p=263286",
     "https://garumax.com/?p=263458",
@@ -2175,8 +2176,7 @@
     "https://garumax.com/?p=262356",
     "https://garumax.com/?p=262336",
     "https://garumax.com/?p=262291",
-    "https://garumax.com/?p=262325",
-    "https://garumax.com/?p=262243"
+    "https://garumax.com/?p=262325"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
