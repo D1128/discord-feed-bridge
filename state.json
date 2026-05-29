@@ -699,6 +699,7 @@
     "https://tabkul.com/?p=301641"
   ],
   "https://chinadap.jp/feed": [
+    "https://chinadap.jp/?p=35744",
     "https://chinadap.jp/?p=35647",
     "https://chinadap.jp/?p=35549",
     "https://chinadap.jp/?p=35499",
@@ -747,8 +748,7 @@
     "https://chinadap.jp/?p=33367",
     "https://chinadap.jp/?p=33312",
     "https://chinadap.jp/?p=33201",
-    "https://chinadap.jp/?p=33263",
-    "https://chinadap.jp/?p=33187"
+    "https://chinadap.jp/?p=33263"
   ],
   "https://feeds.feedburner.com/Jugglycn": [
     "https://juggly.cn/?p=251836",
@@ -815,6 +815,8 @@
     "https://liginc.co.jp/?p=674529"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:5QR6B15eHEw",
+    "yt:video:sLL7D1WLnBY",
     "yt:video:M4LpHsaFWdo",
     "yt:video:t2D3jLmPPj8",
     "yt:video:tpEoNag2JM8",
@@ -862,9 +864,7 @@
     "yt:video:JF5p-zpvK4U",
     "yt:video:NEqRyZN5HBs",
     "yt:video:MpBhdKgxp2s",
-    "yt:video:xBUT__jr64M",
-    "yt:video:ZhFX8T06M1g",
-    "yt:video:z801lmvHtcM"
+    "yt:video:xBUT__jr64M"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
