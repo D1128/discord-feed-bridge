@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/event/2113148.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113130.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113131.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113132.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2112388.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2112299.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/semicon/2112433.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2112409.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2112464.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2112409.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/Clock/DesktopClock.html",
@@ -312,6 +312,7 @@
     "https://magazine.techacademy.jp/magazine/?p=87264"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA": [
+    "yt:video:4sqtO94373s",
     "yt:video:BXc0UX-6ux8",
     "yt:video:yhuMws3gCZM",
     "yt:video:tdyhFogAaz4",
@@ -360,8 +361,7 @@
     "yt:video:CGb_93RSF34",
     "yt:video:bJX_hzKGKlA",
     "yt:video:EWqnSbHIhYo",
-    "yt:video:wmNgR_Tmf8Y",
-    "yt:video:GuWkE3JtRNk"
+    "yt:video:wmNgR_Tmf8Y"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
     "yt:video:Efq1DPdcokI",
