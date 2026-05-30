@@ -1109,6 +1109,8 @@
     "yt:video:dU_wzx6cl6c"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/business/articles/2605/31/news006.html",
+    "https://www.itmedia.co.jp/news/articles/2605/31/news014.html",
     "https://www.itmedia.co.jp/pcuser/articles/2605/31/news009.html",
     "https://www.itmedia.co.jp/pcuser/articles/2605/30/news035.html",
     "https://www.itmedia.co.jp/business/articles/2605/29/news005.html",
@@ -1156,9 +1158,7 @@
     "https://www.itmedia.co.jp/business/articles/2605/28/news130.html",
     "https://www.itmedia.co.jp/news/articles/2605/28/news079.html",
     "https://www.itmedia.co.jp/news/articles/2605/28/news082.html",
-    "https://www.itmedia.co.jp/news/articles/2605/28/news091.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2605/28/news019.html",
-    "https://www.itmedia.co.jp/news/articles/2605/28/news090.html"
+    "https://www.itmedia.co.jp/news/articles/2605/28/news091.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1214,6 +1214,7 @@
     "https://smhn.info/?p=281862"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=115050",
     "https://daily-gadget.net/?p=115129",
     "https://daily-gadget.net/?p=115118",
     "https://daily-gadget.net/?p=115110",
@@ -1262,10 +1263,10 @@
     "https://daily-gadget.net/?p=114646",
     "https://daily-gadget.net/?p=114631",
     "https://daily-gadget.net/?p=114627",
-    "https://daily-gadget.net/?p=114616",
-    "https://daily-gadget.net/?p=114621"
+    "https://daily-gadget.net/?p=114616"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=62202",
     "https://sumahodigest.com/?p=62198",
     "https://sumahodigest.com/?p=62182",
     "https://sumahodigest.com/?p=62191",
@@ -1314,8 +1315,7 @@
     "https://sumahodigest.com/?p=61773",
     "https://sumahodigest.com/?p=61942",
     "https://sumahodigest.com/?p=61936",
-    "https://sumahodigest.com/?p=61932",
-    "https://sumahodigest.com/?p=61915"
+    "https://sumahodigest.com/?p=61932"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/10257846132705116821",
