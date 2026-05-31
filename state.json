@@ -700,6 +700,7 @@
     "https://tabkul.com/?p=301644"
   ],
   "https://chinadap.jp/feed": [
+    "https://chinadap.jp/?p=35837",
     "https://chinadap.jp/?p=35759",
     "https://chinadap.jp/?p=35744",
     "https://chinadap.jp/?p=35647",
@@ -748,8 +749,7 @@
     "https://chinadap.jp/?p=33454",
     "https://chinadap.jp/?p=33399",
     "https://chinadap.jp/?p=33367",
-    "https://chinadap.jp/?p=33312",
-    "https://chinadap.jp/?p=33201"
+    "https://chinadap.jp/?p=33312"
   ],
   "https://feeds.feedburner.com/Jugglycn": [
     "https://juggly.cn/?p=251836",
@@ -816,6 +816,7 @@
     "https://liginc.co.jp/?p=674529"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:a_H5WuTkTQo",
     "yt:video:QesiO9R-tvE",
     "yt:video:v7hng1Yb6UU",
     "yt:video:oYZHwRjGno4",
@@ -864,8 +865,7 @@
     "yt:video:W7QPGyDNpBE",
     "yt:video:rnfMgkmohT8",
     "yt:video:TFv_rL1MAgY",
-    "yt:video:AZaYVDamyPw",
-    "yt:video:30evgCtyCwc"
+    "yt:video:AZaYVDamyPw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -2529,6 +2529,7 @@
     "2054859843757019228"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2060897609305522425",
     "2060245628681408747",
     "2060336070059864461",
     "2060525234009366730",
@@ -2577,8 +2578,7 @@
     "2056380916692594800",
     "2051479280841113900",
     "2056374858523849075",
-    "2049400103631552514",
-    "2056132660347699555"
+    "2049400103631552514"
   ],
   "https://nitter.net/chibimana/rss": [
     "2058392177827627463",
