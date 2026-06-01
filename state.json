@@ -1,5 +1,15 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/event/2113106.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/event/2113158.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/event/2113214.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2113294.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2113333.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/event/2113317.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2113383.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2113403.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2113433.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2113436.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2113149.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2113156.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2113159.html?ref=rss",
@@ -39,17 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2113031.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112793.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2112774.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2112811.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/special/2112489.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112742.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112750.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112760.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2112759.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2112772.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2112497.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/macinfo/2112698.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2112651.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2112554.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2112811.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/Clock/DesktopClock.html",
@@ -144,6 +144,8 @@
     "https://ainow.ai/?p=277881"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=92998",
+    "https://butsuyoku-gadget.com/?p=93001",
     "https://butsuyoku-gadget.com/?p=92994",
     "https://butsuyoku-gadget.com/?p=92988",
     "https://butsuyoku-gadget.com/?p=92985",
@@ -191,9 +193,7 @@
     "https://butsuyoku-gadget.com/?p=92480",
     "https://butsuyoku-gadget.com/?p=92447",
     "https://butsuyoku-gadget.com/?p=92441",
-    "https://butsuyoku-gadget.com/?p=92435",
-    "https://butsuyoku-gadget.com/?p=92419",
-    "https://butsuyoku-gadget.com/?p=92415"
+    "https://butsuyoku-gadget.com/?p=92435"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137757",
@@ -248,6 +248,9 @@
     "https://telektlist.com/?p=137135"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24392",
+    "https://codezine.jp/article/detail/24395",
+    "https://codezine.jp/article/detail/24396",
     "https://codezine.jp/article/detail/24391",
     "https://codezine.jp/article/detail/24390",
     "https://codezine.jp/article/detail/24393",
@@ -294,10 +297,7 @@
     "https://codezine.jp/article/detail/24359",
     "https://codezine.jp/article/detail/24347",
     "https://codezine.jp/article/detail/24342",
-    "https://codezine.jp/article/detail/24348",
-    "https://codezine.jp/article/detail/24356",
-    "https://codezine.jp/article/detail/24351",
-    "https://codezine.jp/article/detail/24340"
+    "https://codezine.jp/article/detail/24348"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2725,6 +2725,12 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2061287960549695997",
+    "2061288120906354881",
+    "2061288161834340800",
+    "2061288419909869684",
+    "2061288443892916483",
+    "2061288487375315049",
     "2061206672119615890",
     "2061053223931367885",
     "2061053563477033186",
@@ -2768,13 +2774,7 @@
     "2060115827396104334",
     "2060115796635058188",
     "2060116038600229109",
-    "2060116016668291326",
-    "2060116259396886718",
-    "2060116118581522752",
-    "2060116400363155531",
-    "2060116900043256187",
-    "2060120288957010080",
-    "2060120333185880098"
+    "2060116016668291326"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2059957084662206827",
@@ -2829,6 +2829,7 @@
     "2039840360520884665"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2061318677300228577",
     "2058709021365022981",
     "2058143102507135295",
     "2058011287804944505",
@@ -2877,8 +2878,7 @@
     "2029726081834782804",
     "2028480256366248094",
     "2028228806226624573",
-    "2028228807761838564",
-    "2027168064597537033"
+    "2028228807761838564"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
