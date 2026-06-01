@@ -1662,6 +1662,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260601-spacex-us-space-force/",
+    "https://gigazine.net/news/20260601-openai-third-party-evaluations/",
+    "https://gigazine.net/news/20260601-dell-new-xps-13/",
+    "https://gigazine.net/news/20260601-nvidia-rtx-spark/",
+    "https://gigazine.net/news/20260601-amd-ryzen-7-7700x3d/",
+    "https://gigazine.net/news/20260601-nvidia-dgx-station/",
+    "https://gigazine.net/news/20260601-openai-resalind-biodefense/",
+    "https://gigazine.net/news/20260601-china-tech-ai-tourism/",
+    "https://gigazine.net/news/20260601-blue-origin-new-glenn-rocket-explodes/",
+    "https://gigazine.net/news/20260601-anthropic-recruiting/",
     "https://gigazine.net/news/20260601-llm-disagreement-on-fact-checks/",
     "https://gigazine.net/news/20260601-openevidence-medical-ai-review/",
     "https://gigazine.net/news/20260601-codex-windows-computer-use/",
@@ -1701,19 +1711,11 @@
     "https://gigazine.net/news/20260529-burgerking-smoke-house-the-one-pounder/",
     "https://gigazine.net/news/20260529-mahouka-yotsuba-interview/",
     "https://gigazine.net/news/20260529-oura-ring-5/",
-    "https://gigazine.net/news/20260529-us-military-target-location/",
-    "https://gigazine.net/news/20260529-weight-loss-glp-1-disease-risk/",
-    "https://gigazine.net/news/20260529-agentstop-terminating-local-ai-brave/",
-    "https://gigazine.net/news/20260529-waymo-ojai/",
-    "https://gigazine.net/news/20260529-new-youtube-premium-features-podcasts/",
-    "https://gigazine.net/news/20260529-intel-arc-g3/",
-    "https://gigazine.net/news/20260529-wix-layoff-20-percent/",
-    "https://gigazine.net/news/20260529-nvidia-ai-locateanything/",
-    "https://gigazine.net/news/20260529-ai-code-generation/",
-    "https://gigazine.net/news/20260529-gigazine-user-smartphone-android-maker/",
-    "https://gigazine.net/news/20260529-anthropic-claude-opus-4-8/"
+    "https://gigazine.net/news/20260529-us-military-target-location/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=213350",
+    "https://aismiley.co.jp/?post_type=ai_news&p=213436",
     "https://aismiley.co.jp/?post_type=ai_news&p=215773",
     "https://aismiley.co.jp/?post_type=ai_news&p=213415",
     "https://aismiley.co.jp/?post_type=ai_news&p=213386",
@@ -1761,9 +1763,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=215724",
     "https://aismiley.co.jp/?post_type=ai_news&p=214172",
     "https://aismiley.co.jp/?post_type=ai_news&p=214038",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215066",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213924",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214607"
+    "https://aismiley.co.jp/?post_type=ai_news&p=215066"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=187924",
@@ -2130,6 +2130,8 @@
     "yt:video:bdgota15bO4"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=263830",
+    "https://garumax.com/?p=263845",
     "https://garumax.com/?p=263673",
     "https://garumax.com/?p=263714",
     "https://garumax.com/?p=263732",
@@ -2177,9 +2179,7 @@
     "https://garumax.com/?p=262685",
     "https://garumax.com/?p=262694",
     "https://garumax.com/?p=262715",
-    "https://garumax.com/?p=262605",
-    "https://garumax.com/?p=262630",
-    "https://garumax.com/?p=262646"
+    "https://garumax.com/?p=262605"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
@@ -2215,6 +2215,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62043",
     "https://androplus.jp/?p=61997",
     "https://androplus.jp/?p=62015",
     "https://androplus.jp/?p=62024",
@@ -2263,8 +2264,7 @@
     "https://androplus.jp/?p=61485",
     "https://androplus.jp/?p=61466",
     "https://androplus.jp/?p=61398",
-    "https://androplus.jp/?p=61390",
-    "https://androplus.jp/?p=61365"
+    "https://androplus.jp/?p=61390"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
