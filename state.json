@@ -1662,6 +1662,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260601-llm-disagreement-on-fact-checks/",
+    "https://gigazine.net/news/20260601-openevidence-medical-ai-review/",
+    "https://gigazine.net/news/20260601-codex-windows-computer-use/",
+    "https://gigazine.net/news/20260601-apple-strategy-smart-glasses/",
+    "https://gigazine.net/news/20260601-acer-new-swift-air-14/",
     "https://gigazine.net/news/20260601-a-shell/",
     "https://gigazine.net/news/20260601-fatherhood-rewire-brain/",
     "https://gigazine.net/news/20260601-itchy-eyes-rubbing/",
@@ -1706,12 +1711,7 @@
     "https://gigazine.net/news/20260529-nvidia-ai-locateanything/",
     "https://gigazine.net/news/20260529-ai-code-generation/",
     "https://gigazine.net/news/20260529-gigazine-user-smartphone-android-maker/",
-    "https://gigazine.net/news/20260529-anthropic-claude-opus-4-8/",
-    "https://gigazine.net/news/20260529-mistral-ai-vibe/",
-    "https://gigazine.net/news/20260529-ec-fines-temu-200m-eur/",
-    "https://gigazine.net/news/20260529-nvidia-vera-benchmark/",
-    "https://gigazine.net/news/20260529-access/",
-    "https://gigazine.net/news/20260528-super-earth-perfect-for-life/"
+    "https://gigazine.net/news/20260529-anthropic-claude-opus-4-8/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=215773",
@@ -1766,6 +1766,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=214607"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187924",
     "https://win-tab.net/?p=187854",
     "https://win-tab.net/?p=187858",
     "https://win-tab.net/?p=187857",
@@ -1814,8 +1815,7 @@
     "https://win-tab.net/?p=187247",
     "https://win-tab.net/?p=187236",
     "https://win-tab.net/?p=187212",
-    "https://win-tab.net/?p=187197",
-    "https://win-tab.net/?p=168753"
+    "https://win-tab.net/?p=187197"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:fYKNPgjUpoA",
@@ -2130,6 +2130,9 @@
     "yt:video:bdgota15bO4"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=263673",
+    "https://garumax.com/?p=263714",
+    "https://garumax.com/?p=263732",
     "https://garumax.com/?p=263572",
     "https://garumax.com/?p=263324",
     "https://garumax.com/?p=263696",
@@ -2176,10 +2179,7 @@
     "https://garumax.com/?p=262715",
     "https://garumax.com/?p=262605",
     "https://garumax.com/?p=262630",
-    "https://garumax.com/?p=262646",
-    "https://garumax.com/?p=262524",
-    "https://garumax.com/?p=262538",
-    "https://garumax.com/?p=262482"
+    "https://garumax.com/?p=262646"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
@@ -2215,6 +2215,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=61997",
     "https://androplus.jp/?p=62015",
     "https://androplus.jp/?p=62024",
     "https://androplus.jp/?p=62034",
@@ -2263,8 +2264,7 @@
     "https://androplus.jp/?p=61466",
     "https://androplus.jp/?p=61398",
     "https://androplus.jp/?p=61390",
-    "https://androplus.jp/?p=61365",
-    "https://androplus.jp/?p=61157"
+    "https://androplus.jp/?p=61365"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
