@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/event/2113907.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2113890.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2113889.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2113806.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/event/2113176.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2113155.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2112688.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2113152.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2113153.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/event/2113152.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/Clock/DesktopClock.html",
@@ -92,6 +92,8 @@
     "https://www.gigafree.net/media/transcription/Handy.html"
   ],
   "https://ainow.ai/feed/": [
+    "https://ainow.ai/?p=278125",
+    "https://ainow.ai/?p=278130",
     "https://ainow.ai/?p=278121",
     "https://ainow.ai/?p=278118",
     "https://ainow.ai/?p=278115",
@@ -139,9 +141,7 @@
     "https://ainow.ai/?p=277923",
     "https://ainow.ai/?p=277916",
     "https://ainow.ai/?p=277907",
-    "https://ainow.ai/?p=277900",
-    "https://ainow.ai/?p=277895",
-    "https://ainow.ai/?p=277881"
+    "https://ainow.ai/?p=277900"
   ],
   "https://butsuyoku-gadget.com/feed/": [
     "https://butsuyoku-gadget.com/?p=93038",
@@ -2726,6 +2726,7 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2061825379942490526",
     "2061760470500171964",
     "2061760582760743403",
     "2061760603090493866",
@@ -2774,8 +2775,7 @@
     "2060862502234391035",
     "2060641398832206230",
     "2060641432063635893",
-    "2060641482089062878",
-    "2060641548904399127"
+    "2060641482089062878"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2059957084662206827",
