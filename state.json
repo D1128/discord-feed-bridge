@@ -1663,6 +1663,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260602-minimax-m3/",
+    "https://gigazine.net/news/20260602-meta-mci/",
+    "https://gigazine.net/news/20260602-nvidia-cosmos-3/",
+    "https://gigazine.net/news/20260602-anthropic-ipo-confidential-draft/",
+    "https://gigazine.net/news/20260602-florida-sues-openai-sam-altman/",
+    "https://gigazine.net/news/20260602-red-hat-npm-packages-miasma/",
+    "https://gigazine.net/news/20260602-startup-unicorn-crushing/",
+    "https://gigazine.net/news/20260602-openai-codex-aws/",
+    "https://gigazine.net/news/20260602-qwen3-7-plus/",
+    "https://gigazine.net/news/20260602-sanders-government-take-half-anthropic-openai/",
     "https://gigazine.net/news/20260602-movie-editor-gigazine/",
     "https://gigazine.net/news/20260602-meta-ai-support-chatbot-steal-instagram-accounts/",
     "https://gigazine.net/news/20260602-ai-dead-economy-theory/",
@@ -1702,17 +1712,7 @@
     "https://gigazine.net/news/20260531-meta-reportedly-developing-ai-pendant/",
     "https://gigazine.net/news/20260531-waymo-help-identify-potholes/",
     "https://gigazine.net/news/20260531-county-level-wealth-community-mental-health/",
-    "https://gigazine.net/news/20260530-kentucky-sns-lawsuit/",
-    "https://gigazine.net/news/20260530-osmo-pocket-4-appearance/",
-    "https://gigazine.net/news/20260530-green-fireball-mayon-volcano/",
-    "https://gigazine.net/news/20260530-glinet-beryl-7/",
-    "https://gigazine.net/news/20260530-humanizer/",
-    "https://gigazine.net/news/20260530-karakeep/",
-    "https://gigazine.net/news/20260530-apple-iphone-camera-costly-upgrade/",
-    "https://gigazine.net/news/20260530-arxiv-ai-science-paper-penalty/",
-    "https://gigazine.net/news/20260530-gen-z-streaming-sub/",
-    "https://gigazine.net/news/20260530-insect-apocalypse-malnutrition-income/",
-    "https://gigazine.net/news/20260529-openrouter-ranking-hy3-mysterious-llm/"
+    "https://gigazine.net/news/20260530-kentucky-sns-lawsuit/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=217313",
@@ -1767,6 +1767,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=214038"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187882",
     "https://win-tab.net/?p=187933",
     "https://win-tab.net/?p=187924",
     "https://win-tab.net/?p=187854",
@@ -1815,8 +1816,7 @@
     "https://win-tab.net/?p=187269",
     "https://win-tab.net/?p=187257",
     "https://win-tab.net/?p=187247",
-    "https://win-tab.net/?p=187236",
-    "https://win-tab.net/?p=187212"
+    "https://win-tab.net/?p=187236"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:3yOluxmWfW4",
@@ -2131,6 +2131,8 @@
     "yt:video:OjKhgXRXeFs"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=263786",
+    "https://garumax.com/?p=263886",
     "https://garumax.com/?p=263774",
     "https://garumax.com/?p=263852",
     "https://garumax.com/?p=263830",
@@ -2178,9 +2180,7 @@
     "https://garumax.com/?p=262773",
     "https://garumax.com/?p=262728",
     "https://garumax.com/?p=262747",
-    "https://garumax.com/?p=262477",
-    "https://garumax.com/?p=262685",
-    "https://garumax.com/?p=262694"
+    "https://garumax.com/?p=262477"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/tts-fail",
