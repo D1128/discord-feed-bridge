@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2113890.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/event/2113889.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2113806.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2113811.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2113819.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/event/2113155.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2112688.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2113152.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2113153.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2113154.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2113148.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/event/2113153.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/utility/Clock/DesktopClock.html",
@@ -312,6 +312,7 @@
     "https://magazine.techacademy.jp/magazine/?p=87264"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA": [
+    "yt:video:zlAEmGTnHPg",
     "yt:video:4sqtO94373s",
     "yt:video:BXc0UX-6ux8",
     "yt:video:yhuMws3gCZM",
@@ -360,8 +361,7 @@
     "yt:video:gfv44CrWN9I",
     "yt:video:CGb_93RSF34",
     "yt:video:bJX_hzKGKlA",
-    "yt:video:EWqnSbHIhYo",
-    "yt:video:wmNgR_Tmf8Y"
+    "yt:video:EWqnSbHIhYo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
     "yt:video:l3DlwaEzKoM",
@@ -416,6 +416,7 @@
     "yt:video:uasBMNUMn8A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:s7a1O5fWqWY",
     "yt:video:DCc-p9kpj5M",
     "yt:video:nwj7E8IgVig",
     "yt:video:OzW2ebHFKiI",
@@ -464,8 +465,7 @@
     "yt:video:hTCpnQ9xwIE",
     "yt:video:SfQq3e08x20",
     "yt:video:3fj_rbqluyQ",
-    "yt:video:WO1KeKWYo9w",
-    "yt:video:8uG9lNHbg7w"
+    "yt:video:WO1KeKWYo9w"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:gEexPX_l7u4",
