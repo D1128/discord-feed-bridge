@@ -649,6 +649,7 @@
     "https://taskhub.jp/magazine/?p=14220"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=301883",
     "https://tabkul.com/?p=301880",
     "https://tabkul.com/?p=301882",
     "https://tabkul.com/?p=301870",
@@ -697,8 +698,7 @@
     "https://tabkul.com/?p=301685",
     "https://tabkul.com/?p=301686",
     "https://tabkul.com/?p=301683",
-    "https://tabkul.com/?p=301681",
-    "https://tabkul.com/?p=301682"
+    "https://tabkul.com/?p=301681"
   ],
   "https://chinadap.jp/feed": [
     "https://chinadap.jp/?p=35646",
@@ -817,6 +817,10 @@
     "https://liginc.co.jp/?p=678661"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:-aK3_HmwKlc",
+    "yt:video:GnhdIJCAlAo",
+    "yt:video:DJ-pIeslsu0",
+    "yt:video:kuqboQC4shw",
     "yt:video:I83entcRNS8",
     "yt:video:9mYSmrGtmrU",
     "yt:video:31aK8aBTSBg",
@@ -862,11 +866,7 @@
     "yt:video:dOnidghSFcM",
     "yt:video:l3LIAZZkyAo",
     "yt:video:OBrUq3LeRGk",
-    "yt:video:TZsNJOznFys",
-    "yt:video:EVonyZvxGMY",
-    "yt:video:jhsJ_05qK00",
-    "yt:video:r9ArxhdMaJk",
-    "yt:video:YjWNvYiRD5A"
+    "yt:video:TZsNJOznFys"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -921,6 +921,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:AJS_zLhhkXE",
     "yt:video:AMpQx40kSUo",
     "yt:video:LlQv1at_gnA",
     "yt:video:mpeKos3Osq8",
@@ -969,8 +970,7 @@
     "yt:video:fY38qI7XG7E",
     "yt:video:8SsNbVvUgMU",
     "yt:video:TxW4mNhIvxw",
-    "yt:video:X2ZiG0r61Sk",
-    "yt:video:CrETD3aBd58"
+    "yt:video:X2ZiG0r61Sk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:IhmWoTr7DWM",
@@ -1058,6 +1058,7 @@
     "yt:video:JUenjPMW2V4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9buL3Iph_f7AZxdzmiBL8Q": [
+    "yt:video:Ut4sx3JhVcA",
     "yt:video:qWoToCfovIw",
     "yt:video:-XVA29f_2y8",
     "yt:video:tA-A1i5yLYQ",
@@ -1106,8 +1107,7 @@
     "yt:video:3vo7NAj0K6o",
     "yt:video:lRc73WpBMUA",
     "yt:video:0_wvwgSS_Go",
-    "yt:video:UiAMOc-b8r0",
-    "yt:video:6pU9yx41yB0"
+    "yt:video:UiAMOc-b8r0"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
     "https://www.itmedia.co.jp/news/articles/2606/03/news114.html",
