@@ -1663,6 +1663,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260603-microsoft-ai-thinking/",
+    "https://gigazine.net/news/20260603-surface-rtx-spark-dev-box/",
+    "https://gigazine.net/news/20260603-coreutils-for-windows/",
+    "https://gigazine.net/news/20260603-google-chrome-149/",
+    "https://gigazine.net/news/20260603-microsoft-scout-by-openclaw/",
+    "https://gigazine.net/news/20260603-openai-codex-role-tool-workflow/",
+    "https://gigazine.net/news/20260603-trump-ai-innovation-security/",
+    "https://gigazine.net/news/20260603-amazon-ring-scanning/",
+    "https://gigazine.net/news/20260603-github-copilot-app/",
+    "https://gigazine.net/news/20260603-github-copilot-credit-consumption/",
     "https://gigazine.net/news/20260603-shift-work-brain-volume-loss/",
     "https://gigazine.net/news/20260603-microsoft-majorana-2/",
     "https://gigazine.net/news/20260603-mirror-bend-before-breaks/",
@@ -1702,19 +1712,14 @@
     "https://gigazine.net/news/20260601-nvidia-rtx-spark/",
     "https://gigazine.net/news/20260601-amd-ryzen-7-7700x3d/",
     "https://gigazine.net/news/20260601-nvidia-dgx-station/",
-    "https://gigazine.net/news/20260601-openai-resalind-biodefense/",
-    "https://gigazine.net/news/20260601-china-tech-ai-tourism/",
-    "https://gigazine.net/news/20260601-blue-origin-new-glenn-rocket-explodes/",
-    "https://gigazine.net/news/20260601-anthropic-recruiting/",
-    "https://gigazine.net/news/20260601-llm-disagreement-on-fact-checks/",
-    "https://gigazine.net/news/20260601-openevidence-medical-ai-review/",
-    "https://gigazine.net/news/20260601-codex-windows-computer-use/",
-    "https://gigazine.net/news/20260601-apple-strategy-smart-glasses/",
-    "https://gigazine.net/news/20260601-acer-new-swift-air-14/",
-    "https://gigazine.net/news/20260601-a-shell/",
-    "https://gigazine.net/news/20260601-fatherhood-rewire-brain/"
+    "https://gigazine.net/news/20260601-openai-resalind-biodefense/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=215587",
+    "https://aismiley.co.jp/?post_type=ai_news&p=215589",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217429",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217592",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217610",
     "https://aismiley.co.jp/?post_type=ai_news&p=217015",
     "https://aismiley.co.jp/?post_type=ai_news&p=215542",
     "https://aismiley.co.jp/?post_type=ai_news&p=215566",
@@ -1759,14 +1764,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=216131",
     "https://aismiley.co.jp/?post_type=ai_news&p=214057",
     "https://aismiley.co.jp/?post_type=ai_news&p=215226",
-    "https://aismiley.co.jp/?post_type=ai_news&p=216089",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215668",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215643",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213497",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215615",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214309"
+    "https://aismiley.co.jp/?post_type=ai_news&p=216089"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187986",
     "https://win-tab.net/?p=187970",
     "https://win-tab.net/?p=187960",
     "https://win-tab.net/?p=187882",
@@ -1815,8 +1816,7 @@
     "https://win-tab.net/?p=187307",
     "https://win-tab.net/?p=187295",
     "https://win-tab.net/?p=187209",
-    "https://win-tab.net/?p=187269",
-    "https://win-tab.net/?p=187257"
+    "https://win-tab.net/?p=187269"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:3yOluxmWfW4",
@@ -2131,6 +2131,10 @@
     "yt:video:8c7k_BIs_3o"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=263942",
+    "https://garumax.com/?p=263941",
+    "https://garumax.com/?p=263932",
+    "https://garumax.com/?p=263967",
     "https://garumax.com/?p=263894",
     "https://garumax.com/?p=263786",
     "https://garumax.com/?p=263886",
@@ -2176,11 +2180,7 @@
     "https://garumax.com/?p=262922",
     "https://garumax.com/?p=262829",
     "https://garumax.com/?p=262848",
-    "https://garumax.com/?p=262814",
-    "https://garumax.com/?p=262784",
-    "https://garumax.com/?p=262773",
-    "https://garumax.com/?p=262728",
-    "https://garumax.com/?p=262747"
+    "https://garumax.com/?p=262814"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
