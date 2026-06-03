@@ -1665,6 +1665,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260603-martin-scorsese-black-forest-labs/",
+    "https://gigazine.net/news/20260603-nissin-ufo-spiced-keema-curry/",
+    "https://gigazine.net/news/20260603-headline/",
+    "https://gigazine.net/news/20260603-uber-lost-found-index/",
+    "https://gigazine.net/news/20260603-leiden-declaration-on-ai-and-math/",
     "https://gigazine.net/news/20260603-microsoft-ai-thinking/",
     "https://gigazine.net/news/20260603-surface-rtx-spark-dev-box/",
     "https://gigazine.net/news/20260603-coreutils-for-windows/",
@@ -1709,12 +1714,7 @@
     "https://gigazine.net/news/20260601-cloudflare-turnstile/",
     "https://gigazine.net/news/20260601-microsoft-office-2019-2021-for-mac/",
     "https://gigazine.net/news/20260601-spacex-us-space-force/",
-    "https://gigazine.net/news/20260601-openai-third-party-evaluations/",
-    "https://gigazine.net/news/20260601-dell-new-xps-13/",
-    "https://gigazine.net/news/20260601-nvidia-rtx-spark/",
-    "https://gigazine.net/news/20260601-amd-ryzen-7-7700x3d/",
-    "https://gigazine.net/news/20260601-nvidia-dgx-station/",
-    "https://gigazine.net/news/20260601-openai-resalind-biodefense/"
+    "https://gigazine.net/news/20260601-openai-third-party-evaluations/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=215587",
@@ -2029,6 +2029,7 @@
     "yt:video:1wigHxCcJgk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:fIYCKtwLjVI",
     "yt:video:dBFK1yFJXOA",
     "yt:video:qt52fzfSqg4",
     "yt:video:fSYtSppHI_E",
@@ -2077,10 +2078,10 @@
     "yt:video:mnsZYb5FMvY",
     "yt:video:-xla8NqooJU",
     "yt:video:-8y3iU_C1sQ",
-    "yt:video:sJvvJzyiLts",
-    "yt:video:dC1pfFRfOH0"
+    "yt:video:sJvvJzyiLts"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:a_582HXD8XA",
     "yt:video:x3THNK_qFSg",
     "yt:video:u62lqyuYQ-0",
     "yt:video:DcpUfyzcrBI",
@@ -2129,8 +2130,7 @@
     "yt:video:Ko5HNu1_N7g",
     "yt:video:XP2EEXzQYgE",
     "yt:video:jDgpk0lCnoY",
-    "yt:video:TSf8fHxW60s",
-    "yt:video:8c7k_BIs_3o"
+    "yt:video:TSf8fHxW60s"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=263942",
