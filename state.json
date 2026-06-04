@@ -145,6 +145,7 @@
     "https://ainow.ai/?p=277900"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=93065",
     "https://butsuyoku-gadget.com/?p=93042",
     "https://butsuyoku-gadget.com/?p=93046",
     "https://butsuyoku-gadget.com/?p=93038",
@@ -193,8 +194,7 @@
     "https://butsuyoku-gadget.com/?p=92531",
     "https://butsuyoku-gadget.com/?p=92523",
     "https://butsuyoku-gadget.com/?p=92513",
-    "https://butsuyoku-gadget.com/?p=92457",
-    "https://butsuyoku-gadget.com/?p=92480"
+    "https://butsuyoku-gadget.com/?p=92457"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137765",
@@ -249,6 +249,13 @@
     "https://telektlist.com/?p=137143"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24428",
+    "https://codezine.jp/article/detail/24231",
+    "https://codezine.jp/article/detail/24457",
+    "https://codezine.jp/article/detail/24454",
+    "https://codezine.jp/article/detail/24453",
+    "https://codezine.jp/article/detail/24452",
+    "https://codezine.jp/article/detail/23809",
     "https://codezine.jp/article/detail/24437",
     "https://codezine.jp/article/detail/24435",
     "https://codezine.jp/article/detail/24416",
@@ -291,14 +298,7 @@
     "https://codezine.jp/article/detail/24380",
     "https://codezine.jp/article/detail/24269",
     "https://codezine.jp/article/detail/24389",
-    "https://codezine.jp/article/detail/24387",
-    "https://codezine.jp/article/detail/24386",
-    "https://codezine.jp/article/detail/24383",
-    "https://codezine.jp/article/detail/24382",
-    "https://codezine.jp/article/detail/24388",
-    "https://codezine.jp/article/detail/24385",
-    "https://codezine.jp/article/detail/24384",
-    "https://codezine.jp/article/detail/24381"
+    "https://codezine.jp/article/detail/24387"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2730,6 +2730,16 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2062318875539280056",
+    "2062318914865107216",
+    "2062318951603093571",
+    "2062318986814267614",
+    "2062319113809334654",
+    "2062319149918101533",
+    "2062319198697902107",
+    "2062319416625578140",
+    "2062319442361761973",
+    "2062319482107036053",
     "2062156945742794945",
     "2062156976214397140",
     "2062157170138132938",
@@ -2769,17 +2779,7 @@
     "2061760992540037162",
     "2061761014082007477",
     "2061761052942147906",
-    "2061647249923543096",
-    "2061647322313056686",
-    "2061647346526794066",
-    "2061590064514449670",
-    "2061621854784328043",
-    "2061622001857691824",
-    "2061622044215885975",
-    "2061622089757708582",
-    "2061622371036049738",
-    "2061622400291406084",
-    "2061622443660423364"
+    "2061647249923543096"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2059957084662206827",
