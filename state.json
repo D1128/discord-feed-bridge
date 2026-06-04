@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/event/2114613.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2114504.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2114574.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2114477.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2114461.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113629.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2113648.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2113655.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2113665.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/hothot/2113358.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/event/2113566.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/event/2113665.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/IME/IME-Marker.html",
