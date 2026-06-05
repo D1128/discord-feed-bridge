@@ -1667,6 +1667,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260605-chatgpt-memory-dreaming-v3/",
+    "https://gigazine.net/news/20260605-qwen-open-agent/",
+    "https://gigazine.net/news/20260605-voidzero-join-cloudflare/",
+    "https://gigazine.net/news/20260605-lm-studio-lm-link-locally/",
+    "https://gigazine.net/news/20260605-llm-resisting-russian-propaganda/",
+    "https://gigazine.net/news/20260605-freezer-smell/",
+    "https://gigazine.net/news/20260605-magenta-realtime-2-live-music-ai/",
+    "https://gigazine.net/news/20260605-dashlane-how-attackers-managed-encrypted-password/",
+    "https://gigazine.net/news/20260605-uc-berkeley-failing-grades-ai-math/",
+    "https://gigazine.net/news/20260605-anthropic-ai-build-itself/",
     "https://gigazine.net/news/20260605-economist-against-ai-jobs-pocalypse/",
     "https://gigazine.net/news/20260605-steam-machine-frame-2026-summer-release/",
     "https://gigazine.net/news/20260605-brave-origin-released/",
@@ -1706,19 +1716,11 @@
     "https://gigazine.net/news/20260603-surface-rtx-spark-dev-box/",
     "https://gigazine.net/news/20260603-coreutils-for-windows/",
     "https://gigazine.net/news/20260603-google-chrome-149/",
-    "https://gigazine.net/news/20260603-microsoft-scout-by-openclaw/",
-    "https://gigazine.net/news/20260603-openai-codex-role-tool-workflow/",
-    "https://gigazine.net/news/20260603-trump-ai-innovation-security/",
-    "https://gigazine.net/news/20260603-amazon-ring-scanning/",
-    "https://gigazine.net/news/20260603-github-copilot-app/",
-    "https://gigazine.net/news/20260603-github-copilot-credit-consumption/",
-    "https://gigazine.net/news/20260603-shift-work-brain-volume-loss/",
-    "https://gigazine.net/news/20260603-microsoft-majorana-2/",
-    "https://gigazine.net/news/20260603-mirror-bend-before-breaks/",
-    "https://gigazine.net/news/20260603-nice-nano-million-dollar-product-dorm-room/",
-    "https://gigazine.net/news/20260602-the-pirate-bay-resilient/"
+    "https://gigazine.net/news/20260603-microsoft-scout-by-openclaw/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=217528",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217627",
     "https://aismiley.co.jp/?post_type=ai_news&p=217037",
     "https://aismiley.co.jp/?post_type=ai_news&p=217638",
     "https://aismiley.co.jp/?post_type=ai_news&p=217486",
@@ -1766,11 +1768,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=214715",
     "https://aismiley.co.jp/?post_type=ai_news&p=215800",
     "https://aismiley.co.jp/?post_type=ai_news&p=214787",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214133",
-    "https://aismiley.co.jp/?post_type=ai_news&p=216279",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215865"
+    "https://aismiley.co.jp/?post_type=ai_news&p=214133"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188026",
     "https://win-tab.net/?p=188019",
     "https://win-tab.net/?p=188006",
     "https://win-tab.net/?p=187994",
@@ -1819,8 +1820,7 @@
     "https://win-tab.net/?p=187361",
     "https://win-tab.net/?p=187330",
     "https://win-tab.net/?p=187321",
-    "https://win-tab.net/?p=168253",
-    "https://win-tab.net/?p=187307"
+    "https://win-tab.net/?p=168253"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:lbvGCEDfaDc",
@@ -2135,6 +2135,10 @@
     "yt:video:jDgpk0lCnoY"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=264019",
+    "https://garumax.com/?p=263920",
+    "https://garumax.com/?p=264112",
+    "https://garumax.com/?p=264117",
     "https://garumax.com/?p=264032",
     "https://garumax.com/?p=264056",
     "https://garumax.com/?p=264014",
@@ -2180,11 +2184,7 @@
     "https://garumax.com/?p=262004",
     "https://garumax.com/?p=263047",
     "https://garumax.com/?p=262964",
-    "https://garumax.com/?p=262939",
-    "https://garumax.com/?p=262889",
-    "https://garumax.com/?p=262865",
-    "https://garumax.com/?p=262864",
-    "https://garumax.com/?p=262922"
+    "https://garumax.com/?p=262939"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
