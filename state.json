@@ -1667,6 +1667,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260606-elgato-wave-3-mk-2/",
+    "https://gigazine.net/news/20260606-chrome-breaks-benchmark-records-m5-macbook-pro/",
     "https://gigazine.net/news/20260606-mohenjo-daro-inequality-declined/",
     "https://gigazine.net/news/20260606-your-ai-slop-bores-me/",
     "https://gigazine.net/news/20260605-dihya-berber-warrior-queen/",
@@ -1714,9 +1716,7 @@
     "https://gigazine.net/news/20260604-http-2-bomb-attack/",
     "https://gigazine.net/news/20260604-lets-encrypt-merkle-tree/",
     "https://gigazine.net/news/20260604-sega-games-vinyl-record/",
-    "https://gigazine.net/news/20260604-otzi-iceman-yeast-bread/",
-    "https://gigazine.net/news/20260604-hwinfo-nasa/",
-    "https://gigazine.net/news/20260603-intel-18a-supply/"
+    "https://gigazine.net/news/20260604-otzi-iceman-yeast-bread/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=217880",
@@ -1771,6 +1771,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=215800"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188055",
     "https://win-tab.net/?p=188047",
     "https://win-tab.net/?p=188026",
     "https://win-tab.net/?p=188019",
@@ -1819,8 +1820,7 @@
     "https://win-tab.net/?p=187343",
     "https://win-tab.net/?p=187391",
     "https://win-tab.net/?p=187361",
-    "https://win-tab.net/?p=187330",
-    "https://win-tab.net/?p=187321"
+    "https://win-tab.net/?p=187330"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:lbvGCEDfaDc",
@@ -2135,6 +2135,9 @@
     "yt:video:XP2EEXzQYgE"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=264148",
+    "https://garumax.com/?p=264092",
+    "https://garumax.com/?p=264176",
     "https://garumax.com/?p=264136",
     "https://garumax.com/?p=264019",
     "https://garumax.com/?p=263920",
@@ -2181,10 +2184,7 @@
     "https://garumax.com/?p=263163",
     "https://garumax.com/?p=263171",
     "https://garumax.com/?p=262695",
-    "https://garumax.com/?p=263131",
-    "https://garumax.com/?p=262004",
-    "https://garumax.com/?p=263047",
-    "https://garumax.com/?p=262964"
+    "https://garumax.com/?p=263131"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2431,6 +2431,7 @@
     "2058922508926259609"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2063094275236344315",
     "2062671992881586414",
     "2062495328503255161",
     "2062309604835356959",
@@ -2479,8 +2480,7 @@
     "2056338257764392964",
     "2055970836822278623",
     "2055838213055615066",
-    "2055613481974386976",
-    "2055485387942797737"
+    "2055613481974386976"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2062721394274975988",
