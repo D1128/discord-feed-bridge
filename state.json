@@ -1667,6 +1667,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260606-llm-checker/",
+    "https://gigazine.net/news/20260606-beryl-7-adguard/",
     "https://gigazine.net/news/20260606-elgato-wave-3-mk-2/",
     "https://gigazine.net/news/20260606-chrome-breaks-benchmark-records-m5-macbook-pro/",
     "https://gigazine.net/news/20260606-mohenjo-daro-inequality-declined/",
@@ -1714,9 +1716,7 @@
     "https://gigazine.net/news/20260604-google-water-stewardship/",
     "https://gigazine.net/news/20260604-hermes-desktop-agent-ai/",
     "https://gigazine.net/news/20260604-http-2-bomb-attack/",
-    "https://gigazine.net/news/20260604-lets-encrypt-merkle-tree/",
-    "https://gigazine.net/news/20260604-sega-games-vinyl-record/",
-    "https://gigazine.net/news/20260604-otzi-iceman-yeast-bread/"
+    "https://gigazine.net/news/20260604-lets-encrypt-merkle-tree/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=217880",
@@ -1771,6 +1771,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=215800"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188062",
     "https://win-tab.net/?p=188055",
     "https://win-tab.net/?p=188047",
     "https://win-tab.net/?p=188026",
@@ -1819,8 +1820,7 @@
     "https://win-tab.net/?p=187411",
     "https://win-tab.net/?p=187343",
     "https://win-tab.net/?p=187391",
-    "https://win-tab.net/?p=187361",
-    "https://win-tab.net/?p=187330"
+    "https://win-tab.net/?p=187361"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:lbvGCEDfaDc",
@@ -1927,6 +1927,7 @@
     "yt:video:GvGPzwwrDR0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:jwE173MHbe4",
     "yt:video:rMpT53ukda8",
     "yt:video:6D2UxPQ8Lrc",
     "yt:video:UMtbvdpEujc",
@@ -1975,8 +1976,7 @@
     "yt:video:_in0-XUTqrE",
     "yt:video:A-xB9pR7m2A",
     "yt:video:wdf0FP0i1bw",
-    "yt:video:FdpmgxBhIJ0",
-    "yt:video:9zDiTHcON-0"
+    "yt:video:FdpmgxBhIJ0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
     "yt:video:lz7zHFJAQJ0",
@@ -2031,6 +2031,7 @@
     "yt:video:GLoIu4q8xTs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:5MEh3IRkw5E",
     "yt:video:IShvdyZWwNc",
     "yt:video:fIYCKtwLjVI",
     "yt:video:dBFK1yFJXOA",
@@ -2079,10 +2080,10 @@
     "yt:video:2U7kuUUiNrY",
     "yt:video:4CUruZId1kw",
     "yt:video:mnsZYb5FMvY",
-    "yt:video:-xla8NqooJU",
-    "yt:video:-8y3iU_C1sQ"
+    "yt:video:-xla8NqooJU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:3n2vvpXXkTE",
     "yt:video:5CCuIFLJZ7I",
     "yt:video:dG__A6hmKUo",
     "yt:video:a_582HXD8XA",
@@ -2131,8 +2132,7 @@
     "yt:video:eEsCBelrHcM",
     "yt:video:QDpoH-KO4eE",
     "yt:video:dvZQppTsLeI",
-    "yt:video:Ko5HNu1_N7g",
-    "yt:video:XP2EEXzQYgE"
+    "yt:video:Ko5HNu1_N7g"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=264148",
