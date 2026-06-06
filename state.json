@@ -1111,6 +1111,9 @@
     "yt:video:lRc73WpBMUA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/business/articles/2606/07/news005.html",
+    "https://www.itmedia.co.jp/news/articles/2606/07/news016.html",
+    "https://www.itmedia.co.jp/news/articles/2606/07/news022.html",
     "https://www.itmedia.co.jp/pcuser/articles/2606/07/news007.html",
     "https://www.itmedia.co.jp/mobile/articles/2606/06/news027.html",
     "https://www.itmedia.co.jp/pcuser/articles/2606/06/news028.html",
@@ -1157,10 +1160,7 @@
     "https://www.itmedia.co.jp/pcuser/articles/2606/04/news116.html",
     "https://www.itmedia.co.jp/news/articles/2606/04/news123.html",
     "https://www.itmedia.co.jp/news/articles/2606/04/news098.html",
-    "https://www.itmedia.co.jp/news/articles/2606/02/news121.html",
-    "https://www.itmedia.co.jp/news/articles/2606/04/news096.html",
-    "https://www.itmedia.co.jp/news/articles/2606/04/news109.html",
-    "https://www.itmedia.co.jp/business/articles/2606/04/news011.html"
+    "https://www.itmedia.co.jp/news/articles/2606/02/news121.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -2665,6 +2665,8 @@
     "2053986915532386364"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2063395521092591741",
+    "2063395523147833660",
     "2063373369903624652",
     "2063373371895857161",
     "2063254576162316565",
@@ -2712,9 +2714,7 @@
     "2061937828033130529",
     "2061938653576810993",
     "2061941453136318955",
-    "2061911492375806413",
-    "2061911504082116944",
-    "2061911515771666597"
+    "2061911492375806413"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
