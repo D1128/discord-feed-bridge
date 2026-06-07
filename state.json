@@ -1671,6 +1671,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260607-elgato-wave-xlr-mk2/",
+    "https://gigazine.net/news/20260607-agi-timeline-tracker/",
+    "https://gigazine.net/news/20260607-the-oldest-g1-jockey-yutaka-take/",
+    "https://gigazine.net/news/20260607-open-code-review/",
     "https://gigazine.net/news/20260607-forge/",
     "https://gigazine.net/news/20260607-super-productivity/",
     "https://gigazine.net/news/20260607-openai-lockdown-mode/",
@@ -1716,11 +1720,7 @@
     "https://gigazine.net/news/20260604-google-allow-websites-exclude-ai-search-results/",
     "https://gigazine.net/news/20260604-gitlab-cut-14-workforce-ai-workloads/",
     "https://gigazine.net/news/20260604-openai-frontier-safety-blueprint/",
-    "https://gigazine.net/news/20260604-creative-pwnd-blaster/",
-    "https://gigazine.net/news/20260604-sukiya-tonjiru-miso-ramen/",
-    "https://gigazine.net/news/20260604-apple-vision-pro-roadmap-stop/",
-    "https://gigazine.net/news/20260604-ideogram-4-image-generation-ai/",
-    "https://gigazine.net/news/20260604-ai-enabled-cyber-threats/"
+    "https://gigazine.net/news/20260604-creative-pwnd-blaster/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=217880",
@@ -1775,6 +1775,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=215800"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188082",
     "https://win-tab.net/?p=188072",
     "https://win-tab.net/?p=188062",
     "https://win-tab.net/?p=188055",
@@ -1823,8 +1824,7 @@
     "https://win-tab.net/?p=187435",
     "https://win-tab.net/?p=187422",
     "https://win-tab.net/?p=187411",
-    "https://win-tab.net/?p=187343",
-    "https://win-tab.net/?p=187391"
+    "https://win-tab.net/?p=187343"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:lbvGCEDfaDc",
