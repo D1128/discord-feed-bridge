@@ -1670,6 +1670,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260607-super-productivity/",
+    "https://gigazine.net/news/20260607-openai-lockdown-mode/",
     "https://gigazine.net/news/20260607-grandma-streamer-swatting/",
     "https://gigazine.net/news/20260606-google-will-pay-spacex-920-million-usd-per-month/",
     "https://gigazine.net/news/20260606-daily-rhythms-slow-biological-aging/",
@@ -1717,9 +1719,7 @@
     "https://gigazine.net/news/20260604-apple-vision-pro-roadmap-stop/",
     "https://gigazine.net/news/20260604-ideogram-4-image-generation-ai/",
     "https://gigazine.net/news/20260604-ai-enabled-cyber-threats/",
-    "https://gigazine.net/news/20260604-desktop-mate-tsumugi-dlc/",
-    "https://gigazine.net/news/20260604-nvidia-n2x-n3x-plan/",
-    "https://gigazine.net/news/20260604-google-wants-release-64-million-mosquitoes/"
+    "https://gigazine.net/news/20260604-desktop-mate-tsumugi-dlc/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=217880",
@@ -1774,6 +1774,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=215800"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188072",
     "https://win-tab.net/?p=188062",
     "https://win-tab.net/?p=188055",
     "https://win-tab.net/?p=188047",
@@ -1822,8 +1823,7 @@
     "https://win-tab.net/?p=187422",
     "https://win-tab.net/?p=187411",
     "https://win-tab.net/?p=187343",
-    "https://win-tab.net/?p=187391",
-    "https://win-tab.net/?p=187361"
+    "https://win-tab.net/?p=187391"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:lbvGCEDfaDc",
@@ -1878,6 +1878,7 @@
     "yt:video:aguASB-lY-Y"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:_Hz9r6deETc",
     "yt:video:oRckhLLl7SQ",
     "yt:video:rgKUkEQJ3Mc",
     "yt:video:-BuQI0iEjPI",
@@ -1926,8 +1927,7 @@
     "yt:video:LKrPUt5-r_U",
     "yt:video:68Me2TLruw4",
     "yt:video:cPdMCxvBKdg",
-    "yt:video:tNmyy4h3iFo",
-    "yt:video:GvGPzwwrDR0"
+    "yt:video:tNmyy4h3iFo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:jwE173MHbe4",
