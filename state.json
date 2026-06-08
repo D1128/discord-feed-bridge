@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2115140.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/semicon/2115145.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2115147.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/ubiq/2114838.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2115107.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2115104.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2114422.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/event/2114260.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2114136.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2114159.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2114186.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2114181.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2114196.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2114159.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/IME/IME-Marker.html",
@@ -249,6 +249,8 @@
     "https://telektlist.com/?p=137170"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24410",
+    "https://codezine.jp/article/detail/24482",
     "https://codezine.jp/article/detail/24481",
     "https://codezine.jp/article/detail/24478",
     "https://codezine.jp/article/detail/24477",
@@ -296,9 +298,7 @@
     "https://codezine.jp/article/detail/24434",
     "https://codezine.jp/article/detail/24436",
     "https://codezine.jp/article/detail/24438",
-    "https://codezine.jp/article/detail/24420",
-    "https://codezine.jp/article/detail/24415",
-    "https://codezine.jp/article/detail/24422"
+    "https://codezine.jp/article/detail/24420"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
