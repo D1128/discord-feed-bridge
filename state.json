@@ -1671,6 +1671,12 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260608-cxmt-ddr5-memory/",
+    "https://gigazine.net/news/20260608-haagen-dazs-pear-and-milk/",
+    "https://gigazine.net/news/20260608-starlink-12m-user/",
+    "https://gigazine.net/news/20260608-headline/",
+    "https://gigazine.net/news/20260608-llms-eroding-career/",
+    "https://gigazine.net/news/20260608-ladybird-change-develop/",
     "https://gigazine.net/news/20260608-heat-waves-scramble-animal-minds/",
     "https://gigazine.net/news/20260608-openai-plans-chatgpt-superapp-overhaul/",
     "https://gigazine.net/news/20260608-cloudflare-ai-gateway-spend-limit/",
@@ -1714,15 +1720,11 @@
     "https://gigazine.net/news/20260605-headline/",
     "https://gigazine.net/news/20260605-professional-book-reader-screen-adaptation/",
     "https://gigazine.net/news/20260605-chatgpt-memory-dreaming-v3/",
-    "https://gigazine.net/news/20260605-qwen-open-agent/",
-    "https://gigazine.net/news/20260605-voidzero-join-cloudflare/",
-    "https://gigazine.net/news/20260605-lm-studio-lm-link-locally/",
-    "https://gigazine.net/news/20260605-llm-resisting-russian-propaganda/",
-    "https://gigazine.net/news/20260605-freezer-smell/",
-    "https://gigazine.net/news/20260605-magenta-realtime-2-live-music-ai/",
-    "https://gigazine.net/news/20260605-dashlane-how-attackers-managed-encrypted-password/"
+    "https://gigazine.net/news/20260605-qwen-open-agent/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=218183",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217085",
     "https://aismiley.co.jp/?post_type=ai_news&p=217507",
     "https://aismiley.co.jp/?post_type=ai_news&p=217827",
     "https://aismiley.co.jp/?post_type=ai_news&p=217954",
@@ -1770,9 +1772,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=215785",
     "https://aismiley.co.jp/?post_type=ai_news&p=215996",
     "https://aismiley.co.jp/?post_type=ai_news&p=212954",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215477",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215684",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214536"
+    "https://aismiley.co.jp/?post_type=ai_news&p=215477"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188119",
@@ -2035,6 +2035,7 @@
     "yt:video:GLoIu4q8xTs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:TtylKH9TH5k",
     "yt:video:5MEh3IRkw5E",
     "yt:video:IShvdyZWwNc",
     "yt:video:fIYCKtwLjVI",
@@ -2083,10 +2084,10 @@
     "yt:video:EvB9HIsGv2I",
     "yt:video:2U7kuUUiNrY",
     "yt:video:4CUruZId1kw",
-    "yt:video:mnsZYb5FMvY",
-    "yt:video:-xla8NqooJU"
+    "yt:video:mnsZYb5FMvY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:xBeCUFPrvuQ",
     "yt:video:3n2vvpXXkTE",
     "yt:video:5CCuIFLJZ7I",
     "yt:video:dG__A6hmKUo",
@@ -2135,10 +2136,14 @@
     "yt:video:6tlT0Cw6iuQ",
     "yt:video:eEsCBelrHcM",
     "yt:video:QDpoH-KO4eE",
-    "yt:video:dvZQppTsLeI",
-    "yt:video:Ko5HNu1_N7g"
+    "yt:video:dvZQppTsLeI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=264438",
+    "https://garumax.com/?p=264464",
+    "https://garumax.com/?p=264480",
+    "https://garumax.com/?p=264503",
+    "https://garumax.com/?p=264510",
     "https://garumax.com/?p=264311",
     "https://garumax.com/?p=264314",
     "https://garumax.com/?p=264323",
@@ -2183,12 +2188,7 @@
     "https://garumax.com/?p=263458",
     "https://garumax.com/?p=263404",
     "https://garumax.com/?p=263339",
-    "https://garumax.com/?p=263338",
-    "https://garumax.com/?p=261282",
-    "https://garumax.com/?p=263227",
-    "https://garumax.com/?p=263237",
-    "https://garumax.com/?p=263256",
-    "https://garumax.com/?p=263163"
+    "https://garumax.com/?p=263338"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2225,6 +2225,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62223",
     "https://androplus.jp/?p=62146",
     "https://androplus.jp/?p=62136",
     "https://androplus.jp/?p=62127",
@@ -2273,8 +2274,7 @@
     "https://androplus.jp/?p=61533",
     "https://androplus.jp/?p=61526",
     "https://androplus.jp/?p=61543",
-    "https://androplus.jp/?p=61374",
-    "https://androplus.jp/?p=61276"
+    "https://androplus.jp/?p=61374"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2435,6 +2435,7 @@
     "2059420031264706976"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2063943621439856916",
     "2063814268990947594",
     "2063229708960239706",
     "2063094275236344315",
@@ -2483,8 +2484,7 @@
     "2056875296373068269",
     "2056699639110213983",
     "2056510644065804702",
-    "2056338257764392964",
-    "2055970836822278623"
+    "2056338257764392964"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2063819554879316384",
