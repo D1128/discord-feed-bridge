@@ -1671,6 +1671,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260608-heat-waves-scramble-animal-minds/",
+    "https://gigazine.net/news/20260608-openai-plans-chatgpt-superapp-overhaul/",
+    "https://gigazine.net/news/20260608-cloudflare-ai-gateway-spend-limit/",
+    "https://gigazine.net/news/20260608-nvidia-sk-hynix-technology-partnership/",
+    "https://gigazine.net/news/20260608-youtube-copyright-content/",
+    "https://gigazine.net/news/20260608-new-york-one-year-ban-data-centers/",
+    "https://gigazine.net/news/20260608-european-publishers-google/",
+    "https://gigazine.net/news/20260608-huawei-ascend-910c-deepseek-v4-pro/",
+    "https://gigazine.net/news/20260608-ai-universal-vaccine/",
+    "https://gigazine.net/news/20260608-elon-musk-twitter-no-longer-exists/",
     "https://gigazine.net/news/20260608-school-shooting-survivor-sues-ai-gun-detection/",
     "https://gigazine.net/news/20260608-rtx-5090-external-clock/",
     "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
@@ -1710,19 +1720,13 @@
     "https://gigazine.net/news/20260605-llm-resisting-russian-propaganda/",
     "https://gigazine.net/news/20260605-freezer-smell/",
     "https://gigazine.net/news/20260605-magenta-realtime-2-live-music-ai/",
-    "https://gigazine.net/news/20260605-dashlane-how-attackers-managed-encrypted-password/",
-    "https://gigazine.net/news/20260605-uc-berkeley-failing-grades-ai-math/",
-    "https://gigazine.net/news/20260605-anthropic-ai-build-itself/",
-    "https://gigazine.net/news/20260605-economist-against-ai-jobs-pocalypse/",
-    "https://gigazine.net/news/20260605-steam-machine-frame-2026-summer-release/",
-    "https://gigazine.net/news/20260605-brave-origin-released/",
-    "https://gigazine.net/news/20260605-people-turn-to-ai-psychological-support/",
-    "https://gigazine.net/news/20260605-ai-conscious/",
-    "https://gigazine.net/news/20260605-birds-masturbation-evolution/",
-    "https://gigazine.net/news/20260604-gemma-4-12b-encoder-free/",
-    "https://gigazine.net/news/20260604-github-token-stealing/"
+    "https://gigazine.net/news/20260605-dashlane-how-attackers-managed-encrypted-password/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=217507",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217827",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217954",
+    "https://aismiley.co.jp/?post_type=ai_news&p=218038",
     "https://aismiley.co.jp/?post_type=ai_news&p=218131",
     "https://aismiley.co.jp/?post_type=ai_news&p=217880",
     "https://aismiley.co.jp/?post_type=ai_news&p=217671",
@@ -1768,11 +1772,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=212954",
     "https://aismiley.co.jp/?post_type=ai_news&p=215477",
     "https://aismiley.co.jp/?post_type=ai_news&p=215684",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214536",
-    "https://aismiley.co.jp/?post_type=ai_news&p=216391",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214748",
-    "https://aismiley.co.jp/?post_type=ai_news&p=216297",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214715"
+    "https://aismiley.co.jp/?post_type=ai_news&p=214536"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188119",
@@ -1879,6 +1879,7 @@
     "yt:video:scVPsqYFXiI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:mTCyZYo6Nus",
     "yt:video:_Hz9r6deETc",
     "yt:video:oRckhLLl7SQ",
     "yt:video:rgKUkEQJ3Mc",
@@ -1927,8 +1928,7 @@
     "yt:video:KrTuGNxuefQ",
     "yt:video:LKrPUt5-r_U",
     "yt:video:68Me2TLruw4",
-    "yt:video:cPdMCxvBKdg",
-    "yt:video:tNmyy4h3iFo"
+    "yt:video:cPdMCxvBKdg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:jwE173MHbe4",
@@ -2225,6 +2225,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62146",
     "https://androplus.jp/?p=62136",
     "https://androplus.jp/?p=62127",
     "https://androplus.jp/?p=58163",
@@ -2273,8 +2274,7 @@
     "https://androplus.jp/?p=61526",
     "https://androplus.jp/?p=61543",
     "https://androplus.jp/?p=61374",
-    "https://androplus.jp/?p=61276",
-    "https://androplus.jp/?p=61450"
+    "https://androplus.jp/?p=61276"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2435,6 +2435,7 @@
     "2059420031264706976"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2063814268990947594",
     "2063229708960239706",
     "2063094275236344315",
     "2062671992881586414",
@@ -2483,8 +2484,7 @@
     "2056699639110213983",
     "2056510644065804702",
     "2056338257764392964",
-    "2055970836822278623",
-    "2055838213055615066"
+    "2055970836822278623"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2063819554879316384",
