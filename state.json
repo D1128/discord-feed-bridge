@@ -1671,6 +1671,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260609-microsofts-open-source-tools-hacked/",
+    "https://gigazine.net/news/20260609-macos-27-intel-mac/",
+    "https://gigazine.net/news/20260609-cloudflare-realtime-waf/",
+    "https://gigazine.net/news/20260609-iphone-reduce-birth-rate/",
+    "https://gigazine.net/news/20260609-starbucks-fruity-cheers-torori-strawberry-mango/",
     "https://gigazine.net/news/20260609-openai-ipo-s-i-draft/",
     "https://gigazine.net/news/20260609-code-ios-27-support-iphone-fold/",
     "https://gigazine.net/news/20260609-openai-economic-research-exchange/",
@@ -1715,14 +1720,10 @@
     "https://gigazine.net/news/20260607-young-children-vegetable-smells-womb/",
     "https://gigazine.net/news/20260607-irodori-tts-v3/",
     "https://gigazine.net/news/20260607-what-is-a-dickover/",
-    "https://gigazine.net/news/20260607-elgato-wave-xlr-mk2/",
-    "https://gigazine.net/news/20260607-agi-timeline-tracker/",
-    "https://gigazine.net/news/20260607-the-oldest-g1-jockey-yutaka-take/",
-    "https://gigazine.net/news/20260607-open-code-review/",
-    "https://gigazine.net/news/20260607-forge/",
-    "https://gigazine.net/news/20260607-super-productivity/"
+    "https://gigazine.net/news/20260607-elgato-wave-xlr-mk2/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=216849",
     "https://aismiley.co.jp/?post_type=ai_news&p=217604",
     "https://aismiley.co.jp/?post_type=ai_news&p=217433",
     "https://aismiley.co.jp/?post_type=ai_news&p=218183",
@@ -1771,8 +1772,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=216164",
     "https://aismiley.co.jp/?post_type=ai_news&p=214491",
     "https://aismiley.co.jp/?post_type=ai_news&p=214372",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215785",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215996"
+    "https://aismiley.co.jp/?post_type=ai_news&p=215785"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188153",
@@ -1879,6 +1879,7 @@
     "yt:video:scVPsqYFXiI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:h6Y36M9txEU",
     "yt:video:mTCyZYo6Nus",
     "yt:video:_Hz9r6deETc",
     "yt:video:oRckhLLl7SQ",
@@ -1927,8 +1928,7 @@
     "yt:video:0pM3zLfZ52Y",
     "yt:video:KrTuGNxuefQ",
     "yt:video:LKrPUt5-r_U",
-    "yt:video:68Me2TLruw4",
-    "yt:video:cPdMCxvBKdg"
+    "yt:video:68Me2TLruw4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:jwE173MHbe4",
@@ -2225,6 +2225,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62250",
+    "https://androplus.jp/?p=62256",
     "https://androplus.jp/?p=62150",
     "https://androplus.jp/?p=62240",
     "https://androplus.jp/?p=62231",
@@ -2272,9 +2274,7 @@
     "https://androplus.jp/?p=61634",
     "https://androplus.jp/?p=61552",
     "https://androplus.jp/?p=61603",
-    "https://androplus.jp/?p=61597",
-    "https://androplus.jp/?p=61554",
-    "https://androplus.jp/?p=61533"
+    "https://androplus.jp/?p=61597"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
