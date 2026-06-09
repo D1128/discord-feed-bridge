@@ -1671,6 +1671,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260609-headline/",
+    "https://gigazine.net/news/20260609-china-military-pentagon-alibaba-byd-baidu/",
+    "https://gigazine.net/news/20260609-performative-ui/",
     "https://gigazine.net/news/20260609-microsofts-open-source-tools-hacked/",
     "https://gigazine.net/news/20260609-macos-27-intel-mac/",
     "https://gigazine.net/news/20260609-cloudflare-realtime-waf/",
@@ -1717,10 +1720,7 @@
     "https://gigazine.net/news/20260608-rtx-5090-external-clock/",
     "https://gigazine.net/news/20260608-stockmarket-swallow-anthropic-spacex-openai/",
     "https://gigazine.net/news/20260608-tired-after-vivid-dreams/",
-    "https://gigazine.net/news/20260607-young-children-vegetable-smells-womb/",
-    "https://gigazine.net/news/20260607-irodori-tts-v3/",
-    "https://gigazine.net/news/20260607-what-is-a-dickover/",
-    "https://gigazine.net/news/20260607-elgato-wave-xlr-mk2/"
+    "https://gigazine.net/news/20260607-young-children-vegetable-smells-womb/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=216849",
@@ -1983,6 +1983,7 @@
     "yt:video:FdpmgxBhIJ0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:EUOBB30xoy0",
     "yt:video:lz7zHFJAQJ0",
     "yt:video:gBxDKJaT8cY",
     "yt:video:JTVKu8GEuMI",
@@ -2031,10 +2032,10 @@
     "yt:video:OXppwX0zPRw",
     "yt:video:x-Os75fijBo",
     "yt:video:q2bId5MnIkI",
-    "yt:video:pHl3nru5bSw",
-    "yt:video:GLoIu4q8xTs"
+    "yt:video:pHl3nru5bSw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:9ZGNAqsVGHk",
     "yt:video:TtylKH9TH5k",
     "yt:video:5MEh3IRkw5E",
     "yt:video:IShvdyZWwNc",
@@ -2083,8 +2084,7 @@
     "yt:video:d2zlyHnpJuE",
     "yt:video:EvB9HIsGv2I",
     "yt:video:2U7kuUUiNrY",
-    "yt:video:4CUruZId1kw",
-    "yt:video:mnsZYb5FMvY"
+    "yt:video:4CUruZId1kw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:xBeCUFPrvuQ",
@@ -2383,6 +2383,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2063970091667247252",
+    "2064308696390435094",
+    "2064308759959343324",
     "2063952646063722936",
     "2063952678468894813",
     "2063612182538133546",
@@ -2429,12 +2432,11 @@
     "2060577917277712648",
     "2060262698454257799",
     "2060332527794188503",
-    "2060309012000985278",
-    "2060150487593492482",
-    "2059983621415711150",
-    "2059954488174358638"
+    "2060309012000985278"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2064279936085692612",
+    "2064308525921357983",
     "2064121292471648372",
     "2063943621439856916",
     "2063814268990947594",
@@ -2482,9 +2484,7 @@
     "2057235671329427912",
     "2057241962416427213",
     "2057059007110824377",
-    "2056875296373068269",
-    "2056699639110213983",
-    "2056510644065804702"
+    "2056875296373068269"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2064272539300589626",
