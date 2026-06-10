@@ -1671,6 +1671,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260610-axiom-space-prada-lcvg/",
+    "https://gigazine.net/news/20260610-bluesky-photo-carousel/",
+    "https://gigazine.net/news/20260610-google-security-operations/",
+    "https://gigazine.net/news/20260610-aomedia-av2-codec/",
+    "https://gigazine.net/news/20260610-windows-update/",
+    "https://gigazine.net/news/20260610-z-library-mirrors/",
+    "https://gigazine.net/news/20260610-signal-uk-government-demand-all-scanned/",
+    "https://gigazine.net/news/20260610-apple-foundation-models/",
+    "https://gigazine.net/news/20260610-microsoft-defender-rogueplanet/",
+    "https://gigazine.net/news/20260610-china-prinano-chip-without-asml/",
     "https://gigazine.net/news/20260610-gigazine-user-car/",
     "https://gigazine.net/news/20260610-meta-workforce-academy/",
     "https://gigazine.net/news/20260610-protecting-putin-system/",
@@ -1710,19 +1720,11 @@
     "https://gigazine.net/news/20260608-haagen-dazs-pear-and-milk/",
     "https://gigazine.net/news/20260608-starlink-12m-user/",
     "https://gigazine.net/news/20260608-headline/",
-    "https://gigazine.net/news/20260608-llms-eroding-career/",
-    "https://gigazine.net/news/20260608-ladybird-change-develop/",
-    "https://gigazine.net/news/20260608-heat-waves-scramble-animal-minds/",
-    "https://gigazine.net/news/20260608-openai-plans-chatgpt-superapp-overhaul/",
-    "https://gigazine.net/news/20260608-cloudflare-ai-gateway-spend-limit/",
-    "https://gigazine.net/news/20260608-nvidia-sk-hynix-technology-partnership/",
-    "https://gigazine.net/news/20260608-youtube-copyright-content/",
-    "https://gigazine.net/news/20260608-new-york-one-year-ban-data-centers/",
-    "https://gigazine.net/news/20260608-european-publishers-google/",
-    "https://gigazine.net/news/20260608-huawei-ascend-910c-deepseek-v4-pro/",
-    "https://gigazine.net/news/20260608-ai-universal-vaccine/"
+    "https://gigazine.net/news/20260608-llms-eroding-career/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=218190",
+    "https://aismiley.co.jp/?post_type=ai_news&p=218514",
     "https://aismiley.co.jp/?post_type=ai_news&p=216849",
     "https://aismiley.co.jp/?post_type=ai_news&p=217604",
     "https://aismiley.co.jp/?post_type=ai_news&p=217433",
@@ -1770,11 +1772,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=216668",
     "https://aismiley.co.jp/?post_type=ai_news&p=215848",
     "https://aismiley.co.jp/?post_type=ai_news&p=216164",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214491",
-    "https://aismiley.co.jp/?post_type=ai_news&p=214372",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215785"
+    "https://aismiley.co.jp/?post_type=ai_news&p=214491"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188185",
     "https://win-tab.net/?p=188163",
     "https://win-tab.net/?p=188153",
     "https://win-tab.net/?p=188139",
@@ -1823,8 +1824,7 @@
     "https://win-tab.net/?p=187545",
     "https://win-tab.net/?p=187523",
     "https://win-tab.net/?p=187498",
-    "https://win-tab.net/?p=187477",
-    "https://win-tab.net/?p=187445"
+    "https://win-tab.net/?p=187477"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:FBZ4Jbn8rTg",
@@ -2139,6 +2139,8 @@
     "yt:video:QDpoH-KO4eE"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=264714",
+    "https://garumax.com/?p=264757",
     "https://garumax.com/?p=264710",
     "https://garumax.com/?p=264082",
     "https://garumax.com/?p=263189",
@@ -2186,9 +2188,7 @@
     "https://garumax.com/?p=263626",
     "https://garumax.com/?p=263530",
     "https://garumax.com/?p=263549",
-    "https://garumax.com/?p=263426",
-    "https://garumax.com/?p=263437",
-    "https://garumax.com/?p=263286"
+    "https://garumax.com/?p=263426"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2435,6 +2435,7 @@
     "2060309012000985278"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2064537824628793466",
     "2064279936085692612",
     "2064308525921357983",
     "2064121292471648372",
@@ -2483,8 +2484,7 @@
     "2057249568040095818",
     "2057235671329427912",
     "2057241962416427213",
-    "2057059007110824377",
-    "2056875296373068269"
+    "2057059007110824377"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2064486191379148839",
