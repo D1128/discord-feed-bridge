@@ -1677,6 +1677,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260610-ai-misidentification-wrongful-arrest/",
+    "https://gigazine.net/news/20260610-comfyui-four-rival-review/",
     "https://gigazine.net/news/20260610-taiwan-will-ban-china-on-ai-chip/",
     "https://gigazine.net/news/20260610-battery-regeneration/",
     "https://gigazine.net/news/20260610-spacex-aims-launch-orbital-ai-computing-tests-2027/",
@@ -1724,9 +1726,7 @@
     "https://gigazine.net/news/20260609-apple-wwdc26/",
     "https://gigazine.net/news/20260609-apple-wwdc26-ios-27/",
     "https://gigazine.net/news/20260609-apple-wwdc26-macos-27/",
-    "https://gigazine.net/news/20260609-apple-wwdc26-apple-intelligence/",
-    "https://gigazine.net/news/20260608-addiction-prison-open-source-software/",
-    "https://gigazine.net/news/20260608-absurdly-optimized-pancake/"
+    "https://gigazine.net/news/20260609-apple-wwdc26-apple-intelligence/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=218042",
@@ -1833,6 +1833,7 @@
     "https://win-tab.net/?p=187498"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:756O6tlXv_4",
     "yt:video:FBZ4Jbn8rTg",
     "yt:video:lbvGCEDfaDc",
     "yt:video:3yOluxmWfW4",
@@ -1881,8 +1882,7 @@
     "yt:video:V_a-HhbwbYs",
     "yt:video:wmS6jcEdgFQ",
     "yt:video:GJDhLusR3Kw",
-    "yt:video:3HbVHEoIT_A",
-    "yt:video:scVPsqYFXiI"
+    "yt:video:3HbVHEoIT_A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
     "yt:video:9_YlU6o2zuM",
@@ -2441,6 +2441,7 @@
     "2060735934019293506"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2064672675495039430",
     "2064537824628793466",
     "2064279936085692612",
     "2064308525921357983",
@@ -2489,8 +2490,7 @@
     "2057325435365794181",
     "2057249568040095818",
     "2057235671329427912",
-    "2057241962416427213",
-    "2057059007110824377"
+    "2057241962416427213"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2064486191379148839",
