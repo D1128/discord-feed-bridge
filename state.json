@@ -1678,6 +1678,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260612-astrology-analysis/",
+    "https://gigazine.net/news/20260612-sukiya-bibimbap-gyudon/",
+    "https://gigazine.net/news/20260612-zed-deltadb/",
+    "https://gigazine.net/news/20260612-headline/",
+    "https://gigazine.net/news/20260612-mercedes-benz-motors-factory/",
     "https://gigazine.net/news/20260612-new-xbox-exec-advocates-ads/",
     "https://gigazine.net/news/20260612-low-height-dissatisfied-compensatory-behaviors/",
     "https://gigazine.net/news/20260612-powertoys-windows-microsoft/",
@@ -1722,14 +1727,11 @@
     "https://gigazine.net/news/20260610-ai-misidentification-wrongful-arrest/",
     "https://gigazine.net/news/20260610-comfyui-four-rival-review/",
     "https://gigazine.net/news/20260610-taiwan-will-ban-china-on-ai-chip/",
-    "https://gigazine.net/news/20260610-battery-regeneration/",
-    "https://gigazine.net/news/20260610-spacex-aims-launch-orbital-ai-computing-tests-2027/",
-    "https://gigazine.net/news/20260610-nakau-umakara-red-oyakodon/",
-    "https://gigazine.net/news/20260610-headline/",
-    "https://gigazine.net/news/20260610-starlink-monthly-kit-fee/",
-    "https://gigazine.net/news/20260610-axiom-space-prada-lcvg/"
+    "https://gigazine.net/news/20260610-battery-regeneration/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=219146",
+    "https://aismiley.co.jp/?post_type=ai_news&p=219365",
     "https://aismiley.co.jp/?post_type=ai_news&p=219454",
     "https://aismiley.co.jp/?post_type=ai_news&p=219078",
     "https://aismiley.co.jp/?post_type=ai_news&p=218528",
@@ -1777,9 +1779,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=213436",
     "https://aismiley.co.jp/?post_type=ai_news&p=215773",
     "https://aismiley.co.jp/?post_type=ai_news&p=213415",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213386",
-    "https://aismiley.co.jp/?post_type=ai_news&p=216998",
-    "https://aismiley.co.jp/?post_type=ai_news&p=216776"
+    "https://aismiley.co.jp/?post_type=ai_news&p=213386"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=187870",
@@ -1886,6 +1886,8 @@
     "yt:video:3HbVHEoIT_A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:HkU-v5JD8Aw",
+    "yt:video:CmDp0XirSVI",
     "yt:video:Xxq7J4NZLP8",
     "yt:video:9_YlU6o2zuM",
     "yt:video:h6Y36M9txEU",
@@ -1933,9 +1935,7 @@
     "yt:video:pUBtKa5rgXA",
     "yt:video:0q7xwSHM7jQ",
     "yt:video:Lop54dxlonY",
-    "yt:video:Vh3VHbkovFE",
-    "yt:video:0pM3zLfZ52Y",
-    "yt:video:KrTuGNxuefQ"
+    "yt:video:Vh3VHbkovFE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:WUQFurpuLZI",
@@ -1990,6 +1990,7 @@
     "yt:video:wdf0FP0i1bw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:s1g5lIBX5Vo",
     "yt:video:EUOBB30xoy0",
     "yt:video:lz7zHFJAQJ0",
     "yt:video:gBxDKJaT8cY",
@@ -2038,8 +2039,7 @@
     "yt:video:BYr9QrQhgFc",
     "yt:video:OXppwX0zPRw",
     "yt:video:x-Os75fijBo",
-    "yt:video:q2bId5MnIkI",
-    "yt:video:pHl3nru5bSw"
+    "yt:video:q2bId5MnIkI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
     "yt:video:yssTdKc2Fj4",
@@ -2391,6 +2391,14 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2065364566813618250",
+    "2065023315924939228",
+    "2065040944911851917",
+    "2065257116370362607",
+    "2065291477555851337",
+    "2065328360792989838",
+    "2065320550852132919",
+    "2065298837204582412",
     "2065028844931973299",
     "2065028787339968771",
     "2064998338123137059",
@@ -2432,15 +2440,7 @@
     "2062479787759956059",
     "2062127534280736973",
     "2062127569022136455",
-    "2062044626270462445",
-    "2061789886617886893",
-    "2062045830027395124",
-    "2061485295368028230",
-    "2061442552365203749",
-    "2061471884978643198",
-    "2061746863943155820",
-    "2061387448362700840",
-    "2061342248445628540"
+    "2062044626270462445"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2065275931888152645",
