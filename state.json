@@ -1678,6 +1678,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260612-new-xbox-exec-advocates-ads/",
+    "https://gigazine.net/news/20260612-low-height-dissatisfied-compensatory-behaviors/",
+    "https://gigazine.net/news/20260612-powertoys-windows-microsoft/",
+    "https://gigazine.net/news/20260612-homebrew-6-0-0/",
+    "https://gigazine.net/news/20260612-kalshi-integrity-updates/",
+    "https://gigazine.net/news/20260612-trump-t1-phone-teardown/",
+    "https://gigazine.net/news/20260612-waymo-premier/",
+    "https://gigazine.net/news/20260612-general-anesthesia-brain-still-listening/",
+    "https://gigazine.net/news/20260612-pokemon-go-trained-navigation-tech-military/",
+    "https://gigazine.net/news/20260612-jacket-pulls-drinking-water-from-air/",
     "https://gigazine.net/news/20260612-claude-fable-5-safeguard-change/",
     "https://gigazine.net/news/20260612-space-x-ipo-75-b-dollar/",
     "https://gigazine.net/news/20260612-openai-acquire-ona/",
@@ -1717,19 +1727,10 @@
     "https://gigazine.net/news/20260610-nakau-umakara-red-oyakodon/",
     "https://gigazine.net/news/20260610-headline/",
     "https://gigazine.net/news/20260610-starlink-monthly-kit-fee/",
-    "https://gigazine.net/news/20260610-axiom-space-prada-lcvg/",
-    "https://gigazine.net/news/20260610-bluesky-photo-carousel/",
-    "https://gigazine.net/news/20260610-google-security-operations/",
-    "https://gigazine.net/news/20260610-aomedia-av2-codec/",
-    "https://gigazine.net/news/20260610-windows-update/",
-    "https://gigazine.net/news/20260610-z-library-mirrors/",
-    "https://gigazine.net/news/20260610-signal-uk-government-demand-all-scanned/",
-    "https://gigazine.net/news/20260610-apple-foundation-models/",
-    "https://gigazine.net/news/20260610-microsoft-defender-rogueplanet/",
-    "https://gigazine.net/news/20260610-china-prinano-chip-without-asml/",
-    "https://gigazine.net/news/20260610-gigazine-user-car/"
+    "https://gigazine.net/news/20260610-axiom-space-prada-lcvg/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=219454",
     "https://aismiley.co.jp/?post_type=ai_news&p=219078",
     "https://aismiley.co.jp/?post_type=ai_news&p=218528",
     "https://aismiley.co.jp/?post_type=ai_news&p=218369",
@@ -1778,10 +1779,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=213415",
     "https://aismiley.co.jp/?post_type=ai_news&p=213386",
     "https://aismiley.co.jp/?post_type=ai_news&p=216998",
-    "https://aismiley.co.jp/?post_type=ai_news&p=216776",
-    "https://aismiley.co.jp/?post_type=ai_news&p=216542"
+    "https://aismiley.co.jp/?post_type=ai_news&p=216776"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187870",
     "https://win-tab.net/?p=188210",
     "https://win-tab.net/?p=188133",
     "https://win-tab.net/?p=188092",
@@ -1830,8 +1831,7 @@
     "https://win-tab.net/?p=187590",
     "https://win-tab.net/?p=187569",
     "https://win-tab.net/?p=187558",
-    "https://win-tab.net/?p=186544",
-    "https://win-tab.net/?p=187545"
+    "https://win-tab.net/?p=186544"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:756O6tlXv_4",
@@ -2146,6 +2146,8 @@
     "yt:video:eEsCBelrHcM"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=264539",
+    "https://garumax.com/?p=264961",
     "https://garumax.com/?p=264865",
     "https://garumax.com/?p=264899",
     "https://garumax.com/?p=264799",
@@ -2193,9 +2195,7 @@
     "https://garumax.com/?p=263324",
     "https://garumax.com/?p=263696",
     "https://garumax.com/?p=263432",
-    "https://garumax.com/?p=263587",
-    "https://garumax.com/?p=263313",
-    "https://garumax.com/?p=263628"
+    "https://garumax.com/?p=263587"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2443,6 +2443,7 @@
     "2061342248445628540"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2065275931888152645",
     "2065209210565280015",
     "2065034811581006216",
     "2064846068236321238",
@@ -2491,8 +2492,7 @@
     "2057784034881950076",
     "2057662144536322483",
     "2057595542281363491",
-    "2057425673124200839",
-    "2057325435365794181"
+    "2057425673124200839"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2065269106736247115",
