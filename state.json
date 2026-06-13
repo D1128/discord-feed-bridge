@@ -1116,6 +1116,8 @@
     "yt:video:jIkgCFh1HxQ"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2606/12/news113.html",
+    "https://www.itmedia.co.jp/mobile/articles/2606/13/news002.html",
     "https://www.itmedia.co.jp/business/articles/2606/13/news001.html",
     "https://www.itmedia.co.jp/pcuser/articles/2606/13/news020.html",
     "https://www.itmedia.co.jp/mobile/articles/2606/13/news022.html",
@@ -1163,9 +1165,7 @@
     "https://www.itmedia.co.jp/news/articles/2606/11/news088.html",
     "https://www.itmedia.co.jp/news/articles/2606/11/news093.html",
     "https://www.itmedia.co.jp/news/articles/2606/11/news095.html",
-    "https://www.itmedia.co.jp/news/articles/2606/11/news096.html",
-    "https://www.itmedia.co.jp/news/articles/2606/09/news014.html",
-    "https://monoist.itmedia.co.jp/mn/articles/2606/11/news024.html"
+    "https://www.itmedia.co.jp/news/articles/2606/11/news096.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -2622,6 +2622,12 @@
     "2021794316444926259"
   ],
   "https://nitter.net/ctgptlb/rss": [
+    "2065596697594749109",
+    "2065597397389226386",
+    "2065597400308425043",
+    "2065597403416404158",
+    "2065600135158259977",
+    "2065600140329808006",
     "2065401640933585084",
     "2065359821411631604",
     "2065359823903076583",
@@ -2665,15 +2671,12 @@
     "2057039772133285985",
     "2056787851979972842",
     "2056788034469990667",
-    "2056789388693270635",
-    "2056791928633741483",
-    "2056793586474324044",
-    "2056794216907657681",
-    "2056794705904763313",
-    "2056536575136412051",
-    "2056536942196805649"
+    "2056789388693270635"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2065584957767172600",
+    "2065584973336481853",
+    "2065611863505920097",
     "2065554768349766120",
     "2065554783671583124",
     "2065478546601169170",
@@ -2720,10 +2723,7 @@
     "2064630888965747109",
     "2064646212884857245",
     "2064651313078800815",
-    "2064549820342362462",
-    "2064575479747883011",
-    "2064494055418143074",
-    "2064494958065946743"
+    "2064549820342362462"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
