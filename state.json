@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2116962.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2116933.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2116935.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2116946.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2116037.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2116063.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2116071.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2116108.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2115862.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2116108.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/Translate/Trayslate.html",
@@ -314,6 +314,7 @@
     "https://magazine.techacademy.jp/magazine/?p=87264"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA": [
+    "yt:video:yo6A_YCUrMM",
     "yt:video:Ina6kKQAmEM",
     "yt:video:TBChbH4eiCA",
     "yt:video:zlAEmGTnHPg",
@@ -362,8 +363,7 @@
     "yt:video:ryO7MY5upRs",
     "yt:video:1Dqw4340odQ",
     "yt:video:1QtCM6sPZZk",
-    "yt:video:gfv44CrWN9I",
-    "yt:video:CGb_93RSF34"
+    "yt:video:gfv44CrWN9I"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
     "yt:video:I7wOxub9yBM",
@@ -2745,6 +2745,7 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2065746340655821196",
     "2065617131325325549",
     "2065643212912615430",
     "2065643290876363090",
@@ -2793,8 +2794,7 @@
     "2065023688463016102",
     "2064915543237513376",
     "2064915666650706180",
-    "2064915692764512551",
-    "2064915938630336636"
+    "2064915692764512551"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2059957084662206827",
