@@ -1679,6 +1679,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260613-kdp-pre-orders/",
     "https://gigazine.net/news/20260613-files-md/",
     "https://gigazine.net/news/20260613-anthropic-claude-fable-mythos-suspend/",
     "https://gigazine.net/news/20260613-ratty/",
@@ -1727,8 +1728,7 @@
     "https://gigazine.net/news/20260611-good-companies-drift-away-lean-startup/",
     "https://gigazine.net/news/20260611-logicool-mobi-fold/",
     "https://gigazine.net/news/20260611-microsoft-claude-fable-5/",
-    "https://gigazine.net/news/20260611-npm-install-script/",
-    "https://gigazine.net/news/20260611-can-ai-spot-next-football-superstar/"
+    "https://gigazine.net/news/20260611-npm-install-script/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=219146",
@@ -1835,6 +1835,7 @@
     "https://win-tab.net/?p=187590"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:KSMtEWz0uww",
     "yt:video:756O6tlXv_4",
     "yt:video:FBZ4Jbn8rTg",
     "yt:video:lbvGCEDfaDc",
@@ -1883,8 +1884,7 @@
     "yt:video:5jY_xkYoOOw",
     "yt:video:V_a-HhbwbYs",
     "yt:video:wmS6jcEdgFQ",
-    "yt:video:GJDhLusR3Kw",
-    "yt:video:3HbVHEoIT_A"
+    "yt:video:GJDhLusR3Kw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
     "yt:video:AXgG7i9CUtQ",
@@ -2392,6 +2392,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2065721570606374935",
+    "2065738738656051680",
     "2065364566813618250",
     "2065023315924939228",
     "2065040944911851917",
@@ -2439,9 +2441,7 @@
     "2062424568040656932",
     "2062287453265010690",
     "2062479787759956059",
-    "2062127534280736973",
-    "2062127569022136455",
-    "2062044626270462445"
+    "2062127534280736973"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2065635016416149941",
