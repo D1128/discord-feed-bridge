@@ -1678,6 +1678,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260613-anthropic-claude-fable-mythos-suspend/",
+    "https://gigazine.net/news/20260613-ratty/",
+    "https://gigazine.net/news/20260613-valve-imported-13-tons-vr-headsets/",
     "https://gigazine.net/news/20260613-sony-alpha7r-vi-appearance/",
     "https://gigazine.net/news/20260613-skipping-meals-irregular-eating-depression/",
     "https://gigazine.net/news/20260613-fifa-fake-website/",
@@ -1724,10 +1727,7 @@
     "https://gigazine.net/news/20260611-microsoft-claude-fable-5/",
     "https://gigazine.net/news/20260611-npm-install-script/",
     "https://gigazine.net/news/20260611-can-ai-spot-next-football-superstar/",
-    "https://gigazine.net/news/20260611-canada-bill-c-34-safe-social-media-act/",
-    "https://gigazine.net/news/20260611-anthropic-ai-policy/",
-    "https://gigazine.net/news/20260611-claude-fable-safeguards-rule/",
-    "https://gigazine.net/news/20260611-ai-overview-german-ruling/"
+    "https://gigazine.net/news/20260611-canada-bill-c-34-safe-social-media-act/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=219146",
@@ -1782,6 +1782,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=213386"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188237",
     "https://win-tab.net/?p=188230",
     "https://win-tab.net/?p=187870",
     "https://win-tab.net/?p=188210",
@@ -1830,8 +1831,7 @@
     "https://win-tab.net/?p=187574",
     "https://win-tab.net/?p=187594",
     "https://win-tab.net/?p=187590",
-    "https://win-tab.net/?p=187569",
-    "https://win-tab.net/?p=187558"
+    "https://win-tab.net/?p=187569"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:756O6tlXv_4",
@@ -2094,6 +2094,7 @@
     "yt:video:EvB9HIsGv2I"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:Q3rkXkgfFcA",
     "yt:video:w0yrRW3BkpI",
     "yt:video:Awpo4W4SuGg",
     "yt:video:xBeCUFPrvuQ",
@@ -2142,10 +2143,11 @@
     "yt:video:0tqePUYsJrI",
     "yt:video:jVRzE2p1Zu8",
     "yt:video:bekMZyjlre0",
-    "yt:video:6tlT0Cw6iuQ",
-    "yt:video:eEsCBelrHcM"
+    "yt:video:6tlT0Cw6iuQ"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=264923",
+    "https://garumax.com/?p=264991",
     "https://garumax.com/?p=264814",
     "https://garumax.com/?p=264983",
     "https://garumax.com/?p=264539",
@@ -2193,9 +2195,7 @@
     "https://garumax.com/?p=263673",
     "https://garumax.com/?p=263714",
     "https://garumax.com/?p=263732",
-    "https://garumax.com/?p=263572",
-    "https://garumax.com/?p=263324",
-    "https://garumax.com/?p=263696"
+    "https://garumax.com/?p=263572"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2443,6 +2443,7 @@
     "2062044626270462445"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2065635016416149941",
     "2065397451121479684",
     "2065275931888152645",
     "2065209210565280015",
@@ -2491,8 +2492,7 @@
     "2058057463019307165",
     "2058057669735538847",
     "2057784034881950076",
-    "2057662144536322483",
-    "2057595542281363491"
+    "2057662144536322483"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2065646593286738327",
