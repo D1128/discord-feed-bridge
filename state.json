@@ -1680,6 +1680,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260614-cwf-shiranui-machiasobi30/",
+    "https://gigazine.net/news/20260614-sony-alpha7r-vi-photo-example/",
+    "https://gigazine.net/news/20260614-insforge/",
     "https://gigazine.net/news/20260614-recent-developments-in-llm-architectures/",
     "https://gigazine.net/news/20260614-meta-unwind-manus-deal-beijing-demand/",
     "https://gigazine.net/news/20260614-words-look-like-meaning/",
@@ -1726,10 +1729,7 @@
     "https://gigazine.net/news/20260611-openclaw-ai-phishing/",
     "https://gigazine.net/news/20260611-visa-openai-partners-ai-commerce/",
     "https://gigazine.net/news/20260611-youtube-messaging/",
-    "https://gigazine.net/news/20260611-xiaomi-mimo-code/",
-    "https://gigazine.net/news/20260611-starbucks-earlgrey-muscat-tea-latte/",
-    "https://gigazine.net/news/20260611-zamba2-vl-zyphra/",
-    "https://gigazine.net/news/20260611-headline/"
+    "https://gigazine.net/news/20260611-xiaomi-mimo-code/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=219146",
@@ -1784,6 +1784,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=213386"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188276",
     "https://win-tab.net/?p=188272",
     "https://win-tab.net/?p=188245",
     "https://win-tab.net/?p=188237",
@@ -1832,8 +1833,7 @@
     "https://win-tab.net/?p=187636",
     "https://win-tab.net/?p=187629",
     "https://win-tab.net/?p=187612",
-    "https://win-tab.net/?p=187574",
-    "https://win-tab.net/?p=187594"
+    "https://win-tab.net/?p=187574"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:KSMtEWz0uww",
@@ -2096,6 +2096,7 @@
     "yt:video:dvYZboKbH88"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:42CV_lbSRtg",
     "yt:video:Q3rkXkgfFcA",
     "yt:video:w0yrRW3BkpI",
     "yt:video:Awpo4W4SuGg",
@@ -2144,10 +2145,11 @@
     "yt:video:-CMJzz5FiQI",
     "yt:video:0tqePUYsJrI",
     "yt:video:jVRzE2p1Zu8",
-    "yt:video:bekMZyjlre0",
-    "yt:video:6tlT0Cw6iuQ"
+    "yt:video:bekMZyjlre0"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265033",
+    "https://garumax.com/?p=263867",
     "https://garumax.com/?p=265025",
     "https://garumax.com/?p=265011",
     "https://garumax.com/?p=264923",
@@ -2195,9 +2197,7 @@
     "https://garumax.com/?p=263774",
     "https://garumax.com/?p=263852",
     "https://garumax.com/?p=263830",
-    "https://garumax.com/?p=263845",
-    "https://garumax.com/?p=263673",
-    "https://garumax.com/?p=263714"
+    "https://garumax.com/?p=263845"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2234,6 +2234,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62357",
     "https://androplus.jp/?p=61597",
     "https://androplus.jp/?p=62302",
     "https://androplus.jp/?p=62288",
@@ -2282,8 +2283,7 @@
     "https://androplus.jp/?p=61692",
     "https://androplus.jp/?p=61689",
     "https://androplus.jp/?p=60006",
-    "https://androplus.jp/?p=60015",
-    "https://androplus.jp/?p=61660"
+    "https://androplus.jp/?p=60015"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
