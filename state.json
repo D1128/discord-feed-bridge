@@ -1680,6 +1680,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260614-recent-developments-in-llm-architectures/",
+    "https://gigazine.net/news/20260614-meta-unwind-manus-deal-beijing-demand/",
     "https://gigazine.net/news/20260614-words-look-like-meaning/",
     "https://gigazine.net/news/20260614-fish-sleep-stats/",
     "https://gigazine.net/news/20260613-kdp-pre-orders/",
@@ -1727,9 +1729,7 @@
     "https://gigazine.net/news/20260611-xiaomi-mimo-code/",
     "https://gigazine.net/news/20260611-starbucks-earlgrey-muscat-tea-latte/",
     "https://gigazine.net/news/20260611-zamba2-vl-zyphra/",
-    "https://gigazine.net/news/20260611-headline/",
-    "https://gigazine.net/news/20260611-good-companies-drift-away-lean-startup/",
-    "https://gigazine.net/news/20260611-logicool-mobi-fold/"
+    "https://gigazine.net/news/20260611-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=219146",
@@ -1784,6 +1784,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=213386"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188272",
     "https://win-tab.net/?p=188245",
     "https://win-tab.net/?p=188237",
     "https://win-tab.net/?p=188230",
@@ -1832,8 +1833,7 @@
     "https://win-tab.net/?p=187629",
     "https://win-tab.net/?p=187612",
     "https://win-tab.net/?p=187574",
-    "https://win-tab.net/?p=187594",
-    "https://win-tab.net/?p=187590"
+    "https://win-tab.net/?p=187594"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:KSMtEWz0uww",
@@ -2148,6 +2148,7 @@
     "yt:video:6tlT0Cw6iuQ"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265025",
     "https://garumax.com/?p=265011",
     "https://garumax.com/?p=264923",
     "https://garumax.com/?p=264991",
@@ -2196,8 +2197,7 @@
     "https://garumax.com/?p=263830",
     "https://garumax.com/?p=263845",
     "https://garumax.com/?p=263673",
-    "https://garumax.com/?p=263714",
-    "https://garumax.com/?p=263732"
+    "https://garumax.com/?p=263714"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2445,6 +2445,7 @@
     "2062127534280736973"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2065996397477072928",
     "2065635016416149941",
     "2065397451121479684",
     "2065275931888152645",
@@ -2493,8 +2494,7 @@
     "2058164916180410394",
     "2058057463019307165",
     "2058057669735538847",
-    "2057784034881950076",
-    "2057662144536322483"
+    "2057784034881950076"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2065737190186107278",
