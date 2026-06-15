@@ -1680,6 +1680,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260616-mini-universe-measure-time/",
     "https://gigazine.net/news/20260616-crispr-hereditary-angioedema-trial/",
     "https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/",
     "https://gigazine.net/news/20260615-acecook-wakame-allstar-ramen/",
@@ -1728,8 +1729,7 @@
     "https://gigazine.net/news/20260612-deezer-ai-generated-music-detector/",
     "https://gigazine.net/news/20260612-anthropic-openai-subscription-margin/",
     "https://gigazine.net/news/20260612-fable-is-relentlessly-proactive/",
-    "https://gigazine.net/news/20260612-astrology-analysis/",
-    "https://gigazine.net/news/20260612-sukiya-bibimbap-gyudon/"
+    "https://gigazine.net/news/20260612-astrology-analysis/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=219653",
@@ -2393,6 +2393,11 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2066304410096161154",
+    "2066655424334676159",
+    "2066439188082524528",
+    "2066461999819870376",
+    "2066449174158311848",
     "2066227485805879601",
     "2066147777248473162",
     "2065760999026896914",
@@ -2437,14 +2442,10 @@
     "2063200936408105295",
     "2062903535675793545",
     "2062552567734034511",
-    "2062466729637482620",
-    "2062807656356893014",
-    "2062736930970943634",
-    "2062464674424328637",
-    "2062852955934466503",
-    "2062324653939732848"
+    "2062466729637482620"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2066657755994198168",
     "2066481091343450534",
     "2066316867111964992",
     "2066121220383277451",
@@ -2493,8 +2494,7 @@
     "2058870695006745002",
     "2058744559430140145",
     "2058509061990334902",
-    "2058396391609889262",
-    "2058164916180410394"
+    "2058396391609889262"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2066446866519310617",
