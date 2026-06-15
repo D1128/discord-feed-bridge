@@ -1680,6 +1680,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260615-apple-dci-p3-adobe-rgb/",
+    "https://gigazine.net/news/20260615-china-access-mythos/",
+    "https://gigazine.net/news/20260615-kimi-k2-7-code/",
+    "https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/",
+    "https://gigazine.net/news/20260615-nvidia-motionbricks/",
     "https://gigazine.net/news/20260615-chatgpt-claude-gemini-nuclear/",
     "https://gigazine.net/news/20260615-make-your-website-discoverable-by-ai/",
     "https://gigazine.net/news/20260615-amd-auto-updater-vulnerability-rce/",
@@ -1724,14 +1729,12 @@
     "https://gigazine.net/news/20260612-space-x-ipo-75-b-dollar/",
     "https://gigazine.net/news/20260612-openai-acquire-ona/",
     "https://gigazine.net/news/20260612-altstore-pal/",
-    "https://gigazine.net/news/20260612-ai-use-disclosure-morally-wrong/",
-    "https://gigazine.net/news/20260612-bluesky-communities-deeper-smaller-spaces/",
-    "https://gigazine.net/news/20260611-fedora-ai-runs/",
-    "https://gigazine.net/news/20260611-apple-container-machines/",
-    "https://gigazine.net/news/20260611-sony-xperia-1-viii-appearance/",
-    "https://gigazine.net/news/20260611-cisa-prioritizing-security/"
+    "https://gigazine.net/news/20260612-ai-use-disclosure-morally-wrong/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=211958",
+    "https://aismiley.co.jp/?post_type=ai_news&p=218499",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217540",
     "https://aismiley.co.jp/?post_type=ai_news&p=219146",
     "https://aismiley.co.jp/?post_type=ai_news&p=219365",
     "https://aismiley.co.jp/?post_type=ai_news&p=219454",
@@ -1778,10 +1781,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=216799",
     "https://aismiley.co.jp/?post_type=ai_news&p=217313",
     "https://aismiley.co.jp/?post_type=ai_news&p=213350",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213436",
-    "https://aismiley.co.jp/?post_type=ai_news&p=215773",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213415",
-    "https://aismiley.co.jp/?post_type=ai_news&p=213386"
+    "https://aismiley.co.jp/?post_type=ai_news&p=213436"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188276",
@@ -2148,6 +2148,8 @@
     "yt:video:bekMZyjlre0"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=264972",
+    "https://garumax.com/?p=265049",
     "https://garumax.com/?p=264171",
     "https://garumax.com/?p=265033",
     "https://garumax.com/?p=263867",
@@ -2195,9 +2197,7 @@
     "https://garumax.com/?p=263894",
     "https://garumax.com/?p=263786",
     "https://garumax.com/?p=263886",
-    "https://garumax.com/?p=263774",
-    "https://garumax.com/?p=263852",
-    "https://garumax.com/?p=263830"
+    "https://garumax.com/?p=263774"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2234,6 +2234,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62368",
+    "https://androplus.jp/?p=62143",
     "https://androplus.jp/?p=62371",
     "https://androplus.jp/?p=62357",
     "https://androplus.jp/?p=61597",
@@ -2281,9 +2283,7 @@
     "https://androplus.jp/?p=61763",
     "https://androplus.jp/?p=61708",
     "https://androplus.jp/?p=61705",
-    "https://androplus.jp/?p=61692",
-    "https://androplus.jp/?p=61689",
-    "https://androplus.jp/?p=60006"
+    "https://androplus.jp/?p=61692"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2445,6 +2445,7 @@
     "2062287453265010690"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2066316867111964992",
     "2066121220383277451",
     "2065996397477072928",
     "2065635016416149941",
@@ -2493,8 +2494,7 @@
     "2058509061990334902",
     "2058396391609889262",
     "2058164916180410394",
-    "2058057463019307165",
-    "2058057669735538847"
+    "2058057463019307165"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2066296541812568573",
