@@ -823,6 +823,9 @@
     "https://liginc.co.jp/?p=678913"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:aDWubsd6E98",
+    "yt:video:uOm018GMla8",
+    "yt:video:0VlLFFiCPhE",
     "yt:video:Mmo7N6-jdEM",
     "yt:video:B59s_hqztVI",
     "yt:video:-cQecIxB8NQ",
@@ -869,10 +872,7 @@
     "yt:video:TZXCpv7W60s",
     "yt:video:Qdj5H-QNfS8",
     "yt:video:P95pqmCrOtA",
-    "yt:video:VnMlptjXqAU",
-    "yt:video:8x7GNmiscVs",
-    "yt:video:rV1quq3ydJQ",
-    "yt:video:-w3Qkgs3DMI"
+    "yt:video:VnMlptjXqAU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -1065,6 +1065,7 @@
     "yt:video:uVqajZ9lVDE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9buL3Iph_f7AZxdzmiBL8Q": [
+    "yt:video:neYOOLOXYDw",
     "yt:video:4fhmV_xjxO8",
     "yt:video:HNj8WIgKXZc",
     "yt:video:vVaOblwZ_k8",
@@ -1113,8 +1114,7 @@
     "yt:video:Njtyl7N_mqw",
     "yt:video:CXiGT_lq5K8",
     "yt:video:g7U4RX-7rrc",
-    "yt:video:nJ35VKVTAuo",
-    "yt:video:F9ofwzidZ9g"
+    "yt:video:nJ35VKVTAuo"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
     "https://www.itmedia.co.jp/news/articles/2606/17/news066.html",
@@ -2498,6 +2498,9 @@
     "2058744559430140145"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2067080794062172368",
+    "2067088787889668139",
+    "2067088882144076061",
     "2067019640950157594",
     "2066808751085043906",
     "2066717902657737040",
@@ -2544,12 +2547,11 @@
     "2061584829410381848",
     "2061373436551647731",
     "2061282839694282984",
-    "2060903891311739038",
-    "2060647408132895171",
-    "2060307602421227768",
-    "2060569922879770904"
+    "2060903891311739038"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2067121153697894599",
+    "2067121412662542673",
     "2067028323604246763",
     "2066882420016812161",
     "2066309964126388496",
@@ -2597,9 +2599,7 @@
     "2064394151441863006",
     "2064506448512741832",
     "2063951608929800274",
-    "2063968771463922100",
-    "2063885086064521511",
-    "2063890040116367440"
+    "2063968771463922100"
   ],
   "https://nitter.net/chibimana/rss": [
     "2067045129610023099",
