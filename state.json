@@ -1681,6 +1681,12 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260617-z-ai-glm-5-2-release/",
+    "https://gigazine.net/news/20260617-firefox-152/",
+    "https://gigazine.net/news/20260617-apple-change-hide-my-email-domain/",
+    "https://gigazine.net/news/20260617-us-government-wont-allow-access-mythos/",
+    "https://gigazine.net/news/20260617-firefox-roadmap/",
+    "https://gigazine.net/news/20260617-spacex-acquires-curso-anysphere/",
     "https://gigazine.net/news/20260617-how-to-earn-billion-dollars/",
     "https://gigazine.net/news/20260617-viking-islamic-silver-coins/",
     "https://gigazine.net/news/20260617-replace-caude-gpt-with-local-model/",
@@ -1724,15 +1730,11 @@
     "https://gigazine.net/news/20260615-ai-siri-dma/",
     "https://gigazine.net/news/20260615-ai-messy-middle/",
     "https://gigazine.net/news/20260615-apple-dci-p3-adobe-rgb/",
-    "https://gigazine.net/news/20260615-china-access-mythos/",
-    "https://gigazine.net/news/20260615-kimi-k2-7-code/",
-    "https://gigazine.net/news/20260615-select-type-google-calendar-gmeet/",
-    "https://gigazine.net/news/20260615-nvidia-motionbricks/",
-    "https://gigazine.net/news/20260615-chatgpt-claude-gemini-nuclear/",
-    "https://gigazine.net/news/20260615-make-your-website-discoverable-by-ai/",
-    "https://gigazine.net/news/20260615-amd-auto-updater-vulnerability-rce/"
+    "https://gigazine.net/news/20260615-china-access-mythos/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=218478",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217572",
     "https://aismiley.co.jp/?post_type=ai_news&p=218536",
     "https://aismiley.co.jp/?post_type=ai_news&p=218595",
     "https://aismiley.co.jp/?post_type=ai_news&p=219892",
@@ -1780,11 +1782,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=217880",
     "https://aismiley.co.jp/?post_type=ai_news&p=217671",
     "https://aismiley.co.jp/?post_type=ai_news&p=217528",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217627",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217037",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217638"
+    "https://aismiley.co.jp/?post_type=ai_news&p=217627"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188310",
     "https://win-tab.net/?p=188360",
     "https://win-tab.net/?p=188296",
     "https://win-tab.net/?p=188337",
@@ -1833,8 +1834,7 @@
     "https://win-tab.net/?p=187647",
     "https://win-tab.net/?p=187624",
     "https://win-tab.net/?p=187664",
-    "https://win-tab.net/?p=187667",
-    "https://win-tab.net/?p=186902"
+    "https://win-tab.net/?p=187667"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:lFV8ocuVxao",
@@ -2149,6 +2149,7 @@
     "yt:video:0tqePUYsJrI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265110",
     "https://garumax.com/?p=265208",
     "https://garumax.com/?p=265096",
     "https://garumax.com/?p=265176",
@@ -2197,8 +2198,7 @@
     "https://garumax.com/?p=263942",
     "https://garumax.com/?p=263941",
     "https://garumax.com/?p=263932",
-    "https://garumax.com/?p=263967",
-    "https://garumax.com/?p=263894"
+    "https://garumax.com/?p=263967"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2235,6 +2235,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62421",
     "https://androplus.jp/?p=62119",
     "https://androplus.jp/?p=62294",
     "https://androplus.jp/?p=62409",
@@ -2283,8 +2284,7 @@
     "https://androplus.jp/?p=61843",
     "https://androplus.jp/?p=61432",
     "https://androplus.jp/?p=61755",
-    "https://androplus.jp/?p=61809",
-    "https://androplus.jp/?p=61798"
+    "https://androplus.jp/?p=61809"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
