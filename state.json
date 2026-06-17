@@ -1682,6 +1682,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260617-ai-killed-self-help-nonfiction-book/",
+    "https://gigazine.net/news/20260617-windows-11-microsoft-account/",
+    "https://gigazine.net/news/20260617-changedetection-io-setup/",
     "https://gigazine.net/news/20260617-mow-salted-vanilla-melon/",
     "https://gigazine.net/news/20260617-mlperf-training-v6/",
     "https://gigazine.net/news/20260617-headline/",
@@ -1728,10 +1731,7 @@
     "https://gigazine.net/news/20260616-gigazine-online-meeting/",
     "https://gigazine.net/news/20260616-amd-acquires-mext-ai-memory/",
     "https://gigazine.net/news/20260616-mini-universe-measure-time/",
-    "https://gigazine.net/news/20260616-crispr-hereditary-angioedema-trial/",
-    "https://gigazine.net/news/20260615-sony-xperia-1-viii-battery/",
-    "https://gigazine.net/news/20260615-acecook-wakame-allstar-ramen/",
-    "https://gigazine.net/news/20260615-data-center-opposition/"
+    "https://gigazine.net/news/20260616-crispr-hereditary-angioedema-trial/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220033",
@@ -1786,6 +1786,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=217671"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=187471",
     "https://win-tab.net/?p=188310",
     "https://win-tab.net/?p=188360",
     "https://win-tab.net/?p=188296",
@@ -1834,8 +1835,7 @@
     "https://win-tab.net/?p=187727",
     "https://win-tab.net/?p=187647",
     "https://win-tab.net/?p=187624",
-    "https://win-tab.net/?p=187664",
-    "https://win-tab.net/?p=187667"
+    "https://win-tab.net/?p=187664"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:lFV8ocuVxao",
@@ -2150,6 +2150,7 @@
     "yt:video:-CMJzz5FiQI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265343",
     "https://garumax.com/?p=265281",
     "https://garumax.com/?p=265294",
     "https://garumax.com/?p=265304",
@@ -2198,8 +2199,7 @@
     "https://garumax.com/?p=264117",
     "https://garumax.com/?p=264032",
     "https://garumax.com/?p=264056",
-    "https://garumax.com/?p=264014",
-    "https://garumax.com/?p=263942"
+    "https://garumax.com/?p=264014"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
