@@ -1681,6 +1681,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260617-strange-global-pattern-humans-walk/",
+    "https://gigazine.net/news/20260617-microsoft-turns-aws-github-capacity/",
+    "https://gigazine.net/news/20260617-qwen-robot-suite/",
+    "https://gigazine.net/news/20260617-state-of-ai/",
+    "https://gigazine.net/news/20260617-retail-ssd-market-has-disappeared/",
+    "https://gigazine.net/news/20260617-tracking-claude-code/",
+    "https://gigazine.net/news/20260617-snap-specs/",
+    "https://gigazine.net/news/20260617-cat-may-not-ease-stress/",
+    "https://gigazine.net/news/20260617-human-brain-memory/",
+    "https://gigazine.net/news/20260617-apple-anti-nausea-dots/",
     "https://gigazine.net/news/20260617-z-ai-glm-5-2-release/",
     "https://gigazine.net/news/20260617-firefox-152/",
     "https://gigazine.net/news/20260617-apple-change-hide-my-email-domain/",
@@ -1720,19 +1730,11 @@
     "https://gigazine.net/news/20260615-israeli-blackcore-meddling-votes/",
     "https://gigazine.net/news/20260615-apple-marketing-power-mac-g4/",
     "https://gigazine.net/news/20260615-youtube-first-500-million-mrbeast/",
-    "https://gigazine.net/news/20260615-ajinomoto-abf-product-more/",
-    "https://gigazine.net/news/20260615-tts-zonos2-amd-zyphra/",
-    "https://gigazine.net/news/20260615-google-outsider-enterprise/",
-    "https://gigazine.net/news/20260615-super-mario-bros-sells-3-million-auction/",
-    "https://gigazine.net/news/20260615-apple-siri-extensions/",
-    "https://gigazine.net/news/20260615-z-ai-glm-5-2/",
-    "https://gigazine.net/news/20260615-chinese-drivers-fool-tesla-autopilot/",
-    "https://gigazine.net/news/20260615-ai-siri-dma/",
-    "https://gigazine.net/news/20260615-ai-messy-middle/",
-    "https://gigazine.net/news/20260615-apple-dci-p3-adobe-rgb/",
-    "https://gigazine.net/news/20260615-china-access-mythos/"
+    "https://gigazine.net/news/20260615-ajinomoto-abf-product-more/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=220033",
+    "https://aismiley.co.jp/?post_type=ai_news&p=219964",
     "https://aismiley.co.jp/?post_type=ai_news&p=218478",
     "https://aismiley.co.jp/?post_type=ai_news&p=217572",
     "https://aismiley.co.jp/?post_type=ai_news&p=218536",
@@ -1780,9 +1782,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=218038",
     "https://aismiley.co.jp/?post_type=ai_news&p=218131",
     "https://aismiley.co.jp/?post_type=ai_news&p=217880",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217671",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217528",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217627"
+    "https://aismiley.co.jp/?post_type=ai_news&p=217671"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188310",
@@ -2149,6 +2149,9 @@
     "yt:video:0tqePUYsJrI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265281",
+    "https://garumax.com/?p=265294",
+    "https://garumax.com/?p=265304",
     "https://garumax.com/?p=265110",
     "https://garumax.com/?p=265208",
     "https://garumax.com/?p=265096",
@@ -2195,10 +2198,7 @@
     "https://garumax.com/?p=264032",
     "https://garumax.com/?p=264056",
     "https://garumax.com/?p=264014",
-    "https://garumax.com/?p=263942",
-    "https://garumax.com/?p=263941",
-    "https://garumax.com/?p=263932",
-    "https://garumax.com/?p=263967"
+    "https://garumax.com/?p=263942"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/new-tab-countdown-timer",
@@ -2394,6 +2394,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2066896642226495857",
     "2066611953921896631",
     "2066831772902711360",
     "2066821193664242093",
@@ -2442,8 +2443,7 @@
     "2063952678468894813",
     "2063612182538133546",
     "2063625170263355590",
-    "2063742117227491418",
-    "2063779910468907243"
+    "2063742117227491418"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2067021653222338709",
