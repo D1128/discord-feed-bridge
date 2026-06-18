@@ -1119,6 +1119,7 @@
     "yt:video:nJ35VKVTAuo"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2606/18/news127.html",
     "https://www.itmedia.co.jp/news/articles/2606/18/news112.html",
     "https://www.itmedia.co.jp/pcuser/articles/2606/18/news104.html",
     "https://www.itmedia.co.jp/news/articles/2606/18/news124.html",
@@ -1167,8 +1168,7 @@
     "https://www.itmedia.co.jp/pcuser/articles/2606/17/news057.html",
     "https://monoist.itmedia.co.jp/mn/articles/2606/17/news016.html",
     "https://www.itmedia.co.jp/news/articles/2606/16/news105.html",
-    "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/",
-    "https://www.itmedia.co.jp/news/articles/2606/16/news110.html"
+    "https://www.itmedia.co.jp/aiplus/article/2606/16/2000000095/"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1276,6 +1276,12 @@
     "https://daily-gadget.net/?p=115839"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=63446",
+    "https://sumahodigest.com/?p=63450",
+    "https://sumahodigest.com/?p=63454",
+    "https://sumahodigest.com/?p=63459",
+    "https://sumahodigest.com/?p=63464",
+    "https://sumahodigest.com/?p=63468",
     "https://sumahodigest.com/?p=63437",
     "https://sumahodigest.com/?p=63441",
     "https://sumahodigest.com/?p=63432",
@@ -1319,13 +1325,7 @@
     "https://sumahodigest.com/?p=63257",
     "https://sumahodigest.com/?p=63224",
     "https://sumahodigest.com/?p=63228",
-    "https://sumahodigest.com/?p=63232",
-    "https://sumahodigest.com/?p=63236",
-    "https://sumahodigest.com/?p=63208",
-    "https://sumahodigest.com/?p=63212",
-    "https://sumahodigest.com/?p=63216",
-    "https://sumahodigest.com/?p=63220",
-    "https://sumahodigest.com/?p=63204"
+    "https://sumahodigest.com/?p=63232"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/6802418398513908375",
@@ -2629,6 +2629,8 @@
     "2021794316444926259"
   ],
   "https://nitter.net/ctgptlb/rss": [
+    "2067597223123210601",
+    "2067598005814120594",
     "2067423646545817767",
     "2067423839878062507",
     "2066865004163522996",
@@ -2676,11 +2678,14 @@
     "2057617376842318103",
     "2057617382814912918",
     "2057617392432480668",
-    "2057617394588422546",
-    "2057618067908374617",
-    "2057618321252741263"
+    "2057617394588422546"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2067566753488777450",
+    "2067566770433720520",
+    "2067566786896449748",
+    "2067566803451281879",
+    "2067612142849896549",
     "2067515562675302530",
     "2067515579821691329",
     "2067547955071263082",
@@ -2725,12 +2730,7 @@
     "2066657181592871047",
     "2066475885855977504",
     "2066428199832359185",
-    "2066447938512179295",
-    "2066460801188426094",
-    "2066460789352153596",
-    "2066475909985828955",
-    "2066475897876783611",
-    "2066475873042350513"
+    "2066447938512179295"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
