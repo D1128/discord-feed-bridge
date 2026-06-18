@@ -1682,6 +1682,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260618-google-home-speaker/",
+    "https://gigazine.net/news/20260618-wallpaper-engine-malware/",
     "https://gigazine.net/news/20260618-why-meta-destroying-engineering-organization/",
     "https://gigazine.net/news/20260618-acetylcholine-break-habit/",
     "https://gigazine.net/news/20260618-brushing-teeth-hospital-reduce-pneumonia/",
@@ -1729,9 +1731,7 @@
     "https://gigazine.net/news/20260616-anthropic-ai-controls-open-letter/",
     "https://gigazine.net/news/20260616-openrouter-ai-fusion/",
     "https://gigazine.net/news/20260616-fbi-cyber-range/",
-    "https://gigazine.net/news/20260616-microsoft-ai-energy-efficiency/",
-    "https://gigazine.net/news/20260616-chinese-linked-hackers-targeted-medical-research/",
-    "https://gigazine.net/news/20260616-gigazine-online-meeting/"
+    "https://gigazine.net/news/20260616-microsoft-ai-energy-efficiency/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220033",
@@ -2150,6 +2150,7 @@
     "yt:video:-CMJzz5FiQI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265238",
     "https://garumax.com/?p=265343",
     "https://garumax.com/?p=265281",
     "https://garumax.com/?p=265294",
@@ -2198,8 +2199,7 @@
     "https://garumax.com/?p=264112",
     "https://garumax.com/?p=264117",
     "https://garumax.com/?p=264032",
-    "https://garumax.com/?p=264056",
-    "https://garumax.com/?p=264014"
+    "https://garumax.com/?p=264056"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-sticker",
@@ -2237,6 +2237,9 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62431",
+    "https://androplus.jp/?p=62435",
+    "https://androplus.jp/?p=62446",
     "https://androplus.jp/?p=62421",
     "https://androplus.jp/?p=62119",
     "https://androplus.jp/?p=62294",
@@ -2283,10 +2286,7 @@
     "https://androplus.jp/?p=61859",
     "https://androplus.jp/?p=61861",
     "https://androplus.jp/?p=61780",
-    "https://androplus.jp/?p=61843",
-    "https://androplus.jp/?p=61432",
-    "https://androplus.jp/?p=61755",
-    "https://androplus.jp/?p=61809"
+    "https://androplus.jp/?p=61843"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
