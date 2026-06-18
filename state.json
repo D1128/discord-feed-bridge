@@ -656,6 +656,10 @@
     "https://taskhub.jp/magazine/?p=14273"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=282395",
+    "https://tabkul.com/?p=301982",
+    "https://tabkul.com/?p=301984",
+    "https://tabkul.com/?p=301986",
     "https://tabkul.com/?p=301978",
     "https://tabkul.com/?p=301977",
     "https://tabkul.com/?p=301975",
@@ -701,13 +705,10 @@
     "https://tabkul.com/?p=301842",
     "https://tabkul.com/?p=301867",
     "https://tabkul.com/?p=301868",
-    "https://tabkul.com/?p=301829",
-    "https://tabkul.com/?p=301827",
-    "https://tabkul.com/?p=301825",
-    "https://tabkul.com/?p=301826",
-    "https://tabkul.com/?p=301823"
+    "https://tabkul.com/?p=301829"
   ],
   "https://chinadap.jp/feed": [
+    "https://chinadap.jp/?p=36122",
     "https://chinadap.jp/?p=36103",
     "https://chinadap.jp/?p=35986",
     "https://chinadap.jp/?p=35905",
@@ -756,8 +757,7 @@
     "https://chinadap.jp/?p=33687",
     "https://chinadap.jp/?p=33808",
     "https://chinadap.jp/?p=33759",
-    "https://chinadap.jp/?p=33669",
-    "https://chinadap.jp/?p=33708"
+    "https://chinadap.jp/?p=33669"
   ],
   "https://feeds.feedburner.com/Jugglycn": [
     "https://juggly.cn/?p=251836",
@@ -824,6 +824,8 @@
     "https://liginc.co.jp/?p=674619"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:IURDljLwrwY",
+    "yt:video:2cN7AhNxWLY",
     "yt:video:JfmTS98enhM",
     "yt:video:c_-aJaTO8zQ",
     "yt:video:MoAOqKSDb7c",
@@ -871,9 +873,7 @@
     "yt:video:aqW8XiKKTZc",
     "yt:video:WPK8pL3jH_s",
     "yt:video:ndy1Eefw44M",
-    "yt:video:1lGIIlEGhSc",
-    "yt:video:rokhsDUHPnE",
-    "yt:video:FBO4qGB-U2E"
+    "yt:video:1lGIIlEGhSc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -2500,6 +2500,7 @@
     "2059050881749033248"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2067442930248278147",
     "2067399869543972991",
     "2067382531956318581",
     "2067389958474936514",
@@ -2548,8 +2549,7 @@
     "2062153987768668607",
     "2061634468218347919",
     "2061067923771543757",
-    "2061735824656388463",
-    "2061645227736105174"
+    "2061735824656388463"
   ],
   "https://nitter.net/showheyohtaki/rss": [
     "2067310826789441985",
