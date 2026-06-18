@@ -1683,6 +1683,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260619-samsung-foundry-booming-tsmc-alternatives/",
+    "https://gigazine.net/news/20260619-game-dev-dont-merge-files/",
     "https://gigazine.net/news/20260619-aliens-not-visiting-us/",
     "https://gigazine.net/news/20260618-us-science-chaos/",
     "https://gigazine.net/news/20260618-epic-games-lore/",
@@ -1730,11 +1732,14 @@
     "https://gigazine.net/news/20260617-firefox-152/",
     "https://gigazine.net/news/20260617-apple-change-hide-my-email-domain/",
     "https://gigazine.net/news/20260617-us-government-wont-allow-access-mythos/",
-    "https://gigazine.net/news/20260617-firefox-roadmap/",
-    "https://gigazine.net/news/20260617-spacex-acquires-curso-anysphere/",
-    "https://gigazine.net/news/20260617-how-to-earn-billion-dollars/"
+    "https://gigazine.net/news/20260617-firefox-roadmap/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=217484",
+    "https://aismiley.co.jp/?post_type=ai_news&p=220209",
+    "https://aismiley.co.jp/?post_type=ai_news&p=219977",
+    "https://aismiley.co.jp/?post_type=ai_news&p=219983",
+    "https://aismiley.co.jp/?post_type=ai_news&p=216617",
     "https://aismiley.co.jp/?post_type=ai_news&p=220033",
     "https://aismiley.co.jp/?post_type=ai_news&p=219964",
     "https://aismiley.co.jp/?post_type=ai_news&p=218478",
@@ -1779,12 +1784,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=218183",
     "https://aismiley.co.jp/?post_type=ai_news&p=217085",
     "https://aismiley.co.jp/?post_type=ai_news&p=217507",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217827",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217954",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218038",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218131",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217880",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217671"
+    "https://aismiley.co.jp/?post_type=ai_news&p=217827"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188255",
@@ -2449,6 +2449,7 @@
     "2064822786816905612"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2067745170985287830",
     "2067569010086944904",
     "2067382028245647564",
     "2067206873875365936",
@@ -2497,8 +2498,7 @@
     "2059595721888981181",
     "2059601258483519605",
     "2059413269753012529",
-    "2059237360643248573",
-    "2059109518269620724"
+    "2059237360643248573"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2067744165447024755",
