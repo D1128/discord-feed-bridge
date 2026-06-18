@@ -1119,6 +1119,11 @@
     "yt:video:nJ35VKVTAuo"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/business/articles/2606/19/news024.html",
+    "https://www.itmedia.co.jp/news/articles/2606/19/news062.html",
+    "https://www.itmedia.co.jp/news/articles/2606/19/news069.html",
+    "https://www.itmedia.co.jp/news/articles/2606/19/news028.html",
+    "https://www.itmedia.co.jp/business/articles/2606/19/news026.html",
     "https://www.itmedia.co.jp/business/articles/2606/19/news021.html",
     "https://built.itmedia.co.jp/bt/articles/2606/18/news132.html",
     "https://www.itmedia.co.jp/business/articles/2606/19/news019.html",
@@ -1163,12 +1168,7 @@
     "https://www.itmedia.co.jp/pcuser/articles/2606/17/news084.html",
     "https://www.itmedia.co.jp/pcuser/articles/2606/17/news061.html",
     "https://www.itmedia.co.jp/news/articles/2606/17/news101.html",
-    "https://www.itmedia.co.jp/news/articles/2606/17/news066.html",
-    "https://www.itmedia.co.jp/news/articles/2606/16/news126.html",
-    "https://www.itmedia.co.jp/news/articles/2606/17/news020.html",
-    "https://www.itmedia.co.jp/business/articles/2606/17/news024.html",
-    "https://www.itmedia.co.jp/business/articles/2606/16/news016.html",
-    "https://monoist.itmedia.co.jp/mn/articles/2606/17/news022.html"
+    "https://www.itmedia.co.jp/news/articles/2606/17/news066.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -2681,6 +2681,9 @@
     "2057617394588422546"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2067736625237708959",
+    "2067736641796792522",
+    "2067736654367084545",
     "2067721523780354140",
     "2067721539148185981",
     "2067566753488777450",
@@ -2727,10 +2730,7 @@
     "2066657105453707311",
     "2066657121522049102",
     "2066657137569476921",
-    "2066657153457533065",
-    "2066657169521754177",
-    "2066657181592871047",
-    "2066475885855977504"
+    "2066657153457533065"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
