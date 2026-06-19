@@ -657,6 +657,8 @@
     "https://taskhub.jp/magazine/?p=14273"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=301999",
+    "https://tabkul.com/?p=302001",
     "https://tabkul.com/?p=301997",
     "https://tabkul.com/?p=301994",
     "https://tabkul.com/?p=301988",
@@ -704,11 +706,10 @@
     "https://tabkul.com/?p=301870",
     "https://tabkul.com/?p=301871",
     "https://tabkul.com/?p=301873",
-    "https://tabkul.com/?p=301875",
-    "https://tabkul.com/?p=301877",
-    "https://tabkul.com/?p=301842"
+    "https://tabkul.com/?p=301875"
   ],
   "https://chinadap.jp/feed": [
+    "https://chinadap.jp/?p=36096",
     "https://chinadap.jp/?p=36122",
     "https://chinadap.jp/?p=36103",
     "https://chinadap.jp/?p=35986",
@@ -757,8 +758,7 @@
     "https://chinadap.jp/?p=33867",
     "https://chinadap.jp/?p=33687",
     "https://chinadap.jp/?p=33808",
-    "https://chinadap.jp/?p=33759",
-    "https://chinadap.jp/?p=33669"
+    "https://chinadap.jp/?p=33759"
   ],
   "https://feeds.feedburner.com/Jugglycn": [
     "https://juggly.cn/?p=251836",
@@ -825,6 +825,8 @@
     "https://liginc.co.jp/?p=674619"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:ByU6CpBoe-Q",
+    "yt:video:0DW39x-6Jsk",
     "yt:video:I0K2Bpyz1JU",
     "yt:video:uMUiA7TOgno",
     "yt:video:pIw0yPpmT3Y",
@@ -872,9 +874,7 @@
     "yt:video:Tu8cIivpd40",
     "yt:video:BUuR0WLp6GA",
     "yt:video:yJpsGbfAZpU",
-    "yt:video:geVVLpwRpZw",
-    "yt:video:9ly626J_iZ0",
-    "yt:video:kbFJT0Ii-NI"
+    "yt:video:geVVLpwRpZw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -929,6 +929,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:UVpN43e1exo",
     "yt:video:r4JNRwLmpXA",
     "yt:video:JUk7VYOz5Jg",
     "yt:video:lS97dmSvaho",
@@ -977,8 +978,7 @@
     "yt:video:RZY-8DsJg0A",
     "yt:video:GtAoV_5He2M",
     "yt:video:IX-05msyVU8",
-    "yt:video:zwyibSYbZuw",
-    "yt:video:R7AyWS9BQEU"
+    "yt:video:zwyibSYbZuw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:GW6VB8pAM6w",
@@ -2501,6 +2501,7 @@
     "2059237360643248573"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2067896418409300358",
     "2067805317879013559",
     "2067744165447024755",
     "2067442930248278147",
@@ -2549,8 +2550,7 @@
     "2062370003039699155",
     "2062328693239005363",
     "2062308347475583274",
-    "2062153987768668607",
-    "2061634468218347919"
+    "2062153987768668607"
   ],
   "https://nitter.net/showheyohtaki/rss": [
     "2067779175860314489",
