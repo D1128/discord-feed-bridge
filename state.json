@@ -1683,6 +1683,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260619-headline/",
+    "https://gigazine.net/news/20260619-laguna-m1-ai-open/",
+    "https://gigazine.net/news/20260619-matsuya-matsunoya-shkmeruli/",
+    "https://gigazine.net/news/20260619-openai-beneficial-rl/",
     "https://gigazine.net/news/20260619-chernobyl-wildlife-acted-differently-russias-invasion/",
     "https://gigazine.net/news/20260619-apple-ios-brazil/",
     "https://gigazine.net/news/20260619-waymo-recalls-4000-robotaxis-stop-driving-into-highway-construction/",
@@ -1728,13 +1732,10 @@
     "https://gigazine.net/news/20260617-headline/",
     "https://gigazine.net/news/20260617-openai-simulating-deployment/",
     "https://gigazine.net/news/20260617-honda-civic-evil-valet/",
-    "https://gigazine.net/news/20260617-who-is-fabrice-bellard/",
-    "https://gigazine.net/news/20260617-strange-global-pattern-humans-walk/",
-    "https://gigazine.net/news/20260617-microsoft-turns-aws-github-capacity/",
-    "https://gigazine.net/news/20260617-qwen-robot-suite/",
-    "https://gigazine.net/news/20260617-state-of-ai/"
+    "https://gigazine.net/news/20260617-who-is-fabrice-bellard/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=220111",
     "https://aismiley.co.jp/?post_type=ai_news&p=220002",
     "https://aismiley.co.jp/?post_type=ai_news&p=218464",
     "https://aismiley.co.jp/?post_type=ai_news&p=217484",
@@ -1783,10 +1784,11 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=216849",
     "https://aismiley.co.jp/?post_type=ai_news&p=217604",
     "https://aismiley.co.jp/?post_type=ai_news&p=217433",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218183",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217085"
+    "https://aismiley.co.jp/?post_type=ai_news&p=218183"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188426",
+    "https://win-tab.net/?p=188414",
     "https://win-tab.net/?p=188255",
     "https://win-tab.net/?p=188404",
     "https://win-tab.net/?p=187471",
@@ -1834,11 +1836,10 @@
     "https://win-tab.net/?p=187737",
     "https://win-tab.net/?p=187776",
     "https://win-tab.net/?p=187506",
-    "https://win-tab.net/?p=187755",
-    "https://win-tab.net/?p=187727",
-    "https://win-tab.net/?p=187647"
+    "https://win-tab.net/?p=187755"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:Ym5nb_exIZQ",
     "yt:video:lFV8ocuVxao",
     "yt:video:KSMtEWz0uww",
     "yt:video:756O6tlXv_4",
@@ -1887,10 +1888,10 @@
     "yt:video:w4Ta5nRlZHU",
     "yt:video:UL-s3RgVAUU",
     "yt:video:5jY_xkYoOOw",
-    "yt:video:V_a-HhbwbYs",
-    "yt:video:wmS6jcEdgFQ"
+    "yt:video:V_a-HhbwbYs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:rj0zOvQr9Uk",
     "yt:video:eclVcS2UPEg",
     "yt:video:CXLTnABMFLM",
     "yt:video:97aZ8SK0hFQ",
@@ -1939,8 +1940,7 @@
     "yt:video:dmj3IdyTA-4",
     "yt:video:xgq7X6EKAVk",
     "yt:video:5Z8P_nothwo",
-    "yt:video:Z2JvmSe69PI",
-    "yt:video:IbhZgIk_9wA"
+    "yt:video:Z2JvmSe69PI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:97hB-6rcY1o",
@@ -1995,6 +1995,7 @@
     "yt:video:_in0-XUTqrE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:ZDDA8daotNU",
     "yt:video:0COm3v2EumA",
     "yt:video:s1g5lIBX5Vo",
     "yt:video:EUOBB30xoy0",
@@ -2043,8 +2044,7 @@
     "yt:video:YnrfsHHePLw",
     "yt:video:tC5Vpkkd0K4",
     "yt:video:BYr9QrQhgFc",
-    "yt:video:OXppwX0zPRw",
-    "yt:video:x-Os75fijBo"
+    "yt:video:OXppwX0zPRw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
     "yt:video:A-FtzPtwkLQ",
@@ -2099,6 +2099,7 @@
     "yt:video:FF37bSgyliw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:KhztBLfkaRw",
     "yt:video:aBQLzMHOl88",
     "yt:video:nHchSttVuRM",
     "yt:video:7DBTl8maL4o",
@@ -2147,10 +2148,12 @@
     "yt:video:q_g1kAg7uD4",
     "yt:video:UvTiStuAAhU",
     "yt:video:L5aXI3P1LJQ",
-    "yt:video:YxMue4MEyaA",
-    "yt:video:-CMJzz5FiQI"
+    "yt:video:YxMue4MEyaA"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=264727",
+    "https://garumax.com/?p=263994",
+    "https://garumax.com/?p=265507",
     "https://garumax.com/?p=265398",
     "https://garumax.com/?p=265369",
     "https://garumax.com/?p=265238",
@@ -2197,10 +2200,7 @@
     "https://garumax.com/?p=264092",
     "https://garumax.com/?p=264176",
     "https://garumax.com/?p=264136",
-    "https://garumax.com/?p=264019",
-    "https://garumax.com/?p=263920",
-    "https://garumax.com/?p=264112",
-    "https://garumax.com/?p=264117"
+    "https://garumax.com/?p=264019"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-sticker",
@@ -2238,6 +2238,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62494",
     "https://androplus.jp/?p=61705",
     "https://androplus.jp/?p=62482",
     "https://androplus.jp/?p=62463",
@@ -2286,8 +2287,7 @@
     "https://androplus.jp/?p=61922",
     "https://androplus.jp/?p=61931",
     "https://androplus.jp/?p=59652",
-    "https://androplus.jp/?p=61871",
-    "https://androplus.jp/?p=61884"
+    "https://androplus.jp/?p=61871"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
