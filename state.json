@@ -251,6 +251,8 @@
     "https://telektlist.com/?p=137234"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24598",
+    "https://codezine.jp/article/detail/24608",
     "https://codezine.jp/article/detail/24626",
     "https://codezine.jp/article/detail/24597",
     "https://codezine.jp/article/detail/24606",
@@ -298,9 +300,7 @@
     "https://codezine.jp/article/detail/24556",
     "https://codezine.jp/article/detail/24559",
     "https://codezine.jp/article/detail/24570",
-    "https://codezine.jp/article/detail/24554",
-    "https://codezine.jp/article/detail/24555",
-    "https://codezine.jp/article/detail/24558"
+    "https://codezine.jp/article/detail/24554"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -419,6 +419,7 @@
     "yt:video:5S_WREQ_IVs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:2NeFDenLtf8",
     "yt:video:D5J2mqHjg4g",
     "yt:video:4va8459IHi4",
     "yt:video:_--2s3G8iCw",
@@ -467,8 +468,7 @@
     "yt:video:f9KpoSPlZwg",
     "yt:video:bQ_8D_w86Yc",
     "yt:video:NogXAlmY_n0",
-    "yt:video:wMqlEFImWaQ",
-    "yt:video:1mZzxtwnkzw"
+    "yt:video:wMqlEFImWaQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:7iJrD9ANimw",
@@ -509,6 +509,7 @@
     "yt:video:_Lp7bbz9U60"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtiDTuG40ZOarubtFm1fbzg": [
+    "yt:video:plNdfLiUHJg",
     "yt:video:YhOEx6t4PDQ",
     "yt:video:fmRAxOWvnec",
     "yt:video:UnIhP94_xCo",
@@ -2856,6 +2857,7 @@
     "2034071755598524581"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2068251151473205343",
     "2067816259727806657",
     "2066655424334676159",
     "2066295828126560665",
@@ -2904,8 +2906,7 @@
     "2033354549369655672",
     "2033302227302101035",
     "2033302228820476106",
-    "2029732507042861062",
-    "2031292702663520553"
+    "2029732507042861062"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
