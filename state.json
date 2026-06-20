@@ -1173,6 +1173,7 @@
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=284981",
     "https://smhn.info/?p=285509",
     "https://smhn.info/?p=285429",
     "https://smhn.info/?p=284968",
@@ -1221,10 +1222,11 @@
     "https://smhn.info/?p=284821",
     "https://smhn.info/?p=284693",
     "https://smhn.info/?p=284682",
-    "https://smhn.info/?p=284642",
-    "https://smhn.info/?p=284512"
+    "https://smhn.info/?p=284642"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=116223",
+    "https://daily-gadget.net/?p=116230",
     "https://daily-gadget.net/?p=116218",
     "https://daily-gadget.net/?p=116194",
     "https://daily-gadget.net/?p=116199",
@@ -1272,9 +1274,7 @@
     "https://daily-gadget.net/?p=115931",
     "https://daily-gadget.net/?p=115936",
     "https://daily-gadget.net/?p=115909",
-    "https://daily-gadget.net/?p=115928",
-    "https://daily-gadget.net/?p=115896",
-    "https://daily-gadget.net/?p=115899"
+    "https://daily-gadget.net/?p=115928"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=63578",
@@ -1540,6 +1540,7 @@
     "yt:video:8v9fZoFuUW8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
+    "yt:video:7lJyLVoIja4",
     "yt:video:yedAfXfNXbE",
     "yt:video:BgX2CsBJOXQ",
     "yt:video:2JOLh8vtJS0",
@@ -2683,6 +2684,10 @@
     "2057617392432480668"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2068231427024662689",
+    "2068231439070724143",
+    "2068256625669095719",
+    "2068256637899726880",
     "2068121668564972027",
     "2068121681252753751",
     "2068091466380202370",
@@ -2728,11 +2733,7 @@
     "2067381813941780954",
     "2067366710706102548",
     "2067366728095711680",
-    "2067235382320861491",
-    "2067235418840641994",
-    "2067186608248619397",
-    "2065740565057356088",
-    "2067079928710053989"
+    "2067235382320861491"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
