@@ -1687,6 +1687,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260621-claude-guillemot-passed-away/",
     "https://gigazine.net/news/20260621-desktop-mode/",
     "https://gigazine.net/news/20260621-access/",
     "https://gigazine.net/news/20260621-whats-in-a-gguf/",
@@ -1735,8 +1736,7 @@
     "https://gigazine.net/news/20260618-blink-on-ios/",
     "https://gigazine.net/news/20260618-ltx-trainer-video-generation-ai-lora/",
     "https://gigazine.net/news/20260618-github-limit-pull-request/",
-    "https://gigazine.net/news/20260618-flight-simulator-google-earth/",
-    "https://gigazine.net/news/20260618-midjourney-medical-scanner/"
+    "https://gigazine.net/news/20260618-flight-simulator-google-earth/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220111",
@@ -1895,6 +1895,7 @@
     "yt:video:V_a-HhbwbYs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:QyRpJg_Gzm4",
     "yt:video:IfIPOe_IbGc",
     "yt:video:X8bWSt4op0Q",
     "yt:video:eGcW6Y-sxEE",
@@ -1943,8 +1944,7 @@
     "yt:video:QfSKU8fZEpI",
     "yt:video:LCe73CJFRsE",
     "yt:video:uw0VkiOnOBE",
-    "yt:video:85sXMYsBnB0",
-    "yt:video:vGOH1gn-5y8"
+    "yt:video:85sXMYsBnB0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:0iHixDqQuNM",
@@ -2103,6 +2103,7 @@
     "yt:video:hvnTVM00Lu4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:zWNylNTZ4kg",
     "yt:video:Jp4NYfzCWLU",
     "yt:video:KhztBLfkaRw",
     "yt:video:aBQLzMHOl88",
@@ -2151,10 +2152,10 @@
     "yt:video:hsVqVCFqHQY",
     "yt:video:tYoG7Gw-2fE",
     "yt:video:q_g1kAg7uD4",
-    "yt:video:UvTiStuAAhU",
-    "yt:video:L5aXI3P1LJQ"
+    "yt:video:UvTiStuAAhU"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265525",
     "https://garumax.com/?p=265523",
     "https://garumax.com/?p=265461",
     "https://garumax.com/?p=265569",
@@ -2203,8 +2204,7 @@
     "https://garumax.com/?p=264311",
     "https://garumax.com/?p=264314",
     "https://garumax.com/?p=264323",
-    "https://garumax.com/?p=264148",
-    "https://garumax.com/?p=264092"
+    "https://garumax.com/?p=264148"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-sticker",
