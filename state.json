@@ -147,6 +147,8 @@
     "https://ainow.ai/?p=277991"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=93273",
+    "https://butsuyoku-gadget.com/?p=93279",
     "https://butsuyoku-gadget.com/?p=93261",
     "https://butsuyoku-gadget.com/?p=93255",
     "https://butsuyoku-gadget.com/?p=93222",
@@ -194,9 +196,7 @@
     "https://butsuyoku-gadget.com/?p=92720",
     "https://butsuyoku-gadget.com/?p=92767",
     "https://butsuyoku-gadget.com/?p=92771",
-    "https://butsuyoku-gadget.com/?p=92707",
-    "https://butsuyoku-gadget.com/?p=92732",
-    "https://butsuyoku-gadget.com/?p=92714"
+    "https://butsuyoku-gadget.com/?p=92707"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137839",
@@ -251,6 +251,7 @@
     "https://telektlist.com/?p=137234"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/24609",
     "https://codezine.jp/article/detail/24598",
     "https://codezine.jp/article/detail/24608",
     "https://codezine.jp/article/detail/24626",
@@ -299,8 +300,7 @@
     "https://codezine.jp/article/detail/24577",
     "https://codezine.jp/article/detail/24556",
     "https://codezine.jp/article/detail/24559",
-    "https://codezine.jp/article/detail/24570",
-    "https://codezine.jp/article/detail/24554"
+    "https://codezine.jp/article/detail/24570"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2859,6 +2859,9 @@
     "2034071755598524581"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2068303700058349908",
+    "2068376575733846406",
+    "2068447849847927097",
     "2068251151473205343",
     "2067816259727806657",
     "2066655424334676159",
@@ -2905,10 +2908,7 @@
     "2034092035351973955",
     "2033783867988185549",
     "2034190571120804282",
-    "2033354549369655672",
-    "2033302227302101035",
-    "2033302228820476106",
-    "2029732507042861062"
+    "2033354549369655672"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
