@@ -1687,6 +1687,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260622-polymarket-creators-content/",
+    "https://gigazine.net/news/20260622-reveal-mosquitoes-bite-some-people-more/",
+    "https://gigazine.net/news/20260622-anthropic-claude-identity-verification/",
+    "https://gigazine.net/news/20260622-prize-ai-story/",
+    "https://gigazine.net/news/20260622-sakana-fugu-multi-agent-system-ai/",
+    "https://gigazine.net/news/20260622-alien-invasion-alerts/",
+    "https://gigazine.net/news/20260622-norway-ban-ai-elementary-school/",
+    "https://gigazine.net/news/20260622-india-telegram-block-vpn-rush/",
+    "https://gigazine.net/news/20260622-cloudflare-temporary-accounts/",
+    "https://gigazine.net/news/20260622-age-of-empire-ii-goat-llm/",
     "https://gigazine.net/news/20260622-windows-media-player-more-ram/",
     "https://gigazine.net/news/20260622-lemonade-local-ai-mcp/",
     "https://gigazine.net/news/20260622-gerrymandle/",
@@ -1726,19 +1736,11 @@
     "https://gigazine.net/news/20260619-apple-patches-eavesdropping-vulnerability-beats-studio-buds/",
     "https://gigazine.net/news/20260619-worlds-richest-10-costing-earth/",
     "https://gigazine.net/news/20260619-github-malware-distribution/",
-    "https://gigazine.net/news/20260619-intel-arc-pro-b70-local-ai/",
-    "https://gigazine.net/news/20260619-windows-new-outlook-delay/",
-    "https://gigazine.net/news/20260619-grok-word-excel-powerpoint/",
-    "https://gigazine.net/news/20260619-samsung-foundry-booming-tsmc-alternatives/",
-    "https://gigazine.net/news/20260619-game-dev-dont-merge-files/",
-    "https://gigazine.net/news/20260619-aliens-not-visiting-us/",
-    "https://gigazine.net/news/20260618-us-science-chaos/",
-    "https://gigazine.net/news/20260618-epic-games-lore/",
-    "https://gigazine.net/news/20260618-ai-medical-tools-surpass-doctors-mira-amie/",
-    "https://gigazine.net/news/20260618-mitsuya-sour-shikuwasa/",
-    "https://gigazine.net/news/20260618-happyoyster-real-time-world-model/"
+    "https://gigazine.net/news/20260619-intel-arc-pro-b70-local-ai/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=220546",
+    "https://aismiley.co.jp/?post_type=ai_news&p=218888",
     "https://aismiley.co.jp/?post_type=ai_news&p=220111",
     "https://aismiley.co.jp/?post_type=ai_news&p=220002",
     "https://aismiley.co.jp/?post_type=ai_news&p=218464",
@@ -1786,11 +1788,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=218190",
     "https://aismiley.co.jp/?post_type=ai_news&p=218514",
     "https://aismiley.co.jp/?post_type=ai_news&p=216849",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217604",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217433",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218183"
+    "https://aismiley.co.jp/?post_type=ai_news&p=217604"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188490",
     "https://win-tab.net/?p=188476",
     "https://win-tab.net/?p=187435",
     "https://win-tab.net/?p=188456",
@@ -1839,8 +1840,7 @@
     "https://win-tab.net/?p=187858",
     "https://win-tab.net/?p=187857",
     "https://win-tab.net/?p=187116",
-    "https://win-tab.net/?p=187848",
-    "https://win-tab.net/?p=187838"
+    "https://win-tab.net/?p=187848"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:Ym5nb_exIZQ",
@@ -2155,6 +2155,8 @@
     "yt:video:UvTiStuAAhU"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265647",
+    "https://garumax.com/?p=261992",
     "https://garumax.com/?p=265525",
     "https://garumax.com/?p=265523",
     "https://garumax.com/?p=265461",
@@ -2202,9 +2204,7 @@
     "https://garumax.com/?p=264503",
     "https://garumax.com/?p=264510",
     "https://garumax.com/?p=264311",
-    "https://garumax.com/?p=264314",
-    "https://garumax.com/?p=264323",
-    "https://garumax.com/?p=264148"
+    "https://garumax.com/?p=264314"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-sticker",
