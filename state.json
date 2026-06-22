@@ -95,6 +95,8 @@
     "https://www.gigafree.net/media/transcription/Handy.html"
   ],
   "https://ainow.ai/feed/": [
+    "https://ainow.ai/?p=278192",
+    "https://ainow.ai/?p=278195",
     "https://ainow.ai/?p=278185",
     "https://ainow.ai/?p=278188",
     "https://ainow.ai/?p=278180",
@@ -142,9 +144,7 @@
     "https://ainow.ai/?p=278015",
     "https://ainow.ai/?p=278007",
     "https://ainow.ai/?p=278004",
-    "https://ainow.ai/?p=278000",
-    "https://ainow.ai/?p=277984",
-    "https://ainow.ai/?p=277991"
+    "https://ainow.ai/?p=278000"
   ],
   "https://butsuyoku-gadget.com/feed/": [
     "https://butsuyoku-gadget.com/?p=93283",
@@ -419,6 +419,7 @@
     "yt:video:5S_WREQ_IVs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:lXYOjt7dLwE",
     "yt:video:5VFpLee5q1w",
     "yt:video:2NeFDenLtf8",
     "yt:video:D5J2mqHjg4g",
@@ -467,8 +468,7 @@
     "yt:video:qhUob-2AOgw",
     "yt:video:sEOKyhPN6Pw",
     "yt:video:f9KpoSPlZwg",
-    "yt:video:bQ_8D_w86Yc",
-    "yt:video:NogXAlmY_n0"
+    "yt:video:bQ_8D_w86Yc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:7iJrD9ANimw",
@@ -555,6 +555,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:nL3mcbj3sfg",
     "yt:video:c2ABD8ivaHA",
     "yt:video:8NOolzWfYgM",
     "yt:video:EBSY2qqUGMo",
@@ -603,8 +604,7 @@
     "yt:video:PEqCpe05RjM",
     "yt:video:W8qMJPOivDE",
     "yt:video:XXdbg_6acKo",
-    "yt:video:tL3if_FFihM",
-    "yt:video:UOLunoYmwSs"
+    "yt:video:tL3if_FFihM"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=15161",
@@ -2756,6 +2756,10 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2068982064494596571",
+    "2068982093326254501",
+    "2068982148527439970",
+    "2068982198116721071",
     "2068901386797105652",
     "2068901359337066546",
     "2068902033911132275",
@@ -2801,11 +2805,7 @@
     "2067630634982687101",
     "2067630737793450154",
     "2067630772614582468",
-    "2067631880854499639",
-    "2067631904590119387",
-    "2067535886993252862",
-    "2067535923978674589",
-    "2067535972368347430"
+    "2067631880854499639"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2067597223123210601",
