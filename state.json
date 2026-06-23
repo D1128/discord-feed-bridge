@@ -1689,6 +1689,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260624-family-exercise-cognitive-function/",
     "https://gigazine.net/news/20260623-generative-ai-impossible-homes/",
     "https://gigazine.net/news/20260623-cascading-consumer-dram-shortage/",
     "https://gigazine.net/news/20260623-glm-5-2-openrouter/",
@@ -1737,8 +1738,7 @@
     "https://gigazine.net/news/20260622-mit-built-os-fractal-study-chips/",
     "https://gigazine.net/news/20260622-modos-flow/",
     "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/",
-    "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/",
-    "https://gigazine.net/news/20260621-claude-guillemot-passed-away/"
+    "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220635",
@@ -2403,6 +2403,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2069352730351796455",
     "2069347890984542719",
     "2069358021453758742",
     "2069206497469575403",
@@ -2451,8 +2452,7 @@
     "2066449174158311848",
     "2066227485805879601",
     "2066147777248473162",
-    "2065760999026896914",
-    "2066107792877076520"
+    "2065760999026896914"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2069192960776745159",
