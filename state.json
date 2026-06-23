@@ -1689,6 +1689,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260624-drawing-tablet-linux-driver/",
     "https://gigazine.net/news/20260624-family-exercise-cognitive-function/",
     "https://gigazine.net/news/20260623-generative-ai-impossible-homes/",
     "https://gigazine.net/news/20260623-cascading-consumer-dram-shortage/",
@@ -1737,8 +1738,7 @@
     "https://gigazine.net/news/20260622-gerrymandle/",
     "https://gigazine.net/news/20260622-mit-built-os-fractal-study-chips/",
     "https://gigazine.net/news/20260622-modos-flow/",
-    "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/",
-    "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/"
+    "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220635",
@@ -2403,6 +2403,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2068106560338063612",
     "2069352730351796455",
     "2069347890984542719",
     "2069358021453758742",
@@ -2451,10 +2452,10 @@
     "2066461999819870376",
     "2066449174158311848",
     "2066227485805879601",
-    "2066147777248473162",
-    "2065760999026896914"
+    "2066147777248473162"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2069549812077482366",
     "2069192960776745159",
     "2068827804544995788",
     "2068528331096559951",
@@ -2503,8 +2504,7 @@
     "2060129237475234256",
     "2060001331142951167",
     "2059960878402011556",
-    "2059840837211844654",
-    "2059773392979403097"
+    "2059840837211844654"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2069345214498570590",
