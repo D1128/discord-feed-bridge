@@ -1689,6 +1689,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260623-generative-ai-impossible-homes/",
+    "https://gigazine.net/news/20260623-cascading-consumer-dram-shortage/",
     "https://gigazine.net/news/20260623-glm-5-2-openrouter/",
     "https://gigazine.net/news/20260623-nvidia-halos-for-robotics/",
     "https://gigazine.net/news/20260623-headline/",
@@ -1736,9 +1738,7 @@
     "https://gigazine.net/news/20260622-modos-flow/",
     "https://gigazine.net/news/20260621-gpu-vram-check-memtest-vulkan/",
     "https://gigazine.net/news/20260621-honey-natural-fuel-workouts/",
-    "https://gigazine.net/news/20260621-claude-guillemot-passed-away/",
-    "https://gigazine.net/news/20260621-desktop-mode/",
-    "https://gigazine.net/news/20260621-access/"
+    "https://gigazine.net/news/20260621-claude-guillemot-passed-away/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220635",
@@ -1897,6 +1897,7 @@
     "yt:video:5jY_xkYoOOw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:F6ik3za9PCs",
     "yt:video:2cND21btfOg",
     "yt:video:SXSp81thj4U",
     "yt:video:4iMBkt3QrTQ",
@@ -1945,8 +1946,7 @@
     "yt:video:axro66Zq3G0",
     "yt:video:Upg50TTxkio",
     "yt:video:bZP5MJBxQxM",
-    "yt:video:mBB2L3gb30k",
-    "yt:video:QfSKU8fZEpI"
+    "yt:video:mBB2L3gb30k"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:0iHixDqQuNM",
