@@ -607,6 +607,9 @@
     "yt:video:tL3if_FFihM"
   ],
   "https://bocek.co.jp/media/feed/": [
+    "https://taskhub.jp/magazine/?p=15173",
+    "https://taskhub.jp/magazine/?p=15179",
+    "https://taskhub.jp/magazine/?p=15186",
     "https://taskhub.jp/magazine/?p=15161",
     "https://taskhub.jp/magazine/?p=15087",
     "https://taskhub.jp/magazine/?p=15096",
@@ -653,10 +656,7 @@
     "https://taskhub.jp/magazine/?p=14317",
     "https://taskhub.jp/magazine/?p=14310",
     "https://taskhub.jp/magazine/?p=14304",
-    "https://taskhub.jp/magazine/?p=14225",
-    "https://taskhub.jp/magazine/?p=14292",
-    "https://taskhub.jp/magazine/?p=14283",
-    "https://taskhub.jp/magazine/?p=14273"
+    "https://taskhub.jp/magazine/?p=14225"
   ],
   "https://feeds.feedburner.com/tabkul": [
     "https://tabkul.com/?p=302072",
@@ -827,6 +827,8 @@
     "https://liginc.co.jp/?p=679022"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:3ui2el83VRA",
+    "yt:video:4kIeRv3dWbc",
     "yt:video:ep4bZ2M_iaA",
     "yt:video:ZwFHvTd1dJY",
     "yt:video:QVBPQHS2QbA",
@@ -874,9 +876,7 @@
     "yt:video:Mmo7N6-jdEM",
     "yt:video:B59s_hqztVI",
     "yt:video:-cQecIxB8NQ",
-    "yt:video:NEHbHkvZEtM",
-    "yt:video:9Df2GwRRKEk",
-    "yt:video:-LT2vjIlll0"
+    "yt:video:NEHbHkvZEtM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -2559,6 +2559,8 @@
     "2064486191379148839"
   ],
   "https://nitter.net/showheyohtaki/rss": [
+    "2069687599024013714",
+    "2069695410936205652",
     "2068986967296241963",
     "2069355827753021648",
     "2069352730351796455",
@@ -2606,9 +2608,7 @@
     "2066192942835142767",
     "2065816010712814011",
     "2066030109459689754",
-    "2065738738656051680",
-    "2065665539092177383",
-    "2065680089657061471"
+    "2065738738656051680"
   ],
   "https://nitter.net/chibimana/rss": [
     "2067764524732793204",
