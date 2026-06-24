@@ -660,6 +660,7 @@
     "https://taskhub.jp/magazine/?p=14225"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=302076",
     "https://tabkul.com/?p=302072",
     "https://tabkul.com/?p=302070",
     "https://tabkul.com/?p=302067",
@@ -708,8 +709,7 @@
     "https://tabkul.com/?p=301910",
     "https://tabkul.com/?p=301908",
     "https://tabkul.com/?p=301907",
-    "https://tabkul.com/?p=301906",
-    "https://tabkul.com/?p=301905"
+    "https://tabkul.com/?p=301906"
   ],
   "https://chinadap.jp/feed": [
     "https://chinadap.jp/?p=36082",
@@ -828,6 +828,9 @@
     "https://liginc.co.jp/?p=679022"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:_ZBogZUbcT0",
+    "yt:video:H94qlwkyVLU",
+    "yt:video:S00qOVE6fT4",
     "yt:video:3ui2el83VRA",
     "yt:video:4kIeRv3dWbc",
     "yt:video:ep4bZ2M_iaA",
@@ -874,10 +877,7 @@
     "yt:video:aDWubsd6E98",
     "yt:video:uOm018GMla8",
     "yt:video:0VlLFFiCPhE",
-    "yt:video:Mmo7N6-jdEM",
-    "yt:video:B59s_hqztVI",
-    "yt:video:-cQecIxB8NQ",
-    "yt:video:NEHbHkvZEtM"
+    "yt:video:Mmo7N6-jdEM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -932,6 +932,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:LDzWW6RnWYk",
     "yt:video:ZE0pGRLvu7k",
     "yt:video:y50Vo_TnzDU",
     "yt:video:sqMfJCJEgg8",
@@ -980,8 +981,7 @@
     "yt:video:KlG1JXqD4SM",
     "yt:video:meAoEv2SvD4",
     "yt:video:trPcmmsgk6Y",
-    "yt:video:-xLhcPk-52M",
-    "yt:video:RZY-8DsJg0A"
+    "yt:video:-xLhcPk-52M"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:GW6VB8pAM6w",
@@ -1018,6 +1018,7 @@
     "yt:video:GQx8rZZyDH8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCpUQnk6MaY4o3NdgJmv10cw": [
+    "yt:video:MvERsyoVewI",
     "yt:video:-r4WfSN-PtY",
     "yt:video:1W5AMpHsl7M",
     "yt:video:oNciuhB8auI",
@@ -1066,8 +1067,7 @@
     "yt:video:0igUTzpTLHI",
     "yt:video:SdO9w5i0_nU",
     "yt:video:jv-fcDu7n34",
-    "yt:video:WjQ8nATSR18",
-    "yt:video:OppQFnxCQbk"
+    "yt:video:WjQ8nATSR18"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9buL3Iph_f7AZxdzmiBL8Q": [
     "yt:video:-fmSeEJ_l3c",
@@ -2508,6 +2508,8 @@
     "2059840837211844654"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2069707854395969581",
+    "2069708105894769009",
     "2069617760921911550",
     "2069622810121768999",
     "2069624370092474691",
@@ -2555,9 +2557,7 @@
     "2065207457283002500",
     "2065013265709883760",
     "2064893946325856467",
-    "2064894064752050408",
-    "2064906718073733456",
-    "2064486191379148839"
+    "2064894064752050408"
   ],
   "https://nitter.net/showheyohtaki/rss": [
     "2069687599024013714",
