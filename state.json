@@ -1689,6 +1689,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260624-ai-tech-stock-sell-off/",
+    "https://gigazine.net/news/20260624-mistral-ocr-4/",
+    "https://gigazine.net/news/20260624-krea-2-raw-turbo/",
+    "https://gigazine.net/news/20260624-lime-bike-leg-ebike-crashes-injuries/",
+    "https://gigazine.net/news/20260624-nvidia-45-degree-liquid-cooling/",
+    "https://gigazine.net/news/20260624-ethereum-foundation-cuts-54-jobs/",
+    "https://gigazine.net/news/20260624-claude-tag-slack/",
+    "https://gigazine.net/news/20260624-bytedance-seedance-2-5/",
+    "https://gigazine.net/news/20260624-tiktok-ai-slop/",
+    "https://gigazine.net/news/20260624-baidu-unlimited-ocr/",
     "https://gigazine.net/news/20260624-wolves-reconquering-europe-limits-coexistence/",
     "https://gigazine.net/news/20260624-drawing-tablet-linux-driver/",
     "https://gigazine.net/news/20260624-family-exercise-cognitive-function/",
@@ -1728,17 +1738,7 @@
     "https://gigazine.net/news/20260622-reveal-mosquitoes-bite-some-people-more/",
     "https://gigazine.net/news/20260622-anthropic-claude-identity-verification/",
     "https://gigazine.net/news/20260622-prize-ai-story/",
-    "https://gigazine.net/news/20260622-sakana-fugu-multi-agent-system-ai/",
-    "https://gigazine.net/news/20260622-alien-invasion-alerts/",
-    "https://gigazine.net/news/20260622-norway-ban-ai-elementary-school/",
-    "https://gigazine.net/news/20260622-india-telegram-block-vpn-rush/",
-    "https://gigazine.net/news/20260622-cloudflare-temporary-accounts/",
-    "https://gigazine.net/news/20260622-age-of-empire-ii-goat-llm/",
-    "https://gigazine.net/news/20260622-windows-media-player-more-ram/",
-    "https://gigazine.net/news/20260622-lemonade-local-ai-mcp/",
-    "https://gigazine.net/news/20260622-gerrymandle/",
-    "https://gigazine.net/news/20260622-mit-built-os-fractal-study-chips/",
-    "https://gigazine.net/news/20260622-modos-flow/"
+    "https://gigazine.net/news/20260622-sakana-fugu-multi-agent-system-ai/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220635",
@@ -2403,6 +2403,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2069620276438909143",
     "2068106560338063612",
     "2069352730351796455",
     "2069347890984542719",
@@ -2451,8 +2452,7 @@
     "2066439188082524528",
     "2066461999819870376",
     "2066449174158311848",
-    "2066227485805879601",
-    "2066147777248473162"
+    "2066227485805879601"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2069549812077482366",
