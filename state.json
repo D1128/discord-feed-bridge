@@ -1690,6 +1690,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260624-headline/",
+    "https://gigazine.net/news/20260624-mozilla-pact/",
+    "https://gigazine.net/news/20260624-asrock-intel-arc-pro-b70-creator-32gb-appearance/",
+    "https://gigazine.net/news/20260624-tencent-japanese-game-investment/",
     "https://gigazine.net/news/20260624-cloudflare-beehiiv-ai-crawl-control/",
     "https://gigazine.net/news/20260624-top500-supercomputer-lineshine/",
     "https://gigazine.net/news/20260624-iss-siloxane-water-system/",
@@ -1735,11 +1739,7 @@
     "https://gigazine.net/news/20260622-nissin-chickenramen-dry-curry/",
     "https://gigazine.net/news/20260622-satellite-reveal-gps-signal-tampering/",
     "https://gigazine.net/news/20260622-headline/",
-    "https://gigazine.net/news/20260622-ace-x86-ai-computation-extensions/",
-    "https://gigazine.net/news/20260622-loupe-for-ios/",
-    "https://gigazine.net/news/20260622-mythos-still-access/",
-    "https://gigazine.net/news/20260622-sequoyah-cherokee-written-language/",
-    "https://gigazine.net/news/20260622-rakuen-tsuihou-machiasobi30/"
+    "https://gigazine.net/news/20260622-ace-x86-ai-computation-extensions/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220635",
@@ -1950,6 +1950,7 @@
     "yt:video:mBB2L3gb30k"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:2Xcx4JTNGZ8",
     "yt:video:0iHixDqQuNM",
     "yt:video:97hB-6rcY1o",
     "yt:video:rScfUNTslfU",
@@ -1998,8 +1999,7 @@
     "yt:video:-eehTyANlVY",
     "yt:video:asfONdPsnw8",
     "yt:video:cMviE58pDbQ",
-    "yt:video:y99mxJBl9mI",
-    "yt:video:qEYoNfD7ARg"
+    "yt:video:y99mxJBl9mI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
     "yt:video:ZDDA8daotNU",
@@ -2054,6 +2054,7 @@
     "yt:video:OXppwX0zPRw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:tu5KIwrYWaI",
     "yt:video:E21qNVtyUlc",
     "yt:video:ANSDQfN72Bs",
     "yt:video:j3JtSO4yl94",
@@ -2102,10 +2103,10 @@
     "yt:video:JNIP-iaHd4A",
     "yt:video:Wb1rIiApAQQ",
     "yt:video:Ll43s_xTJH8",
-    "yt:video:sQGpTQVgFCI",
-    "yt:video:5zfqNrwyj8Q"
+    "yt:video:sQGpTQVgFCI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:7aQWb6orUgs",
     "yt:video:EJ-NSOLKUkw",
     "yt:video:r6Fhde5qXZk",
     "yt:video:zWNylNTZ4kg",
@@ -2154,8 +2155,7 @@
     "yt:video:2bam7f0bsjk",
     "yt:video:ZMZ5s2DQuKo",
     "yt:video:7QHAUml4Wc4",
-    "yt:video:hsVqVCFqHQY",
-    "yt:video:tYoG7Gw-2fE"
+    "yt:video:hsVqVCFqHQY"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=265688",
@@ -2404,6 +2404,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2069722208742899712",
+    "2069646033605558303",
     "2069620276438909143",
     "2068106560338063612",
     "2069352730351796455",
@@ -2451,9 +2453,7 @@
     "2066304410096161154",
     "2066655424334676159",
     "2066439188082524528",
-    "2066461999819870376",
-    "2066449174158311848",
-    "2066227485805879601"
+    "2066461999819870376"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2069549812077482366",
