@@ -828,6 +828,8 @@
     "https://liginc.co.jp/?p=679022"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:ti6Mz5Mrj7Y",
+    "yt:video:0X8csJAiVCw",
     "yt:video:8Y23bvh0zp8",
     "yt:video:5JA8M43aSNg",
     "yt:video:ld4txL1T08c",
@@ -875,9 +877,7 @@
     "yt:video:-XgNhFCpv20",
     "yt:video:IURDljLwrwY",
     "yt:video:2cN7AhNxWLY",
-    "yt:video:JfmTS98enhM",
-    "yt:video:c_-aJaTO8zQ",
-    "yt:video:MoAOqKSDb7c"
+    "yt:video:JfmTS98enhM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -2517,6 +2517,7 @@
     "2059960878402011556"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2070087106484224053",
     "2069932929107833048",
     "2069985531539468487",
     "2069988180410163623",
@@ -2565,8 +2566,7 @@
     "2065679094394847294",
     "2065646593286738327",
     "2065585692080762927",
-    "2065359702960259490",
-    "2065269106736247115"
+    "2065359702960259490"
   ],
   "https://nitter.net/showheyohtaki/rss": [
     "2070042981051281433",
