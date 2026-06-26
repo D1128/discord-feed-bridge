@@ -1699,6 +1699,15 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260626-openai-employees-codex/",
+    "https://gigazine.net/news/20260626-microsoft-windows-10-esu-extended/",
+    "https://gigazine.net/news/20260626-google-finance/",
+    "https://gigazine.net/news/20260626-notion-mail-is-going-away/",
+    "https://gigazine.net/news/20260626-wiggling-pinky-cognitive-decline/",
+    "https://gigazine.net/news/20260626-ford-rehire-inspectors/",
+    "https://gigazine.net/news/20260626-jetspec-speedup-ai/",
+    "https://gigazine.net/news/20260626-island-badblocker/",
+    "https://gigazine.net/news/20260626-publishers-sue-microsoft-openai/",
     "https://gigazine.net/news/20260626-videoproc-converter-ai/",
     "https://gigazine.net/news/20260626-sakana-ai-david-ha/",
     "https://gigazine.net/news/20260626-virginia-tech-helmet-ratings/",
@@ -1739,18 +1748,11 @@
     "https://gigazine.net/news/20260624-iss-siloxane-water-system/",
     "https://gigazine.net/news/20260624-fastwan-qad-video-generation-ai/",
     "https://gigazine.net/news/20260624-monster-energy-bad-apple/",
-    "https://gigazine.net/news/20260624-ai-tech-stock-sell-off/",
-    "https://gigazine.net/news/20260624-mistral-ocr-4/",
-    "https://gigazine.net/news/20260624-krea-2-raw-turbo/",
-    "https://gigazine.net/news/20260624-lime-bike-leg-ebike-crashes-injuries/",
-    "https://gigazine.net/news/20260624-nvidia-45-degree-liquid-cooling/",
-    "https://gigazine.net/news/20260624-ethereum-foundation-cuts-54-jobs/",
-    "https://gigazine.net/news/20260624-claude-tag-slack/",
-    "https://gigazine.net/news/20260624-bytedance-seedance-2-5/",
-    "https://gigazine.net/news/20260624-tiktok-ai-slop/",
-    "https://gigazine.net/news/20260624-baidu-unlimited-ocr/"
+    "https://gigazine.net/news/20260624-ai-tech-stock-sell-off/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=217175",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217195",
     "https://aismiley.co.jp/?post_type=ai_news&p=220320",
     "https://aismiley.co.jp/?post_type=ai_news&p=217690",
     "https://aismiley.co.jp/?post_type=ai_news&p=220618",
@@ -1798,11 +1800,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=219617",
     "https://aismiley.co.jp/?post_type=ai_news&p=217473",
     "https://aismiley.co.jp/?post_type=ai_news&p=218876",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219151",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219904",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219615"
+    "https://aismiley.co.jp/?post_type=ai_news&p=219151"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188554",
     "https://win-tab.net/?p=188544",
     "https://win-tab.net/?p=188528",
     "https://win-tab.net/?p=167344",
@@ -1851,8 +1852,7 @@
     "https://win-tab.net/?p=187986",
     "https://win-tab.net/?p=187970",
     "https://win-tab.net/?p=187960",
-    "https://win-tab.net/?p=187882",
-    "https://win-tab.net/?p=187933"
+    "https://win-tab.net/?p=187882"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:8bJLeFR7ZD4",
@@ -2167,6 +2167,8 @@
     "yt:video:7QHAUml4Wc4"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265819",
+    "https://garumax.com/?p=265745",
     "https://garumax.com/?p=265692",
     "https://garumax.com/?p=265763",
     "https://garumax.com/?p=265765",
@@ -2214,9 +2216,7 @@
     "https://garumax.com/?p=264799",
     "https://garumax.com/?p=264319",
     "https://garumax.com/?p=264714",
-    "https://garumax.com/?p=264757",
-    "https://garumax.com/?p=264710",
-    "https://garumax.com/?p=264082"
+    "https://garumax.com/?p=264757"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-sticker",
