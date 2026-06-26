@@ -1699,6 +1699,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260626-china-anthropic-api/",
     "https://gigazine.net/news/20260626-openai-will-delay-gpt-5-6/",
     "https://gigazine.net/news/20260626-headline/",
     "https://gigazine.net/news/20260626-vesuvius-challenge-carbonised-herculaneum-scroll/",
@@ -1747,8 +1748,7 @@
     "https://gigazine.net/news/20260625-jerrys-map-imaginary-land/",
     "https://gigazine.net/news/20260625-drug-brain-freeze-stroke/",
     "https://gigazine.net/news/20260625-police-flock-stalking/",
-    "https://gigazine.net/news/20260624-3dgs-in-glass/",
-    "https://gigazine.net/news/20260624-alibaba-sues-us/"
+    "https://gigazine.net/news/20260624-3dgs-in-glass/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=219375",
@@ -1907,6 +1907,7 @@
     "yt:video:UL-s3RgVAUU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:LcHCKzttk1U",
     "yt:video:DH110zcQ5IA",
     "yt:video:2zNTG7MrnCw",
     "yt:video:aSnFdRa68R0",
@@ -1955,8 +1956,7 @@
     "yt:video:fDmPtA7k1_k",
     "yt:video:IhWVaFrJTPQ",
     "yt:video:-Ox9ODxTKfU",
-    "yt:video:yv4PSMpCB6U",
-    "yt:video:axro66Zq3G0"
+    "yt:video:yv4PSMpCB6U"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:2Xcx4JTNGZ8",
@@ -2254,6 +2254,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62573",
     "https://androplus.jp/?p=62526",
     "https://androplus.jp/?p=62515",
     "https://androplus.jp/?p=62505",
@@ -2302,8 +2303,7 @@
     "https://androplus.jp/?p=62003",
     "https://androplus.jp/?p=61941",
     "https://androplus.jp/?p=61974",
-    "https://androplus.jp/?p=61984",
-    "https://androplus.jp/?p=61922"
+    "https://androplus.jp/?p=61984"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2413,6 +2413,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2070469223080702091",
     "2070447944239595682",
     "2070456136642576828",
     "2070410091904606596",
@@ -2461,8 +2462,7 @@
     "2067078663234015362",
     "2066827906530349141",
     "2066974593789923522",
-    "2066896642226495857",
-    "2066611953921896631"
+    "2066896642226495857"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2069912451538194833",
