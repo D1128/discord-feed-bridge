@@ -608,6 +608,9 @@
     "yt:video:XXdbg_6acKo"
   ],
   "https://bocek.co.jp/media/feed/": [
+    "https://taskhub.jp/magazine/?p=15213",
+    "https://taskhub.jp/magazine/?p=15221",
+    "https://taskhub.jp/magazine/?p=15228",
     "https://taskhub.jp/magazine/?p=15209",
     "https://taskhub.jp/magazine/?p=15201",
     "https://taskhub.jp/magazine/?p=15192",
@@ -654,12 +657,10 @@
     "https://taskhub.jp/magazine/?p=14380",
     "https://taskhub.jp/magazine/?p=14354",
     "https://taskhub.jp/magazine/?p=14358",
-    "https://taskhub.jp/magazine/?p=14347",
-    "https://taskhub.jp/magazine/?p=14342",
-    "https://taskhub.jp/magazine/?p=14326",
-    "https://taskhub.jp/magazine/?p=14317"
+    "https://taskhub.jp/magazine/?p=14347"
   ],
   "https://feeds.feedburner.com/tabkul": [
+    "https://tabkul.com/?p=302095",
     "https://tabkul.com/?p=302092",
     "https://tabkul.com/?p=302085",
     "https://tabkul.com/?p=302088",
@@ -708,8 +709,7 @@
     "https://tabkul.com/?p=301926",
     "https://tabkul.com/?p=301924",
     "https://tabkul.com/?p=301918",
-    "https://tabkul.com/?p=301914",
-    "https://tabkul.com/?p=301916"
+    "https://tabkul.com/?p=301914"
   ],
   "https://chinadap.jp/feed": [
     "https://chinadap.jp/?p=36082",
@@ -2517,6 +2517,7 @@
     "2059960878402011556"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2070346987992662032",
     "2070280884255940674",
     "2070290354562302129",
     "2070137317059350533",
@@ -2565,8 +2566,7 @@
     "2066657755994468528",
     "2066446866519310617",
     "2066356269947187438",
-    "2066296541812568573",
-    "2065737190186107278"
+    "2066296541812568573"
   ],
   "https://nitter.net/showheyohtaki/rss": [
     "2070042981051281433",
