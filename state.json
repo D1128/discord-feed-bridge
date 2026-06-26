@@ -1699,6 +1699,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260626-openai-will-delay-gpt-5-6/",
+    "https://gigazine.net/news/20260626-headline/",
+    "https://gigazine.net/news/20260626-vesuvius-challenge-carbonised-herculaneum-scroll/",
+    "https://gigazine.net/news/20260626-half-life-2-web-h12/",
     "https://gigazine.net/news/20260626-openrouter-mcp-server/",
     "https://gigazine.net/news/20260626-youtube-shorts-experience-updates-features/",
     "https://gigazine.net/news/20260626-bungie-layoff/",
@@ -1744,11 +1748,7 @@
     "https://gigazine.net/news/20260625-drug-brain-freeze-stroke/",
     "https://gigazine.net/news/20260625-police-flock-stalking/",
     "https://gigazine.net/news/20260624-3dgs-in-glass/",
-    "https://gigazine.net/news/20260624-alibaba-sues-us/",
-    "https://gigazine.net/news/20260624-headline/",
-    "https://gigazine.net/news/20260624-mozilla-pact/",
-    "https://gigazine.net/news/20260624-asrock-intel-arc-pro-b70-creator-32gb-appearance/",
-    "https://gigazine.net/news/20260624-tencent-japanese-game-investment/"
+    "https://gigazine.net/news/20260624-alibaba-sues-us/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=219375",
@@ -1803,6 +1803,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=219892"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188586",
     "https://win-tab.net/?p=188554",
     "https://win-tab.net/?p=188544",
     "https://win-tab.net/?p=188528",
@@ -1851,8 +1852,7 @@
     "https://win-tab.net/?p=187994",
     "https://win-tab.net/?p=187986",
     "https://win-tab.net/?p=187970",
-    "https://win-tab.net/?p=187960",
-    "https://win-tab.net/?p=187882"
+    "https://win-tab.net/?p=187960"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:8bJLeFR7ZD4",
@@ -2011,6 +2011,7 @@
     "yt:video:y99mxJBl9mI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:9yWetJCVCz4",
     "yt:video:ZDDA8daotNU",
     "yt:video:0COm3v2EumA",
     "yt:video:s1g5lIBX5Vo",
@@ -2059,10 +2060,10 @@
     "yt:video:dmeROJAtDXk",
     "yt:video:YnrfsHHePLw",
     "yt:video:tC5Vpkkd0K4",
-    "yt:video:BYr9QrQhgFc",
-    "yt:video:OXppwX0zPRw"
+    "yt:video:BYr9QrQhgFc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:UWgIPqPyh0A",
     "yt:video:tu5KIwrYWaI",
     "yt:video:E21qNVtyUlc",
     "yt:video:ANSDQfN72Bs",
@@ -2111,8 +2112,7 @@
     "yt:video:WaClf-URK_w",
     "yt:video:JNIP-iaHd4A",
     "yt:video:Wb1rIiApAQQ",
-    "yt:video:Ll43s_xTJH8",
-    "yt:video:sQGpTQVgFCI"
+    "yt:video:Ll43s_xTJH8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:iq5po7h8nYc",
@@ -2413,6 +2413,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2070447944239595682",
+    "2070456136642576828",
     "2070410091904606596",
     "2070077036136202621",
     "2070081098609226120",
@@ -2460,9 +2462,7 @@
     "2066827906530349141",
     "2066974593789923522",
     "2066896642226495857",
-    "2066611953921896631",
-    "2066831772902711360",
-    "2066821193664242093"
+    "2066611953921896631"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2069912451538194833",
