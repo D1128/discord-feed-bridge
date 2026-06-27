@@ -1701,6 +1701,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260627-hister/",
+    "https://gigazine.net/news/20260627-dandivine/",
     "https://gigazine.net/news/20260627-odysseus/",
     "https://gigazine.net/news/20260627-ultrasound-espresso-machine/",
     "https://gigazine.net/news/20260627-nintendo-switch-2-second-fastest-selling-console-us/",
@@ -1748,9 +1750,7 @@
     "https://gigazine.net/news/20260625-tsmc-reportedly-hiking-prices-all-advanced-nodes/",
     "https://gigazine.net/news/20260625-anthropic-accuses-alibaba/",
     "https://gigazine.net/news/20260625-eco-wave-power-turns-waves-watts-nvidia-ai/",
-    "https://gigazine.net/news/20260625-bunny-dns-free/",
-    "https://gigazine.net/news/20260625-ai-chatbots-politically-biased/",
-    "https://gigazine.net/news/20260625-qwen-agentworld/"
+    "https://gigazine.net/news/20260625-bunny-dns-free/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=219375",
@@ -1805,6 +1805,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=219892"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188353",
     "https://win-tab.net/?p=188593",
     "https://win-tab.net/?p=188586",
     "https://win-tab.net/?p=188554",
@@ -1853,8 +1854,7 @@
     "https://win-tab.net/?p=188019",
     "https://win-tab.net/?p=188006",
     "https://win-tab.net/?p=187994",
-    "https://win-tab.net/?p=187986",
-    "https://win-tab.net/?p=187970"
+    "https://win-tab.net/?p=187986"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:8bJLeFR7ZD4",
@@ -2415,6 +2415,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2070742800552149331",
+    "2070558189184319787",
+    "2070366741834948781",
     "2070469223080702091",
     "2070447944239595682",
     "2070456136642576828",
@@ -2461,10 +2464,7 @@
     "2067365786482844080",
     "2067178938879918505",
     "2066909512662180105",
-    "2067078663234015362",
-    "2066827906530349141",
-    "2066974593789923522",
-    "2066896642226495857"
+    "2067078663234015362"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2070782685639799193",
