@@ -1702,6 +1702,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260629-anthropic-fable-5-return-soon/",
+    "https://gigazine.net/news/20260629-australia-social-media-law-penalties/",
+    "https://gigazine.net/news/20260629-people-avoiding-bad-news/",
+    "https://gigazine.net/news/20260629-oil-prices-jumps-back-above-70usd/",
+    "https://gigazine.net/news/20260629-meta-google-gemini-limit/",
+    "https://gigazine.net/news/20260629-apple-seeks-buy-memory-chips-blacklisted-chinese/",
+    "https://gigazine.net/news/20260629-ornith-agentic-coding-ai/",
+    "https://gigazine.net/news/20260629-jaguar-land-rover-attacked/",
+    "https://gigazine.net/news/20260629-spacex-mobile-phone-partnership/",
+    "https://gigazine.net/news/20260629-google-android-phone-alert-venezuela-earthquakes/",
     "https://gigazine.net/news/20260629-color-balance-white-balance/",
     "https://gigazine.net/news/20260629-framework-10g-ethernet-module-hot/",
     "https://gigazine.net/news/20260629-amazon-shadow-industry/",
@@ -1741,19 +1751,13 @@
     "https://gigazine.net/news/20260626-notion-mail-is-going-away/",
     "https://gigazine.net/news/20260626-wiggling-pinky-cognitive-decline/",
     "https://gigazine.net/news/20260626-ford-rehire-inspectors/",
-    "https://gigazine.net/news/20260626-jetspec-speedup-ai/",
-    "https://gigazine.net/news/20260626-island-badblocker/",
-    "https://gigazine.net/news/20260626-publishers-sue-microsoft-openai/",
-    "https://gigazine.net/news/20260626-videoproc-converter-ai/",
-    "https://gigazine.net/news/20260626-sakana-ai-david-ha/",
-    "https://gigazine.net/news/20260626-virginia-tech-helmet-ratings/",
-    "https://gigazine.net/news/20260626-brainstem-neurons-focus/",
-    "https://gigazine.net/news/20260625-carbice-carbon-nanotube-cpu-cooling/",
-    "https://gigazine.net/news/20260625-wine-cork-oxygen-mechanism/",
-    "https://gigazine.net/news/20260625-game-controller-force/",
-    "https://gigazine.net/news/20260625-ai-hiring-tools-racial-bias/"
+    "https://gigazine.net/news/20260626-jetspec-speedup-ai/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=215500",
+    "https://aismiley.co.jp/?post_type=ai_news&p=217185",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221145",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221311",
     "https://aismiley.co.jp/?post_type=ai_news&p=219375",
     "https://aismiley.co.jp/?post_type=ai_news&p=219361",
     "https://aismiley.co.jp/?post_type=ai_news&p=221229",
@@ -1799,13 +1803,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=216617",
     "https://aismiley.co.jp/?post_type=ai_news&p=220033",
     "https://aismiley.co.jp/?post_type=ai_news&p=219964",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218478",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217572",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218536",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218595",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219892"
+    "https://aismiley.co.jp/?post_type=ai_news&p=218478"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188641",
     "https://win-tab.net/?p=188626",
     "https://win-tab.net/?p=188353",
     "https://win-tab.net/?p=188593",
@@ -1854,8 +1855,7 @@
     "https://win-tab.net/?p=188047",
     "https://win-tab.net/?p=188026",
     "https://win-tab.net/?p=188019",
-    "https://win-tab.net/?p=188006",
-    "https://win-tab.net/?p=187994"
+    "https://win-tab.net/?p=188006"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:R_usCETljUM",
@@ -2170,6 +2170,9 @@
     "yt:video:2bam7f0bsjk"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=266012",
+    "https://garumax.com/?p=266050",
+    "https://garumax.com/?p=266054",
     "https://garumax.com/?p=265944",
     "https://garumax.com/?p=266014",
     "https://garumax.com/?p=265845",
@@ -2216,10 +2219,7 @@
     "https://garumax.com/?p=264923",
     "https://garumax.com/?p=264991",
     "https://garumax.com/?p=264814",
-    "https://garumax.com/?p=264983",
-    "https://garumax.com/?p=264539",
-    "https://garumax.com/?p=264961",
-    "https://garumax.com/?p=264865"
+    "https://garumax.com/?p=264983"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-sticker",
@@ -2416,6 +2416,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2071267756645998698",
+    "2071226584347119906",
     "2070844553985409383",
     "2070854777739895022",
     "2070742800552149331",
@@ -2463,9 +2465,7 @@
     "2067574982834814992",
     "2067573662568620361",
     "2067516080877359393",
-    "2067418882768617922",
-    "2067365786482844080",
-    "2067178938879918505"
+    "2067418882768617922"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2071160676404351322",
