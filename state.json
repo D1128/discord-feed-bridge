@@ -829,6 +829,11 @@
     "https://liginc.co.jp/?p=679107"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:X4Y-UKxmGRE",
+    "yt:video:Zed--fE3qUY",
+    "yt:video:eOhs1-JVcaE",
+    "yt:video:447Lberu2r4",
+    "yt:video:DWC_xmoYnBU",
     "yt:video:aj0flqMjfnU",
     "yt:video:7r9kJAFiOQ0",
     "yt:video:R5yAssGscDA",
@@ -873,12 +878,7 @@
     "yt:video:ep4bZ2M_iaA",
     "yt:video:ZwFHvTd1dJY",
     "yt:video:QVBPQHS2QbA",
-    "yt:video:jTsBtL7heSg",
-    "yt:video:_txOkeAkMlM",
-    "yt:video:zrt11PhSjNE",
-    "yt:video:h1rmw1WWpec",
-    "yt:video:82hL7VlJwzw",
-    "yt:video:quUY1wVrPxo"
+    "yt:video:jTsBtL7heSg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -1071,6 +1071,7 @@
     "yt:video:SdO9w5i0_nU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9buL3Iph_f7AZxdzmiBL8Q": [
+    "yt:video:JVNfmvEDZ5E",
     "yt:video:PNe1fEzDoqw",
     "yt:video:9zsgSKC9pMM",
     "yt:video:IhxP8CgYbRE",
@@ -1119,8 +1120,7 @@
     "yt:video:tMp4rF8yrOQ",
     "yt:video:hGu1oFuVm-k",
     "yt:video:tjN52pym6Uc",
-    "yt:video:23xv5HZp_dA",
-    "yt:video:JR41LfSXvyo"
+    "yt:video:23xv5HZp_dA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
     "https://www.itmedia.co.jp/aiplus/article/2606/29/2000000136/",
@@ -2520,6 +2520,7 @@
     "2060193913475125266"
   ],
   "https://nitter.net/pop_ikeda/rss": [
+    "2071513758615371968",
     "2071439844900061198",
     "2071441753899696459",
     "2071356726415409660",
@@ -2568,8 +2569,7 @@
     "2068831831404024252",
     "2068149745739260140",
     "2068651644175474747",
-    "2068560795978366988",
-    "2068507947479519310"
+    "2068560795978366988"
   ],
   "https://nitter.net/showheyohtaki/rss": [
     "2071214798659059749",
