@@ -1702,6 +1702,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260629-polymarket-revenue/",
+    "https://gigazine.net/news/20260629-samsung-swatch-lawsuit/",
+    "https://gigazine.net/news/20260629-anthropic-economic-report/",
+    "https://gigazine.net/news/20260629-haagen-dazs-gelati-coconut-pistachio/",
+    "https://gigazine.net/news/20260629-headline/",
+    "https://gigazine.net/news/20260629-deepseek-dspark/",
+    "https://gigazine.net/news/20260629-ai-exam-brown-university/",
     "https://gigazine.net/news/20260629-anthropic-fable-5-return-soon/",
     "https://gigazine.net/news/20260629-australia-social-media-law-penalties/",
     "https://gigazine.net/news/20260629-people-avoiding-bad-news/",
@@ -1744,16 +1751,13 @@
     "https://gigazine.net/news/20260626-bungie-layoff/",
     "https://gigazine.net/news/20260626-apple-skip-m6/",
     "https://gigazine.net/news/20260626-ai-disaster-prediction/",
-    "https://gigazine.net/news/20260626-burgerking-bbq-steak/",
-    "https://gigazine.net/news/20260626-openai-employees-codex/",
-    "https://gigazine.net/news/20260626-microsoft-windows-10-esu-extended/",
-    "https://gigazine.net/news/20260626-google-finance/",
-    "https://gigazine.net/news/20260626-notion-mail-is-going-away/",
-    "https://gigazine.net/news/20260626-wiggling-pinky-cognitive-decline/",
-    "https://gigazine.net/news/20260626-ford-rehire-inspectors/",
-    "https://gigazine.net/news/20260626-jetspec-speedup-ai/"
+    "https://gigazine.net/news/20260626-burgerking-bbq-steak/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=221468",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221230",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221385",
+    "https://aismiley.co.jp/?post_type=ai_news&p=219979",
     "https://aismiley.co.jp/?post_type=ai_news&p=215500",
     "https://aismiley.co.jp/?post_type=ai_news&p=217185",
     "https://aismiley.co.jp/?post_type=ai_news&p=221145",
@@ -1799,11 +1803,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=217484",
     "https://aismiley.co.jp/?post_type=ai_news&p=220209",
     "https://aismiley.co.jp/?post_type=ai_news&p=219977",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219983",
-    "https://aismiley.co.jp/?post_type=ai_news&p=216617",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220033",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219964",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218478"
+    "https://aismiley.co.jp/?post_type=ai_news&p=219983"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188641",
@@ -2066,6 +2066,7 @@
     "yt:video:BYr9QrQhgFc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:XOpvKkdf3po",
     "yt:video:11jSEjHehWM",
     "yt:video:UWgIPqPyh0A",
     "yt:video:tu5KIwrYWaI",
@@ -2114,8 +2115,7 @@
     "yt:video:Fo_ieUj8qq4",
     "yt:video:05e_pjk79Wo",
     "yt:video:WaClf-URK_w",
-    "yt:video:JNIP-iaHd4A",
-    "yt:video:Wb1rIiApAQQ"
+    "yt:video:JNIP-iaHd4A"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:udxyhjnO7QM",
@@ -2170,6 +2170,7 @@
     "yt:video:2bam7f0bsjk"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=266128",
     "https://garumax.com/?p=266012",
     "https://garumax.com/?p=266050",
     "https://garumax.com/?p=266054",
@@ -2218,8 +2219,7 @@
     "https://garumax.com/?p=265011",
     "https://garumax.com/?p=264923",
     "https://garumax.com/?p=264991",
-    "https://garumax.com/?p=264814",
-    "https://garumax.com/?p=264983"
+    "https://garumax.com/?p=264814"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-sticker",
@@ -2416,6 +2416,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2071422792709611862",
+    "2071051713302380871",
+    "2071350726249636068",
+    "2071527878190338180",
     "2071267756645998698",
     "2071226584347119906",
     "2070844553985409383",
@@ -2461,13 +2465,10 @@
     "2067445909949239657",
     "2067449434850599108",
     "2067253924709708054",
-    "2067574101846479091",
-    "2067574982834814992",
-    "2067573662568620361",
-    "2067516080877359393",
-    "2067418882768617922"
+    "2067574101846479091"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2071508216387629361",
     "2071160676404351322",
     "2070782685639799193",
     "2069912451538194833",
@@ -2516,8 +2517,7 @@
     "2060684647202537931",
     "2060550261706465581",
     "2060321755957473482",
-    "2060193913475125266",
-    "2060129237475234256"
+    "2060193913475125266"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2071439844900061198",
