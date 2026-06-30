@@ -609,6 +609,7 @@
     "yt:video:PEqCpe05RjM"
   ],
   "https://bocek.co.jp/media/feed/": [
+    "https://taskhub.jp/magazine/?p=15272",
     "https://taskhub.jp/magazine/?p=15248",
     "https://taskhub.jp/magazine/?p=15240",
     "https://taskhub.jp/magazine/?p=15262",
@@ -657,8 +658,7 @@
     "https://taskhub.jp/magazine/?p=14398",
     "https://taskhub.jp/magazine/?p=14392",
     "https://taskhub.jp/magazine/?p=14386",
-    "https://taskhub.jp/magazine/?p=14364",
-    "https://taskhub.jp/magazine/?p=14373"
+    "https://taskhub.jp/magazine/?p=14364"
   ],
   "https://feeds.feedburner.com/tabkul": [
     "https://tabkul.com/?p=302105",
@@ -829,6 +829,12 @@
     "https://liginc.co.jp/?p=679107"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8yHePe_RgUBE-waRWy6olw": [
+    "yt:video:QjnMys5t820",
+    "yt:video:v-7POtp1isQ",
+    "yt:video:jB2pLd-R85Q",
+    "yt:video:fRNgHb5yoSU",
+    "yt:video:FX3tDkmavMk",
+    "yt:video:PBiJj12aRDs",
     "yt:video:o9szwnVk6jA",
     "yt:video:tflpQVvZkuo",
     "yt:video:mn93yZ9E-fY",
@@ -872,13 +878,7 @@
     "yt:video:8Y23bvh0zp8",
     "yt:video:5JA8M43aSNg",
     "yt:video:ld4txL1T08c",
-    "yt:video:bveT_3ZRZb4",
-    "yt:video:CTC-Ao-KhDA",
-    "yt:video:_ZBogZUbcT0",
-    "yt:video:H94qlwkyVLU",
-    "yt:video:S00qOVE6fT4",
-    "yt:video:3ui2el83VRA",
-    "yt:video:4kIeRv3dWbc"
+    "yt:video:bveT_3ZRZb4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOXJK1wFGm22f4_9ZtPJqQA": [
     "yt:video:-K5NK0x90GM",
@@ -933,6 +933,7 @@
     "yt:video:R0jDcdFm8Fg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVPz_nauEJpqPxxvYiOpCHQ": [
+    "yt:video:W0IB6EuOphg",
     "yt:video:blWMCySJidg",
     "yt:video:LoG6m8AxrbA",
     "yt:video:hO3wY4IrD9s",
@@ -981,8 +982,7 @@
     "yt:video:esMM8sbZe8Q",
     "yt:video:0zgJ-BC_HL8",
     "yt:video:RLwC_uEmjhA",
-    "yt:video:FnDjMa4BlS8",
-    "yt:video:HlQpr_tYVKs"
+    "yt:video:FnDjMa4BlS8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCOoAKiMQqNdUMmJe1N_U1Qw": [
     "yt:video:GW6VB8pAM6w",
