@@ -1123,6 +1123,10 @@
     "yt:video:23xv5HZp_dA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2606/30/news133.html",
+    "https://www.itmedia.co.jp/mobile/articles/2606/30/news134.html",
+    "https://www.itmedia.co.jp/pcuser/articles/2606/30/news128.html",
+    "https://www.itmedia.co.jp/news/articles/2606/30/news139.html",
     "https://www.itmedia.co.jp/news/articles/2606/30/news114.html",
     "https://www.itmedia.co.jp/pcuser/articles/2606/30/news106.html",
     "https://www.itmedia.co.jp/news/articles/2606/29/news066.html",
@@ -1168,14 +1172,11 @@
     "https://www.itmedia.co.jp/business/articles/2606/29/news048.html",
     "https://www.itmedia.co.jp/business/articles/2606/29/news014.html",
     "https://monoist.itmedia.co.jp/mn/articles/2606/29/news045.html",
-    "https://www.itmedia.co.jp/mobile/articles/2606/29/news060.html",
-    "https://www.itmedia.co.jp/business/articles/2606/29/news012.html",
-    "https://monoist.itmedia.co.jp/mn/articles/2606/29/news028.html",
-    "https://www.itmedia.co.jp/business/articles/2606/29/news009.html",
-    "https://www.itmedia.co.jp/business/articles/2606/29/news020.html"
+    "https://www.itmedia.co.jp/mobile/articles/2606/29/news060.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=286483",
     "https://smhn.info/?p=286471",
     "https://smhn.info/?p=286358",
     "https://smhn.info/?p=286373",
@@ -1224,10 +1225,11 @@
     "https://smhn.info/?p=285617",
     "https://smhn.info/?p=285611",
     "https://smhn.info/?p=285187",
-    "https://smhn.info/?p=285500",
-    "https://smhn.info/?p=285566"
+    "https://smhn.info/?p=285500"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=116624",
+    "https://daily-gadget.net/?p=116632",
     "https://daily-gadget.net/?p=116619",
     "https://daily-gadget.net/?p=116592",
     "https://daily-gadget.net/?p=116599",
@@ -1275,9 +1277,7 @@
     "https://daily-gadget.net/?p=116271",
     "https://daily-gadget.net/?p=116289",
     "https://daily-gadget.net/?p=116296",
-    "https://daily-gadget.net/?p=116303",
-    "https://daily-gadget.net/?p=116282",
-    "https://daily-gadget.net/?p=116266"
+    "https://daily-gadget.net/?p=116303"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=64201",
@@ -1332,6 +1332,7 @@
     "https://sumahodigest.com/?p=63959"
   ],
   "https://yachin29.hatenablog.com/feed": [
+    "hatenablog://entry/14945776032048259786",
     "hatenablog://entry/6802418398524576463",
     "hatenablog://entry/14945776032045620255",
     "hatenablog://entry/6802418398547085679",
@@ -1380,8 +1381,7 @@
     "hatenablog://entry/13574176438094010621",
     "hatenablog://entry/17179246901348255973",
     "hatenablog://entry/6802888565224440882",
-    "hatenablog://entry/26006613803060138",
-    "hatenablog://entry/6801883189050013556"
+    "hatenablog://entry/26006613803060138"
   ],
   "https://official.gfs.tokyo/blog/feed": [
     "https://official.gfs.tokyo/blog/?p=26570",
@@ -2650,6 +2650,8 @@
     "2021794316444926259"
   ],
   "https://nitter.net/ctgptlb/rss": [
+    "2071822495725056482",
+    "2070360879879889124",
     "2070994910552203770",
     "2070697241107628039",
     "2070686176705740946",
@@ -2697,11 +2699,12 @@
     "2061885997135319391",
     "2061727770904813706",
     "2060095749933986136",
-    "2060044181188550762",
-    "2060044552183189595",
-    "2060047194120740959"
+    "2060044181188550762"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2071840889471717529",
+    "2071840909314895885",
+    "2071840928319349234",
     "2070370923241455791",
     "2071791049459294285",
     "2071730460959621549",
@@ -2748,10 +2751,7 @@
     "2070776050175582510",
     "2070776037445861674",
     "2070776006269698196",
-    "2070649060995035177",
-    "2070649063218061643",
-    "2070618107232797044",
-    "2070618108902211630"
+    "2070649060995035177"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
