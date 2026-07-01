@@ -1704,6 +1704,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260701-gigazine-user-pc-spec/",
+    "https://gigazine.net/news/20260701-claude-fable-mythos-5/",
     "https://gigazine.net/news/20260701-fintech-engineering-handbook/",
     "https://gigazine.net/news/20260630-pollen-google-dmca/",
     "https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/",
@@ -1751,11 +1753,16 @@
     "https://gigazine.net/news/20260629-spacex-mobile-phone-partnership/",
     "https://gigazine.net/news/20260629-google-android-phone-alert-venezuela-earthquakes/",
     "https://gigazine.net/news/20260629-color-balance-white-balance/",
-    "https://gigazine.net/news/20260629-framework-10g-ethernet-module-hot/",
-    "https://gigazine.net/news/20260629-amazon-shadow-industry/",
-    "https://gigazine.net/news/20260629-lona/"
+    "https://gigazine.net/news/20260629-framework-10g-ethernet-module-hot/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=220530",
+    "https://aismiley.co.jp/?post_type=ai_news&p=220498",
+    "https://aismiley.co.jp/?post_type=ai_news&p=222192",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221135",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221194",
+    "https://aismiley.co.jp/?post_type=ai_news&p=220509",
+    "https://aismiley.co.jp/?post_type=ai_news&p=220517",
     "https://aismiley.co.jp/?post_type=ai_news&p=221468",
     "https://aismiley.co.jp/?post_type=ai_news&p=221230",
     "https://aismiley.co.jp/?post_type=ai_news&p=221385",
@@ -1798,16 +1805,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=219802",
     "https://aismiley.co.jp/?post_type=ai_news&p=220258",
     "https://aismiley.co.jp/?post_type=ai_news&p=220546",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218888",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220111",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220002",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218464",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217484",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220209",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219977",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219983"
+    "https://aismiley.co.jp/?post_type=ai_news&p=218888"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188710",
     "https://win-tab.net/?p=188694",
     "https://win-tab.net/?p=188680",
     "https://win-tab.net/?p=188644",
@@ -1856,8 +1857,7 @@
     "https://win-tab.net/?p=188082",
     "https://win-tab.net/?p=188072",
     "https://win-tab.net/?p=188062",
-    "https://win-tab.net/?p=188055",
-    "https://win-tab.net/?p=188047"
+    "https://win-tab.net/?p=188055"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:R_usCETljUM",
