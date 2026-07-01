@@ -1706,6 +1706,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260701-trump-over-1-billion-income-crypto/",
+    "https://gigazine.net/news/20260701-mobile-game-boom/",
     "https://gigazine.net/news/202607017-tiktok-settles-sns-addiction-lawsuit/",
     "https://gigazine.net/news/20260701-mistral-leanstral-1-5/",
     "https://gigazine.net/news/20260701-linuxmd/",
@@ -1753,9 +1755,7 @@
     "https://gigazine.net/news/20260629-a-quantum-magic-8-ball/",
     "https://gigazine.net/news/20260629-what-happens-blood-stressed/",
     "https://gigazine.net/news/20260629-brazil-next-big-soccer-star-scouted-ai/",
-    "https://gigazine.net/news/20260629-polymarket-revenue/",
-    "https://gigazine.net/news/20260629-samsung-swatch-lawsuit/",
-    "https://gigazine.net/news/20260629-anthropic-economic-report/"
+    "https://gigazine.net/news/20260629-polymarket-revenue/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=222474",
@@ -1862,6 +1862,7 @@
     "https://win-tab.net/?p=188055"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:qRZ67GhoVwI",
     "yt:video:R_usCETljUM",
     "yt:video:8bJLeFR7ZD4",
     "yt:video:E9gXOuCbTKw",
@@ -1910,8 +1911,7 @@
     "yt:video:y3NQ6TNjskg",
     "yt:video:DIaSkl0ARl8",
     "yt:video:DZ7A5BKRmhw",
-    "yt:video:OiLoXktn8rw",
-    "yt:video:w4Ta5nRlZHU"
+    "yt:video:OiLoXktn8rw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
     "yt:video:WS_54GzEN6g",
@@ -2122,6 +2122,7 @@
     "yt:video:05e_pjk79Wo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:W7RixHM5tTM",
     "yt:video:QUkO-3mYwNI",
     "yt:video:N4DyRn39cQI",
     "yt:video:udxyhjnO7QM",
@@ -2170,8 +2171,7 @@
     "yt:video:P3P97U5CWqs",
     "yt:video:FDFr64CfIx0",
     "yt:video:WZs1CfgWu8Y",
-    "yt:video:TWQxquEgivw",
-    "yt:video:AxKr_N83NGU"
+    "yt:video:TWQxquEgivw"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=265975",
@@ -2261,6 +2261,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62677",
     "https://androplus.jp/?p=62642",
     "https://androplus.jp/?p=62594",
     "https://androplus.jp/?p=62623",
@@ -2309,8 +2310,7 @@
     "https://androplus.jp/?p=55372",
     "https://androplus.jp/?p=62099",
     "https://androplus.jp/?p=62043",
-    "https://androplus.jp/?p=61997",
-    "https://androplus.jp/?p=62015"
+    "https://androplus.jp/?p=61997"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2420,6 +2420,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2072172075251622318",
     "2072180145922936992",
     "2071952649398952310",
     "2071926728927105271",
@@ -2468,8 +2469,7 @@
     "2068932081342930976",
     "2068900817625833747",
     "2068149887053725891",
-    "2068511914452529396",
-    "2068233153660252482"
+    "2068511914452529396"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2072233495452422638",
