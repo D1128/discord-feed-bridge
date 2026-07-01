@@ -1704,6 +1704,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260701-freeze-dried-potato-inca-storage/",
+    "https://gigazine.net/news/20260701-google-chrome-150/",
+    "https://gigazine.net/news/20260701-anthropic-claude-science/",
+    "https://gigazine.net/news/20260701-openai-codex-hardware/",
+    "https://gigazine.net/news/20260701-longcat-2-0/",
+    "https://gigazine.net/news/20260701-google-tabfm/",
+    "https://gigazine.net/news/20260701-x-mcp/",
+    "https://gigazine.net/news/20260701-tenor-api-discontinuation/",
+    "https://gigazine.net/news/20260701-proton-lumo-2-0/",
+    "https://gigazine.net/news/20260701-openai-discovers-cut-inference-costs-half/",
     "https://gigazine.net/news/20260701-gigazine-user-pc-spec/",
     "https://gigazine.net/news/20260701-claude-fable-mythos-5/",
     "https://gigazine.net/news/20260701-fintech-engineering-handbook/",
@@ -1743,19 +1753,14 @@
     "https://gigazine.net/news/20260629-deepseek-dspark/",
     "https://gigazine.net/news/20260629-ai-exam-brown-university/",
     "https://gigazine.net/news/20260629-anthropic-fable-5-return-soon/",
-    "https://gigazine.net/news/20260629-australia-social-media-law-penalties/",
-    "https://gigazine.net/news/20260629-people-avoiding-bad-news/",
-    "https://gigazine.net/news/20260629-oil-prices-jumps-back-above-70usd/",
-    "https://gigazine.net/news/20260629-meta-google-gemini-limit/",
-    "https://gigazine.net/news/20260629-apple-seeks-buy-memory-chips-blacklisted-chinese/",
-    "https://gigazine.net/news/20260629-ornith-agentic-coding-ai/",
-    "https://gigazine.net/news/20260629-jaguar-land-rover-attacked/",
-    "https://gigazine.net/news/20260629-spacex-mobile-phone-partnership/",
-    "https://gigazine.net/news/20260629-google-android-phone-alert-venezuela-earthquakes/",
-    "https://gigazine.net/news/20260629-color-balance-white-balance/",
-    "https://gigazine.net/news/20260629-framework-10g-ethernet-module-hot/"
+    "https://gigazine.net/news/20260629-australia-social-media-law-penalties/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=220051",
+    "https://aismiley.co.jp/?post_type=ai_news&p=220068",
+    "https://aismiley.co.jp/?post_type=ai_news&p=222240",
+    "https://aismiley.co.jp/?post_type=ai_news&p=222479",
+    "https://aismiley.co.jp/?post_type=ai_news&p=222502",
     "https://aismiley.co.jp/?post_type=ai_news&p=220530",
     "https://aismiley.co.jp/?post_type=ai_news&p=220498",
     "https://aismiley.co.jp/?post_type=ai_news&p=222192",
@@ -1800,12 +1805,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=219348",
     "https://aismiley.co.jp/?post_type=ai_news&p=220102",
     "https://aismiley.co.jp/?post_type=ai_news&p=220203",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220243",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220370",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219802",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220258",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220546",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218888"
+    "https://aismiley.co.jp/?post_type=ai_news&p=220243"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188710",
@@ -2172,6 +2172,8 @@
     "yt:video:AxKr_N83NGU"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=266220",
+    "https://garumax.com/?p=266216",
     "https://garumax.com/?p=266123",
     "https://garumax.com/?p=265821",
     "https://garumax.com/?p=266073",
@@ -2219,9 +2221,7 @@
     "https://garumax.com/?p=265049",
     "https://garumax.com/?p=264171",
     "https://garumax.com/?p=265033",
-    "https://garumax.com/?p=263867",
-    "https://garumax.com/?p=265025",
-    "https://garumax.com/?p=265011"
+    "https://garumax.com/?p=263867"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/wcb-sticker",
@@ -2259,6 +2259,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62642",
     "https://androplus.jp/?p=62594",
     "https://androplus.jp/?p=62623",
     "https://androplus.jp/?p=62632",
@@ -2307,8 +2308,7 @@
     "https://androplus.jp/?p=62099",
     "https://androplus.jp/?p=62043",
     "https://androplus.jp/?p=61997",
-    "https://androplus.jp/?p=62015",
-    "https://androplus.jp/?p=62024"
+    "https://androplus.jp/?p=62015"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
