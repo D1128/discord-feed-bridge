@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2121984.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2121990.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2121964.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2121999.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2121878.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2121917.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2121739.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2121040.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2121074.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2121073.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2121091.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/macinfo/2121019.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2121084.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2120935.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/special/2119611.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2121091.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/xemojihistorysaver/",
@@ -369,6 +369,7 @@
     "yt:video:Zuvuzxtz9Wk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:cNWayuINH4E",
     "yt:video:1D1oySqGSEc",
     "yt:video:BLLkT54MwdI",
     "yt:video:u9fcxcCwLXU",
@@ -417,10 +418,10 @@
     "yt:video:ZfQk_eXqRw0",
     "yt:video:eG5UtW0S8WQ",
     "yt:video:N-UoELN_WaI",
-    "yt:video:-dpjevAtCy4",
-    "yt:video:Goy9WMg_GSY"
+    "yt:video:-dpjevAtCy4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:GalIM9OvQl8",
     "yt:video:KTvhBWTfQ5Y",
     "yt:video:SuYdU_0vDYo",
     "yt:video:6qAmbas0vHo",
@@ -469,8 +470,7 @@
     "yt:video:-KJGVgg6O-8",
     "yt:video:el_IGHJZgRs",
     "yt:video:DeWzgnJxld8",
-    "yt:video:Vl4IFls2G50",
-    "yt:video:YtBvyQcXrso"
+    "yt:video:Vl4IFls2G50"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:7iJrD9ANimw",
@@ -511,6 +511,7 @@
     "yt:video:_Lp7bbz9U60"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtiDTuG40ZOarubtFm1fbzg": [
+    "yt:video:KaOetL4DYaY",
     "yt:video:oBS1Htiph-Q",
     "yt:video:1hTj0m9B_gA",
     "yt:video:plNdfLiUHJg",
@@ -2776,6 +2777,7 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2072600741815165237",
     "2072514772093079809",
     "2072514889453863335",
     "2072514909359989125",
@@ -2824,8 +2826,7 @@
     "2071956928033603905",
     "2071956997407404209",
     "2071957279717675148",
-    "2071957309354643710",
-    "2071957425192862187"
+    "2071957309354643710"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2071989578672595413",
