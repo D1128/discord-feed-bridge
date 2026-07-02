@@ -1760,6 +1760,9 @@
     "https://gigazine.net/news/20260630-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=221910",
+    "https://aismiley.co.jp/?post_type=ai_news&p=222575",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221266",
     "https://aismiley.co.jp/?post_type=ai_news&p=220451",
     "https://aismiley.co.jp/?post_type=ai_news&p=220566",
     "https://aismiley.co.jp/?post_type=ai_news&p=220441",
@@ -1806,10 +1809,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=217894",
     "https://aismiley.co.jp/?post_type=ai_news&p=217924",
     "https://aismiley.co.jp/?post_type=ai_news&p=220941",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218711",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217246",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220635",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220551"
+    "https://aismiley.co.jp/?post_type=ai_news&p=218711"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188747",
@@ -2332,6 +2332,8 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2072670650964262944",
+    "2072671244638671280",
     "2071933091112010209",
     "2071876209961762923",
     "2071876668994764961",
@@ -2379,9 +2381,7 @@
     "2053684420784312538",
     "2053684437930643625",
     "2053684450018640193",
-    "2053466910638199207",
-    "2053466922784890913",
-    "2053425895868891645"
+    "2053466910638199207"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042465777098637639",
