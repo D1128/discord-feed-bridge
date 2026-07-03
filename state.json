@@ -1708,6 +1708,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260703-steam-machine-appearance/",
+    "https://gigazine.net/news/20260703-android-developer-verification-malware-f-droid/",
+    "https://gigazine.net/news/20260703-peertube/",
     "https://gigazine.net/news/20260703-calbee-jagariko-nikumiso/",
     "https://gigazine.net/news/20260703-safari-mcp-server/",
     "https://gigazine.net/news/20260703-headline/",
@@ -1754,10 +1757,7 @@
     "https://gigazine.net/news/20260702-self-tld/",
     "https://gigazine.net/news/20260701-trump-over-1-billion-income-crypto/",
     "https://gigazine.net/news/20260701-mobile-game-boom/",
-    "https://gigazine.net/news/202607017-tiktok-settles-sns-addiction-lawsuit/",
-    "https://gigazine.net/news/20260701-mistral-leanstral-1-5/",
-    "https://gigazine.net/news/20260701-linuxmd/",
-    "https://gigazine.net/news/20260701-karakarauo-karame-mazesoba/"
+    "https://gigazine.net/news/202607017-tiktok-settles-sns-addiction-lawsuit/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220012",
@@ -2423,6 +2423,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2072953497922728116",
+    "2072945423275421832",
     "2072615868836814940",
     "2072576471852577132",
     "2072333822692413559",
@@ -2470,9 +2472,7 @@
     "2069722208742899712",
     "2069646033605558303",
     "2069620276438909143",
-    "2068106560338063612",
-    "2069352730351796455",
-    "2069347890984542719"
+    "2068106560338063612"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2072973622441046262",
