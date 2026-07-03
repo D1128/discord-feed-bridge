@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2122212.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2122217.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2122238.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2122091.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2122090.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2122119.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2121455.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2121471.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2121501.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2121519.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2121363.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2121191.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2121383.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2121519.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/google-chrome/xemojihistorysaver/",
@@ -253,6 +253,8 @@
     "https://telektlist.com/?p=137318"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/28839",
+    "https://codezine.jp/article/detail/28840",
     "https://codezine.jp/article/detail/28837",
     "https://codezine.jp/article/detail/28847",
     "https://codezine.jp/article/detail/28852",
@@ -300,9 +302,7 @@
     "https://codezine.jp/article/detail/24688",
     "https://codezine.jp/article/detail/24708",
     "https://codezine.jp/article/detail/24531",
-    "https://codezine.jp/article/detail/24709",
-    "https://codezine.jp/article/detail/24715",
-    "https://codezine.jp/article/detail/24714"
+    "https://codezine.jp/article/detail/24709"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
