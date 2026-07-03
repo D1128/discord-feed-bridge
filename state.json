@@ -1708,6 +1708,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260703-laguna-xs-2-1/",
+    "https://gigazine.net/news/20260703-meta-zuckerberg-ai-agent-tech-progressing-slower/",
+    "https://gigazine.net/news/20260703-kalshi-spotify-fraud/",
+    "https://gigazine.net/news/20260703-tesla-ai-tool-weekly-cap/",
+    "https://gigazine.net/news/20260703-boy-dies-rabies-bat-on-face/",
+    "https://gigazine.net/news/20260703-openai-stock-government/",
+    "https://gigazine.net/news/20260703-iphone-fold-raise-average-foldable-phone-prices/",
+    "https://gigazine.net/news/20260703-x-live-studio/",
+    "https://gigazine.net/news/20260703-singapore-seizes-42m-home-nvidia-fraud/",
+    "https://gigazine.net/news/20260703-isaac1-robot/",
     "https://gigazine.net/news/20260703-spider-catch-spring-loaded-snare-ant/",
     "https://gigazine.net/news/20260703-qualcomm-linux-2-0/",
     "https://gigazine.net/news/20260703-iss-air-leak-habitable/",
@@ -1747,19 +1757,11 @@
     "https://gigazine.net/news/20260701-anthropic-claude-science/",
     "https://gigazine.net/news/20260701-openai-codex-hardware/",
     "https://gigazine.net/news/20260701-longcat-2-0/",
-    "https://gigazine.net/news/20260701-google-tabfm/",
-    "https://gigazine.net/news/20260701-x-mcp/",
-    "https://gigazine.net/news/20260701-tenor-api-discontinuation/",
-    "https://gigazine.net/news/20260701-proton-lumo-2-0/",
-    "https://gigazine.net/news/20260701-openai-discovers-cut-inference-costs-half/",
-    "https://gigazine.net/news/20260701-gigazine-user-pc-spec/",
-    "https://gigazine.net/news/20260701-claude-fable-mythos-5/",
-    "https://gigazine.net/news/20260701-fintech-engineering-handbook/",
-    "https://gigazine.net/news/20260630-pollen-google-dmca/",
-    "https://gigazine.net/news/20260630-glm-5-2-beats-claude-cyber-benchmarks/",
-    "https://gigazine.net/news/20260630-mullvad-orebropartiet/"
+    "https://gigazine.net/news/20260701-google-tabfm/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=220489",
+    "https://aismiley.co.jp/?post_type=ai_news&p=215520",
     "https://aismiley.co.jp/?post_type=ai_news&p=221910",
     "https://aismiley.co.jp/?post_type=ai_news&p=222575",
     "https://aismiley.co.jp/?post_type=ai_news&p=221266",
@@ -1807,11 +1809,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=220838",
     "https://aismiley.co.jp/?post_type=ai_news&p=220755",
     "https://aismiley.co.jp/?post_type=ai_news&p=217894",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217924",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220941",
-    "https://aismiley.co.jp/?post_type=ai_news&p=218711"
+    "https://aismiley.co.jp/?post_type=ai_news&p=217924"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188761",
     "https://win-tab.net/?p=188747",
     "https://win-tab.net/?p=188610",
     "https://win-tab.net/?p=188721",
@@ -1860,8 +1861,7 @@
     "https://win-tab.net/?p=188163",
     "https://win-tab.net/?p=188153",
     "https://win-tab.net/?p=188139",
-    "https://win-tab.net/?p=188119",
-    "https://win-tab.net/?p=188082"
+    "https://win-tab.net/?p=188119"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:qRZ67GhoVwI",
@@ -2176,6 +2176,7 @@
     "yt:video:WZs1CfgWu8Y"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=266491",
     "https://garumax.com/?p=266243",
     "https://garumax.com/?p=266299",
     "https://garumax.com/?p=266093",
@@ -2224,8 +2225,7 @@
     "https://garumax.com/?p=265238",
     "https://garumax.com/?p=265343",
     "https://garumax.com/?p=265281",
-    "https://garumax.com/?p=265294",
-    "https://garumax.com/?p=265304"
+    "https://garumax.com/?p=265294"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/gfonly",
