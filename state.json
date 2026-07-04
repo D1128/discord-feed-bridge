@@ -1178,6 +1178,7 @@
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=287015",
     "https://smhn.info/?p=287010",
     "https://smhn.info/?p=285388",
     "https://smhn.info/?p=286892",
@@ -1226,8 +1227,7 @@
     "https://smhn.info/?p=286282",
     "https://smhn.info/?p=286249",
     "https://smhn.info/?p=286117",
-    "https://smhn.info/?p=285066",
-    "https://smhn.info/?p=286210"
+    "https://smhn.info/?p=285066"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=116826",
@@ -1282,6 +1282,13 @@
     "https://daily-gadget.net/?p=116477"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=64540",
+    "https://sumahodigest.com/?p=64545",
+    "https://sumahodigest.com/?p=64549",
+    "https://sumahodigest.com/?p=64553",
+    "https://sumahodigest.com/?p=64558",
+    "https://sumahodigest.com/?p=64562",
+    "https://sumahodigest.com/?p=64566",
     "https://sumahodigest.com/?p=64531",
     "https://sumahodigest.com/?p=64536",
     "https://sumahodigest.com/?p=64420",
@@ -1324,14 +1331,7 @@
     "https://sumahodigest.com/?p=64330",
     "https://sumahodigest.com/?p=64334",
     "https://sumahodigest.com/?p=64338",
-    "https://sumahodigest.com/?p=64343",
-    "https://sumahodigest.com/?p=64347",
-    "https://sumahodigest.com/?p=64351",
-    "https://sumahodigest.com/?p=64355",
-    "https://sumahodigest.com/?p=64316",
-    "https://sumahodigest.com/?p=64322",
-    "https://sumahodigest.com/?p=64326",
-    "https://sumahodigest.com/?p=64298"
+    "https://sumahodigest.com/?p=64343"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/6801883189050013556",
@@ -2710,6 +2710,7 @@
     "2067597223123210601"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2073436313609760825",
     "2073400800488112399",
     "2073359740093214780",
     "2073312583118155931",
@@ -2758,8 +2759,7 @@
     "2072440133673242903",
     "2072359327055397120",
     "2072359695143309528",
-    "2072335082308956339",
-    "2072329221670854869"
+    "2072335082308956339"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
