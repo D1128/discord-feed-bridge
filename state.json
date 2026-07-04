@@ -1710,6 +1710,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260704-color-space-xyz-rgb-icc-xyy-trc/",
     "https://gigazine.net/news/20260704-google-fitbit/",
     "https://gigazine.net/news/20260704-nikon-z6-iii-no-wireless-connectivity/",
     "https://gigazine.net/news/20260704-us-home-battery-installations/",
@@ -1758,8 +1759,7 @@
     "https://gigazine.net/news/20260702-iphone-fold-expected-screen-orders/",
     "https://gigazine.net/news/20260702-cloudflare-monetization-gateway/",
     "https://gigazine.net/news/20260702-40-years-fossil-antarcticas-dinosaurs/",
-    "https://gigazine.net/news/20260702-meta-ai-glass/",
-    "https://gigazine.net/news/20260702-ps6-ram-shortage/"
+    "https://gigazine.net/news/20260702-meta-ai-glass/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220012",
@@ -2425,6 +2425,13 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2073019528968306777",
+    "2072885840741900468",
+    "2072920673803223228",
+    "2072898571121381645",
+    "2073341958165238091",
+    "2073163968542351591",
+    "2072688922677899507",
     "2072953497922728116",
     "2072945423275421832",
     "2072615868836814940",
@@ -2467,14 +2474,7 @@
     "2070077036136202621",
     "2070081098609226120",
     "2069790681414221999",
-    "2069783829381001363",
-    "2069768515729674264",
-    "2069998033811714480",
-    "2069918499313754590",
-    "2069722208742899712",
-    "2069646033605558303",
-    "2069620276438909143",
-    "2068106560338063612"
+    "2069783829381001363"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2073354056505131140",
