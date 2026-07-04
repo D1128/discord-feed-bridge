@@ -1709,6 +1709,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260704-google-fitbit/",
+    "https://gigazine.net/news/20260704-nikon-z6-iii-no-wireless-connectivity/",
+    "https://gigazine.net/news/20260704-us-home-battery-installations/",
+    "https://gigazine.net/news/20260704-altersend/",
     "https://gigazine.net/news/20260704-hacker-gives-dream-car/",
     "https://gigazine.net/news/20260704-ios-27-developer-beta-code-hints-airpods-cameras/",
     "https://gigazine.net/news/20260704-flying-taxis-drones-crowd-fail/",
@@ -1754,11 +1758,7 @@
     "https://gigazine.net/news/20260702-cloudflare-monetization-gateway/",
     "https://gigazine.net/news/20260702-40-years-fossil-antarcticas-dinosaurs/",
     "https://gigazine.net/news/20260702-meta-ai-glass/",
-    "https://gigazine.net/news/20260702-ps6-ram-shortage/",
-    "https://gigazine.net/news/20260702-apple-hide-my-email-vulnerability/",
-    "https://gigazine.net/news/20260702-ps3-psvita-closing/",
-    "https://gigazine.net/news/20260702-ubtech-uworld-u1/",
-    "https://gigazine.net/news/20260702-cloudflare-ai-traffic-option/"
+    "https://gigazine.net/news/20260702-ps6-ram-shortage/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220012",
@@ -1813,6 +1813,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=217225"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188788",
     "https://win-tab.net/?p=188780",
     "https://win-tab.net/?p=188761",
     "https://win-tab.net/?p=188747",
@@ -1861,8 +1862,7 @@
     "https://win-tab.net/?p=188092",
     "https://win-tab.net/?p=188185",
     "https://win-tab.net/?p=188163",
-    "https://win-tab.net/?p=188153",
-    "https://win-tab.net/?p=188139"
+    "https://win-tab.net/?p=188153"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:qRZ67GhoVwI",
@@ -1917,6 +1917,7 @@
     "yt:video:OiLoXktn8rw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:y2mFnrBF3vM",
     "yt:video:bwac9YPO6ag",
     "yt:video:HBgQSW9tH6Y",
     "yt:video:DLvoow97uj8",
@@ -1965,8 +1966,7 @@
     "yt:video:lggHmx4khfI",
     "yt:video:PdPaV3XWqDA",
     "yt:video:PxZZKd3FUjI",
-    "yt:video:1ONUFtCh97E",
-    "yt:video:QLJ31u9fbjc"
+    "yt:video:1ONUFtCh97E"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:2O1950K_FL8",
