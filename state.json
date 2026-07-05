@@ -1710,6 +1710,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260705-paseo/",
+    "https://gigazine.net/news/20260705-casio-earu-er-100-usage/",
     "https://gigazine.net/news/20260705-rebel-robotica/",
     "https://gigazine.net/news/20260705-tron-legacy/",
     "https://gigazine.net/news/20260705-egg-price-us/",
@@ -1757,9 +1759,7 @@
     "https://gigazine.net/news/20260702-zcode-ai-agent/",
     "https://gigazine.net/news/20260702-headline/",
     "https://gigazine.net/news/20260702-belkin-cable-charge-nintendo-switch-2-faster/",
-    "https://gigazine.net/news/20260702-ovaries-after-menopause-second-role/",
-    "https://gigazine.net/news/20260702-apple-redesigned-entry-macbook-pro/",
-    "https://gigazine.net/news/20260702-lab-created-spudcell-building-life-scratch/"
+    "https://gigazine.net/news/20260702-ovaries-after-menopause-second-role/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220012",
@@ -1918,6 +1918,7 @@
     "yt:video:DZ7A5BKRmhw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:rbXW-RodoaM",
     "yt:video:y2mFnrBF3vM",
     "yt:video:bwac9YPO6ag",
     "yt:video:HBgQSW9tH6Y",
@@ -1966,8 +1967,7 @@
     "yt:video:CEM7zBgnReY",
     "yt:video:lggHmx4khfI",
     "yt:video:PdPaV3XWqDA",
-    "yt:video:PxZZKd3FUjI",
-    "yt:video:1ONUFtCh97E"
+    "yt:video:PxZZKd3FUjI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:2O1950K_FL8",
@@ -2074,6 +2074,7 @@
     "yt:video:YnrfsHHePLw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:a9b2PIJyKdU",
     "yt:video:W5dnoAgWiJw",
     "yt:video:C8HwJtQKPM0",
     "yt:video:A-28bMZ9lFM",
@@ -2122,10 +2123,10 @@
     "yt:video:As6mn7eodDo",
     "yt:video:WSNtkBu6ZWs",
     "yt:video:gBFh6vnwXLA",
-    "yt:video:IecfNcHi7XE",
-    "yt:video:hD_QMjn7u1M"
+    "yt:video:IecfNcHi7XE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:HV0sEII79ig",
     "yt:video:1sbRN6jGdv8",
     "yt:video:-rzMXKpgAOY",
     "yt:video:W7RixHM5tTM",
@@ -2174,8 +2175,7 @@
     "yt:video:Lml_oTIynNw",
     "yt:video:XXqjiyG6h54",
     "yt:video:iFWyw2ZZRm4",
-    "yt:video:P3P97U5CWqs",
-    "yt:video:FDFr64CfIx0"
+    "yt:video:P3P97U5CWqs"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=266350",
@@ -2477,6 +2477,7 @@
     "2069783829381001363"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2073694623604912236",
     "2073354056505131140",
     "2072973622441046262",
     "2072595883330600985",
@@ -2525,8 +2526,7 @@
     "2061773069295943799",
     "2061585332122869766",
     "2061407661455802647",
-    "2061222692553167035",
-    "2061046028384833689"
+    "2061222692553167035"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2073596645573624141",
