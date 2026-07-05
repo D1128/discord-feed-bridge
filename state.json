@@ -1710,6 +1710,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260705-atm-iphone-bank-tellers/",
     "https://gigazine.net/news/20260705-fifa-world-cup-2026-boosts-prediction-market-volumes/",
     "https://gigazine.net/news/20260705-paseo/",
     "https://gigazine.net/news/20260705-casio-earu-er-100-usage/",
@@ -1758,8 +1759,7 @@
     "https://gigazine.net/news/20260703-iss-air-leak-habitable/",
     "https://gigazine.net/news/20260702-godot-ban-ai/",
     "https://gigazine.net/news/20260702-zcode-ai-agent/",
-    "https://gigazine.net/news/20260702-headline/",
-    "https://gigazine.net/news/20260702-belkin-cable-charge-nintendo-switch-2-faster/"
+    "https://gigazine.net/news/20260702-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=220012",
@@ -2335,6 +2335,9 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2073761730652725557",
+    "2073761965382734169",
+    "2073762474999070963",
     "2073636554439008474",
     "2073637487076106593",
     "2073640136227909767",
@@ -2381,10 +2384,7 @@
     "2054398636537327987",
     "2054398650818953393",
     "2054398665880695278",
-    "2054398677897363484",
-    "2054398694179631267",
-    "2054398706116661746",
-    "2054398717978185854"
+    "2054398677897363484"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042465777098637639",
