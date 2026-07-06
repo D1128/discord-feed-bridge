@@ -1126,6 +1126,8 @@
     "yt:video:5iw-mxnNtMM"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/business/articles/2607/07/news022.html",
+    "https://www.itmedia.co.jp/business/articles/2607/07/news013.html",
     "https://www.itmedia.co.jp/mobile/articles/2607/06/news116.html",
     "https://built.itmedia.co.jp/bt/articles/2607/06/news115.html",
     "https://www.itmedia.co.jp/news/articles/2607/06/news121.html",
@@ -1173,9 +1175,7 @@
     "https://www.itmedia.co.jp/business/articles/2607/03/news018.html",
     "https://www.itmedia.co.jp/news/articles/2607/03/news101.html",
     "https://www.itmedia.co.jp/pcuser/articles/2607/03/news053.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2607/03/news061.html",
-    "https://www.itmedia.co.jp/news/articles/2607/03/news111.html",
-    "https://www.itmedia.co.jp/news/articles/2607/03/news113.html"
+    "https://www.itmedia.co.jp/pcuser/articles/2607/03/news061.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1283,6 +1283,8 @@
     "https://daily-gadget.net/?p=116576"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=64715",
+    "https://sumahodigest.com/?p=64719",
     "https://sumahodigest.com/?p=64701",
     "https://sumahodigest.com/?p=64706",
     "https://sumahodigest.com/?p=64710",
@@ -1330,9 +1332,7 @@
     "https://sumahodigest.com/?p=64508",
     "https://sumahodigest.com/?p=64499",
     "https://sumahodigest.com/?p=64503",
-    "https://sumahodigest.com/?p=64487",
-    "https://sumahodigest.com/?p=64491",
-    "https://sumahodigest.com/?p=64495"
+    "https://sumahodigest.com/?p=64487"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/14945776032050732838",
@@ -1509,6 +1509,7 @@
     "yt:video:_A_5MwHo1oY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCY57OrR5CWVgyJav7UZ5XEg": [
+    "yt:video:rf75SyQlnGM",
     "yt:video:CPz4fKGV5qE",
     "yt:video:NKHXuub1jKY",
     "yt:video:N165gXtsX4Y",
@@ -1557,8 +1558,7 @@
     "yt:video:T4JZQlofXos",
     "yt:video:a2-ycEiA8fg",
     "yt:video:ChBTf9EWDhE",
-    "yt:video:ca3CAdvJuT4",
-    "yt:video:BYUsccuf3kQ"
+    "yt:video:ca3CAdvJuT4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCZQVTC3uLCyuJUOcRlguazA": [
     "yt:video:YSxSQ7R4Mkw",
