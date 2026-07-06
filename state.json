@@ -1711,6 +1711,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260706-rich-let-ai-teach-kids/",
+    "https://gigazine.net/news/20260706-headline/",
+    "https://gigazine.net/news/20260706-ai-agents-consume/",
+    "https://gigazine.net/news/20260706-ui-blocking-debounce/",
     "https://gigazine.net/news/20260706-marvel-tokon-fighting-souls-blocks-132-countries/",
     "https://gigazine.net/news/20260706-cia-boss-compare-ai-nuclear/",
     "https://gigazine.net/news/20260706-spacex-starlink-satelite/",
@@ -1756,13 +1760,14 @@
     "https://gigazine.net/news/20260704-parabolic/",
     "https://gigazine.net/news/20260703-spain-orders-blacklist-us-tech-giant-palantir/",
     "https://gigazine.net/news/20260703-everest-green-boots/",
-    "https://gigazine.net/news/20260703-steam-machine-appearance/",
-    "https://gigazine.net/news/20260703-android-developer-verification-malware-f-droid/",
-    "https://gigazine.net/news/20260703-peertube/",
-    "https://gigazine.net/news/20260703-calbee-jagariko-nikumiso/",
-    "https://gigazine.net/news/20260703-safari-mcp-server/"
+    "https://gigazine.net/news/20260703-steam-machine-appearance/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=220829",
+    "https://aismiley.co.jp/?post_type=ai_news&p=222529",
+    "https://aismiley.co.jp/?post_type=ai_news&p=222753",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221936",
+    "https://aismiley.co.jp/?post_type=ai_news&p=222719",
     "https://aismiley.co.jp/?post_type=ai_news&p=222828",
     "https://aismiley.co.jp/?post_type=ai_news&p=222476",
     "https://aismiley.co.jp/?post_type=ai_news&p=220012",
@@ -1807,12 +1812,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=220320",
     "https://aismiley.co.jp/?post_type=ai_news&p=217690",
     "https://aismiley.co.jp/?post_type=ai_news&p=220618",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220730",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220980",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220805",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217164",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220828",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220868"
+    "https://aismiley.co.jp/?post_type=ai_news&p=220730"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188487",
@@ -1919,6 +1919,7 @@
     "yt:video:DZ7A5BKRmhw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:6O3zjugzPZI",
     "yt:video:rbXW-RodoaM",
     "yt:video:y2mFnrBF3vM",
     "yt:video:bwac9YPO6ag",
@@ -1967,8 +1968,7 @@
     "yt:video:vehlxYxIHc0",
     "yt:video:CEM7zBgnReY",
     "yt:video:lggHmx4khfI",
-    "yt:video:PdPaV3XWqDA",
-    "yt:video:PxZZKd3FUjI"
+    "yt:video:PdPaV3XWqDA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:2O1950K_FL8",
@@ -2075,6 +2075,7 @@
     "yt:video:YnrfsHHePLw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:OmFx_96RWgY",
     "yt:video:a9b2PIJyKdU",
     "yt:video:W5dnoAgWiJw",
     "yt:video:C8HwJtQKPM0",
@@ -2123,10 +2124,10 @@
     "yt:video:ZrO7tv-uv1E",
     "yt:video:As6mn7eodDo",
     "yt:video:WSNtkBu6ZWs",
-    "yt:video:gBFh6vnwXLA",
-    "yt:video:IecfNcHi7XE"
+    "yt:video:gBFh6vnwXLA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:gI1f_cDHqSs",
     "yt:video:HV0sEII79ig",
     "yt:video:1sbRN6jGdv8",
     "yt:video:-rzMXKpgAOY",
@@ -2175,8 +2176,7 @@
     "yt:video:6v-gzUGOZKg",
     "yt:video:Lml_oTIynNw",
     "yt:video:XXqjiyG6h54",
-    "yt:video:iFWyw2ZZRm4",
-    "yt:video:P3P97U5CWqs"
+    "yt:video:iFWyw2ZZRm4"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=266588",
@@ -2336,6 +2336,10 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2074106265337541074",
+    "2074106284182560956",
+    "2074106301198856361",
+    "2074107061076664391",
     "2073941560245571676",
     "2073761730652725557",
     "2073761965382734169",
@@ -2381,11 +2385,7 @@
     "2054744113153790057",
     "2054744129226342716",
     "2054744144904700010",
-    "2054744160285110493",
-    "2054398621798609231",
-    "2054398636537327987",
-    "2054398650818953393",
-    "2054398665880695278"
+    "2054744160285110493"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042465777098637639",
@@ -2426,6 +2426,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2074070618686025936",
+    "2074061184748429741",
     "2073204126809461236",
     "2073019528968306777",
     "2072885840741900468",
@@ -2473,11 +2475,10 @@
     "2070447944239595682",
     "2070456136642576828",
     "2070410091904606596",
-    "2070077036136202621",
-    "2070081098609226120",
-    "2069790681414221999"
+    "2070077036136202621"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2074057263036477535",
     "2073694623604912236",
     "2073354056505131140",
     "2072973622441046262",
@@ -2526,8 +2527,7 @@
     "2061946713753989566",
     "2061773069295943799",
     "2061585332122869766",
-    "2061407661455802647",
-    "2061222692553167035"
+    "2061407661455802647"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2074055758686339468",
