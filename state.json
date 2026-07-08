@@ -1711,6 +1711,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260708-waymo-firework/",
+    "https://gigazine.net/news/20260708-google-state-of-ai-infrastructure/",
+    "https://gigazine.net/news/20260708-microsoft-ai-cost-cutting-relying-more-own-models/",
+    "https://gigazine.net/news/20260708-google-pixel-event/",
+    "https://gigazine.net/news/20260708-anthropic-claude-fable-5-extended/",
+    "https://gigazine.net/news/20260708-claude-cowork-phone/",
+    "https://gigazine.net/news/20260708-semaglutide-bezoars-dissolved-diet-cola/",
+    "https://gigazine.net/news/20260708-nothing-phone-4b/",
+    "https://gigazine.net/news/20260708-meta-ai-glasses-capture-led/",
+    "https://gigazine.net/news/20260708-samsung-galaxy-unpacked/",
     "https://gigazine.net/news/20260708-gigazine-user-otaku/",
     "https://gigazine.net/news/20260708-small-language-models-ai-pharmaceuticals/",
     "https://gigazine.net/news/20260708-ai-roi-runway-long/",
@@ -1750,19 +1760,11 @@
     "https://gigazine.net/news/20260706-spacex-starlink-satelite/",
     "https://gigazine.net/news/20260706-banana-smoothie-flavanols/",
     "https://gigazine.net/news/20260706-instagram-child-sexual-promoting/",
-    "https://gigazine.net/news/20260706-command-and-conquer-zero-hour-apple/",
-    "https://gigazine.net/news/20260706-erectile-dysfunction-sign-heart-disease/",
-    "https://gigazine.net/news/20260706-tripadvisor-misleading-ai-review-summary/",
-    "https://gigazine.net/news/20260706-great-blog-collapse-google-ai/",
-    "https://gigazine.net/news/20260706-burgerking-big-mouth-dirty/",
-    "https://gigazine.net/news/20260706-germany-video-game-archive-shut-down/",
-    "https://gigazine.net/news/20260706-midjourney-hollywood-studios-ai-usage/",
-    "https://gigazine.net/news/20260706-domain-india-privacy/",
-    "https://gigazine.net/news/20260706-memory-chip-supply-lobbying/",
-    "https://gigazine.net/news/20260706-jim-keller-fab-2/",
-    "https://gigazine.net/news/20260706-superintelligent-ai-explain-fermi-paradox/"
+    "https://gigazine.net/news/20260706-command-and-conquer-zero-hour-apple/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=222555",
+    "https://aismiley.co.jp/?post_type=ai_news&p=222943",
     "https://aismiley.co.jp/?post_type=ai_news&p=220429",
     "https://aismiley.co.jp/?post_type=ai_news&p=222867",
     "https://aismiley.co.jp/?post_type=ai_news&p=222518",
@@ -1810,11 +1812,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=221145",
     "https://aismiley.co.jp/?post_type=ai_news&p=221311",
     "https://aismiley.co.jp/?post_type=ai_news&p=219375",
-    "https://aismiley.co.jp/?post_type=ai_news&p=219361",
-    "https://aismiley.co.jp/?post_type=ai_news&p=221229",
-    "https://aismiley.co.jp/?post_type=ai_news&p=221414"
+    "https://aismiley.co.jp/?post_type=ai_news&p=219361"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188874",
     "https://win-tab.net/?p=188811",
     "https://win-tab.net/?p=188798",
     "https://win-tab.net/?p=188842",
@@ -1863,8 +1864,7 @@
     "https://win-tab.net/?p=188276",
     "https://win-tab.net/?p=188272",
     "https://win-tab.net/?p=188245",
-    "https://win-tab.net/?p=188237",
-    "https://win-tab.net/?p=188230"
+    "https://win-tab.net/?p=188237"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:POrwUMhMygQ",
@@ -2179,6 +2179,9 @@
     "yt:video:iFWyw2ZZRm4"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=266764",
+    "https://garumax.com/?p=266730",
+    "https://garumax.com/?p=266786",
     "https://garumax.com/?p=266689",
     "https://garumax.com/?p=266598",
     "https://garumax.com/?p=266663",
@@ -2225,10 +2228,7 @@
     "https://garumax.com/?p=265701",
     "https://garumax.com/?p=265674",
     "https://garumax.com/?p=265647",
-    "https://garumax.com/?p=261992",
-    "https://garumax.com/?p=265525",
-    "https://garumax.com/?p=265523",
-    "https://garumax.com/?p=265461"
+    "https://garumax.com/?p=261992"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/gfonly",
@@ -2336,6 +2336,8 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2074679786207838597",
+    "2074680486195294351",
     "2074435084770582753",
     "2074435892610207783",
     "2074307945194799317",
@@ -2383,9 +2385,7 @@
     "2055930528474489074",
     "2055930544077300031",
     "2055930556022669657",
-    "2055930567846457746",
-    "2054808823073050650",
-    "2054808839707632019"
+    "2055930567846457746"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042465777098637639",
@@ -2426,6 +2426,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2074644634484261345",
     "2074336934743187594",
     "2074380865304686639",
     "2074471925108416976",
@@ -2474,8 +2475,7 @@
     "2071051713302380871",
     "2071350726249636068",
     "2071527878190338180",
-    "2071267756645998698",
-    "2071226584347119906"
+    "2071267756645998698"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2074419650876625107",
