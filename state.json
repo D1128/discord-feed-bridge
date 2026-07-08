@@ -1711,6 +1711,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260708-llm-image-cost/",
+    "https://gigazine.net/news/20260708-matsunoya-sougyou-beef-curry/",
     "https://gigazine.net/news/20260708-nothing-ear-3a/",
     "https://gigazine.net/news/20260708-commonwealth-prize-claims-ai-use-win/",
     "https://gigazine.net/news/20260708-rowboat/",
@@ -1758,9 +1760,7 @@
     "https://gigazine.net/news/20260706-rich-let-ai-teach-kids/",
     "https://gigazine.net/news/20260706-headline/",
     "https://gigazine.net/news/20260706-ai-agents-consume/",
-    "https://gigazine.net/news/20260706-ui-blocking-debounce/",
-    "https://gigazine.net/news/20260706-marvel-tokon-fighting-souls-blocks-132-countries/",
-    "https://gigazine.net/news/20260706-cia-boss-compare-ai-nuclear/"
+    "https://gigazine.net/news/20260706-ui-blocking-debounce/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=222555",
@@ -1919,6 +1919,7 @@
     "yt:video:DIaSkl0ARl8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:OONNF36I3MA",
     "yt:video:c9ROH4vVpvg",
     "yt:video:6O3zjugzPZI",
     "yt:video:rbXW-RodoaM",
@@ -1967,8 +1968,7 @@
     "yt:video:fCwuXLz34OI",
     "yt:video:KH4Kz8m7n8E",
     "yt:video:vehlxYxIHc0",
-    "yt:video:CEM7zBgnReY",
-    "yt:video:lggHmx4khfI"
+    "yt:video:CEM7zBgnReY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:ZAsVdLws-U4",
@@ -2478,6 +2478,7 @@
     "2071051713302380871"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2074782290111259002",
     "2074419650876625107",
     "2074057263036477535",
     "2073694623604912236",
@@ -2526,8 +2527,7 @@
     "2062309604835356959",
     "2062132185537135013",
     "2061946713753989566",
-    "2061773069295943799",
-    "2061585332122869766"
+    "2061773069295943799"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2074708519631368419",
