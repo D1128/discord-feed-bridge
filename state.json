@@ -1711,6 +1711,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260708-nothing-ear-3a/",
+    "https://gigazine.net/news/20260708-commonwealth-prize-claims-ai-use-win/",
+    "https://gigazine.net/news/20260708-rowboat/",
+    "https://gigazine.net/news/20260708-doom-developer-id-software-loses-half-staff/",
     "https://gigazine.net/news/20260708-waymo-firework/",
     "https://gigazine.net/news/20260708-google-state-of-ai-infrastructure/",
     "https://gigazine.net/news/20260708-microsoft-ai-cost-cutting-relying-more-own-models/",
@@ -1756,11 +1760,7 @@
     "https://gigazine.net/news/20260706-ai-agents-consume/",
     "https://gigazine.net/news/20260706-ui-blocking-debounce/",
     "https://gigazine.net/news/20260706-marvel-tokon-fighting-souls-blocks-132-countries/",
-    "https://gigazine.net/news/20260706-cia-boss-compare-ai-nuclear/",
-    "https://gigazine.net/news/20260706-spacex-starlink-satelite/",
-    "https://gigazine.net/news/20260706-banana-smoothie-flavanols/",
-    "https://gigazine.net/news/20260706-instagram-child-sexual-promoting/",
-    "https://gigazine.net/news/20260706-command-and-conquer-zero-hour-apple/"
+    "https://gigazine.net/news/20260706-cia-boss-compare-ai-nuclear/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=222555",
@@ -2179,6 +2179,8 @@
     "yt:video:iFWyw2ZZRm4"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=266665",
+    "https://garumax.com/?p=266813",
     "https://garumax.com/?p=266764",
     "https://garumax.com/?p=266730",
     "https://garumax.com/?p=266786",
@@ -2226,9 +2228,7 @@
     "https://garumax.com/?p=265682",
     "https://garumax.com/?p=265657",
     "https://garumax.com/?p=265701",
-    "https://garumax.com/?p=265674",
-    "https://garumax.com/?p=265647",
-    "https://garumax.com/?p=261992"
+    "https://garumax.com/?p=265674"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/gfonly",
@@ -2426,6 +2426,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2074714336636047758",
+    "2045122512456151481",
+    "2074674708541571190",
     "2074644634484261345",
     "2074336934743187594",
     "2074380865304686639",
@@ -2472,10 +2475,7 @@
     "2071581810870640693",
     "2071572954417352824",
     "2071422792709611862",
-    "2071051713302380871",
-    "2071350726249636068",
-    "2071527878190338180",
-    "2071267756645998698"
+    "2071051713302380871"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2074419650876625107",
