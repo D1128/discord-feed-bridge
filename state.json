@@ -1713,6 +1713,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260709-yamanote-fun/",
+    "https://gigazine.net/news/20260709-eve-online-carbon-engine-open-source/",
     "https://gigazine.net/news/20260709-headline/",
     "https://gigazine.net/news/20260709-rocket-league-mira/",
     "https://gigazine.net/news/20260709-ftc-deere-settlement/",
@@ -1760,9 +1762,7 @@
     "https://gigazine.net/news/20260708-meta-ai-glasses-capture-led/",
     "https://gigazine.net/news/20260708-samsung-galaxy-unpacked/",
     "https://gigazine.net/news/20260708-gigazine-user-otaku/",
-    "https://gigazine.net/news/20260708-small-language-models-ai-pharmaceuticals/",
-    "https://gigazine.net/news/20260708-ai-roi-runway-long/",
-    "https://gigazine.net/news/20260708-officecli/"
+    "https://gigazine.net/news/20260708-small-language-models-ai-pharmaceuticals/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=223098",
@@ -2428,6 +2428,14 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2075157106534355395",
+    "2075162051689988345",
+    "2074937436338344407",
+    "2075033980643262759",
+    "2075176324302528611",
+    "2075176353037754467",
+    "2074726105005867223",
+    "2074957546281136203",
     "2074840048198160484",
     "2074867712531304788",
     "2074834806828101641",
@@ -2469,15 +2477,7 @@
     "2072446477042102317",
     "2072474918906905005",
     "2072487678340387157",
-    "2072319317010505963",
-    "2071976565169357169",
-    "2072621837721473068",
-    "2072172075251622318",
-    "2072180145922936992",
-    "2071952649398952310",
-    "2071926728927105271",
-    "2071916938272366662",
-    "2070490723988742383"
+    "2072319317010505963"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2075144678224072894",
