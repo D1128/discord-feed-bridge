@@ -1713,6 +1713,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260709-headline/",
+    "https://gigazine.net/news/20260709-rocket-league-mira/",
+    "https://gigazine.net/news/20260709-ftc-deere-settlement/",
+    "https://gigazine.net/news/20260709-grok-gpt-claude-build-apps/",
     "https://gigazine.net/news/20260709-relationships-fail-women-earn-more/",
     "https://gigazine.net/news/20260709-judge-rejects-kalshi-attempt-override-gambling-laws/",
     "https://gigazine.net/news/20260709-uniqlo-akamai-t-shirts-script/",
@@ -1758,13 +1762,12 @@
     "https://gigazine.net/news/20260708-gigazine-user-otaku/",
     "https://gigazine.net/news/20260708-small-language-models-ai-pharmaceuticals/",
     "https://gigazine.net/news/20260708-ai-roi-runway-long/",
-    "https://gigazine.net/news/20260708-officecli/",
-    "https://gigazine.net/news/20260707-ternlight-webassembly-embeddings/",
-    "https://gigazine.net/news/20260707-game-ownership/",
-    "https://gigazine.net/news/20260707-amd-ryzen-ai-halo/",
-    "https://gigazine.net/news/20260707-headline/"
+    "https://gigazine.net/news/20260708-officecli/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=223098",
+    "https://aismiley.co.jp/?post_type=ai_news&p=223652",
+    "https://aismiley.co.jp/?post_type=ai_news&p=223216",
     "https://aismiley.co.jp/?post_type=ai_news&p=222360",
     "https://aismiley.co.jp/?post_type=ai_news&p=223522",
     "https://aismiley.co.jp/?post_type=ai_news&p=223091",
@@ -1811,10 +1814,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=220530",
     "https://aismiley.co.jp/?post_type=ai_news&p=220498",
     "https://aismiley.co.jp/?post_type=ai_news&p=222192",
-    "https://aismiley.co.jp/?post_type=ai_news&p=221135",
-    "https://aismiley.co.jp/?post_type=ai_news&p=221194",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220509",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220517"
+    "https://aismiley.co.jp/?post_type=ai_news&p=221135"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188894",
@@ -1921,6 +1921,7 @@
     "yt:video:DIaSkl0ARl8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:dC12NiU8Gi0",
     "yt:video:OONNF36I3MA",
     "yt:video:c9ROH4vVpvg",
     "yt:video:6O3zjugzPZI",
@@ -1969,8 +1970,7 @@
     "yt:video:-BuQI0iEjPI",
     "yt:video:fCwuXLz34OI",
     "yt:video:KH4Kz8m7n8E",
-    "yt:video:vehlxYxIHc0",
-    "yt:video:CEM7zBgnReY"
+    "yt:video:vehlxYxIHc0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:ZAsVdLws-U4",
@@ -2077,6 +2077,7 @@
     "yt:video:dmeROJAtDXk"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:wxb_Iw4WkSg",
     "yt:video:Ow0r5Nd8mpU",
     "yt:video:OmFx_96RWgY",
     "yt:video:a9b2PIJyKdU",
@@ -2125,10 +2126,10 @@
     "yt:video:SserVJnLCN4",
     "yt:video:d_iHRM1e-ZE",
     "yt:video:ZrO7tv-uv1E",
-    "yt:video:As6mn7eodDo",
-    "yt:video:WSNtkBu6ZWs"
+    "yt:video:As6mn7eodDo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:D6JCFqMSD7I",
     "yt:video:mAF62dpA30c",
     "yt:video:sGnZ1_y129s",
     "yt:video:gI1f_cDHqSs",
@@ -2177,8 +2178,7 @@
     "yt:video:ukEmEnfK2BQ",
     "yt:video:LbQ91Hk2I4Q",
     "yt:video:y6wAIuXtfRI",
-    "yt:video:6v-gzUGOZKg",
-    "yt:video:Lml_oTIynNw"
+    "yt:video:6v-gzUGOZKg"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=266886",
@@ -2480,6 +2480,7 @@
     "2070490723988742383"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2075144678224072894",
     "2074782290111259002",
     "2074419650876625107",
     "2074057263036477535",
@@ -2528,8 +2529,7 @@
     "2062495328503255161",
     "2062309604835356959",
     "2062132185537135013",
-    "2061946713753989566",
-    "2061773069295943799"
+    "2061946713753989566"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2075057858132259176",
