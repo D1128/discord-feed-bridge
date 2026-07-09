@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123653.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123669.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123662.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2123650.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2123635.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2123622.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2122977.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2122988.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2122997.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2122994.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123013.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123010.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2122603.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2122994.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/explorer/nFolder.html",
@@ -254,6 +254,7 @@
     "https://telektlist.com/?p=137339"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/28887",
     "https://codezine.jp/article/detail/28886",
     "https://codezine.jp/article/detail/28846",
     "https://codezine.jp/article/detail/28896",
@@ -302,8 +303,7 @@
     "https://codezine.jp/article/detail/28837",
     "https://codezine.jp/article/detail/28847",
     "https://codezine.jp/article/detail/28852",
-    "https://codezine.jp/article/detail/28838",
-    "https://codezine.jp/article/detail/28845"
+    "https://codezine.jp/article/detail/28838"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
