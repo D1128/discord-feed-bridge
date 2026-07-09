@@ -1713,6 +1713,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260710-preservetube-youtube/",
     "https://gigazine.net/news/20260710-fbi-google-netnut-botnet-smart-tv/",
     "https://gigazine.net/news/20260709-yamanote-fun/",
     "https://gigazine.net/news/20260709-eve-online-carbon-engine-open-source/",
@@ -1761,8 +1762,7 @@
     "https://gigazine.net/news/20260708-semaglutide-bezoars-dissolved-diet-cola/",
     "https://gigazine.net/news/20260708-nothing-phone-4b/",
     "https://gigazine.net/news/20260708-meta-ai-glasses-capture-led/",
-    "https://gigazine.net/news/20260708-samsung-galaxy-unpacked/",
-    "https://gigazine.net/news/20260708-gigazine-user-otaku/"
+    "https://gigazine.net/news/20260708-samsung-galaxy-unpacked/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=223098",
@@ -2428,6 +2428,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2075307337083240494",
+    "2075328347799011435",
+    "2075321450119004558",
+    "2075345282775347590",
     "2075157106534355395",
     "2075162051689988345",
     "2074937436338344407",
@@ -2473,11 +2477,7 @@
     "2072615868836814940",
     "2072576471852577132",
     "2072333822692413559",
-    "2072631403649609792",
-    "2072446477042102317",
-    "2072474918906905005",
-    "2072487678340387157",
-    "2072319317010505963"
+    "2072631403649609792"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2075144678224072894",
