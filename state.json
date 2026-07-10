@@ -1713,6 +1713,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
+    "https://gigazine.net/news/20260710-no-leap-second-at-2026/",
     "https://gigazine.net/news/20260710-brave-bat-roadmap-4/",
     "https://gigazine.net/news/20260710-meta-vistara/",
     "https://gigazine.net/news/20260710-headline/",
@@ -1760,9 +1762,7 @@
     "https://gigazine.net/news/20260709-eu-car-camera-systems/",
     "https://gigazine.net/news/20260709-ai-captcha-obsolete/",
     "https://gigazine.net/news/20260708-cloudflare-tunnel/",
-    "https://gigazine.net/news/20260708-australia-sns-ban-fails/",
-    "https://gigazine.net/news/20260708-micro-predators/",
-    "https://gigazine.net/news/20260708-claude-cowork-using/"
+    "https://gigazine.net/news/20260708-australia-sns-ban-fails/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=221758",
@@ -2428,6 +2428,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2075537732529729899",
+    "2075537203758088362",
+    "2075555790434570343",
+    "2075543963780690026",
     "2075508104733855821",
     "2075505362896359861",
     "2075452087383789671",
@@ -2473,11 +2477,7 @@
     "2074275409211076942",
     "2074107115686580369",
     "2074421915649991050",
-    "2074309992182849566",
-    "2074111398733652388",
-    "2074070618686025936",
-    "2074061184748429741",
-    "2073204126809461236"
+    "2074309992182849566"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2075507317739565285",
