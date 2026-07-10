@@ -1,5 +1,13 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2124177.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124209.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2124203.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124215.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124224.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2124231.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2124234.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2124277.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124047.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2124045.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124082.html?ref=rss",
@@ -41,15 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2123556.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2123403.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2123440.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2123445.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2123466.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123298.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2123293.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123314.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123327.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123323.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123331.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2123366.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2123445.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/explorer/nFolder.html",
@@ -150,6 +150,8 @@
     "https://ainow.ai/?p=278058"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=93638",
+    "https://butsuyoku-gadget.com/?p=93651",
     "https://butsuyoku-gadget.com/?p=93587",
     "https://butsuyoku-gadget.com/?p=93578",
     "https://butsuyoku-gadget.com/?p=93536",
@@ -197,9 +199,7 @@
     "https://butsuyoku-gadget.com/?p=93060",
     "https://butsuyoku-gadget.com/?p=93072",
     "https://butsuyoku-gadget.com/?p=93013",
-    "https://butsuyoku-gadget.com/?p=93065",
-    "https://butsuyoku-gadget.com/?p=93042",
-    "https://butsuyoku-gadget.com/?p=93046"
+    "https://butsuyoku-gadget.com/?p=93065"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137957",
@@ -254,6 +254,9 @@
     "https://telektlist.com/?p=137351"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/28907",
+    "https://codezine.jp/article/detail/28908",
+    "https://codezine.jp/article/detail/28909",
     "https://codezine.jp/article/detail/28903",
     "https://codezine.jp/article/detail/28904",
     "https://codezine.jp/article/detail/28906",
@@ -300,10 +303,7 @@
     "https://codezine.jp/article/detail/24735",
     "https://codezine.jp/article/detail/28857",
     "https://codezine.jp/article/detail/28841",
-    "https://codezine.jp/article/detail/28858",
-    "https://codezine.jp/article/detail/28859",
-    "https://codezine.jp/article/detail/28861",
-    "https://codezine.jp/article/detail/28860"
+    "https://codezine.jp/article/detail/28858"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -422,6 +422,7 @@
     "yt:video:bz591g2shxU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:oiR3v3TGYQI",
     "yt:video:Kqx8-dm9JOU",
     "yt:video:ZLFOBXW1CTg",
     "yt:video:lXWHRmQ4ylE",
@@ -470,8 +471,7 @@
     "yt:video:OblYU_a-Fr8",
     "yt:video:JZE2QJlFBzM",
     "yt:video:sYJKQiAwFG4",
-    "yt:video:IE8JIvPYBww",
-    "yt:video:s7a1O5fWqWY"
+    "yt:video:IE8JIvPYBww"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:OKLAse5Oi48",
