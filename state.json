@@ -562,6 +562,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:kZylmh-TgdY",
     "yt:video:pjzDlZETMRY",
     "yt:video:jtWwOFNcQEs",
     "yt:video:MtE_adi-BQY",
@@ -610,8 +611,7 @@
     "yt:video:CBAr1mY7rnY",
     "yt:video:Dn_KPKQlkvk",
     "yt:video:J3CaN2ZWsps",
-    "yt:video:Kw0AFsDUnF4",
-    "yt:video:ei__u4UYz0Q"
+    "yt:video:Kw0AFsDUnF4"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=15290",
@@ -2785,6 +2785,16 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2075510563816542417",
+    "2075510711573434815",
+    "2075510813197226239",
+    "2075510844004393298",
+    "2075511050334879769",
+    "2075511091711598907",
+    "2075511127887462831",
+    "2075511459237576777",
+    "2075511498676613597",
+    "2075511573121233232",
     "2075357442788225337",
     "2075357409950961953",
     "2075357683599946017",
@@ -2824,17 +2834,7 @@
     "2075062471099080853",
     "2075062537327083788",
     "2074993233525100554",
-    "2074993271659774290",
-    "2074993378371256698",
-    "2074993426031112291",
-    "2074993480435397118",
-    "2074993702481834232",
-    "2074993738242548089",
-    "2074993907683951023",
-    "2074993930593341799",
-    "2074993974096662914",
-    "2074873853696946603",
-    "2074873885087199624"
+    "2074993271659774290"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2074425122950455332",
