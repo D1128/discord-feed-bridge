@@ -1713,6 +1713,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260711-car-t-therapy-remission/",
     "https://gigazine.net/news/20260710-cloudflare-tunnel-access/",
     "https://gigazine.net/news/20260710-backblaze-drive-stats-for-q1-2026/",
     "https://gigazine.net/news/20260710-no-leap-second-at-2026/",
@@ -1761,8 +1762,7 @@
     "https://gigazine.net/news/20260709-eu-satellite-car-slow-down/",
     "https://gigazine.net/news/20260709-better-way-tie-gym-horts/",
     "https://gigazine.net/news/20260709-eu-car-camera-systems/",
-    "https://gigazine.net/news/20260709-ai-captcha-obsolete/",
-    "https://gigazine.net/news/20260708-cloudflare-tunnel/"
+    "https://gigazine.net/news/20260709-ai-captcha-obsolete/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=221758",
@@ -2269,6 +2269,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=62808",
     "https://androplus.jp/?p=62581",
     "https://androplus.jp/?p=62866",
     "https://androplus.jp/?p=61894",
@@ -2317,8 +2318,7 @@
     "https://androplus.jp/?p=62294",
     "https://androplus.jp/?p=62409",
     "https://androplus.jp/?p=62398",
-    "https://androplus.jp/?p=62404",
-    "https://androplus.jp/?p=62368"
+    "https://androplus.jp/?p=62404"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2428,6 +2428,13 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2075591897041760549",
+    "2075579138602381481",
+    "2075594654108745796",
+    "2075587032362185146",
+    "2075559063052808268",
+    "2075590443774194142",
+    "2075580486697750885",
     "2075537732529729899",
     "2075537203758088362",
     "2075555790434570343",
@@ -2470,14 +2477,7 @@
     "2074674708541571190",
     "2074644634484261345",
     "2074336934743187594",
-    "2074380865304686639",
-    "2074471925108416976",
-    "2074375463032754531",
-    "2074332313140224158",
-    "2074275409211076942",
-    "2074107115686580369",
-    "2074421915649991050",
-    "2074309992182849566"
+    "2074380865304686639"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2075507317739565285",
