@@ -1713,6 +1713,15 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260710-micron-investment/",
+    "https://gigazine.net/news/20260710-sony-camera-rx10v-dsc-rx10m5/",
+    "https://gigazine.net/news/20260710-openai-chatgpt-atlas-end/",
+    "https://gigazine.net/news/20260710-google-litert-js/",
+    "https://gigazine.net/news/20260710-bluesky-search/",
+    "https://gigazine.net/news/20260710-samsung-galaxy-z-fold-flip-8-renders/",
+    "https://gigazine.net/news/20260710-eu-chat-control-exclude-e2e-message/",
+    "https://gigazine.net/news/20260710-chrome-email-verification-protocol/",
+    "https://gigazine.net/news/20260710-tennis-brain/",
     "https://gigazine.net/news/20260710-thunder-3/",
     "https://gigazine.net/news/20260710-modern-humans-neanderthals-shared-culture/",
     "https://gigazine.net/news/20260710-preservetube-youtube/",
@@ -1753,18 +1762,13 @@
     "https://gigazine.net/news/20260708-matsunoya-sougyou-beef-curry/",
     "https://gigazine.net/news/20260708-nothing-ear-3a/",
     "https://gigazine.net/news/20260708-commonwealth-prize-claims-ai-use-win/",
-    "https://gigazine.net/news/20260708-rowboat/",
-    "https://gigazine.net/news/20260708-doom-developer-id-software-loses-half-staff/",
-    "https://gigazine.net/news/20260708-waymo-firework/",
-    "https://gigazine.net/news/20260708-google-state-of-ai-infrastructure/",
-    "https://gigazine.net/news/20260708-microsoft-ai-cost-cutting-relying-more-own-models/",
-    "https://gigazine.net/news/20260708-google-pixel-event/",
-    "https://gigazine.net/news/20260708-anthropic-claude-fable-5-extended/",
-    "https://gigazine.net/news/20260708-claude-cowork-phone/",
-    "https://gigazine.net/news/20260708-semaglutide-bezoars-dissolved-diet-cola/",
-    "https://gigazine.net/news/20260708-nothing-phone-4b/"
+    "https://gigazine.net/news/20260708-rowboat/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=223130",
+    "https://aismiley.co.jp/?post_type=ai_news&p=223223",
+    "https://aismiley.co.jp/?post_type=ai_news&p=224282",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221487",
     "https://aismiley.co.jp/?post_type=ai_news&p=223098",
     "https://aismiley.co.jp/?post_type=ai_news&p=223652",
     "https://aismiley.co.jp/?post_type=ai_news&p=223216",
@@ -1810,11 +1814,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=220068",
     "https://aismiley.co.jp/?post_type=ai_news&p=222240",
     "https://aismiley.co.jp/?post_type=ai_news&p=222479",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222502",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220530",
-    "https://aismiley.co.jp/?post_type=ai_news&p=220498",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222192",
-    "https://aismiley.co.jp/?post_type=ai_news&p=221135"
+    "https://aismiley.co.jp/?post_type=ai_news&p=222502"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188894",
@@ -2428,6 +2428,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2075397332678709364",
+    "2075406673532129592",
     "2075361859507519509",
     "2075307337083240494",
     "2075328347799011435",
@@ -2475,9 +2477,7 @@
     "2072688922677899507",
     "2072953497922728116",
     "2072945423275421832",
-    "2072615868836814940",
-    "2072576471852577132",
-    "2072333822692413559"
+    "2072615868836814940"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2075144678224072894",
