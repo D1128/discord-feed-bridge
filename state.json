@@ -150,6 +150,7 @@
     "https://ainow.ai/?p=278055"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=93645",
     "https://butsuyoku-gadget.com/?p=93638",
     "https://butsuyoku-gadget.com/?p=93651",
     "https://butsuyoku-gadget.com/?p=93587",
@@ -198,8 +199,7 @@
     "https://butsuyoku-gadget.com/?p=93102",
     "https://butsuyoku-gadget.com/?p=93060",
     "https://butsuyoku-gadget.com/?p=93072",
-    "https://butsuyoku-gadget.com/?p=93013",
-    "https://butsuyoku-gadget.com/?p=93065"
+    "https://butsuyoku-gadget.com/?p=93013"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137957",
@@ -254,6 +254,7 @@
     "https://telektlist.com/?p=137351"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/28920",
     "https://codezine.jp/article/detail/28919",
     "https://codezine.jp/article/detail/28918",
     "https://codezine.jp/article/detail/28907",
@@ -302,8 +303,7 @@
     "https://codezine.jp/article/detail/28864",
     "https://codezine.jp/article/detail/28868",
     "https://codezine.jp/article/detail/28863",
-    "https://codezine.jp/article/detail/24735",
-    "https://codezine.jp/article/detail/28857"
+    "https://codezine.jp/article/detail/24735"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2889,6 +2889,8 @@
     "2039910039117549837"
   ],
   "https://nitter.net/haniwa008/rss": [
+    "2075542429760208948",
+    "2075760075864719462",
     "2074111398733652388",
     "2073979899011051740",
     "2073904765994733689",
@@ -2936,9 +2938,7 @@
     "2038375656917172298",
     "2038375658662023372",
     "2036057223093453273",
-    "2036043384604017093",
-    "2035838942529098155",
-    "2035838944345251959"
+    "2036043384604017093"
   ],
   "https://nitter.net/search/rss?f=tweets&q=OnePlus15%20lang%3Aja": []
 }
