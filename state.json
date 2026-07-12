@@ -1715,6 +1715,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260712-apple-sues-openai/",
     "https://gigazine.net/news/20260712-streetcomplete/",
     "https://gigazine.net/news/20260712-eshima-san-paperback/",
     "https://gigazine.net/news/20260712-max-planck-paper-retracted/",
@@ -1763,8 +1764,7 @@
     "https://gigazine.net/news/20260709-uniqlo-akamai-t-shirts-script/",
     "https://gigazine.net/news/20260709-china-nvidia-h200/",
     "https://gigazine.net/news/20260709-cloudflare-drop/",
-    "https://gigazine.net/news/20260709-acecook-mishima-yukari-hideki-yakisoba/",
-    "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/"
+    "https://gigazine.net/news/20260709-acecook-mishima-yukari-hideki-yakisoba/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=221758",
@@ -2430,6 +2430,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2076159763398938891",
+    "2075842377089249375",
     "2075760075864719462",
     "2075542429760208948",
     "2075593780192002259",
@@ -2477,9 +2479,7 @@
     "2074937436338344407",
     "2075033980643262759",
     "2075176324302528611",
-    "2075176353037754467",
-    "2074726105005867223",
-    "2074957546281136203"
+    "2075176353037754467"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2075870208909078738",
