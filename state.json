@@ -1715,6 +1715,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260712-covert-hostility-higher-fertility/",
     "https://gigazine.net/news/20260712-ai-j-space-jacobian-lens/",
     "https://gigazine.net/news/20260712-anker-soundcore-p42i/",
     "https://gigazine.net/news/20260712-gamer-wins-legal-battle-hacked-xbox-account/",
@@ -1763,8 +1764,7 @@
     "https://gigazine.net/news/20260709-eve-online-carbon-engine-open-source/",
     "https://gigazine.net/news/20260709-headline/",
     "https://gigazine.net/news/20260709-rocket-league-mira/",
-    "https://gigazine.net/news/20260709-ftc-deere-settlement/",
-    "https://gigazine.net/news/20260709-grok-gpt-claude-build-apps/"
+    "https://gigazine.net/news/20260709-ftc-deere-settlement/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=221758",
@@ -2271,6 +2271,10 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=61597",
+    "https://androplus.jp/?p=62357",
+    "https://androplus.jp/?p=63053",
+    "https://androplus.jp/?p=63061",
     "https://androplus.jp/?p=62034",
     "https://androplus.jp/?p=62024",
     "https://androplus.jp/?p=62478",
@@ -2316,11 +2320,7 @@
     "https://androplus.jp/?p=62602",
     "https://androplus.jp/?p=62617",
     "https://androplus.jp/?p=62597",
-    "https://androplus.jp/?p=62559",
-    "https://androplus.jp/?p=62573",
-    "https://androplus.jp/?p=62526",
-    "https://androplus.jp/?p=62515",
-    "https://androplus.jp/?p=62505"
+    "https://androplus.jp/?p=62559"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2430,6 +2430,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2076274608060366924",
+    "2076157524114591986",
     "2076267669452665146",
     "2076232200580898858",
     "2076175454986489868",
@@ -2477,9 +2479,7 @@
     "2075361859507519509",
     "2075307337083240494",
     "2075328347799011435",
-    "2075321450119004558",
-    "2075345282775347590",
-    "2075157106534355395"
+    "2075321450119004558"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2076235868109779397",
