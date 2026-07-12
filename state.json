@@ -1715,6 +1715,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260712-streetcomplete/",
     "https://gigazine.net/news/20260712-eshima-san-paperback/",
     "https://gigazine.net/news/20260712-max-planck-paper-retracted/",
     "https://gigazine.net/news/20260712-gta6-scam/",
@@ -1763,8 +1764,7 @@
     "https://gigazine.net/news/20260709-china-nvidia-h200/",
     "https://gigazine.net/news/20260709-cloudflare-drop/",
     "https://gigazine.net/news/20260709-acecook-mishima-yukari-hideki-yakisoba/",
-    "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/",
-    "https://gigazine.net/news/20260709-gitlost/"
+    "https://gigazine.net/news/20260709-grok-make-7k-sex-images-stepdaughter/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=221758",
@@ -1819,6 +1819,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=220441"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188974",
     "https://win-tab.net/?p=188926",
     "https://win-tab.net/?p=188930",
     "https://win-tab.net/?p=188918",
@@ -1867,8 +1868,7 @@
     "https://win-tab.net/?p=188404",
     "https://win-tab.net/?p=187471",
     "https://win-tab.net/?p=188310",
-    "https://win-tab.net/?p=188360",
-    "https://win-tab.net/?p=188296"
+    "https://win-tab.net/?p=188360"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:TETT35cw8c8",
@@ -2183,6 +2183,8 @@
     "yt:video:LbQ91Hk2I4Q"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=266923",
+    "https://garumax.com/?p=266823",
     "https://garumax.com/?p=267085",
     "https://garumax.com/?p=266456",
     "https://garumax.com/?p=266914",
@@ -2230,9 +2232,7 @@
     "https://garumax.com/?p=266054",
     "https://garumax.com/?p=265944",
     "https://garumax.com/?p=266014",
-    "https://garumax.com/?p=265845",
-    "https://garumax.com/?p=265757",
-    "https://garumax.com/?p=265235"
+    "https://garumax.com/?p=265845"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/gfonly",
@@ -2430,6 +2430,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2075760075864719462",
+    "2075542429760208948",
+    "2075593780192002259",
     "2076044039930159119",
     "2075737539797975222",
     "2075958702969118738",
@@ -2476,10 +2479,7 @@
     "2075176324302528611",
     "2075176353037754467",
     "2074726105005867223",
-    "2074957546281136203",
-    "2074840048198160484",
-    "2074867712531304788",
-    "2074834806828101641"
+    "2074957546281136203"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2075870208909078738",
