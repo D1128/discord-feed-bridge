@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2124787.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124651.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124664.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2124508.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2124025.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124032.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2122459.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2123952.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2123979.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/explorer/nFolder.html",
@@ -150,6 +150,7 @@
     "https://ainow.ai/?p=278074"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=93060",
     "https://butsuyoku-gadget.com/?p=93616",
     "https://butsuyoku-gadget.com/?p=93674",
     "https://butsuyoku-gadget.com/?p=93647",
@@ -198,8 +199,7 @@
     "https://butsuyoku-gadget.com/?p=93132",
     "https://butsuyoku-gadget.com/?p=93128",
     "https://butsuyoku-gadget.com/?p=93123",
-    "https://butsuyoku-gadget.com/?p=93101",
-    "https://butsuyoku-gadget.com/?p=93102"
+    "https://butsuyoku-gadget.com/?p=93101"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137973",
@@ -254,6 +254,7 @@
     "https://telektlist.com/?p=137365"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/28927",
     "https://codezine.jp/article/detail/28934",
     "https://codezine.jp/article/detail/28933",
     "https://codezine.jp/article/detail/28926",
@@ -302,8 +303,7 @@
     "https://codezine.jp/article/detail/28881",
     "https://codezine.jp/article/detail/28880",
     "https://codezine.jp/article/detail/28877",
-    "https://codezine.jp/article/detail/28876",
-    "https://codezine.jp/article/detail/28870"
+    "https://codezine.jp/article/detail/28876"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -422,6 +422,7 @@
     "yt:video:bz591g2shxU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:hW0V0dpzkOc",
     "yt:video:EsXUbO7jGNs",
     "yt:video:ET8cAIVTn9I",
     "yt:video:dR7mqqH8-KQ",
@@ -470,8 +471,7 @@
     "yt:video:qS5yOUhpTwE",
     "yt:video:j5Vhed3LWWc",
     "yt:video:6SgQQnGRCnc",
-    "yt:video:BbGpK3_cX8w",
-    "yt:video:vVT3D_1xq-k"
+    "yt:video:BbGpK3_cX8w"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:OKLAse5Oi48",
@@ -562,6 +562,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:d3y6LZ05_98",
     "yt:video:kZylmh-TgdY",
     "yt:video:pjzDlZETMRY",
     "yt:video:jtWwOFNcQEs",
@@ -610,8 +611,7 @@
     "yt:video:waHfpDVUvHE",
     "yt:video:CBAr1mY7rnY",
     "yt:video:Dn_KPKQlkvk",
-    "yt:video:J3CaN2ZWsps",
-    "yt:video:Kw0AFsDUnF4"
+    "yt:video:J3CaN2ZWsps"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=15290",
@@ -2787,6 +2787,9 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2076616704910835982",
+    "2076616802940137556",
+    "2076616766974005617",
     "2076437606565634530",
     "2076437834530160920",
     "2076437858232205597",
@@ -2833,10 +2836,7 @@
     "2075357409950961953",
     "2075357683599946017",
     "2075357651941335323",
-    "2075357899128557916",
-    "2075357856401133675",
-    "2075358106595545559",
-    "2075358069060669467"
+    "2075357899128557916"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2074425122950455332",
