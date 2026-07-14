@@ -1128,6 +1128,8 @@
     "yt:video:vYgZaW8wn_k"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2607/14/news112.html",
+    "https://www.itmedia.co.jp/news/articles/2607/14/news113.html",
     "https://www.itmedia.co.jp/news/articles/2607/14/news098.html",
     "https://www.itmedia.co.jp/pcuser/articles/2607/14/news096.html",
     "https://www.itmedia.co.jp/news/articles/2607/14/news101.html",
@@ -1175,9 +1177,7 @@
     "https://www.itmedia.co.jp/news/articles/2607/13/news021.html",
     "https://www.itmedia.co.jp/business/articles/2607/13/news006.html",
     "https://www.itmedia.co.jp/pcuser/articles/2607/13/news052.html",
-    "https://www.itmedia.co.jp/business/articles/2607/13/news025.html",
-    "https://www.itmedia.co.jp/business/articles/2607/12/news001.html",
-    "https://www.itmedia.co.jp/news/articles/2607/12/news013.html"
+    "https://www.itmedia.co.jp/business/articles/2607/13/news025.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1337,6 +1337,7 @@
     "https://sumahodigest.com/?p=65062"
   ],
   "https://yachin29.hatenablog.com/feed": [
+    "hatenablog://entry/14945776032053502711",
     "hatenablog://entry/17179246901343512419",
     "hatenablog://entry/14945776032053328387",
     "hatenablog://entry/14945776032053348890",
@@ -1385,8 +1386,7 @@
     "hatenablog://entry/17179246901358577402",
     "hatenablog://entry/13574176438014105194",
     "hatenablog://entry/17179246901356476760",
-    "hatenablog://entry/26006613721117997",
-    "hatenablog://entry/6802418398332032978"
+    "hatenablog://entry/26006613721117997"
   ],
   "https://official.gfs.tokyo/blog/feed": [
     "https://official.gfs.tokyo/blog/?p=27433",
