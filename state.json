@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2125145.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2125104.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2125127.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/special/2120834.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2124992.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2125018.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2125055.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124411.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124413.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124426.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124407.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124408.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2124398.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2124399.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2124177.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124407.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/system/explorer/nFolder.html",
