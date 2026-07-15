@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2125521.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2125527.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2125394.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2125403.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2125435.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124664.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2124508.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124538.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124544.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2124537.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124565.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2124544.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/ai-chats-bulk-delete/",
@@ -151,6 +151,7 @@
     "https://ainow.ai/?p=278070"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=93694",
     "https://butsuyoku-gadget.com/?p=93704",
     "https://butsuyoku-gadget.com/?p=93693",
     "https://butsuyoku-gadget.com/?p=93060",
@@ -199,8 +200,7 @@
     "https://butsuyoku-gadget.com/?p=93172",
     "https://butsuyoku-gadget.com/?p=93166",
     "https://butsuyoku-gadget.com/?p=93149",
-    "https://butsuyoku-gadget.com/?p=93132",
-    "https://butsuyoku-gadget.com/?p=93128"
+    "https://butsuyoku-gadget.com/?p=93132"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=137981",
