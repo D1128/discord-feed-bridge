@@ -1716,6 +1716,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260715-headline/",
+    "https://gigazine.net/news/20260715-train-typing-training/",
+    "https://gigazine.net/news/20260715-thunder-3-yuuki-ikeda-interview/",
     "https://gigazine.net/news/20260715-majimori-garlic-oil/",
     "https://gigazine.net/news/20260715-github-dependabot-cooldown/",
     "https://gigazine.net/news/20260715-narcissistic-individuals-problematic-ai-use/",
@@ -1762,12 +1765,12 @@
     "https://gigazine.net/news/20260714-anthropic-claude-value/",
     "https://gigazine.net/news/20260714-disney-plus-free/",
     "https://gigazine.net/news/20260714-microsoft-tests-windows-search-without-ads-fluff/",
-    "https://gigazine.net/news/20260714-self-healing-contact/",
-    "https://gigazine.net/news/20260714-chronic-constipation-enteric-nervous-interactions/",
-    "https://gigazine.net/news/20260714-cabo-verde-tourism-searches-surge-world-cup/",
-    "https://gigazine.net/news/20260714-linkedin-longform-content-ai/"
+    "https://gigazine.net/news/20260714-self-healing-contact/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=223791",
+    "https://aismiley.co.jp/?post_type=ai_news&p=223933",
+    "https://aismiley.co.jp/?post_type=ai_news&p=224301",
     "https://aismiley.co.jp/?post_type=ai_news&p=223780",
     "https://aismiley.co.jp/?post_type=ai_news&p=223863",
     "https://aismiley.co.jp/?post_type=ai_news&p=223140",
@@ -1814,10 +1817,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=222911",
     "https://aismiley.co.jp/?post_type=ai_news&p=222738",
     "https://aismiley.co.jp/?post_type=ai_news&p=220829",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222529",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222753",
-    "https://aismiley.co.jp/?post_type=ai_news&p=221936",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222719"
+    "https://aismiley.co.jp/?post_type=ai_news&p=222529"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188638",
@@ -2184,6 +2184,7 @@
     "yt:video:OIlL9vqHHe0"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=267254",
     "https://garumax.com/?p=267199",
     "https://garumax.com/?p=267232",
     "https://garumax.com/?p=267216",
@@ -2232,8 +2233,7 @@
     "https://garumax.com/?p=266244",
     "https://garumax.com/?p=266220",
     "https://garumax.com/?p=266216",
-    "https://garumax.com/?p=266123",
-    "https://garumax.com/?p=265821"
+    "https://garumax.com/?p=266123"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/gfonly",
