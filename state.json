@@ -1715,6 +1715,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260715-google-image-25th/",
+    "https://gigazine.net/news/20260715-openai-first-device-ai-speaker/",
+    "https://gigazine.net/news/20260715-windows-update/",
+    "https://gigazine.net/news/20260715-firefox-windows-hdr-video/",
+    "https://gigazine.net/news/20260715-why-dominant-hand-better/",
+    "https://gigazine.net/news/20260715-bonsai-27b/",
+    "https://gigazine.net/news/20260715-lawsuit-claims-meta-layoff-decisions-ai/",
+    "https://gigazine.net/news/20260715-microsoft-defender-fill-storage/",
+    "https://gigazine.net/news/20260715-google-deepmind-demmis-hassabis-ai-framework/",
+    "https://gigazine.net/news/20260715-eu-wearable-battery-removal-rules/",
     "https://gigazine.net/news/20260715-ludus-coriovalli/",
     "https://gigazine.net/news/20260715-samsung-health-ai-training/",
     "https://gigazine.net/news/20260715-russian-state-hackers-target-routers/",
@@ -1754,19 +1764,11 @@
     "https://gigazine.net/news/20260713-silent-speech-with-ultrasound/",
     "https://gigazine.net/news/20260713-calpis-lemonade/",
     "https://gigazine.net/news/20260713-neo-hands/",
-    "https://gigazine.net/news/20260713-intel-with-white-house/",
-    "https://gigazine.net/news/20260713-headline/",
-    "https://gigazine.net/news/20260713-steam-refund-policy/",
-    "https://gigazine.net/news/20260713-terrorist-group-use-ai/",
-    "https://gigazine.net/news/20260713-new-york-click-to-cancel/",
-    "https://gigazine.net/news/20260713-gates-heir-phia-cookie-stuffing/",
-    "https://gigazine.net/news/20260713-what-matter-kids-today/",
-    "https://gigazine.net/news/20260713-quadrf-spot-wifi-radio-waves/",
-    "https://gigazine.net/news/20260713-claude-code-consuming-token/",
-    "https://gigazine.net/news/20260713-google-opposes-site-blocking/",
-    "https://gigazine.net/news/20260713-bacteria-uranium-stable-compound/"
+    "https://gigazine.net/news/20260713-intel-with-white-house/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=223780",
+    "https://aismiley.co.jp/?post_type=ai_news&p=223863",
     "https://aismiley.co.jp/?post_type=ai_news&p=223140",
     "https://aismiley.co.jp/?post_type=ai_news&p=223385",
     "https://aismiley.co.jp/?post_type=ai_news&p=224645",
@@ -1814,11 +1816,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=222529",
     "https://aismiley.co.jp/?post_type=ai_news&p=222753",
     "https://aismiley.co.jp/?post_type=ai_news&p=221936",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222719",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222828",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222476"
+    "https://aismiley.co.jp/?post_type=ai_news&p=222719"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=188638",
     "https://win-tab.net/?p=188945",
     "https://win-tab.net/?p=189025",
     "https://win-tab.net/?p=189003",
@@ -1867,8 +1868,7 @@
     "https://win-tab.net/?p=188456",
     "https://win-tab.net/?p=188451",
     "https://win-tab.net/?p=188440",
-    "https://win-tab.net/?p=188426",
-    "https://win-tab.net/?p=188414"
+    "https://win-tab.net/?p=188426"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:AxP2HthEp-U",
@@ -2183,6 +2183,7 @@
     "yt:video:OIlL9vqHHe0"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=267216",
     "https://garumax.com/?p=267193",
     "https://garumax.com/?p=267172",
     "https://garumax.com/?p=267179",
@@ -2231,8 +2232,7 @@
     "https://garumax.com/?p=266123",
     "https://garumax.com/?p=265821",
     "https://garumax.com/?p=266073",
-    "https://garumax.com/?p=266128",
-    "https://garumax.com/?p=266012"
+    "https://garumax.com/?p=266128"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/gfonly",
@@ -2482,6 +2482,7 @@
     "2075887060628779267"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2077202526253023399",
     "2076955611095318833",
     "2076605805663580183",
     "2076235868109779397",
@@ -2530,8 +2531,7 @@
     "2064121292471648372",
     "2063943621439856916",
     "2063814268990947594",
-    "2063229708960239706",
-    "2063094275236344315"
+    "2063229708960239706"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2077219177203728892",
