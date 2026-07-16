@@ -1129,6 +1129,11 @@
     "yt:video:P3ANax0zTnY"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://built.itmedia.co.jp/bt/articles/2607/16/news045.html",
+    "https://www.itmedia.co.jp/news/articles/2607/16/news099.html",
+    "https://www.itmedia.co.jp/business/articles/2607/16/news093.html",
+    "https://www.itmedia.co.jp/news/articles/2607/16/news100.html",
+    "https://www.itmedia.co.jp/news/articles/2607/16/news101.html",
     "https://www.itmedia.co.jp/news/articles/2607/16/news084.html",
     "https://www.itmedia.co.jp/news/articles/2607/16/news091.html",
     "https://www.itmedia.co.jp/news/articles/2607/16/news073.html",
@@ -1173,15 +1178,11 @@
     "https://www.itmedia.co.jp/news/articles/2607/15/news060.html",
     "https://www.itmedia.co.jp/business/articles/2607/15/news014.html",
     "https://www.itmedia.co.jp/business/articles/2607/15/news018.html",
-    "https://www.itmedia.co.jp/news/articles/2607/14/news103.html",
-    "https://www.itmedia.co.jp/news/articles/2607/15/news039.html",
-    "https://www.itmedia.co.jp/business/articles/2607/15/news016.html",
-    "https://www.itmedia.co.jp/business/articles/2607/15/news019.html",
-    "https://www.itmedia.co.jp/news/articles/2607/14/news115.html",
-    "https://www.itmedia.co.jp/news/articles/2607/14/news112.html"
+    "https://www.itmedia.co.jp/news/articles/2607/14/news103.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=288502",
     "https://smhn.info/?p=288491",
     "https://smhn.info/?p=288415",
     "https://smhn.info/?p=288329",
@@ -1230,10 +1231,11 @@
     "https://smhn.info/?p=287729",
     "https://smhn.info/?p=287737",
     "https://smhn.info/?p=287733",
-    "https://smhn.info/?p=287741",
-    "https://smhn.info/?p=287749"
+    "https://smhn.info/?p=287741"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=117698",
+    "https://daily-gadget.net/?p=117744",
     "https://daily-gadget.net/?p=117697",
     "https://daily-gadget.net/?p=117699",
     "https://daily-gadget.net/?p=117733",
@@ -1281,9 +1283,7 @@
     "https://daily-gadget.net/?p=117306",
     "https://daily-gadget.net/?p=117301",
     "https://daily-gadget.net/?p=117294",
-    "https://daily-gadget.net/?p=117283",
-    "https://daily-gadget.net/?p=117284",
-    "https://daily-gadget.net/?p=117278"
+    "https://daily-gadget.net/?p=117283"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=65516",
