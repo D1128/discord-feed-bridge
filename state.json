@@ -1717,6 +1717,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260716-sleep-regularity/",
+    "https://gigazine.net/news/20260716-android-third-party-app-stores/",
     "https://gigazine.net/news/20260716-jurassic-park-computers/",
     "https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/",
     "https://gigazine.net/news/20260716-claude-memory-heist/",
@@ -1764,9 +1766,7 @@
     "https://gigazine.net/news/20260715-lawsuit-claims-meta-layoff-decisions-ai/",
     "https://gigazine.net/news/20260715-microsoft-defender-fill-storage/",
     "https://gigazine.net/news/20260715-google-deepmind-demmis-hassabis-ai-framework/",
-    "https://gigazine.net/news/20260715-eu-wearable-battery-removal-rules/",
-    "https://gigazine.net/news/20260715-ludus-coriovalli/",
-    "https://gigazine.net/news/20260715-samsung-health-ai-training/"
+    "https://gigazine.net/news/20260715-eu-wearable-battery-removal-rules/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=224481",
@@ -2432,6 +2432,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2077730329385644501",
+    "2077730367776375135",
     "2077555176324657333",
     "2077381358654202077",
     "2077373238251024542",
@@ -2479,9 +2481,7 @@
     "2076274608060366924",
     "2076157524114591986",
     "2076267669452665146",
-    "2076232200580898858",
-    "2076175454986489868",
-    "2075665934556246211"
+    "2076232200580898858"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2077684161155072276",
