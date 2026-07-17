@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2126277.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2126278.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2126231.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2126183.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2126123.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2125550.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2125499.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2125524.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2125083.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2125420.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2125521.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/topic/feature/2125083.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/ai-chats-bulk-delete/",
