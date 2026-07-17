@@ -1718,6 +1718,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260717-nissin-hiyashi-cupnoodle-kimchi-lemon/",
     "https://gigazine.net/news/20260717-microsoft-restore-hacked-account/",
     "https://gigazine.net/news/20260717-grok-csam-sue/",
     "https://gigazine.net/news/20260717-linux-linus-torvalds-ai/",
@@ -1766,10 +1767,12 @@
     "https://gigazine.net/news/20260716-income-inequality-cultural-participation/",
     "https://gigazine.net/news/20260715-satellite-tracker-live-map/",
     "https://gigazine.net/news/20260715-logitech-logi-bolt-spec/",
-    "https://gigazine.net/news/20260715-2b2t-place-minecraft/",
-    "https://gigazine.net/news/20260715-uk-midnight-social-media-restriction-for-teenager/"
+    "https://gigazine.net/news/20260715-2b2t-place-minecraft/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=224855",
+    "https://aismiley.co.jp/?post_type=ai_news&p=225047",
+    "https://aismiley.co.jp/?post_type=ai_news&p=225108",
     "https://aismiley.co.jp/?post_type=ai_news&p=222917",
     "https://aismiley.co.jp/?post_type=ai_news&p=223910",
     "https://aismiley.co.jp/?post_type=ai_news&p=224499",
@@ -1816,10 +1819,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=223484",
     "https://aismiley.co.jp/?post_type=ai_news&p=222413",
     "https://aismiley.co.jp/?post_type=ai_news&p=223590",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223504",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223275",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222212",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222555"
+    "https://aismiley.co.jp/?post_type=ai_news&p=223504"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=188468",
@@ -2186,6 +2186,7 @@
     "yt:video:xpZDplZbJ1w"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=267109",
     "https://garumax.com/?p=267467",
     "https://garumax.com/?p=267447",
     "https://garumax.com/?p=267115",
@@ -2234,8 +2235,7 @@
     "https://garumax.com/?p=266491",
     "https://garumax.com/?p=266243",
     "https://garumax.com/?p=266299",
-    "https://garumax.com/?p=266093",
-    "https://garumax.com/?p=266157"
+    "https://garumax.com/?p=266093"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/gfonly",
@@ -2274,6 +2274,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=63817",
     "https://androplus.jp/?p=63152",
     "https://androplus.jp/?p=63138",
     "https://androplus.jp/?p=63144",
@@ -2322,8 +2323,7 @@
     "https://androplus.jp/?p=62710",
     "https://androplus.jp/?p=62720",
     "https://androplus.jp/?p=62686",
-    "https://androplus.jp/?p=55264",
-    "https://androplus.jp/?p=62691"
+    "https://androplus.jp/?p=55264"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2433,6 +2433,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2078005835897475074",
+    "2078006141767045526",
     "2077765816456782303",
     "2077768033922433054",
     "2077730409396527614",
@@ -2480,9 +2482,7 @@
     "2076275529909715349",
     "2076314506947637628",
     "2076315097027543450",
-    "2076322855210594687",
-    "2076323020751483218",
-    "2076274608060366924"
+    "2076322855210594687"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2077684161155072276",
