@@ -1129,6 +1129,10 @@
     "yt:video:MxZ0ZxwqFsE"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/mobile/articles/2607/17/news096.html",
+    "https://www.itmedia.co.jp/news/articles/2607/17/news097.html",
+    "https://www.itmedia.co.jp/pcuser/articles/2607/17/news084.html",
+    "https://www.itmedia.co.jp/news/articles/2607/17/news099.html",
     "https://www.itmedia.co.jp/news/articles/2607/17/news079.html",
     "https://www.itmedia.co.jp/news/articles/2607/17/news086.html",
     "https://www.itmedia.co.jp/news/articles/2607/17/news092.html",
@@ -1174,14 +1178,13 @@
     "https://www.itmedia.co.jp/news/articles/2607/16/news042.html",
     "https://www.itmedia.co.jp/news/articles/2607/16/news054.html",
     "https://www.itmedia.co.jp/business/articles/2607/16/news008.html",
-    "https://www.itmedia.co.jp/business/articles/2607/16/news025.html",
-    "https://www.itmedia.co.jp/news/articles/2607/15/news124.html",
-    "https://monoist.itmedia.co.jp/mn/articles/2607/16/news001.html",
-    "https://www.itmedia.co.jp/news/articles/2607/15/news131.html",
-    "https://www.itmedia.co.jp/news/articles/2607/15/news127.html"
+    "https://www.itmedia.co.jp/business/articles/2607/16/news025.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=285794",
+    "https://smhn.info/?p=288498",
+    "https://smhn.info/?p=288537",
     "https://smhn.info/?p=288523",
     "https://smhn.info/?p=288471",
     "https://smhn.info/?p=288528",
@@ -1228,10 +1231,7 @@
     "https://smhn.info/?p=287968",
     "https://smhn.info/?p=287932",
     "https://smhn.info/?p=287927",
-    "https://smhn.info/?p=287754",
-    "https://smhn.info/?p=287844",
-    "https://smhn.info/?p=287791",
-    "https://smhn.info/?p=287784"
+    "https://smhn.info/?p=287754"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=117781",
@@ -1474,6 +1474,7 @@
     "yt:video:RglO3difxL0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCfElKzihodObRfXusuixUPw": [
+    "yt:video:9zcGjwXdKFg",
     "yt:video:SRMco5zgwGM",
     "yt:video:l3UAk6upojM",
     "yt:video:S8IRrR90H44",
@@ -2667,6 +2668,7 @@
     "2021794316444926259"
   ],
   "https://nitter.net/ctgptlb/rss": [
+    "2077968188466442642",
     "2077942486765641867",
     "2077942490389463146",
     "2077920592951648760",
@@ -2715,8 +2717,7 @@
     "2074577956564094983",
     "2074328409430442260",
     "2072945966601380186",
-    "2072945968455303613",
-    "2072945970397204561"
+    "2072945968455303613"
   ],
   "https://nitter.net/masahirochaen/rss": [
     "2077936849595912199",
