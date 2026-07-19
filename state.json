@@ -1719,6 +1719,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260719-super-alloy-metal-manufacturing/",
     "https://gigazine.net/news/20260719-physical-pressure-tumors-grow-slower/",
     "https://gigazine.net/news/20260719-apple-raises-icloud-plus-subscription-prices/",
     "https://gigazine.net/news/20260718-data-centers-electricity-bills/",
@@ -1767,8 +1768,7 @@
     "https://gigazine.net/news/20260716-nobel-winning-chemist-leaves-us-china/",
     "https://gigazine.net/news/20260716-claude-memory-heist/",
     "https://gigazine.net/news/20260716-aws-cloudfront-down/",
-    "https://gigazine.net/news/20260716-headline/",
-    "https://gigazine.net/news/20260716-samsung-flex-titanium-technology/"
+    "https://gigazine.net/news/20260716-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=224855",
@@ -2344,6 +2344,13 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2078641111187566802",
+    "2078641123107737887",
+    "2078643833554997566",
+    "2078643848256110895",
+    "2078643862583779330",
+    "2078643874675953868",
+    "2078643886453620878",
     "2078442462813782454",
     "2078442478655656195",
     "2078442494212387212",
@@ -2386,14 +2393,7 @@
     "2077685531807486086",
     "2077685547880108509",
     "2077685560123306072",
-    "2077628222284660779",
-    "2077628238999023809",
-    "2077628251275767905",
-    "2077619096863281429",
-    "2077628787559420195",
-    "2077628629786497290",
-    "2077628206191104058",
-    "2077582634340016400"
+    "2077628222284660779"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042465777098637639",
