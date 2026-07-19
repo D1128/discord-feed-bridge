@@ -1720,6 +1720,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260719-resistance-training-live-longer/",
     "https://gigazine.net/news/20260719-claude-fable-5-plan/",
     "https://gigazine.net/news/20260719-quick-escape/",
     "https://gigazine.net/news/20260719-nothing-ear-3a/",
@@ -1768,8 +1769,7 @@
     "https://gigazine.net/news/20260717-weathergotchi/",
     "https://gigazine.net/news/20260717-book-prizes/",
     "https://gigazine.net/news/20260717-aging-face-recognition-eye-movement/",
-    "https://gigazine.net/news/20260716-sleep-regularity/",
-    "https://gigazine.net/news/20260716-android-third-party-app-stores/"
+    "https://gigazine.net/news/20260716-sleep-regularity/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=224855",
@@ -1824,6 +1824,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=223504"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189153",
     "https://win-tab.net/?p=126147",
     "https://win-tab.net/?p=189133",
     "https://win-tab.net/?p=189123",
@@ -1872,8 +1873,7 @@
     "https://win-tab.net/?p=188528",
     "https://win-tab.net/?p=167344",
     "https://win-tab.net/?p=188520",
-    "https://win-tab.net/?p=188507",
-    "https://win-tab.net/?p=188499"
+    "https://win-tab.net/?p=188507"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:6jNobKv2jow",
@@ -2345,6 +2345,11 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2078822324883906610",
+    "2078822337059991767",
+    "2078822348980113419",
+    "2078822360719962208",
+    "2078822372610859280",
     "2078641111187566802",
     "2078641123107737887",
     "2078643833554997566",
@@ -2389,12 +2394,7 @@
     "2077769140857982985",
     "2077769162345382212",
     "2077769175142220210",
-    "2077771576213401618",
-    "2077685515269386686",
-    "2077685531807486086",
-    "2077685547880108509",
-    "2077685560123306072",
-    "2077628222284660779"
+    "2077771576213401618"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042465777098637639",
