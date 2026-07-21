@@ -1129,6 +1129,10 @@
     "yt:video:MxZ0ZxwqFsE"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2607/21/news084.html",
+    "https://www.itmedia.co.jp/pcuser/articles/2607/21/news066.html",
+    "https://www.itmedia.co.jp/news/articles/2607/21/news081.html",
+    "https://built.itmedia.co.jp/bt/articles/2607/21/news091.html",
     "https://www.itmedia.co.jp/news/articles/2607/21/news063.html",
     "https://www.itmedia.co.jp/aiplus/article/2607/21/2000000208/",
     "https://www.itmedia.co.jp/pcuser/articles/2607/21/news070.html",
@@ -1174,11 +1178,7 @@
     "https://www.itmedia.co.jp/news/articles/2607/18/news017.html",
     "https://www.itmedia.co.jp/mobile/articles/2607/18/news013.html",
     "https://www.itmedia.co.jp/pcuser/articles/2607/18/news011.html",
-    "https://www.itmedia.co.jp/mobile/articles/2607/18/news015.html",
-    "https://www.itmedia.co.jp/news/articles/2607/18/news014.html",
-    "https://www.itmedia.co.jp/news/articles/2607/17/news116.html",
-    "https://www.itmedia.co.jp/news/articles/2607/17/news109.html",
-    "https://www.itmedia.co.jp/news/articles/2607/17/news112.html"
+    "https://www.itmedia.co.jp/mobile/articles/2607/18/news015.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1234,6 +1234,8 @@
     "https://smhn.info/?p=288097"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=117931",
+    "https://daily-gadget.net/?p=117937",
     "https://daily-gadget.net/?p=117927",
     "https://daily-gadget.net/?p=117924",
     "https://daily-gadget.net/?p=117909",
@@ -1281,9 +1283,7 @@
     "https://daily-gadget.net/?p=117474",
     "https://daily-gadget.net/?p=117514",
     "https://daily-gadget.net/?p=117490",
-    "https://daily-gadget.net/?p=117462",
-    "https://daily-gadget.net/?p=117468",
-    "https://daily-gadget.net/?p=117455"
+    "https://daily-gadget.net/?p=117462"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=65907",
