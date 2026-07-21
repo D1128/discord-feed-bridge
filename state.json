@@ -255,6 +255,9 @@
     "https://telektlist.com/?p=137403"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29040",
+    "https://codezine.jp/article/detail/29052",
+    "https://codezine.jp/article/detail/29056",
     "https://codezine.jp/article/detail/29041",
     "https://codezine.jp/article/detail/29032",
     "https://codezine.jp/article/detail/29035",
@@ -301,10 +304,7 @@
     "https://codezine.jp/article/detail/28983",
     "https://codezine.jp/article/detail/28982",
     "https://codezine.jp/article/detail/24345",
-    "https://codezine.jp/article/detail/28872",
-    "https://codezine.jp/article/detail/28999",
-    "https://codezine.jp/article/detail/28990",
-    "https://codezine.jp/article/detail/28930"
+    "https://codezine.jp/article/detail/28872"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -319,6 +319,7 @@
     "https://magazine.techacademy.jp/magazine/?p=87264"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA": [
+    "yt:video:EZ3kDbQwXHk",
     "yt:video:jvLp5yT_PJA",
     "yt:video:FmAm4-p24q8",
     "yt:video:RkTDbrdKWRk",
@@ -367,10 +368,10 @@
     "yt:video:RDkn7NhTRes",
     "yt:video:tzm7CG9JHn0",
     "yt:video:0sV4khHwdro",
-    "yt:video:cKNTKryL6E8",
-    "yt:video:2KyCOGBUKfs"
+    "yt:video:cKNTKryL6E8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:X_IwnzJntCU",
     "yt:video:9nzxml_6X74",
     "yt:video:f6awtdxmULg",
     "yt:video:XtkyO1ls72I",
@@ -419,10 +420,10 @@
     "yt:video:0-mrUkLj9Kw",
     "yt:video:Pi0PSPl7PIo",
     "yt:video:YNmDr007qA8",
-    "yt:video:C6oSN477bwY",
-    "yt:video:GJcfWm5BUKI"
+    "yt:video:C6oSN477bwY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:tSjAblsd-Vo",
     "yt:video:X2eijD4psTs",
     "yt:video:Sr1zCaCHUrg",
     "yt:video:ovIlYiw4zWc",
@@ -471,8 +472,7 @@
     "yt:video:dwqj5CobGmk",
     "yt:video:OaNNW0G3kwg",
     "yt:video:gQIVkTFc4HE",
-    "yt:video:HhkJ9zI2YSM",
-    "yt:video:s-bu2fS43Ug"
+    "yt:video:HhkJ9zI2YSM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:OKLAse5Oi48",
