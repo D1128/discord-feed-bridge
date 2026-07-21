@@ -1720,6 +1720,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260721-judge-halts-paramount-111-billion-purchase-warner-bros/",
+    "https://gigazine.net/news/20260721-nvidia-cosmos-3-edge/",
+    "https://gigazine.net/news/20260721-x-rebuilds-android-app/",
+    "https://gigazine.net/news/20260721-eu-fines-aliexpress-550m-euro/",
+    "https://gigazine.net/news/20260721-monkeys-geometric-skills-human-preschoolers/",
+    "https://gigazine.net/news/20260721-firefox-153-vulkan-video/",
+    "https://gigazine.net/news/20260721-qwen3-8/",
+    "https://gigazine.net/news/20260721-amd-helios-microsoft-azure/",
+    "https://gigazine.net/news/20260721-apple-send-letter-openai-employees/",
+    "https://gigazine.net/news/20260721-ai-us-china/",
     "https://gigazine.net/news/20260721-coco-ichibanya-ena-dori/",
     "https://gigazine.net/news/20260721-bill-gates-end-of-aids/",
     "https://gigazine.net/news/20260721-music-piracy/",
@@ -1759,19 +1769,14 @@
     "https://gigazine.net/news/20260717-uber-foodpanda/",
     "https://gigazine.net/news/20260717-purupuru-maker/",
     "https://gigazine.net/news/20260717-headline/",
-    "https://gigazine.net/news/20260717-nissin-hiyashi-cupnoodle-kimchi-lemon/",
-    "https://gigazine.net/news/20260717-microsoft-restore-hacked-account/",
-    "https://gigazine.net/news/20260717-grok-csam-sue/",
-    "https://gigazine.net/news/20260717-linux-linus-torvalds-ai/",
-    "https://gigazine.net/news/20260717-tsmc-arizona-new-4-fabs/",
-    "https://gigazine.net/news/20260717-meta-ai-distress-conversations/",
-    "https://gigazine.net/news/20260717-ancient-dna-solves-16th-medici-mystery/",
-    "https://gigazine.net/news/20260717-microsoft-comic-chat-open-source/",
-    "https://gigazine.net/news/20260717-openai-cars24-agent/",
-    "https://gigazine.net/news/20260717-spacex-suddenly-aborts-second-starship-v3-launch/",
-    "https://gigazine.net/news/20260717-eu-force-google-to-open-android-ai/"
+    "https://gigazine.net/news/20260717-nissin-hiyashi-cupnoodle-kimchi-lemon/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=223675",
+    "https://aismiley.co.jp/?post_type=ai_news&p=220740",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221166",
+    "https://aismiley.co.jp/?post_type=ai_news&p=221776",
+    "https://aismiley.co.jp/?post_type=ai_news&p=223932",
     "https://aismiley.co.jp/?post_type=ai_news&p=224855",
     "https://aismiley.co.jp/?post_type=ai_news&p=225047",
     "https://aismiley.co.jp/?post_type=ai_news&p=225108",
@@ -1816,14 +1821,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=223216",
     "https://aismiley.co.jp/?post_type=ai_news&p=222360",
     "https://aismiley.co.jp/?post_type=ai_news&p=223522",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223091",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223217",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223484",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222413",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223590",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223504"
+    "https://aismiley.co.jp/?post_type=ai_news&p=223091"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189176",
     "https://win-tab.net/?p=168753",
     "https://win-tab.net/?p=189166",
     "https://win-tab.net/?p=188499",
@@ -1872,8 +1873,7 @@
     "https://win-tab.net/?p=188593",
     "https://win-tab.net/?p=188586",
     "https://win-tab.net/?p=188554",
-    "https://win-tab.net/?p=188544",
-    "https://win-tab.net/?p=188528"
+    "https://win-tab.net/?p=188544"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:6jNobKv2jow",
@@ -2188,6 +2188,7 @@
     "yt:video:pcWWBfHM0E0"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=267341",
     "https://garumax.com/?p=267561",
     "https://garumax.com/?p=267488",
     "https://garumax.com/?p=267533",
@@ -2236,8 +2237,7 @@
     "https://garumax.com/?p=266677",
     "https://garumax.com/?p=266579",
     "https://garumax.com/?p=266512",
-    "https://garumax.com/?p=266588",
-    "https://garumax.com/?p=266350"
+    "https://garumax.com/?p=266588"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/gfonly",
@@ -2345,6 +2345,9 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2079411513467757045",
+    "2079411529649410460",
+    "2079411544920920288",
     "2079292953789682136",
     "2079367513696289071",
     "2079367530045682082",
@@ -2391,10 +2394,7 @@
     "2078383251073413185",
     "2078383262947573894",
     "2078383275056443592",
-    "2078361329732305099",
-    "2078361515531636825",
-    "2078155765903499417",
-    "2078155778352148487"
+    "2078361329732305099"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042465777098637639",
@@ -2435,6 +2435,14 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2079381195536970026",
+    "2079245049762869422",
+    "2078787750288138682",
+    "2078667175280492975",
+    "2078661438672167246",
+    "2078651557000966596",
+    "2078494245254738083",
+    "2078797000573698145",
     "2076322855210594687",
     "2079369916336243022",
     "2078470849234096414",
@@ -2476,15 +2484,7 @@
     "2076622437081653630",
     "2076612620132786411",
     "2076686701255413797",
-    "2076620816058552600",
-    "2075811276807340429",
-    "2076446419536494711",
-    "2076320931358904624",
-    "2076596347290186011",
-    "2075790191747555342",
-    "2076470026362855869",
-    "2076337204264321291",
-    "2076322965713817994"
+    "2076620816058552600"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2079137236017361348",
