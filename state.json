@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2126994.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2126932.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2126931.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2126936.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2126376.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/semicon/2126359.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2126375.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2126345.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2126298.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2126345.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/ai-chats-bulk-delete/",
@@ -371,6 +371,8 @@
     "yt:video:cKNTKryL6E8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:MIBksXzEelc",
+    "yt:video:5QIcouorXTA",
     "yt:video:X_IwnzJntCU",
     "yt:video:9nzxml_6X74",
     "yt:video:f6awtdxmULg",
@@ -418,11 +420,10 @@
     "yt:video:0SPnhlZOndQ",
     "yt:video:TEWY0ISRj6w",
     "yt:video:0-mrUkLj9Kw",
-    "yt:video:Pi0PSPl7PIo",
-    "yt:video:YNmDr007qA8",
-    "yt:video:C6oSN477bwY"
+    "yt:video:Pi0PSPl7PIo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:DAVvw-Gyoqo",
     "yt:video:tSjAblsd-Vo",
     "yt:video:X2eijD4psTs",
     "yt:video:Sr1zCaCHUrg",
@@ -471,8 +472,7 @@
     "yt:video:s97ciVCBats",
     "yt:video:dwqj5CobGmk",
     "yt:video:OaNNW0G3kwg",
-    "yt:video:gQIVkTFc4HE",
-    "yt:video:HhkJ9zI2YSM"
+    "yt:video:gQIVkTFc4HE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:OKLAse5Oi48",
@@ -563,6 +563,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:Fdim_AUD0-Q",
     "yt:video:2JZGvyHliGs",
     "yt:video:DMhctsC17uA",
     "yt:video:d3y6LZ05_98",
@@ -611,8 +612,7 @@
     "yt:video:EtN7Mla_LyU",
     "yt:video:y3_rFlT7jfI",
     "yt:video:3K--p0YCSww",
-    "yt:video:waHfpDVUvHE",
-    "yt:video:CBAr1mY7rnY"
+    "yt:video:waHfpDVUvHE"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=15343",
