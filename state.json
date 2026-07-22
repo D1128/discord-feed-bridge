@@ -1720,6 +1720,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260722-doom-on-risc-v/",
+    "https://gigazine.net/news/20260722-fireworks-kimi-k3-fable/",
     "https://gigazine.net/news/20260722-headline/",
     "https://gigazine.net/news/20260722-qwen-sensitive-keyword/",
     "https://gigazine.net/news/20260722-meta-storykit/",
@@ -1767,9 +1769,7 @@
     "https://gigazine.net/news/20260721-judge-halts-paramount-111-billion-purchase-warner-bros/",
     "https://gigazine.net/news/20260721-nvidia-cosmos-3-edge/",
     "https://gigazine.net/news/20260721-x-rebuilds-android-app/",
-    "https://gigazine.net/news/20260721-eu-fines-aliexpress-550m-euro/",
-    "https://gigazine.net/news/20260721-monkeys-geometric-skills-human-preschoolers/",
-    "https://gigazine.net/news/20260721-firefox-153-vulkan-video/"
+    "https://gigazine.net/news/20260721-eu-fines-aliexpress-550m-euro/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=225185",
@@ -1824,6 +1824,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=224282"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189207",
     "https://win-tab.net/?p=189196",
     "https://win-tab.net/?p=189186",
     "https://win-tab.net/?p=189176",
@@ -1872,10 +1873,10 @@
     "https://win-tab.net/?p=188641",
     "https://win-tab.net/?p=188626",
     "https://win-tab.net/?p=188353",
-    "https://win-tab.net/?p=188593",
-    "https://win-tab.net/?p=188586"
+    "https://win-tab.net/?p=188593"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:y6KcmNJOi0o",
     "yt:video:6jNobKv2jow",
     "yt:video:objjsKATfVE",
     "yt:video:AxP2HthEp-U",
@@ -1924,8 +1925,7 @@
     "yt:video:UNkhY8pKTdg",
     "yt:video:ddX_WuH4GYM",
     "yt:video:IZw4OBpplbM",
-    "yt:video:7DmI7JIWn3c",
-    "yt:video:oJpbn0P3XTA"
+    "yt:video:7DmI7JIWn3c"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
     "yt:video:LPtRRKDWKFU",
@@ -2487,6 +2487,7 @@
     "2077233063059484965"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2079857985325605182",
     "2079501385440133226",
     "2079137236017361348",
     "2078772331514650959",
@@ -2535,8 +2536,7 @@
     "2065275931888152645",
     "2065209210565280015",
     "2065034811581006216",
-    "2064846068236321238",
-    "2064672675495039430"
+    "2064846068236321238"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2079853965802422499",
