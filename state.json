@@ -1129,6 +1129,10 @@
     "yt:video:1rtW5iYVZRI"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2607/22/news074.html",
+    "https://www.itmedia.co.jp/news/articles/2607/22/news076.html",
+    "https://www.itmedia.co.jp/news/articles/2607/22/news078.html",
+    "https://www.itmedia.co.jp/news/articles/2607/22/news081.html",
     "https://www.itmedia.co.jp/news/articles/2607/22/news058.html",
     "https://www.itmedia.co.jp/business/articles/2607/22/news014.html",
     "https://www.itmedia.co.jp/news/articles/2607/22/news064.html",
@@ -1174,11 +1178,7 @@
     "https://www.itmedia.co.jp/business/articles/2607/21/news006.html",
     "https://www.itmedia.co.jp/pcuser/articles/2607/21/news049.html",
     "https://www.itmedia.co.jp/pcuser/articles/2607/20/news011.html",
-    "https://www.itmedia.co.jp/business/articles/2607/20/news001.html",
-    "https://www.itmedia.co.jp/news/articles/2607/20/news010.html",
-    "https://www.itmedia.co.jp/mobile/articles/2607/20/news009.html",
-    "https://www.itmedia.co.jp/business/articles/2607/20/news003.html",
-    "https://www.itmedia.co.jp/news/articles/2607/17/news082.html"
+    "https://www.itmedia.co.jp/business/articles/2607/20/news001.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1234,6 +1234,8 @@
     "https://smhn.info/?p=288125"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=117963",
+    "https://daily-gadget.net/?p=117969",
     "https://daily-gadget.net/?p=117942",
     "https://daily-gadget.net/?p=117943",
     "https://daily-gadget.net/?p=117944",
@@ -1281,9 +1283,7 @@
     "https://daily-gadget.net/?p=117604",
     "https://daily-gadget.net/?p=117552",
     "https://daily-gadget.net/?p=117536",
-    "https://daily-gadget.net/?p=117531",
-    "https://daily-gadget.net/?p=117510",
-    "https://daily-gadget.net/?p=117519"
+    "https://daily-gadget.net/?p=117531"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=59313",
