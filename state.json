@@ -1720,6 +1720,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260722-openai-brief-us-officials/",
+    "https://gigazine.net/news/20260722-tsmc-price-hike/",
+    "https://gigazine.net/news/20260722-usb-cheat-sheet/",
     "https://gigazine.net/news/20260722-doom-on-risc-v/",
     "https://gigazine.net/news/20260722-fireworks-kimi-k3-fable/",
     "https://gigazine.net/news/20260722-headline/",
@@ -1766,10 +1769,7 @@
     "https://gigazine.net/news/20260721-american-heart-association-optimal-daily-coffee/",
     "https://gigazine.net/news/20260721-openai-ai-trained-for-long-running-tasks/",
     "https://gigazine.net/news/20260721-anduril-archer-thunder/",
-    "https://gigazine.net/news/20260721-judge-halts-paramount-111-billion-purchase-warner-bros/",
-    "https://gigazine.net/news/20260721-nvidia-cosmos-3-edge/",
-    "https://gigazine.net/news/20260721-x-rebuilds-android-app/",
-    "https://gigazine.net/news/20260721-eu-fines-aliexpress-550m-euro/"
+    "https://gigazine.net/news/20260721-judge-halts-paramount-111-billion-purchase-warner-bros/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=225185",
@@ -2345,6 +2345,10 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2079928207307059675",
+    "2079927533160779893",
+    "2079926797500837889",
+    "2079929613787295838",
     "2079832500705378788",
     "2079828932388614146",
     "2079805194477682909",
@@ -2390,11 +2394,7 @@
     "2078643833554997566",
     "2078643848256110895",
     "2078643862583779330",
-    "2078643874675953868",
-    "2078643886453620878",
-    "2078442462813782454",
-    "2078442478655656195",
-    "2078442494212387212"
+    "2078643874675953868"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042465777098637639",
@@ -2435,6 +2435,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2079890957307347116",
+    "2079890915590901946",
+    "2079807183282454895",
+    "2079898168691695665",
     "2079552681203687783",
     "2079526541399372220",
     "2079639798143410593",
@@ -2480,11 +2484,7 @@
     "2077730367776375135",
     "2077555176324657333",
     "2077381358654202077",
-    "2077373238251024542",
-    "2077373276461187441",
-    "2076958649671442583",
-    "2077044840282431593",
-    "2077233063059484965"
+    "2077373238251024542"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2079857985325605182",
