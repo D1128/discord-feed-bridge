@@ -1721,6 +1721,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260723-google-loses-lawsuit-against-serpapi/",
+    "https://gigazine.net/news/20260723-land-registry-cyberattack-romanias/",
     "https://gigazine.net/news/20260723-qwen-audio-3-tts/",
     "https://gigazine.net/news/20260723-starbucks-peach-milk-creamy-pudding/",
     "https://gigazine.net/news/20260723-headline/",
@@ -1768,9 +1770,7 @@
     "https://gigazine.net/news/20260722-openai-accidentally-hacked-hugging-face/",
     "https://gigazine.net/news/20260722-france-sns-ban-under-15/",
     "https://gigazine.net/news/20260722-pumpkin-peel-packaging-food-fresh/",
-    "https://gigazine.net/news/20260722-google-gemini-3-6-flash/",
-    "https://gigazine.net/news/20260722-nvidia-synthetic-video-detector/",
-    "https://gigazine.net/news/20260722-applecare-ipad-apple-watch/"
+    "https://gigazine.net/news/20260722-google-gemini-3-6-flash/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=224857",
@@ -2137,6 +2137,7 @@
     "yt:video:umoAIATmPQo"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:EFM_KzeyBwE",
     "yt:video:jpCfUB0W6Gg",
     "yt:video:NgYPvCWd2fk",
     "yt:video:AvFSKLIx6fU",
@@ -2185,8 +2186,7 @@
     "yt:video:Jw7N3KZfcLc",
     "yt:video:a5ap3pQLkuI",
     "yt:video:Wlq2wKMrn-I",
-    "yt:video:k9jONrF_c2Y",
-    "yt:video:hEmwgoP820Y"
+    "yt:video:k9jONrF_c2Y"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=267692",
@@ -2436,6 +2436,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2080185595746500754",
+    "2080206510899265815",
+    "2080228328900837446",
+    "2080246741530755315",
     "2079990198239404518",
     "2079890957307347116",
     "2079890915590901946",
@@ -2481,13 +2485,10 @@
     "2078006141767045526",
     "2077765816456782303",
     "2077768033922433054",
-    "2077730409396527614",
-    "2077730329385644501",
-    "2077730367776375135",
-    "2077555176324657333",
-    "2077381358654202077"
+    "2077730409396527614"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2080221631310447068",
     "2079857985325605182",
     "2079501385440133226",
     "2079137236017361348",
@@ -2536,8 +2537,7 @@
     "2065397451121479684",
     "2065275931888152645",
     "2065209210565280015",
-    "2065034811581006216",
-    "2064846068236321238"
+    "2065034811581006216"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2080216355026977244",
