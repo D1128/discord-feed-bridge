@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2127600.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2127614.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2127605.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2127503.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2127505.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2127518.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2126936.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2126960.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2126940.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2126975.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127008.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2126981.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2126861.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2126975.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -152,6 +152,7 @@
     "https://ainow.ai/?p=278099"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=93840",
     "https://butsuyoku-gadget.com/?p=93831",
     "https://butsuyoku-gadget.com/?p=93790",
     "https://butsuyoku-gadget.com/?p=93797",
@@ -200,8 +201,7 @@
     "https://butsuyoku-gadget.com/?p=93283",
     "https://butsuyoku-gadget.com/?p=93273",
     "https://butsuyoku-gadget.com/?p=93279",
-    "https://butsuyoku-gadget.com/?p=93261",
-    "https://butsuyoku-gadget.com/?p=93255"
+    "https://butsuyoku-gadget.com/?p=93261"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=138029",
@@ -256,6 +256,9 @@
     "https://telektlist.com/?p=137425"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29095",
+    "https://codezine.jp/article/detail/29089",
+    "https://codezine.jp/article/detail/29092",
     "https://codezine.jp/article/detail/29086",
     "https://codezine.jp/article/detail/29087",
     "https://codezine.jp/article/detail/29000",
@@ -302,10 +305,7 @@
     "https://codezine.jp/article/detail/29042",
     "https://codezine.jp/article/detail/28937",
     "https://codezine.jp/article/detail/29040",
-    "https://codezine.jp/article/detail/29052",
-    "https://codezine.jp/article/detail/29056",
-    "https://codezine.jp/article/detail/29041",
-    "https://codezine.jp/article/detail/29032"
+    "https://codezine.jp/article/detail/29052"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
