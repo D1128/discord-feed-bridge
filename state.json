@@ -256,6 +256,7 @@
     "https://telektlist.com/?p=137425"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29102",
     "https://codezine.jp/article/detail/29101",
     "https://codezine.jp/article/detail/29103",
     "https://codezine.jp/article/detail/29091",
@@ -304,8 +305,7 @@
     "https://codezine.jp/article/detail/29047",
     "https://codezine.jp/article/detail/29043",
     "https://codezine.jp/article/detail/29044",
-    "https://codezine.jp/article/detail/28871",
-    "https://codezine.jp/article/detail/29045"
+    "https://codezine.jp/article/detail/28871"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -424,6 +424,7 @@
     "yt:video:TEWY0ISRj6w"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:YvKJVOn2YWM",
     "yt:video:n_XeCRL2ZFY",
     "yt:video:owCmOcnRxAs",
     "yt:video:DAVvw-Gyoqo",
@@ -472,8 +473,7 @@
     "yt:video:4va8459IHi4",
     "yt:video:_--2s3G8iCw",
     "yt:video:c-hMt-_EtSM",
-    "yt:video:s97ciVCBats",
-    "yt:video:dwqj5CobGmk"
+    "yt:video:s97ciVCBats"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:OKLAse5Oi48",
@@ -2797,6 +2797,12 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2080927415916962010",
+    "2080927464088543423",
+    "2080927543440589021",
+    "2080927615964307587",
+    "2080927776199368941",
+    "2080927743794205031",
     "2080763704292102269",
     "2080764132387864866",
     "2080764076893122571",
@@ -2840,13 +2846,7 @@
     "2080434257391124957",
     "2080434294720450786",
     "2080434236126032289",
-    "2080434811131572400",
-    "2080434899039957446",
-    "2080434789220503934",
-    "2080276328188928258",
-    "2080276400595247248",
-    "2080204668442128891",
-    "2080204752328253642"
+    "2080434811131572400"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2080779917130858598",
