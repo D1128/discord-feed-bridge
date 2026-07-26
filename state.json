@@ -256,6 +256,7 @@
     "https://telektlist.com/?p=137455"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29108",
     "https://codezine.jp/article/detail/29107",
     "https://codezine.jp/article/detail/29105",
     "https://codezine.jp/article/detail/29106",
@@ -304,8 +305,7 @@
     "https://codezine.jp/article/detail/29062",
     "https://codezine.jp/article/detail/29046",
     "https://codezine.jp/article/detail/29064",
-    "https://codezine.jp/article/detail/29065",
-    "https://codezine.jp/article/detail/29066"
+    "https://codezine.jp/article/detail/29065"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -372,6 +372,7 @@
     "yt:video:0sV4khHwdro"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:7dif4O6g4oY",
     "yt:video:EZb-fWHvO24",
     "yt:video:mmvWmUXQWnU",
     "yt:video:22FW98h3WHc",
@@ -420,8 +421,7 @@
     "yt:video:GtIoGyONrco",
     "yt:video:UdEIgP4B0Bs",
     "yt:video:ertzbVnIjAU",
-    "yt:video:TRPQTE-Py8w",
-    "yt:video:0SPnhlZOndQ"
+    "yt:video:TRPQTE-Py8w"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
     "yt:video:XZW1chptcAc",
@@ -2800,6 +2800,9 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2081302805365887307",
+    "2081302858553782358",
+    "2081302783911997772",
     "2081212842129371586",
     "2081145822214042025",
     "2081145796310040609",
@@ -2846,10 +2849,7 @@
     "2080494243773374752",
     "2080494315017802092",
     "2080494511382474855",
-    "2080433645354102997",
-    "2080433612227567898",
-    "2080433803865333978",
-    "2080433780809195626"
+    "2080433645354102997"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2080779917130858598",
