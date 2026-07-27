@@ -1725,6 +1725,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260727-apple-smart-glasses-n50-delay/",
+    "https://gigazine.net/news/20260727-watching-too-much-tv-smaller-brain/",
+    "https://gigazine.net/news/20260727-ai-open-weight/",
+    "https://gigazine.net/news/20260727-potential-world-cup-manipulation-polymarket/",
+    "https://gigazine.net/news/20260727-hugging-face-ceo-openai-hacking-radical-transparency/",
+    "https://gigazine.net/news/20260727-x-music-copyright/",
+    "https://gigazine.net/news/20260727-click-to-pray-data-leaking/",
+    "https://gigazine.net/news/20260727-sk-hynix-post-record-profit/",
+    "https://gigazine.net/news/20260727-google-pixel-11-price/",
+    "https://gigazine.net/news/20260727-apple-first-water-resistant-ipad/",
     "https://gigazine.net/news/20260727-airpod-powered-frisbee-tracker/",
     "https://gigazine.net/news/20260727-mpeg-4-visual-last-patent-expired/",
     "https://gigazine.net/news/20260726-evangelion-wf2026s/",
@@ -1764,19 +1774,13 @@
     "https://gigazine.net/news/20260724-us-startup-urge-trump-chinese-open-ai/",
     "https://gigazine.net/news/20260724-apple-map-for-ford-uev-platform/",
     "https://gigazine.net/news/20260724-japanese-interpersonal-distance/",
-    "https://gigazine.net/news/20260724-mitsuya-cider-tropical-mix/",
-    "https://gigazine.net/news/20260724-ec-fines-google-890-million-euro/",
-    "https://gigazine.net/news/20260724-runway-media-router/",
-    "https://gigazine.net/news/20260724-instagram-bans-harassing-pickup-prank-videos-filmed-meta-glasses/",
-    "https://gigazine.net/news/20260724-amd-cerebras-collaborating/",
-    "https://gigazine.net/news/20260724-dating-favorably-others-greater-romantic-interest/",
-    "https://gigazine.net/news/20260724-ai-black-prisoners/",
-    "https://gigazine.net/news/20260724-microsoft-responds-lg-monitors-mcafee-ads/",
-    "https://gigazine.net/news/20260724-gundam-rg-xark-zero-teaser-pv/",
-    "https://gigazine.net/news/20260724-patreon-lay-off-93/",
-    "https://gigazine.net/news/20260724-health-in-chatgpt/"
+    "https://gigazine.net/news/20260724-mitsuya-cider-tropical-mix/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=226237",
+    "https://aismiley.co.jp/?post_type=ai_news&p=226268",
+    "https://aismiley.co.jp/?post_type=ai_news&p=226255",
+    "https://aismiley.co.jp/?post_type=ai_news&p=225731",
     "https://aismiley.co.jp/?post_type=ai_news&p=224187",
     "https://aismiley.co.jp/?post_type=ai_news&p=225932",
     "https://aismiley.co.jp/?post_type=ai_news&p=225628",
@@ -1822,13 +1826,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=223780",
     "https://aismiley.co.jp/?post_type=ai_news&p=223863",
     "https://aismiley.co.jp/?post_type=ai_news&p=223140",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223385",
-    "https://aismiley.co.jp/?post_type=ai_news&p=224645",
-    "https://aismiley.co.jp/?post_type=ai_news&p=224006",
-    "https://aismiley.co.jp/?post_type=ai_news&p=221317",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222549"
+    "https://aismiley.co.jp/?post_type=ai_news&p=223385"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189282",
     "https://win-tab.net/?p=189261",
     "https://win-tab.net/?p=189250",
     "https://win-tab.net/?p=189244",
@@ -1877,8 +1878,7 @@
     "https://win-tab.net/?p=188761",
     "https://win-tab.net/?p=188747",
     "https://win-tab.net/?p=188610",
-    "https://win-tab.net/?p=188721",
-    "https://win-tab.net/?p=188710"
+    "https://win-tab.net/?p=188721"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:6OjBvW1boXI",
@@ -2193,6 +2193,7 @@
     "yt:video:Jw7N3KZfcLc"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=265638",
     "https://garumax.com/?p=267799",
     "https://garumax.com/?p=267848",
     "https://garumax.com/?p=267892",
@@ -2241,8 +2242,7 @@
     "https://garumax.com/?p=266784",
     "https://garumax.com/?p=266937",
     "https://garumax.com/?p=266733",
-    "https://garumax.com/?p=266900",
-    "https://garumax.com/?p=266868"
+    "https://garumax.com/?p=266900"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/chatgpt-banner",
@@ -2351,6 +2351,9 @@
   "https://rsshub.rssforever.com/twitter/user/haniwa008?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/keyword/OnePlus15%20lang%3Aja?includeRts=0&limit=5": [],
   "https://nitter.net/SuguruKun_ai/rss": [
+    "2081553728788980099",
+    "2081552411391562103",
+    "2081552377426088139",
     "2081352833639793059",
     "2081233068195762368",
     "2081233055474483701",
@@ -2397,10 +2400,7 @@
     "2079929613787295838",
     "2079832500705378788",
     "2079828932388614146",
-    "2079805194477682909",
-    "2079805182029029645",
-    "2079805122797097059",
-    "2079752787274182689"
+    "2079805194477682909"
   ],
   "https://nitter.net/envader_plus/rss": [
     "2042465777098637639",
