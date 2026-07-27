@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2128208.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2128223.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2128234.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2128236.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2128157.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2127988.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2127995.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2127479.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2127410.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2127417.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127360.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127369.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127230.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127257.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127249.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2127360.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -256,6 +256,7 @@
     "https://telektlist.com/?p=137455"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29140",
     "https://codezine.jp/article/detail/29123",
     "https://codezine.jp/article/detail/29124",
     "https://codezine.jp/article/detail/29112",
@@ -304,8 +305,7 @@
     "https://codezine.jp/article/detail/29077",
     "https://codezine.jp/article/detail/29081",
     "https://codezine.jp/article/detail/29082",
-    "https://codezine.jp/article/detail/29083",
-    "https://codezine.jp/article/detail/29075"
+    "https://codezine.jp/article/detail/29083"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -372,6 +372,7 @@
     "yt:video:0sV4khHwdro"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:5OI1gpjtyyg",
     "yt:video:7dif4O6g4oY",
     "yt:video:EZb-fWHvO24",
     "yt:video:mmvWmUXQWnU",
@@ -420,10 +421,10 @@
     "yt:video:GFIVP8iX0mU",
     "yt:video:GtIoGyONrco",
     "yt:video:UdEIgP4B0Bs",
-    "yt:video:ertzbVnIjAU",
-    "yt:video:TRPQTE-Py8w"
+    "yt:video:ertzbVnIjAU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:NdRC6tydskk",
     "yt:video:XZW1chptcAc",
     "yt:video:YvKJVOn2YWM",
     "yt:video:n_XeCRL2ZFY",
@@ -472,8 +473,7 @@
     "yt:video:2NeFDenLtf8",
     "yt:video:D5J2mqHjg4g",
     "yt:video:4va8459IHi4",
-    "yt:video:_--2s3G8iCw",
-    "yt:video:c-hMt-_EtSM"
+    "yt:video:_--2s3G8iCw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:OKLAse5Oi48",
@@ -565,6 +565,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:pgVyiZXorTg",
     "yt:video:Bj0zz8GjsHQ",
     "yt:video:Fdim_AUD0-Q",
     "yt:video:2JZGvyHliGs",
@@ -613,8 +614,7 @@
     "yt:video:MAAlZsib4mE",
     "yt:video:xSoFGX9_oYk",
     "yt:video:EtN7Mla_LyU",
-    "yt:video:y3_rFlT7jfI",
-    "yt:video:3K--p0YCSww"
+    "yt:video:y3_rFlT7jfI"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=15398",
@@ -2800,6 +2800,9 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2081672278316826895",
+    "2081672398190104669",
+    "2081672374391619597",
     "2081576298451964357",
     "2081576349995839902",
     "2081302805365887307",
@@ -2846,10 +2849,7 @@
     "2080573664022725112",
     "2080493748983881746",
     "2080494003699732903",
-    "2080493962968912345",
-    "2080494110818136486",
-    "2080494243773374752",
-    "2080494315017802092"
+    "2080493962968912345"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2080779917130858598",
