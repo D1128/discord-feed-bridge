@@ -1131,6 +1131,9 @@
     "yt:video:qWoToCfovIw"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/articles/2607/27/news090.html",
+    "https://www.itmedia.co.jp/mobile/articles/2607/27/news091.html",
+    "https://www.itmedia.co.jp/news/articles/2607/27/news076.html",
     "https://www.itmedia.co.jp/aiplus/article/2607/27/2000000222/",
     "https://www.itmedia.co.jp/pcuser/articles/2607/27/news060.html",
     "https://www.itmedia.co.jp/news/articles/2607/27/news081.html",
@@ -1177,10 +1180,7 @@
     "https://www.itmedia.co.jp/news/articles/2607/24/news076.html",
     "https://www.itmedia.co.jp/pcuser/articles/2607/24/news074.html",
     "https://www.itmedia.co.jp/news/articles/2607/24/news078.html",
-    "https://www.itmedia.co.jp/news/articles/2607/24/news057.html",
-    "https://www.itmedia.co.jp/news/articles/2607/24/news042.html",
-    "https://www.itmedia.co.jp/news/articles/2607/24/news063.html",
-    "https://built.itmedia.co.jp/bt/articles/2607/24/news067.html"
+    "https://www.itmedia.co.jp/news/articles/2607/24/news057.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1236,6 +1236,10 @@
     "https://smhn.info/?p=288446"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=118153",
+    "https://daily-gadget.net/?p=118158",
+    "https://daily-gadget.net/?p=118163",
+    "https://daily-gadget.net/?p=118168",
     "https://daily-gadget.net/?p=118148",
     "https://daily-gadget.net/?p=118143",
     "https://daily-gadget.net/?p=118134",
@@ -1281,11 +1285,7 @@
     "https://daily-gadget.net/?p=117916",
     "https://daily-gadget.net/?p=117919",
     "https://daily-gadget.net/?p=117897",
-    "https://daily-gadget.net/?p=117902",
-    "https://daily-gadget.net/?p=117906",
-    "https://daily-gadget.net/?p=117880",
-    "https://daily-gadget.net/?p=117886",
-    "https://daily-gadget.net/?p=117856"
+    "https://daily-gadget.net/?p=117902"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=66300",
