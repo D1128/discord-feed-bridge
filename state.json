@@ -1725,6 +1725,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260728-roman-concrete-keeps-stronger-toilet/",
     "https://gigazine.net/news/20260728-why-ai-voice-fraud-outruns-defence/",
     "https://gigazine.net/news/20260728-summer-sun-vitamin-d-insufficiency/",
     "https://gigazine.net/news/20260727-prompt-caching/",
@@ -1773,8 +1774,7 @@
     "https://gigazine.net/news/20260725-waymo-uber-tie-up-to-end/",
     "https://gigazine.net/news/20260725-offline-translator/",
     "https://gigazine.net/news/20260725-apple-micron-clash-trump-chinese-memory-chips/",
-    "https://gigazine.net/news/20260725-anker-nano-charger-45w-display/",
-    "https://gigazine.net/news/20260725-china-ai-chip/"
+    "https://gigazine.net/news/20260725-anker-nano-charger-45w-display/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=226615",
@@ -2441,6 +2441,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2081722282893053988",
+    "2081725147141361861",
+    "2081727309309161847",
+    "2081730315282985222",
     "2081726772165345346",
     "2081723760386908645",
     "2081756501623132566",
@@ -2486,11 +2490,7 @@
     "2080064901004038637",
     "2080185595746500754",
     "2080206510899265815",
-    "2080228328900837446",
-    "2080246741530755315",
-    "2079990198239404518",
-    "2079890957307347116",
-    "2079890915590901946"
+    "2080228328900837446"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2081668162865774909",
