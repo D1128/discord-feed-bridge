@@ -1132,6 +1132,7 @@
     "yt:video:Ut4sx3JhVcA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/article/2607/28/2000000248/",
     "https://www.itmedia.co.jp/news/article/2607/28/2000000238/",
     "https://www.itmedia.co.jp/news/article/2607/28/2000000239/",
     "https://www.itmedia.co.jp/news/article/2607/28/2000000240/",
@@ -1180,8 +1181,7 @@
     "https://www.itmedia.co.jp/mobile/articles/2607/23/news064.html",
     "https://www.itmedia.co.jp/mobile/articles/2607/26/news004.html",
     "https://www.itmedia.co.jp/business/articles/2607/26/news003.html",
-    "https://www.itmedia.co.jp/mobile/articles/2607/26/news001.html",
-    "https://www.itmedia.co.jp/pcuser/articles/2607/26/news007.html"
+    "https://www.itmedia.co.jp/mobile/articles/2607/26/news001.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1237,6 +1237,7 @@
     "https://smhn.info/?p=288537"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=118213",
     "https://daily-gadget.net/?p=118204",
     "https://daily-gadget.net/?p=118208",
     "https://daily-gadget.net/?p=118191",
@@ -1285,8 +1286,7 @@
     "https://daily-gadget.net/?p=117969",
     "https://daily-gadget.net/?p=117942",
     "https://daily-gadget.net/?p=117943",
-    "https://daily-gadget.net/?p=117944",
-    "https://daily-gadget.net/?p=117945"
+    "https://daily-gadget.net/?p=117944"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=66346",
@@ -2679,6 +2679,8 @@
     "2021794316444926259"
   ],
   "https://nitter.net/ctgptlb/rss": [
+    "2082062248944750785",
+    "2082060221225242951",
     "2081987165500936505",
     "2081987163328233794",
     "2081987155287794141",
@@ -2726,9 +2728,7 @@
     "2076648455892832415",
     "2076446860399845484",
     "2076446878091423770",
-    "2075539585405448648",
-    "2075539587024466337",
-    "2075412474992722094"
+    "2075539585405448648"
   ],
   "https://nitter.net/masahirochaen/rss": [
     "2082056078930694510",
