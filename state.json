@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2128607.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/semicon/2128501.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2128534.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2128556.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2127835.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2127831.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2127832.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127643.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127652.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2127643.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -320,6 +320,7 @@
     "https://magazine.techacademy.jp/magazine/?p=87264"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA": [
+    "yt:video:9Dx1VL8t9mI",
     "yt:video:GWi6YORrd5s",
     "yt:video:EZ3kDbQwXHk",
     "yt:video:jvLp5yT_PJA",
@@ -368,10 +369,10 @@
     "yt:video:nIRvS4jmHDI",
     "yt:video:qDnnEzpZi5Q",
     "yt:video:RDkn7NhTRes",
-    "yt:video:tzm7CG9JHn0",
-    "yt:video:0sV4khHwdro"
+    "yt:video:tzm7CG9JHn0"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
+    "yt:video:RZdvmAjK2X4",
     "yt:video:5OI1gpjtyyg",
     "yt:video:7dif4O6g4oY",
     "yt:video:EZb-fWHvO24",
@@ -420,10 +421,10 @@
     "yt:video:9DJ5IoVR4-s",
     "yt:video:GFIVP8iX0mU",
     "yt:video:GtIoGyONrco",
-    "yt:video:UdEIgP4B0Bs",
-    "yt:video:ertzbVnIjAU"
+    "yt:video:UdEIgP4B0Bs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:_3sOzX0Ljtk",
     "yt:video:NdRC6tydskk",
     "yt:video:XZW1chptcAc",
     "yt:video:YvKJVOn2YWM",
@@ -472,8 +473,7 @@
     "yt:video:5VFpLee5q1w",
     "yt:video:2NeFDenLtf8",
     "yt:video:D5J2mqHjg4g",
-    "yt:video:4va8459IHi4",
-    "yt:video:_--2s3G8iCw"
+    "yt:video:4va8459IHi4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:OKLAse5Oi48",
