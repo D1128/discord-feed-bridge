@@ -1,5 +1,12 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/semicon/2128501.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2128534.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2128556.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2128592.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2128619.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2128626.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2128632.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2128476.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2128468.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2128346.html?ref=rss",
@@ -42,14 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2127831.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2127832.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2127643.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127652.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127716.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127600.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127614.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2127605.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2127503.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2127505.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2127518.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2127652.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -256,6 +256,10 @@
     "https://telektlist.com/?p=137455"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29148",
+    "https://codezine.jp/article/detail/29137",
+    "https://codezine.jp/article/detail/29149",
+    "https://codezine.jp/article/detail/29138",
     "https://codezine.jp/article/detail/29135",
     "https://codezine.jp/article/detail/29145",
     "https://codezine.jp/article/detail/29146",
@@ -301,11 +305,7 @@
     "https://codezine.jp/article/detail/29086",
     "https://codezine.jp/article/detail/29087",
     "https://codezine.jp/article/detail/29000",
-    "https://codezine.jp/article/detail/29033",
-    "https://codezine.jp/article/detail/29093",
-    "https://codezine.jp/article/detail/29088",
-    "https://codezine.jp/article/detail/29094",
-    "https://codezine.jp/article/detail/29096"
+    "https://codezine.jp/article/detail/29033"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -516,6 +516,7 @@
     "yt:video:_Lp7bbz9U60"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtiDTuG40ZOarubtFm1fbzg": [
+    "yt:video:YcjNdAVm7Ns",
     "yt:video:CXUN4D7C9Jo",
     "yt:video:KaOetL4DYaY",
     "yt:video:oBS1Htiph-Q",
@@ -2800,6 +2801,16 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2082021799651631252",
+    "2082022024202035535",
+    "2082022295992995947",
+    "2082022271586292086",
+    "2082022749456027828",
+    "2082022792477004222",
+    "2082022708855140833",
+    "2082022977865163056",
+    "2082023016406692192",
+    "2082022936631025960",
     "2081945607074369988",
     "2081945688049615281",
     "2081945768924201056",
@@ -2839,17 +2850,7 @@
     "2080764076893122571",
     "2080764344678363596",
     "2080764378031554688",
-    "2080764317453209804",
-    "2080764514166026476",
-    "2080764481941209490",
-    "2080764664708055089",
-    "2080764626032308699",
-    "2080763318915236238",
-    "2080763406299308485",
-    "2080763497596727678",
-    "2080763604799049732",
-    "2080648555388403747",
-    "2080648654004904406"
+    "2080764317453209804"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2080779917130858598",
