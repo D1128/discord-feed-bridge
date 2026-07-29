@@ -1726,6 +1726,16 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260729-google-chrome-151/",
+    "https://gigazine.net/news/20260729-trump-administration-bans-chinese-humanoid-robots/",
+    "https://gigazine.net/news/20260729-gpt-live-transcribe/",
+    "https://gigazine.net/news/20260729-apple-upgrade-released/",
+    "https://gigazine.net/news/20260729-pacing-the-frontier/",
+    "https://gigazine.net/news/20260729-claude-mythos-preview-finds-flaws/",
+    "https://gigazine.net/news/20260729-artificial-light-change-save-insects/",
+    "https://gigazine.net/news/20260729-google-data-shows-workers-not-automating-themselves-away/",
+    "https://gigazine.net/news/20260729-meta-eu-ai-content/",
+    "https://gigazine.net/news/20260729-openai-hack-hugging-face-timeline/",
     "https://gigazine.net/news/20260729-shufflecake-hidden-volumes/",
     "https://gigazine.net/news/20260729-sigh-attention/",
     "https://gigazine.net/news/20260729-codeberg-bans-ai-contributions/",
@@ -1765,19 +1775,12 @@
     "https://gigazine.net/news/20260727-cxmt-dram-price/",
     "https://gigazine.net/news/20260727-apple-smart-glasses-n50-delay/",
     "https://gigazine.net/news/20260727-watching-too-much-tv-smaller-brain/",
-    "https://gigazine.net/news/20260727-ai-open-weight/",
-    "https://gigazine.net/news/20260727-potential-world-cup-manipulation-polymarket/",
-    "https://gigazine.net/news/20260727-hugging-face-ceo-openai-hacking-radical-transparency/",
-    "https://gigazine.net/news/20260727-x-music-copyright/",
-    "https://gigazine.net/news/20260727-click-to-pray-data-leaking/",
-    "https://gigazine.net/news/20260727-sk-hynix-post-record-profit/",
-    "https://gigazine.net/news/20260727-google-pixel-11-price/",
-    "https://gigazine.net/news/20260727-apple-first-water-resistant-ipad/",
-    "https://gigazine.net/news/20260727-airpod-powered-frisbee-tracker/",
-    "https://gigazine.net/news/20260727-mpeg-4-visual-last-patent-expired/",
-    "https://gigazine.net/news/20260726-evangelion-wf2026s/"
+    "https://gigazine.net/news/20260727-ai-open-weight/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=224867",
+    "https://aismiley.co.jp/?post_type=ai_news&p=225326",
+    "https://aismiley.co.jp/?post_type=ai_news&p=226288",
     "https://aismiley.co.jp/?post_type=ai_news&p=226091",
     "https://aismiley.co.jp/?post_type=ai_news&p=226199",
     "https://aismiley.co.jp/?post_type=ai_news&p=226606",
@@ -1824,10 +1827,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=224499",
     "https://aismiley.co.jp/?post_type=ai_news&p=224481",
     "https://aismiley.co.jp/?post_type=ai_news&p=224772",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223523",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223636",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223765",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223076"
+    "https://aismiley.co.jp/?post_type=ai_news&p=223523"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189347",
@@ -2194,6 +2194,7 @@
     "yt:video:XUqspDocN3U"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=268128",
     "https://garumax.com/?p=267989",
     "https://garumax.com/?p=268004",
     "https://garumax.com/?p=265638",
@@ -2242,8 +2243,7 @@
     "https://garumax.com/?p=267085",
     "https://garumax.com/?p=266456",
     "https://garumax.com/?p=266914",
-    "https://garumax.com/?p=266784",
-    "https://garumax.com/?p=266937"
+    "https://garumax.com/?p=266784"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/chatgpt-banner",
@@ -2283,6 +2283,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64166",
+    "https://androplus.jp/?p=64175",
     "https://androplus.jp/?p=64159",
     "https://androplus.jp/?p=64134",
     "https://androplus.jp/?p=64140",
@@ -2330,9 +2332,7 @@
     "https://androplus.jp/?p=62024",
     "https://androplus.jp/?p=62478",
     "https://androplus.jp/?p=59991",
-    "https://androplus.jp/?p=63018",
-    "https://androplus.jp/?p=63021",
-    "https://androplus.jp/?p=63026"
+    "https://androplus.jp/?p=63018"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
