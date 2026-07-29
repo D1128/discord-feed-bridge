@@ -1726,6 +1726,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260729-adb-may-restrict/",
+    "https://gigazine.net/news/20260729-codex-security-cli-open-source/",
+    "https://gigazine.net/news/20260729-claude-chats-google-search/",
+    "https://gigazine.net/news/20260729-ebay-statement-agreement-with-steiners/",
+    "https://gigazine.net/news/20260729-gyoku-tokyo-ramen-street/",
     "https://gigazine.net/news/20260729-nvidia-employee-detained/",
     "https://gigazine.net/news/20260729-model-context-protocol-2026-07-28/",
     "https://gigazine.net/news/20260729-xai-sue-nudification-law/",
@@ -1770,14 +1775,12 @@
     "https://gigazine.net/news/20260728-why-ai-voice-fraud-outruns-defence/",
     "https://gigazine.net/news/20260728-summer-sun-vitamin-d-insufficiency/",
     "https://gigazine.net/news/20260727-prompt-caching/",
-    "https://gigazine.net/news/20260727-firefox-release-cadence/",
-    "https://gigazine.net/news/20260727-headline/",
-    "https://gigazine.net/news/20260727-the-space-project/",
-    "https://gigazine.net/news/20260727-nvidia-jensen-huang-izakaya/",
-    "https://gigazine.net/news/20260727-extreme-happiness-triggered-heart-event/",
-    "https://gigazine.net/news/20260727-ai-hacking-notice/"
+    "https://gigazine.net/news/20260727-firefox-release-cadence/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=227108",
+    "https://aismiley.co.jp/?post_type=ai_news&p=225937",
+    "https://aismiley.co.jp/?post_type=ai_news&p=225897",
     "https://aismiley.co.jp/?post_type=ai_news&p=224693",
     "https://aismiley.co.jp/?post_type=ai_news&p=225815",
     "https://aismiley.co.jp/?post_type=ai_news&p=226528",
@@ -1824,10 +1827,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=221776",
     "https://aismiley.co.jp/?post_type=ai_news&p=223932",
     "https://aismiley.co.jp/?post_type=ai_news&p=224855",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225047",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225108",
-    "https://aismiley.co.jp/?post_type=ai_news&p=222917",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223910"
+    "https://aismiley.co.jp/?post_type=ai_news&p=225047"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189359",
@@ -1934,6 +1934,7 @@
     "yt:video:ddX_WuH4GYM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:LOX2bVKxv6Y",
     "yt:video:KcuMmFXANQI",
     "yt:video:X4Fticahk5k",
     "yt:video:_YjYZLp3TTA",
@@ -1982,8 +1983,7 @@
     "yt:video:X8bWSt4op0Q",
     "yt:video:eGcW6Y-sxEE",
     "yt:video:tkBPRrWI-jI",
-    "yt:video:ryUjrnKhF1s",
-    "yt:video:rj0zOvQr9Uk"
+    "yt:video:ryUjrnKhF1s"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:VYnbTbBWrd4",
@@ -2194,6 +2194,8 @@
     "yt:video:XUqspDocN3U"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=268133",
+    "https://garumax.com/?p=268191",
     "https://garumax.com/?p=268128",
     "https://garumax.com/?p=267989",
     "https://garumax.com/?p=268004",
@@ -2241,9 +2243,7 @@
     "https://garumax.com/?p=266923",
     "https://garumax.com/?p=266823",
     "https://garumax.com/?p=267085",
-    "https://garumax.com/?p=266456",
-    "https://garumax.com/?p=266914",
-    "https://garumax.com/?p=266784"
+    "https://garumax.com/?p=266456"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/chatgpt-banner",
@@ -2442,6 +2442,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2082356889485262945",
     "2082281261616472289",
     "2082296000052613602",
     "2082040174603866195",
@@ -2490,8 +2491,7 @@
     "2078143048257794531",
     "2078142565937999919",
     "2080420693309628633",
-    "2080244181159870827",
-    "2080082024870932970"
+    "2080244181159870827"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2082042881880240411",
