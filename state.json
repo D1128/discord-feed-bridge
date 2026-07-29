@@ -1726,6 +1726,12 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260729-nvidia-employee-detained/",
+    "https://gigazine.net/news/20260729-model-context-protocol-2026-07-28/",
+    "https://gigazine.net/news/20260729-xai-sue-nudification-law/",
+    "https://gigazine.net/news/20260729-amazon-data-centers-hit-iran-strikes/",
+    "https://gigazine.net/news/20260729-samsung-heart-phone/",
+    "https://gigazine.net/news/20260729-hugging-face-ai-nudify-deepfake-children/",
     "https://gigazine.net/news/20260729-google-chrome-151/",
     "https://gigazine.net/news/20260729-trump-administration-bans-chinese-humanoid-robots/",
     "https://gigazine.net/news/20260729-gpt-live-transcribe/",
@@ -1769,15 +1775,13 @@
     "https://gigazine.net/news/20260727-the-space-project/",
     "https://gigazine.net/news/20260727-nvidia-jensen-huang-izakaya/",
     "https://gigazine.net/news/20260727-extreme-happiness-triggered-heart-event/",
-    "https://gigazine.net/news/20260727-ai-hacking-notice/",
-    "https://gigazine.net/news/20260727-network-driven-slow-aging-pharmacies/",
-    "https://gigazine.net/news/20260727-nasa-sunrise-launch-vehicle-falcon-heavy/",
-    "https://gigazine.net/news/20260727-cxmt-dram-price/",
-    "https://gigazine.net/news/20260727-apple-smart-glasses-n50-delay/",
-    "https://gigazine.net/news/20260727-watching-too-much-tv-smaller-brain/",
-    "https://gigazine.net/news/20260727-ai-open-weight/"
+    "https://gigazine.net/news/20260727-ai-hacking-notice/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=224693",
+    "https://aismiley.co.jp/?post_type=ai_news&p=225815",
+    "https://aismiley.co.jp/?post_type=ai_news&p=226528",
+    "https://aismiley.co.jp/?post_type=ai_news&p=225850",
     "https://aismiley.co.jp/?post_type=ai_news&p=224867",
     "https://aismiley.co.jp/?post_type=ai_news&p=225326",
     "https://aismiley.co.jp/?post_type=ai_news&p=226288",
@@ -1823,13 +1827,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=225047",
     "https://aismiley.co.jp/?post_type=ai_news&p=225108",
     "https://aismiley.co.jp/?post_type=ai_news&p=222917",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223910",
-    "https://aismiley.co.jp/?post_type=ai_news&p=224499",
-    "https://aismiley.co.jp/?post_type=ai_news&p=224481",
-    "https://aismiley.co.jp/?post_type=ai_news&p=224772",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223523"
+    "https://aismiley.co.jp/?post_type=ai_news&p=223910"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189359",
     "https://win-tab.net/?p=189347",
     "https://win-tab.net/?p=187647",
     "https://win-tab.net/?p=189289",
@@ -1878,8 +1879,7 @@
     "https://win-tab.net/?p=188814",
     "https://win-tab.net/?p=188793",
     "https://win-tab.net/?p=188788",
-    "https://win-tab.net/?p=188780",
-    "https://win-tab.net/?p=188761"
+    "https://win-tab.net/?p=188780"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:sRQU0olApLE",
@@ -2283,6 +2283,9 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64181",
+    "https://androplus.jp/?p=64183",
+    "https://androplus.jp/?p=64193",
     "https://androplus.jp/?p=64166",
     "https://androplus.jp/?p=64175",
     "https://androplus.jp/?p=64159",
@@ -2329,10 +2332,7 @@
     "https://androplus.jp/?p=63053",
     "https://androplus.jp/?p=63061",
     "https://androplus.jp/?p=62034",
-    "https://androplus.jp/?p=62024",
-    "https://androplus.jp/?p=62478",
-    "https://androplus.jp/?p=59991",
-    "https://androplus.jp/?p=63018"
+    "https://androplus.jp/?p=62024"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2442,6 +2442,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2082281261616472289",
+    "2082296000052613602",
     "2082040174603866195",
     "2082049826385183059",
     "2082040951216980235",
@@ -2489,9 +2491,7 @@
     "2078142565937999919",
     "2080420693309628633",
     "2080244181159870827",
-    "2080082024870932970",
-    "2080136623011049869",
-    "2080208797994455272"
+    "2080082024870932970"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2082042881880240411",
