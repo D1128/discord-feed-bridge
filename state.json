@@ -1132,6 +1132,7 @@
     "yt:video:Ut4sx3JhVcA"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://built.itmedia.co.jp/bt/articles/2607/29/news099.html",
     "https://www.itmedia.co.jp/news/article/2607/29/2000000276/",
     "https://www.itmedia.co.jp/news/article/2607/29/2000000277/",
     "https://www.itmedia.co.jp/news/article/2607/29/2000000278/",
@@ -1180,11 +1181,14 @@
     "https://www.itmedia.co.jp/news/articles/2607/28/news061.html",
     "https://monoist.itmedia.co.jp/mn/articles/2607/28/news008.html",
     "https://www.itmedia.co.jp/business/articles/2607/28/news019.html",
-    "https://www.itmedia.co.jp/business/articles/2607/28/news032.html",
-    "https://www.itmedia.co.jp/business/articles/2607/28/news042.html"
+    "https://www.itmedia.co.jp/business/articles/2607/28/news032.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=289409",
+    "https://smhn.info/?p=289436",
+    "https://smhn.info/?p=289445",
+    "https://smhn.info/?p=289413",
     "https://smhn.info/?p=289371",
     "https://smhn.info/?p=289396",
     "https://smhn.info/?p=289400",
@@ -1230,11 +1234,7 @@
     "https://smhn.info/?p=288654",
     "https://smhn.info/?p=288862",
     "https://smhn.info/?p=288841",
-    "https://smhn.info/?p=288723",
-    "https://smhn.info/?p=288768",
-    "https://smhn.info/?p=288776",
-    "https://smhn.info/?p=288660",
-    "https://smhn.info/?p=288822"
+    "https://smhn.info/?p=288723"
   ],
   "https://daily-gadget.net/feed/": [
     "https://daily-gadget.net/?p=118253",
@@ -2731,6 +2731,7 @@
     "2075539585405448648"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2082428417161777448",
     "2082421252459999596",
     "2082262392839508361",
     "2082262381057675591",
@@ -2779,8 +2780,7 @@
     "2080983203805048869",
     "2080942717543321876",
     "2080879040249184551",
-    "2080879024889540762",
-    "2080809037638377906"
+    "2080879024889540762"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
