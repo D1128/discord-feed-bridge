@@ -1726,6 +1726,10 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260730-microsoft-copilot-super-app/",
+    "https://gigazine.net/news/20260730-low-sugar-early-life-alzheimers-risk/",
+    "https://gigazine.net/news/20260730-google-search-console-social-video-performance/",
+    "https://gigazine.net/news/20260730-lyria-3-5-music-generation-ai/",
     "https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/",
     "https://gigazine.net/news/20260730-cockroach-collective-memory/",
     "https://gigazine.net/news/20260729-mcpbench/",
@@ -1771,13 +1775,13 @@
     "https://gigazine.net/news/20260728-apple-ios-26-6-software-update/",
     "https://gigazine.net/news/20260728-x-money/",
     "https://gigazine.net/news/20260728-anthropic-position-open-weights-models/",
-    "https://gigazine.net/news/20260728-amazon-leo-satellite-5105/",
-    "https://gigazine.net/news/20260728-mathematics-reveals-human-cannibalism/",
-    "https://gigazine.net/news/20260728-amd-instella-moe/",
-    "https://gigazine.net/news/20260728-new-firefox-design/",
-    "https://gigazine.net/news/20260728-minecraft-java-edition-system-requirements/"
+    "https://gigazine.net/news/20260728-amazon-leo-satellite-5105/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=226482",
+    "https://aismiley.co.jp/?post_type=ai_news&p=226861",
+    "https://aismiley.co.jp/?post_type=ai_news&p=226548",
+    "https://aismiley.co.jp/?post_type=ai_news&p=226740",
     "https://aismiley.co.jp/?post_type=ai_news&p=227108",
     "https://aismiley.co.jp/?post_type=ai_news&p=225937",
     "https://aismiley.co.jp/?post_type=ai_news&p=225897",
@@ -1823,11 +1827,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=224959",
     "https://aismiley.co.jp/?post_type=ai_news&p=223675",
     "https://aismiley.co.jp/?post_type=ai_news&p=220740",
-    "https://aismiley.co.jp/?post_type=ai_news&p=221166",
-    "https://aismiley.co.jp/?post_type=ai_news&p=221776",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223932",
-    "https://aismiley.co.jp/?post_type=ai_news&p=224855",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225047"
+    "https://aismiley.co.jp/?post_type=ai_news&p=221166"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189370",
@@ -2194,6 +2194,7 @@
     "yt:video:XUqspDocN3U"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=268103",
     "https://garumax.com/?p=268133",
     "https://garumax.com/?p=268191",
     "https://garumax.com/?p=268128",
@@ -2242,8 +2243,7 @@
     "https://garumax.com/?p=267139",
     "https://garumax.com/?p=266923",
     "https://garumax.com/?p=266823",
-    "https://garumax.com/?p=267085",
-    "https://garumax.com/?p=266456"
+    "https://garumax.com/?p=267085"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/chatgpt-banner",
@@ -2283,6 +2283,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64213",
+    "https://androplus.jp/?p=64219",
     "https://androplus.jp/?p=64206",
     "https://androplus.jp/?p=64202",
     "https://androplus.jp/?p=64204",
@@ -2330,9 +2332,7 @@
     "https://androplus.jp/?p=63089",
     "https://androplus.jp/?p=63073",
     "https://androplus.jp/?p=63067",
-    "https://androplus.jp/?p=61597",
-    "https://androplus.jp/?p=62357",
-    "https://androplus.jp/?p=63053"
+    "https://androplus.jp/?p=61597"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
