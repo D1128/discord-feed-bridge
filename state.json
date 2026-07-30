@@ -1726,6 +1726,13 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260730-google-deepmind-alphafold-team/",
+    "https://gigazine.net/news/20260730-thinking-machines-lab-cofounder-lilian-weng-left-the-company/",
+    "https://gigazine.net/news/20260730-microsoft-earnings-2026q4/",
+    "https://gigazine.net/news/20260730-grok-voice-think-fast-2/",
+    "https://gigazine.net/news/20260730-qualcomm-earnings-report-q3-2026/",
+    "https://gigazine.net/news/20260730-gpt-5-6-optimizing/",
+    "https://gigazine.net/news/20260730-mecca-chameleon-malware/",
     "https://gigazine.net/news/20260730-microsoft-copilot-super-app/",
     "https://gigazine.net/news/20260730-low-sugar-early-life-alzheimers-risk/",
     "https://gigazine.net/news/20260730-google-search-console-social-video-performance/",
@@ -1768,14 +1775,7 @@
     "https://gigazine.net/news/20260728-gamera-60th-wf2026s/",
     "https://gigazine.net/news/20260728-pgsimcity-postgresql/",
     "https://gigazine.net/news/20260728-anthropic-books/",
-    "https://gigazine.net/news/20260728-banhmi-pho/",
-    "https://gigazine.net/news/20260728-earthquake-kumamoto/",
-    "https://gigazine.net/news/20260728-china-people-renting-face-to-ai/",
-    "https://gigazine.net/news/20260728-remove-forever-chemicals-pfas-from-soil/",
-    "https://gigazine.net/news/20260728-apple-ios-26-6-software-update/",
-    "https://gigazine.net/news/20260728-x-money/",
-    "https://gigazine.net/news/20260728-anthropic-position-open-weights-models/",
-    "https://gigazine.net/news/20260728-amazon-leo-satellite-5105/"
+    "https://gigazine.net/news/20260728-banhmi-pho/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=226482",
@@ -1830,6 +1830,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=221166"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189374",
     "https://win-tab.net/?p=189370",
     "https://win-tab.net/?p=189359",
     "https://win-tab.net/?p=189347",
@@ -1878,8 +1879,7 @@
     "https://win-tab.net/?p=188836",
     "https://win-tab.net/?p=188487",
     "https://win-tab.net/?p=188814",
-    "https://win-tab.net/?p=188793",
-    "https://win-tab.net/?p=188788"
+    "https://win-tab.net/?p=188793"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:sRQU0olApLE",
@@ -2283,6 +2283,9 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64224",
+    "https://androplus.jp/?p=62816",
+    "https://androplus.jp/?p=64199",
     "https://androplus.jp/?p=64213",
     "https://androplus.jp/?p=64219",
     "https://androplus.jp/?p=64206",
@@ -2329,10 +2332,7 @@
     "https://androplus.jp/?p=63097",
     "https://androplus.jp/?p=62956",
     "https://androplus.jp/?p=63107",
-    "https://androplus.jp/?p=63089",
-    "https://androplus.jp/?p=63073",
-    "https://androplus.jp/?p=63067",
-    "https://androplus.jp/?p=61597"
+    "https://androplus.jp/?p=63089"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
