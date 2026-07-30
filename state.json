@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2129376.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2129267.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129315.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129329.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129349.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2128713.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2128607.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/semicon/2128501.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2128534.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2128556.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2128592.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2128534.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -424,6 +424,7 @@
     "yt:video:GFIVP8iX0mU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:Oa3UDVbfjx8",
     "yt:video:VqwGa45KcK0",
     "yt:video:_3sOzX0Ljtk",
     "yt:video:NdRC6tydskk",
@@ -472,8 +473,7 @@
     "yt:video:nY5R5ODqvwU",
     "yt:video:lXYOjt7dLwE",
     "yt:video:5VFpLee5q1w",
-    "yt:video:2NeFDenLtf8",
-    "yt:video:D5J2mqHjg4g"
+    "yt:video:2NeFDenLtf8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:OKLAse5Oi48",
