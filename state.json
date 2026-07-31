@@ -1727,6 +1727,15 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260731-openai-gpt-5-6-reducing-prices/",
+    "https://gigazine.net/news/20260731-google-deepmind-gemini-robotics-2/",
+    "https://gigazine.net/news/20260731-noaa-google-cloud-platform/",
+    "https://gigazine.net/news/20260731-reddit-2026q2-earnings-reports/",
+    "https://gigazine.net/news/20260731-anthropic-real-world-incident/",
+    "https://gigazine.net/news/20260731-apple-2026q3-earnings-reports/",
+    "https://gigazine.net/news/20260731-orca-threat-long-finned-pilot-whale/",
+    "https://gigazine.net/news/20260731-how-enabling-two-settings-tripled-arc-agi-3-benchmark/",
+    "https://gigazine.net/news/20260731-thinking-machines-lab-inkling-small/",
     "https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/",
     "https://gigazine.net/news/20260731-brain-rewire-true-multitasking/",
     "https://gigazine.net/news/20260730-radv-windows/",
@@ -1767,18 +1776,12 @@
     "https://gigazine.net/news/20260729-model-context-protocol-2026-07-28/",
     "https://gigazine.net/news/20260729-xai-sue-nudification-law/",
     "https://gigazine.net/news/20260729-amazon-data-centers-hit-iran-strikes/",
-    "https://gigazine.net/news/20260729-samsung-heart-phone/",
-    "https://gigazine.net/news/20260729-hugging-face-ai-nudify-deepfake-children/",
-    "https://gigazine.net/news/20260729-google-chrome-151/",
-    "https://gigazine.net/news/20260729-trump-administration-bans-chinese-humanoid-robots/",
-    "https://gigazine.net/news/20260729-gpt-live-transcribe/",
-    "https://gigazine.net/news/20260729-apple-upgrade-released/",
-    "https://gigazine.net/news/20260729-pacing-the-frontier/",
-    "https://gigazine.net/news/20260729-claude-mythos-preview-finds-flaws/",
-    "https://gigazine.net/news/20260729-artificial-light-change-save-insects/",
-    "https://gigazine.net/news/20260729-google-data-shows-workers-not-automating-themselves-away/"
+    "https://gigazine.net/news/20260729-samsung-heart-phone/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=226785",
+    "https://aismiley.co.jp/?post_type=ai_news&p=226832",
+    "https://aismiley.co.jp/?post_type=ai_news&p=227204",
     "https://aismiley.co.jp/?post_type=ai_news&p=226202",
     "https://aismiley.co.jp/?post_type=ai_news&p=225926",
     "https://aismiley.co.jp/?post_type=ai_news&p=226002",
@@ -1825,10 +1828,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=223829",
     "https://aismiley.co.jp/?post_type=ai_news&p=225729",
     "https://aismiley.co.jp/?post_type=ai_news&p=225242",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225304",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225946",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225185",
-    "https://aismiley.co.jp/?post_type=ai_news&p=223455"
+    "https://aismiley.co.jp/?post_type=ai_news&p=225304"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189385",
@@ -2284,6 +2284,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64316",
+    "https://androplus.jp/?p=64288",
     "https://androplus.jp/?p=64258",
     "https://androplus.jp/?p=64265",
     "https://androplus.jp/?p=64272",
@@ -2331,9 +2333,7 @@
     "https://androplus.jp/?p=63925",
     "https://androplus.jp/?p=63931",
     "https://androplus.jp/?p=62963",
-    "https://androplus.jp/?p=63909",
-    "https://androplus.jp/?p=63861",
-    "https://androplus.jp/?p=63817"
+    "https://androplus.jp/?p=63909"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2443,6 +2443,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2083001612520554616",
     "2082881332246659272",
     "2082790021262704752",
     "2082761889243652570",
@@ -2491,8 +2492,7 @@
     "2080983054680547436",
     "2080599118829826307",
     "2080725544841392322",
-    "2080607048723833048",
-    "2080620008233914749"
+    "2080607048723833048"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2082765392892559723",
