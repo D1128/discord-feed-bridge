@@ -1727,6 +1727,11 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260731-linkedin-seems-like-ai-slop-button/",
+    "https://gigazine.net/news/20260731-acecook-kindai-mazesoba/",
+    "https://gigazine.net/news/20260731-chrome-ai-fix/",
+    "https://gigazine.net/news/20260731-headline/",
+    "https://gigazine.net/news/20260731-mitchell-hashimoto-superlogical/",
     "https://gigazine.net/news/20260731-jimothy-gaming/",
     "https://gigazine.net/news/20260731-north-korean-hacker-supply-chain-attacks/",
     "https://gigazine.net/news/20260731-ai-amazon-expensive/",
@@ -1771,12 +1776,7 @@
     "https://gigazine.net/news/20260729-headline/",
     "https://gigazine.net/news/20260729-interview-grapheneos-data-reset-man/",
     "https://gigazine.net/news/20260729-adb-may-restrict/",
-    "https://gigazine.net/news/20260729-codex-security-cli-open-source/",
-    "https://gigazine.net/news/20260729-claude-chats-google-search/",
-    "https://gigazine.net/news/20260729-ebay-statement-agreement-with-steiners/",
-    "https://gigazine.net/news/20260729-gyoku-tokyo-ramen-street/",
-    "https://gigazine.net/news/20260729-nvidia-employee-detained/",
-    "https://gigazine.net/news/20260729-model-context-protocol-2026-07-28/"
+    "https://gigazine.net/news/20260729-codex-security-cli-open-source/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=226785",
@@ -1935,6 +1935,8 @@
     "yt:video:ddX_WuH4GYM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:yI0ipfhdjIg",
+    "yt:video:3vfyqQkMB5M",
     "yt:video:jKssCT6GiJc",
     "yt:video:LOX2bVKxv6Y",
     "yt:video:KcuMmFXANQI",
@@ -1982,9 +1984,7 @@
     "yt:video:4iMBkt3QrTQ",
     "yt:video:QyRpJg_Gzm4",
     "yt:video:IfIPOe_IbGc",
-    "yt:video:X8bWSt4op0Q",
-    "yt:video:eGcW6Y-sxEE",
-    "yt:video:tkBPRrWI-jI"
+    "yt:video:X8bWSt4op0Q"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:lVwhc8IY_f0",
@@ -2039,6 +2039,7 @@
     "yt:video:0ByM3y60vdI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:uNNzNHYqLvo",
     "yt:video:Je8InJGh4VA",
     "yt:video:JKendOTn70Y",
     "yt:video:_3HLXg2J_Cg",
@@ -2087,8 +2088,7 @@
     "yt:video:H9sc_WhnfYw",
     "yt:video:OigZYobWJfw",
     "yt:video:ZP140lExv6k",
-    "yt:video:zwO5ypG1Pac",
-    "yt:video:k0mk8xj6wFk"
+    "yt:video:zwO5ypG1Pac"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
     "yt:video:qpqS-sHYxxQ",
@@ -2443,6 +2443,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2083115466340622753",
+    "2083109003782156321",
+    "2083092449640198434",
     "2083001612520554616",
     "2082881332246659272",
     "2082790021262704752",
@@ -2489,12 +2492,10 @@
     "2081029337051255278",
     "2080979799129112605",
     "2080979706002944298",
-    "2080983054680547436",
-    "2080599118829826307",
-    "2080725544841392322",
-    "2080607048723833048"
+    "2080983054680547436"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2083123001059660026",
     "2082765392892559723",
     "2082402249926721561",
     "2082042881880240411",
@@ -2543,8 +2544,7 @@
     "2067021653222338709",
     "2066843982672638067",
     "2066657755994198168",
-    "2066481091343450534",
-    "2066316867111964992"
+    "2066481091343450534"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2083107901363868113",
