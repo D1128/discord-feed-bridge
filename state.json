@@ -1727,6 +1727,7 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260801-barn-owl-color-hunt-differently/",
     "https://gigazine.net/news/20260731-gcc-ai-policy/",
     "https://gigazine.net/news/20260731-anthropeum/",
     "https://gigazine.net/news/20260731-amazon-zoox-us-paid-robotaxis/",
@@ -1775,8 +1776,7 @@
     "https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/",
     "https://gigazine.net/news/20260730-cockroach-collective-memory/",
     "https://gigazine.net/news/20260729-mcpbench/",
-    "https://gigazine.net/news/20260729-partner-smartphone-distractions-sexual-distress/",
-    "https://gigazine.net/news/20260729-reversal-of-protein/"
+    "https://gigazine.net/news/20260729-partner-smartphone-distractions-sexual-distress/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=226785",
@@ -2443,6 +2443,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2083326849715741066",
+    "2083328264559530180",
     "2083245648439304656",
     "2083185025441267880",
     "2083115466340622753",
@@ -2490,9 +2492,7 @@
     "2081305036286779728",
     "2081011738045300909",
     "2081207578500239604",
-    "2081012736688025765",
-    "2081029337051255278",
-    "2080979799129112605"
+    "2081012736688025765"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2083123001059660026",
