@@ -1727,6 +1727,9 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260731-jimothy-gaming/",
+    "https://gigazine.net/news/20260731-north-korean-hacker-supply-chain-attacks/",
+    "https://gigazine.net/news/20260731-ai-amazon-expensive/",
     "https://gigazine.net/news/20260731-openai-gpt-5-6-reducing-prices/",
     "https://gigazine.net/news/20260731-google-deepmind-gemini-robotics-2/",
     "https://gigazine.net/news/20260731-noaa-google-cloud-platform/",
@@ -1773,10 +1776,7 @@
     "https://gigazine.net/news/20260729-ebay-statement-agreement-with-steiners/",
     "https://gigazine.net/news/20260729-gyoku-tokyo-ramen-street/",
     "https://gigazine.net/news/20260729-nvidia-employee-detained/",
-    "https://gigazine.net/news/20260729-model-context-protocol-2026-07-28/",
-    "https://gigazine.net/news/20260729-xai-sue-nudification-law/",
-    "https://gigazine.net/news/20260729-amazon-data-centers-hit-iran-strikes/",
-    "https://gigazine.net/news/20260729-samsung-heart-phone/"
+    "https://gigazine.net/news/20260729-model-context-protocol-2026-07-28/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=226785",
@@ -1831,6 +1831,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=225304"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189398",
     "https://win-tab.net/?p=189385",
     "https://win-tab.net/?p=189374",
     "https://win-tab.net/?p=189370",
@@ -1879,8 +1880,7 @@
     "https://win-tab.net/?p=188798",
     "https://win-tab.net/?p=188842",
     "https://win-tab.net/?p=188836",
-    "https://win-tab.net/?p=188487",
-    "https://win-tab.net/?p=188814"
+    "https://win-tab.net/?p=188487"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:sRQU0olApLE",
@@ -2195,6 +2195,11 @@
     "yt:video:DcpUfyzcrBI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=268273",
+    "https://garumax.com/?p=268259",
+    "https://garumax.com/?p=262890",
+    "https://garumax.com/?p=268351",
+    "https://garumax.com/?p=268370",
     "https://garumax.com/?p=268103",
     "https://garumax.com/?p=268133",
     "https://garumax.com/?p=268191",
@@ -2239,12 +2244,7 @@
     "https://garumax.com/?p=267216",
     "https://garumax.com/?p=267193",
     "https://garumax.com/?p=267172",
-    "https://garumax.com/?p=267179",
-    "https://garumax.com/?p=267147",
-    "https://garumax.com/?p=267139",
-    "https://garumax.com/?p=266923",
-    "https://garumax.com/?p=266823",
-    "https://garumax.com/?p=267085"
+    "https://garumax.com/?p=267179"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/chatgpt-banner",
