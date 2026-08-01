@@ -1727,6 +1727,8 @@
     "yt:video:GD4cpb8LXxQ"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260801-sanwa-direct-handy-fan/",
+    "https://gigazine.net/news/20260801-epaper-camera-reframe/",
     "https://gigazine.net/news/20260801-flow-launcher/",
     "https://gigazine.net/news/20260801-sony-enough-memory-meet-ps5-sales-targets/",
     "https://gigazine.net/news/20260801-disaster-initial-response-command-guide/",
@@ -1774,9 +1776,7 @@
     "https://gigazine.net/news/20260730-mecca-chameleon-malware/",
     "https://gigazine.net/news/20260730-microsoft-copilot-super-app/",
     "https://gigazine.net/news/20260730-low-sugar-early-life-alzheimers-risk/",
-    "https://gigazine.net/news/20260730-google-search-console-social-video-performance/",
-    "https://gigazine.net/news/20260730-lyria-3-5-music-generation-ai/",
-    "https://gigazine.net/news/20260730-nurses-ai-workplace-surveillance-care-worse/"
+    "https://gigazine.net/news/20260730-google-search-console-social-video-performance/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=226785",
@@ -2195,6 +2195,7 @@
     "yt:video:x3THNK_qFSg"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=267983",
     "https://garumax.com/?p=268399",
     "https://garumax.com/?p=268432",
     "https://garumax.com/?p=268273",
@@ -2243,8 +2244,7 @@
     "https://garumax.com/?p=267254",
     "https://garumax.com/?p=267199",
     "https://garumax.com/?p=267232",
-    "https://garumax.com/?p=267216",
-    "https://garumax.com/?p=267193"
+    "https://garumax.com/?p=267216"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/chatgpt-banner",
