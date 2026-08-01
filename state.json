@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129836.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129837.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2129812.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2129813.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129810.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2129117.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129142.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129134.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129166.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/feature/2128703.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129023.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2129166.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -256,6 +256,7 @@
     "https://telektlist.com/?p=137474"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29193",
     "https://codezine.jp/article/detail/29192",
     "https://codezine.jp/article/detail/29191",
     "https://codezine.jp/article/detail/29195",
@@ -304,8 +305,7 @@
     "https://codezine.jp/article/detail/29152",
     "https://codezine.jp/article/detail/29116",
     "https://codezine.jp/article/detail/29115",
-    "https://codezine.jp/article/detail/29114",
-    "https://codezine.jp/article/detail/29148"
+    "https://codezine.jp/article/detail/29114"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -424,6 +424,7 @@
     "yt:video:9DJ5IoVR4-s"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:c5xZfAuNs1w",
     "yt:video:UyCASMtco7A",
     "yt:video:gxq8PVw_eq0",
     "yt:video:Oa3UDVbfjx8",
@@ -472,8 +473,7 @@
     "yt:video:TxUQP87lqIg",
     "yt:video:GLAEQj3aCtI",
     "yt:video:TS7aEZwAZFU",
-    "yt:video:nY5R5ODqvwU",
-    "yt:video:lXYOjt7dLwE"
+    "yt:video:nY5R5ODqvwU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:OKLAse5Oi48",
