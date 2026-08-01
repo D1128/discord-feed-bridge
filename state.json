@@ -1677,6 +1677,7 @@
     "yt:video:0tvcKpNkwjQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8FwuifT73FtnO93ZUNSoLg": [
+    "yt:video:8JBlfG6xnIE",
     "yt:video:rtHjrDuIUGg",
     "yt:video:02LOZI4uHyc",
     "yt:video:WGc5Z5jOl9o",
@@ -1725,8 +1726,7 @@
     "yt:video:4dbkh6gPH-U",
     "yt:video:d_aboNW6lsg",
     "yt:video:vOVguYR0SSI",
-    "yt:video:Qi0Ba7yYGcc",
-    "yt:video:GD4cpb8LXxQ"
+    "yt:video:Qi0Ba7yYGcc"
   ],
   "https://gigazine.net/news/rss_2.0/": [
     "https://gigazine.net/news/20260801-soundcore-c50i-eevee/",
@@ -2735,6 +2735,9 @@
     "2077664030425288968"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2083508559330136332",
+    "2083508543765069870",
+    "2083508528036336024",
     "2083504274416587142",
     "2083504262479560838",
     "2083458313329787317",
@@ -2781,10 +2784,7 @@
     "2082662803408875694",
     "2082602135578128773",
     "2082602118511567020",
-    "2082602101985997128",
-    "2082587038642225512",
-    "2082587026801713410",
-    "2082587014931849363"
+    "2082602101985997128"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
