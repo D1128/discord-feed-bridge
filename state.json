@@ -1241,6 +1241,10 @@
     "https://smhn.info/?p=289215"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=118435",
+    "https://daily-gadget.net/?p=118440",
+    "https://daily-gadget.net/?p=118443",
+    "https://daily-gadget.net/?p=118446",
     "https://daily-gadget.net/?p=118422",
     "https://daily-gadget.net/?p=118426",
     "https://daily-gadget.net/?p=118431",
@@ -1286,11 +1290,7 @@
     "https://daily-gadget.net/?p=118158",
     "https://daily-gadget.net/?p=118163",
     "https://daily-gadget.net/?p=118168",
-    "https://daily-gadget.net/?p=118148",
-    "https://daily-gadget.net/?p=118143",
-    "https://daily-gadget.net/?p=118134",
-    "https://daily-gadget.net/?p=118138",
-    "https://daily-gadget.net/?p=118123"
+    "https://daily-gadget.net/?p=118148"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=66856",
@@ -2736,6 +2736,7 @@
     "2077664030425288968"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2084276965595299870",
     "2084199995503436286",
     "2084199979594416286",
     "2084199610730594644",
@@ -2784,8 +2785,7 @@
     "2083019714356494817",
     "2082964514103058834",
     "2082964526098755809",
-    "2082949418517680312",
-    "2082949403057545230"
+    "2082949418517680312"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
