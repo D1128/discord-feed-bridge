@@ -1,5 +1,12 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/hothot/2129879.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129895.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129905.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2129907.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129911.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2129926.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2129964.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129882.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129888.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2129853.html?ref=rss",
@@ -42,14 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2129264.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129199.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129195.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129233.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129249.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129261.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129097.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129100.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129108.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129110.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129115.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2129233.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -152,6 +152,7 @@
     "https://ainow.ai/?p=278112"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=93960",
     "https://butsuyoku-gadget.com/?p=93954",
     "https://butsuyoku-gadget.com/?p=93946",
     "https://butsuyoku-gadget.com/?p=93911",
@@ -200,8 +201,7 @@
     "https://butsuyoku-gadget.com/?p=93383",
     "https://butsuyoku-gadget.com/?p=93375",
     "https://butsuyoku-gadget.com/?p=93348",
-    "https://butsuyoku-gadget.com/?p=93362",
-    "https://butsuyoku-gadget.com/?p=93352"
+    "https://butsuyoku-gadget.com/?p=93362"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=138083",
@@ -256,6 +256,9 @@
     "https://telektlist.com/?p=137486"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29202",
+    "https://codezine.jp/article/detail/29203",
+    "https://codezine.jp/article/detail/29204",
     "https://codezine.jp/article/detail/29201",
     "https://codezine.jp/article/detail/24745",
     "https://codezine.jp/article/detail/29200",
@@ -302,10 +305,7 @@
     "https://codezine.jp/article/detail/29156",
     "https://codezine.jp/article/detail/29163",
     "https://codezine.jp/article/detail/29158",
-    "https://codezine.jp/article/detail/28938",
-    "https://codezine.jp/article/detail/29153",
-    "https://codezine.jp/article/detail/29160",
-    "https://codezine.jp/article/detail/29154"
+    "https://codezine.jp/article/detail/28938"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2806,6 +2806,16 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2084117249141698808",
+    "2084117459360248169",
+    "2084117511868752247",
+    "2084117427781267499",
+    "2084117745629905406",
+    "2084117790253019486",
+    "2084117709424635970",
+    "2084118060764700682",
+    "2084118117819850770",
+    "2084118027231207683",
     "2084043176713871497",
     "2083862738284204346",
     "2083862718327804159",
@@ -2845,17 +2855,7 @@
     "2083204682693153180",
     "2083204708660134325",
     "2083204649377808576",
-    "2083205024386293814",
-    "2083205070808813920",
-    "2083204979222024235",
-    "2083120149000069289",
-    "2083120249227096399",
-    "2083120345670910237",
-    "2083120429427044519",
-    "2083120541008048228",
-    "2083120578828161377",
-    "2083120518497206535",
-    "2083120668959535521"
+    "2083205024386293814"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2083095537386168390",
