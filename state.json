@@ -1730,6 +1730,12 @@
     "yt:video:Qi0Ba7yYGcc"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260803-google-pixel-11-series-leaked/",
+    "https://gigazine.net/news/20260803-apple-ai-bug-reports/",
+    "https://gigazine.net/news/20260803-coldcard-wallet-flaw-bitcoin-theft/",
+    "https://gigazine.net/news/20260803-china-ai-distillation/",
+    "https://gigazine.net/news/20260803-sony-ps5/",
+    "https://gigazine.net/news/20260803-moonshot-kimi-20000-nvidia-chip-alibaba/",
     "https://gigazine.net/news/20260803-google-earth-nano-banana-2-removed/",
     "https://gigazine.net/news/20260803-minimax-h3-video-generation-ai/",
     "https://gigazine.net/news/20260803-apple-macbook-air-shortage/",
@@ -1773,13 +1779,7 @@
     "https://gigazine.net/news/20260731-openai-gpt-5-6-reducing-prices/",
     "https://gigazine.net/news/20260731-google-deepmind-gemini-robotics-2/",
     "https://gigazine.net/news/20260731-noaa-google-cloud-platform/",
-    "https://gigazine.net/news/20260731-reddit-2026q2-earnings-reports/",
-    "https://gigazine.net/news/20260731-anthropic-real-world-incident/",
-    "https://gigazine.net/news/20260731-apple-2026q3-earnings-reports/",
-    "https://gigazine.net/news/20260731-orca-threat-long-finned-pilot-whale/",
-    "https://gigazine.net/news/20260731-how-enabling-two-settings-tripled-arc-agi-3-benchmark/",
-    "https://gigazine.net/news/20260731-thinking-machines-lab-inkling-small/",
-    "https://gigazine.net/news/20260731-microsoft-copilot-word-documents-ai-worm/"
+    "https://gigazine.net/news/20260731-reddit-2026q2-earnings-reports/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=222002",
@@ -1938,6 +1938,15 @@
     "yt:video:UNkhY8pKTdg"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:FhInb3qEdoU",
+    "yt:video:PuAf6xc8QDI",
+    "yt:video:J0uCaTFoSfo",
+    "yt:video:U0pr9UmzRxM",
+    "yt:video:HkpCI21V5Qs",
+    "yt:video:0qgoY_njgKE",
+    "yt:video:CeHD-KLqzWg",
+    "yt:video:Eo2qwDnAQfc",
+    "yt:video:wONt6OrV71o",
     "yt:video:W9dhYF1FX28",
     "yt:video:CpCck1uRB5U",
     "yt:video:yI0ipfhdjIg",
@@ -1978,16 +1987,7 @@
     "yt:video:h8xLOFK0D7I",
     "yt:video:C3t5lsmI-lc",
     "yt:video:pbdDdyRszTI",
-    "yt:video:7e91-U-3gRY",
-    "yt:video:LcHCKzttk1U",
-    "yt:video:DH110zcQ5IA",
-    "yt:video:2zNTG7MrnCw",
-    "yt:video:aSnFdRa68R0",
-    "yt:video:F6ik3za9PCs",
-    "yt:video:2cND21btfOg",
-    "yt:video:SXSp81thj4U",
-    "yt:video:4iMBkt3QrTQ",
-    "yt:video:QyRpJg_Gzm4"
+    "yt:video:7e91-U-3gRY"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:lVwhc8IY_f0",
@@ -2446,6 +2446,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2084170963600445861",
+    "2084170273356722384",
+    "2084172497327665557",
     "2083530830974980507",
     "2083784622668972478",
     "2083528881559257188",
@@ -2492,10 +2495,7 @@
     "2081684314815930595",
     "2081697719635329029",
     "2081699699447488658",
-    "2081561030883463298",
-    "2081524244077548023",
-    "2081346660714868832",
-    "2081004558134943766"
+    "2081561030883463298"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2083850039844053190",
