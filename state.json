@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2130134.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129989.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2130008.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/streamer_watch/2130061.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2129267.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129315.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129329.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129349.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129350.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2129349.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -256,6 +256,9 @@
     "https://telektlist.com/?p=137486"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29216",
+    "https://codezine.jp/article/detail/29217",
+    "https://codezine.jp/article/detail/29219",
     "https://codezine.jp/article/detail/29205",
     "https://codezine.jp/article/detail/29207",
     "https://codezine.jp/article/detail/29206",
@@ -302,10 +305,7 @@
     "https://codezine.jp/article/detail/29167",
     "https://codezine.jp/article/detail/29118",
     "https://codezine.jp/article/detail/29169",
-    "https://codezine.jp/article/detail/29166",
-    "https://codezine.jp/article/detail/29014",
-    "https://codezine.jp/article/detail/29159",
-    "https://codezine.jp/article/detail/29156"
+    "https://codezine.jp/article/detail/29166"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -424,6 +424,7 @@
     "yt:video:DCVaCgvMMtc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:4kocFl6cV6A",
     "yt:video:_LfgmEE7_vY",
     "yt:video:c5xZfAuNs1w",
     "yt:video:UyCASMtco7A",
@@ -472,8 +473,7 @@
     "yt:video:wtNenpVL_AA",
     "yt:video:U0UyVc3-rcU",
     "yt:video:TxUQP87lqIg",
-    "yt:video:GLAEQj3aCtI",
-    "yt:video:TS7aEZwAZFU"
+    "yt:video:GLAEQj3aCtI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:92q-ntSHgLY",
@@ -569,6 +569,7 @@
     "yt:video:pJSmkPiHITw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:Aw4encm4cb8",
     "yt:video:TYONsITlwaA",
     "yt:video:wpK6-i53alY",
     "yt:video:pgVyiZXorTg",
@@ -617,8 +618,7 @@
     "yt:video:BfYWna-hRhE",
     "yt:video:gQvS5McjHoY",
     "yt:video:4MPQMy3Up50",
-    "yt:video:MAAlZsib4mE",
-    "yt:video:xSoFGX9_oYk"
+    "yt:video:MAAlZsib4mE"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=15404",
