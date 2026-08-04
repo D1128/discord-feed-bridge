@@ -1730,6 +1730,16 @@
     "yt:video:Qi0Ba7yYGcc"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260804-apple-icloud-policy-fueled-employee-leaks/",
+    "https://gigazine.net/news/20260804-alibaba-qwen-3-8-max/",
+    "https://gigazine.net/news/20260804-eu-ai-law/",
+    "https://gigazine.net/news/20260804-netflix-lost-nicolas-cage-movie/",
+    "https://gigazine.net/news/20260804-dolphins-sponging-epigenome-differences/",
+    "https://gigazine.net/news/20260804-india-proposes-extending-tax-breaks-apple/",
+    "https://gigazine.net/news/20260804-xbox-disc-to-digital-roadmap-leak/",
+    "https://gigazine.net/news/20260804-cartoon-art-museum-close/",
+    "https://gigazine.net/news/20260804-cloudflare-computer/",
+    "https://gigazine.net/news/20260804-cloudflare-ai-kimi-glm/",
     "https://gigazine.net/news/20260804-gigazine-user-mail-client-input-software/",
     "https://gigazine.net/news/20260804-programming-gigazine-user/",
     "https://gigazine.net/news/20260804-horror-soundtracks-smiles-feel-eerie/",
@@ -1769,19 +1779,10 @@
     "https://gigazine.net/news/20260801-free-fire-daybreak-anime-pv/",
     "https://gigazine.net/news/20260801-soundcore-c50i-eevee/",
     "https://gigazine.net/news/20260801-cancel-fiber-optic-service/",
-    "https://gigazine.net/news/20260801-benq-monitor-light-screenbar/",
-    "https://gigazine.net/news/20260801-sanwa-direct-handy-fan/",
-    "https://gigazine.net/news/20260801-epaper-camera-reframe/",
-    "https://gigazine.net/news/20260801-flow-launcher/",
-    "https://gigazine.net/news/20260801-sony-enough-memory-meet-ps5-sales-targets/",
-    "https://gigazine.net/news/20260801-disaster-initial-response-command-guide/",
-    "https://gigazine.net/news/20260801-barn-owl-color-hunt-differently/",
-    "https://gigazine.net/news/20260731-gcc-ai-policy/",
-    "https://gigazine.net/news/20260731-anthropeum/",
-    "https://gigazine.net/news/20260731-amazon-zoox-us-paid-robotaxis/",
-    "https://gigazine.net/news/20260731-zelensky-trump-starlink-drone-strikes-russia/"
+    "https://gigazine.net/news/20260801-benq-monitor-light-screenbar/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=224009",
     "https://aismiley.co.jp/?post_type=ai_news&p=227317",
     "https://aismiley.co.jp/?post_type=ai_news&p=227347",
     "https://aismiley.co.jp/?post_type=ai_news&p=226751",
@@ -1830,10 +1831,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=225731",
     "https://aismiley.co.jp/?post_type=ai_news&p=224187",
     "https://aismiley.co.jp/?post_type=ai_news&p=225932",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225628",
-    "https://aismiley.co.jp/?post_type=ai_news&p=224931"
+    "https://aismiley.co.jp/?post_type=ai_news&p=225628"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189483",
     "https://win-tab.net/?p=189468",
     "https://win-tab.net/?p=167344",
     "https://win-tab.net/?p=189459",
@@ -1882,8 +1883,7 @@
     "https://win-tab.net/?p=188926",
     "https://win-tab.net/?p=188930",
     "https://win-tab.net/?p=188918",
-    "https://win-tab.net/?p=188910",
-    "https://win-tab.net/?p=188894"
+    "https://win-tab.net/?p=188910"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:UrNXwf2U9oE",
@@ -2198,6 +2198,7 @@
     "yt:video:5CCuIFLJZ7I"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=268532",
     "https://garumax.com/?p=268581",
     "https://garumax.com/?p=268415",
     "https://garumax.com/?p=268534",
@@ -2246,8 +2247,7 @@
     "https://garumax.com/?p=267109",
     "https://garumax.com/?p=267467",
     "https://garumax.com/?p=267447",
-    "https://garumax.com/?p=267115",
-    "https://garumax.com/?p=267457"
+    "https://garumax.com/?p=267115"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com//blog/chatgpt-banner",
@@ -2287,6 +2287,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64449",
+    "https://androplus.jp/?p=64455",
     "https://androplus.jp/?p=64446",
     "https://androplus.jp/?p=64431",
     "https://androplus.jp/?p=64432",
@@ -2334,9 +2336,7 @@
     "https://androplus.jp/?p=64128",
     "https://androplus.jp/?p=64103",
     "https://androplus.jp/?p=63942",
-    "https://androplus.jp/?p=64094",
-    "https://androplus.jp/?p=64078",
-    "https://androplus.jp/?p=64048"
+    "https://androplus.jp/?p=64094"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2446,6 +2446,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2084437000611049943",
     "2084187958455009617",
     "2084127341568287169",
     "2083886035226775591",
@@ -2494,8 +2495,7 @@
     "2082049826385183059",
     "2082040951216980235",
     "2081990139673465326",
-    "2081722282893053988",
-    "2081725147141361861"
+    "2081722282893053988"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2084212931064115451",
