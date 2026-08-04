@@ -1730,6 +1730,10 @@
     "yt:video:Qi0Ba7yYGcc"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260804-ai-test-cg/",
+    "https://gigazine.net/news/20260804-headline/",
+    "https://gigazine.net/news/20260804-apple-uk-backdoor/",
+    "https://gigazine.net/news/20260804-cancer-break-own-dna/",
     "https://gigazine.net/news/20260804-google-ai-agents-load-balancing/",
     "https://gigazine.net/news/20260804-green-cola/",
     "https://gigazine.net/news/20260804-ai-supervised-remote-exam-58000-students-retake/",
@@ -1775,11 +1779,7 @@
     "https://gigazine.net/news/20260803-ai-top-startups-barely-publishing-research/",
     "https://gigazine.net/news/20260803-operation-sandblast/",
     "https://gigazine.net/news/20260803-saffron-stays-expensive/",
-    "https://gigazine.net/news/20260802-dayglance/",
-    "https://gigazine.net/news/20260802-trinket/",
-    "https://gigazine.net/news/20260802-openderm-robotic-3d-skin-imaging/",
-    "https://gigazine.net/news/20260802-sun-star-nocfree-metal/",
-    "https://gigazine.net/news/20260802-adhd-better-diets-sharper-focus/"
+    "https://gigazine.net/news/20260802-dayglance/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=217204",
@@ -2042,6 +2042,7 @@
     "yt:video:0ByM3y60vdI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
+    "yt:video:HxfDOC3Fu2I",
     "yt:video:uNNzNHYqLvo",
     "yt:video:Je8InJGh4VA",
     "yt:video:JKendOTn70Y",
@@ -2090,8 +2091,7 @@
     "yt:video:ebLkLxhcTsY",
     "yt:video:H9sc_WhnfYw",
     "yt:video:OigZYobWJfw",
-    "yt:video:ZP140lExv6k",
-    "yt:video:zwO5ypG1Pac"
+    "yt:video:ZP140lExv6k"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
     "yt:video:y6NHb_z6nVY",
@@ -2146,6 +2146,7 @@
     "yt:video:OmfWgg5MRok"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:eU4sWAr78CE",
     "yt:video:echFvKbKWsk",
     "yt:video:sDrKkKlJFCk",
     "yt:video:HS-4Hb7tClY",
@@ -2194,8 +2195,7 @@
     "yt:video:w0yrRW3BkpI",
     "yt:video:Awpo4W4SuGg",
     "yt:video:xBeCUFPrvuQ",
-    "yt:video:3n2vvpXXkTE",
-    "yt:video:5CCuIFLJZ7I"
+    "yt:video:3n2vvpXXkTE"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=267640",
@@ -2446,6 +2446,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2084540298974429422",
+    "2084518177736945881",
+    "2084296498314121495",
+    "2084597213288964385",
     "2084573420403195961",
     "2084437000611049943",
     "2084187958455009617",
@@ -2491,13 +2495,10 @@
     "2082405786727178549",
     "2082356889485262945",
     "2082281261616472289",
-    "2082296000052613602",
-    "2082040174603866195",
-    "2082049826385183059",
-    "2082040951216980235",
-    "2081990139673465326"
+    "2082296000052613602"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2084578087036149830",
     "2084212931064115451",
     "2083850039844053190",
     "2083486645576245292",
@@ -2546,8 +2547,7 @@
     "2067745170985287830",
     "2067569010086944904",
     "2067382028245647564",
-    "2067206873875365936",
-    "2067021653222338709"
+    "2067206873875365936"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2084557453098663946",
