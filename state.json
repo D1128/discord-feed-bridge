@@ -1730,6 +1730,9 @@
     "yt:video:Qi0Ba7yYGcc"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260805-chat-exe/",
+    "https://gigazine.net/news/20260805-koikeya-vivant-potato-chips/",
+    "https://gigazine.net/news/20260805-apple-openai/",
     "https://gigazine.net/news/20260805-simple-routine-slow-cognitive-decline/",
     "https://gigazine.net/news/20260805-aisi-unsanctioned-agent-behaviour/",
     "https://gigazine.net/news/20260805-mistral-shieldstral/",
@@ -1776,12 +1779,15 @@
     "https://gigazine.net/news/20260803-collatz-lean-kernel-bug/",
     "https://gigazine.net/news/20260803-elevator-simulation/",
     "https://gigazine.net/news/20260803-solo-business-10-million-revenue/",
-    "https://gigazine.net/news/20260803-farm-effect-asthma-allergies-protection-bacteria/",
-    "https://gigazine.net/news/20260803-operation-offsides-domain/",
-    "https://gigazine.net/news/20260803-thermo-fisher-dna/",
-    "https://gigazine.net/news/20260803-the-butter-caramel/"
+    "https://gigazine.net/news/20260803-farm-effect-asthma-allergies-protection-bacteria/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=227827",
+    "https://aismiley.co.jp/?post_type=ai_news&p=227491",
+    "https://aismiley.co.jp/?post_type=ai_news&p=228162",
+    "https://aismiley.co.jp/?post_type=ai_news&p=228146",
+    "https://aismiley.co.jp/?post_type=ai_news&p=228093",
+    "https://aismiley.co.jp/?post_type=ai_news&p=227346",
     "https://aismiley.co.jp/?post_type=ai_news&p=225077",
     "https://aismiley.co.jp/?post_type=ai_news&p=224871",
     "https://aismiley.co.jp/?post_type=ai_news&p=228069",
@@ -1825,13 +1831,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=225326",
     "https://aismiley.co.jp/?post_type=ai_news&p=226288",
     "https://aismiley.co.jp/?post_type=ai_news&p=226091",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226199",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226606",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226183",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225774",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226615",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226648",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226237"
+    "https://aismiley.co.jp/?post_type=ai_news&p=226199"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189520",
@@ -1938,6 +1938,7 @@
     "yt:video:Bdg9Xx3wccQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:RQkLxcM0qNU",
     "yt:video:rZlVNE4qOiQ",
     "yt:video:gssVu6ooq5I",
     "yt:video:pfyg__qm-4c",
@@ -1986,8 +1987,7 @@
     "yt:video:rbXW-RodoaM",
     "yt:video:y2mFnrBF3vM",
     "yt:video:bwac9YPO6ag",
-    "yt:video:HBgQSW9tH6Y",
-    "yt:video:DLvoow97uj8"
+    "yt:video:HBgQSW9tH6Y"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:lVwhc8IY_f0",
@@ -2198,6 +2198,7 @@
     "yt:video:3n2vvpXXkTE"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=268662",
     "https://garumax.com/?p=267816",
     "https://garumax.com/?p=267640",
     "https://garumax.com/?p=268532",
@@ -2246,8 +2247,7 @@
     "https://garumax.com/?p=267507",
     "https://garumax.com/?p=267493",
     "https://garumax.com/?p=267246",
-    "https://garumax.com/?p=267109",
-    "https://garumax.com/?p=267467"
+    "https://garumax.com/?p=267109"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com/blog/wcb-book-design-korean",
@@ -2456,6 +2456,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2084927398693437882",
     "2084540298974429422",
     "2084518177736945881",
     "2084296498314121495",
@@ -2504,10 +2505,10 @@
     "2082082821544530276",
     "2082405786727178549",
     "2082356889485262945",
-    "2082281261616472289",
-    "2082296000052613602"
+    "2082281261616472289"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2084928396098707556",
     "2084578087036149830",
     "2084212931064115451",
     "2083850039844053190",
@@ -2556,8 +2557,7 @@
     "2068144048934641951",
     "2067745170985287830",
     "2067569010086944904",
-    "2067382028245647564",
-    "2067206873875365936"
+    "2067382028245647564"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2084919840075120721",
