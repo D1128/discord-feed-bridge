@@ -1730,6 +1730,10 @@
     "yt:video:Qi0Ba7yYGcc"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260805-8-myths-software-engineering-gen-ai/",
+    "https://gigazine.net/news/20260805-headline/",
+    "https://gigazine.net/news/20260805-us-ban-chinese-made-dc-module/",
+    "https://gigazine.net/news/20260805-pass-the-passkey/",
     "https://gigazine.net/news/20260805-chat-exe/",
     "https://gigazine.net/news/20260805-koikeya-vivant-potato-chips/",
     "https://gigazine.net/news/20260805-apple-openai/",
@@ -1775,11 +1779,7 @@
     "https://gigazine.net/news/20260804-gigazine-user-mail-client-input-software/",
     "https://gigazine.net/news/20260804-programming-gigazine-user/",
     "https://gigazine.net/news/20260804-horror-soundtracks-smiles-feel-eerie/",
-    "https://gigazine.net/news/20260804-election-system/",
-    "https://gigazine.net/news/20260803-collatz-lean-kernel-bug/",
-    "https://gigazine.net/news/20260803-elevator-simulation/",
-    "https://gigazine.net/news/20260803-solo-business-10-million-revenue/",
-    "https://gigazine.net/news/20260803-farm-effect-asthma-allergies-protection-bacteria/"
+    "https://gigazine.net/news/20260804-election-system/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=227827",
@@ -1834,6 +1834,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=226199"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189527",
     "https://win-tab.net/?p=189520",
     "https://win-tab.net/?p=189493",
     "https://win-tab.net/?p=189483",
@@ -1882,8 +1883,7 @@
     "https://win-tab.net/?p=189015",
     "https://win-tab.net/?p=188994",
     "https://win-tab.net/?p=188974",
-    "https://win-tab.net/?p=188926",
-    "https://win-tab.net/?p=188930"
+    "https://win-tab.net/?p=188926"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:UrNXwf2U9oE",
@@ -1990,6 +1990,7 @@
     "yt:video:HBgQSW9tH6Y"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
+    "yt:video:CiUaXKuJTX0",
     "yt:video:lVwhc8IY_f0",
     "yt:video:VYnbTbBWrd4",
     "yt:video:PcvrnSKw63A",
@@ -2038,8 +2039,7 @@
     "yt:video:B-mlNzErHS8",
     "yt:video:HIxlyhRGR_c",
     "yt:video:4siqAzbOx0E",
-    "yt:video:9zRbYoJxNVU",
-    "yt:video:0ByM3y60vdI"
+    "yt:video:9zRbYoJxNVU"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC4ZIJCbH0InZipbtfZ0EbEA": [
     "yt:video:HxfDOC3Fu2I",
@@ -2146,6 +2146,7 @@
     "yt:video:OmfWgg5MRok"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:LmSMX3NZxko",
     "yt:video:eU4sWAr78CE",
     "yt:video:echFvKbKWsk",
     "yt:video:sDrKkKlJFCk",
@@ -2194,8 +2195,7 @@
     "yt:video:Q3rkXkgfFcA",
     "yt:video:w0yrRW3BkpI",
     "yt:video:Awpo4W4SuGg",
-    "yt:video:xBeCUFPrvuQ",
-    "yt:video:3n2vvpXXkTE"
+    "yt:video:xBeCUFPrvuQ"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=268662",
@@ -2297,6 +2297,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64448",
     "https://androplus.jp/?p=64502",
     "https://androplus.jp/?p=64449",
     "https://androplus.jp/?p=64455",
@@ -2345,8 +2346,7 @@
     "https://androplus.jp/?p=64153",
     "https://androplus.jp/?p=64121",
     "https://androplus.jp/?p=64128",
-    "https://androplus.jp/?p=64103",
-    "https://androplus.jp/?p=63942"
+    "https://androplus.jp/?p=64103"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
@@ -2456,6 +2456,12 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2084775422701777315",
+    "2084815827506012525",
+    "2084953735504208302",
+    "2084953612124581953",
+    "2084954604425638283",
+    "2084954449253220394",
     "2084927398693437882",
     "2084540298974429422",
     "2084518177736945881",
@@ -2499,13 +2505,7 @@
     "2082740268701508091",
     "2081854641562661088",
     "2081011612174180591",
-    "2082237741094609014",
-    "2082209667795898721",
-    "2082161854567342504",
-    "2082082821544530276",
-    "2082405786727178549",
-    "2082356889485262945",
-    "2082281261616472289"
+    "2082237741094609014"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2084928396098707556",
