@@ -1730,6 +1730,9 @@
     "yt:video:Qi0Ba7yYGcc"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260805-hughesnet-bankruptcy-starlink/",
+    "https://gigazine.net/news/20260805-inclusive-color-space/",
+    "https://gigazine.net/news/20260805-ai-fuels-half-cybercrime-africa-interpol/",
     "https://gigazine.net/news/20260805-8-myths-software-engineering-gen-ai/",
     "https://gigazine.net/news/20260805-headline/",
     "https://gigazine.net/news/20260805-us-ban-chinese-made-dc-module/",
@@ -1776,10 +1779,7 @@
     "https://gigazine.net/news/20260804-cartoon-art-museum-close/",
     "https://gigazine.net/news/20260804-cloudflare-computer/",
     "https://gigazine.net/news/20260804-cloudflare-ai-kimi-glm/",
-    "https://gigazine.net/news/20260804-gigazine-user-mail-client-input-software/",
-    "https://gigazine.net/news/20260804-programming-gigazine-user/",
-    "https://gigazine.net/news/20260804-horror-soundtracks-smiles-feel-eerie/",
-    "https://gigazine.net/news/20260804-election-system/"
+    "https://gigazine.net/news/20260804-gigazine-user-mail-client-input-software/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=227827",
@@ -2456,6 +2456,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2084962185202315648",
+    "2084960688196534296",
     "2084775422701777315",
     "2084815827506012525",
     "2084953735504208302",
@@ -2503,9 +2505,7 @@
     "2082790021262704752",
     "2082761889243652570",
     "2082740268701508091",
-    "2081854641562661088",
-    "2081011612174180591",
-    "2082237741094609014"
+    "2081854641562661088"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2084928396098707556",
