@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/semicon/2130938.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2130904.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2130846.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2130797.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2130757.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129895.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129905.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129907.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129911.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129926.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129964.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129911.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/quickprint-gpt/",
