@@ -1,5 +1,15 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130613.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/special/2130203.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2130545.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2130623.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130647.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2130639.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130666.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130677.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2130673.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2130685.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130599.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2130575.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2130486.html?ref=rss",
@@ -39,17 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129888.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2129853.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/feature/2129359.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129839.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129836.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129837.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2129812.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2129813.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129810.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129807.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129786.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129680.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129702.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129616.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2129839.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -256,6 +256,9 @@
     "https://telektlist.com/?p=137486"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29233",
+    "https://codezine.jp/article/detail/29236",
+    "https://codezine.jp/article/detail/29235",
     "https://codezine.jp/article/detail/29232",
     "https://codezine.jp/article/detail/29084",
     "https://codezine.jp/article/detail/29231",
@@ -302,10 +305,7 @@
     "https://codezine.jp/article/detail/29190",
     "https://codezine.jp/article/detail/29175",
     "https://codezine.jp/article/detail/29144",
-    "https://codezine.jp/article/detail/24695",
-    "https://codezine.jp/article/detail/29170",
-    "https://codezine.jp/article/detail/29164",
-    "https://codezine.jp/article/detail/29188"
+    "https://codezine.jp/article/detail/24695"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
@@ -2816,6 +2816,13 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2084844896649982360",
+    "2084844957496758655",
+    "2084845082159775802",
+    "2084845123658211500",
+    "2084845342076665934",
+    "2084845402386546703",
+    "2084845298472587626",
     "2084775517962780770",
     "2084775672359338109",
     "2084775777284014491",
@@ -2858,14 +2865,7 @@
     "2084117709424635970",
     "2084118060764700682",
     "2084118117819850770",
-    "2084118027231207683",
-    "2084043176713871497",
-    "2083862738284204346",
-    "2083862718327804159",
-    "2083862898187854282",
-    "2083862947030552692",
-    "2083862878575362086",
-    "2083863051238068718"
+    "2084118027231207683"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2084376701539405904",
