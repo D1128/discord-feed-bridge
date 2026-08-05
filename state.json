@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2130951.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/semicon/2130938.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2130904.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2130846.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/column/hothot/2129879.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129895.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129905.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129907.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129911.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2129907.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/quickprint-gpt/",
@@ -2817,6 +2817,14 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2085132510426718320",
+    "2085132569163772410",
+    "2085132829520974258",
+    "2085132784834875702",
+    "2085132897414254711",
+    "2085133063823221236",
+    "2085133105795584174",
+    "2085133023058735256",
     "2084926284065538086",
     "2084926398242976121",
     "2084926477330755902",
@@ -2858,15 +2866,7 @@
     "2084420153689956644",
     "2084409165414576260",
     "2084409145265172718",
-    "2084409248059138078",
-    "2084409380993368090",
-    "2084409649294725133",
-    "2084278405563113548",
-    "2084278383958265941",
-    "2084278515642642618",
-    "2084278545363390580",
-    "2084278493077246163",
-    "2084117249141698808"
+    "2084409248059138078"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2072829167285207077",
