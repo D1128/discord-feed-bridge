@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2130846.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/yajiuma/2130797.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2130757.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2130701.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2129907.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129911.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2129926.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2129964.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2129882.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2129964.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/caveman-mode/",
@@ -320,6 +320,7 @@
     "https://magazine.techacademy.jp/magazine/?p=87264"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA": [
+    "yt:video:xuFgueSH1R8",
     "yt:video:OwnfnaTEEBY",
     "yt:video:KPqDb8TYzP0",
     "yt:video:9Dx1VL8t9mI",
@@ -368,8 +369,7 @@
     "yt:video:IdEwbj6oQO0",
     "yt:video:izaVG80sq7o",
     "yt:video:LxaNS5ksVjc",
-    "yt:video:nIRvS4jmHDI",
-    "yt:video:qDnnEzpZi5Q"
+    "yt:video:nIRvS4jmHDI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
     "yt:video:Q8U0D-WD5HU",
@@ -424,6 +424,7 @@
     "yt:video:DCVaCgvMMtc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:qRFQiuBFfkQ",
     "yt:video:ewZktmENd_o",
     "yt:video:jmY9bXEQSyM",
     "yt:video:4kocFl6cV6A",
@@ -472,8 +473,7 @@
     "yt:video:SuYdU_0vDYo",
     "yt:video:6qAmbas0vHo",
     "yt:video:9rBEf7aWH_w",
-    "yt:video:wtNenpVL_AA",
-    "yt:video:U0UyVc3-rcU"
+    "yt:video:wtNenpVL_AA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:92q-ntSHgLY",
