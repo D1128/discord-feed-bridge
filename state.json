@@ -1136,6 +1136,10 @@
     "yt:video:OLyTq5bzrTE"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/article/2608/05/2000000396/",
+    "https://www.itmedia.co.jp/pcuser/articles/2608/05/news086.html",
+    "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000397/",
+    "https://www.itmedia.co.jp/news/article/2608/05/2000000400/",
     "https://www.itmedia.co.jp/pcuser/articles/2608/05/news074.html",
     "https://www.itmedia.co.jp/aiplus/article/2608/05/2000000393/",
     "https://www.itmedia.co.jp/mobile/articles/2608/05/news079.html",
@@ -1181,14 +1185,12 @@
     "https://www.itmedia.co.jp/news/article/2608/03/2000000357/",
     "https://www.itmedia.co.jp/pcuser/articles/2608/03/news083.html",
     "https://www.itmedia.co.jp/news/article/2608/03/2000000359/",
-    "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000350/",
-    "https://www.itmedia.co.jp/pcuser/articles/2608/03/news063.html",
-    "https://www.itmedia.co.jp/mobile/articles/2608/03/news067.html",
-    "https://www.itmedia.co.jp/business/articles/2608/03/news050.html",
-    "https://www.itmedia.co.jp/business/articles/2608/03/news030.html"
+    "https://www.itmedia.co.jp/aiplus/article/2608/03/2000000350/"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
+    "https://smhn.info/?p=290250",
+    "https://smhn.info/?p=290242",
     "https://smhn.info/?p=290188",
     "https://smhn.info/?p=290223",
     "https://smhn.info/?p=290217",
@@ -1236,11 +1238,12 @@
     "https://smhn.info/?p=289524",
     "https://smhn.info/?p=289502",
     "https://smhn.info/?p=289495",
-    "https://smhn.info/?p=289462",
-    "https://smhn.info/?p=289476",
-    "https://smhn.info/?p=289409"
+    "https://smhn.info/?p=289462"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=118483",
+    "https://daily-gadget.net/?p=118484",
+    "https://daily-gadget.net/?p=118493",
     "https://daily-gadget.net/?p=118473",
     "https://daily-gadget.net/?p=118476",
     "https://daily-gadget.net/?p=118465",
@@ -1287,12 +1290,16 @@
     "https://daily-gadget.net/?p=118204",
     "https://daily-gadget.net/?p=118208",
     "https://daily-gadget.net/?p=118191",
-    "https://daily-gadget.net/?p=118196",
-    "https://daily-gadget.net/?p=118199",
-    "https://daily-gadget.net/?p=118185",
-    "https://daily-gadget.net/?p=118171"
+    "https://daily-gadget.net/?p=118196"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=67064",
+    "https://sumahodigest.com/?p=67068",
+    "https://sumahodigest.com/?p=67072",
+    "https://sumahodigest.com/?p=67076",
+    "https://sumahodigest.com/?p=67080",
+    "https://sumahodigest.com/?p=67084",
+    "https://sumahodigest.com/?p=62468",
     "https://sumahodigest.com/?p=67029",
     "https://sumahodigest.com/?p=67043",
     "https://sumahodigest.com/?p=67048",
@@ -1335,14 +1342,7 @@
     "https://sumahodigest.com/?p=66818",
     "https://sumahodigest.com/?p=66821",
     "https://sumahodigest.com/?p=66825",
-    "https://sumahodigest.com/?p=66829",
-    "https://sumahodigest.com/?p=66836",
-    "https://sumahodigest.com/?p=66794",
-    "https://sumahodigest.com/?p=66798",
-    "https://sumahodigest.com/?p=66804",
-    "https://sumahodigest.com/?p=66810",
-    "https://sumahodigest.com/?p=66787",
-    "https://sumahodigest.com/?p=66777"
+    "https://sumahodigest.com/?p=66829"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/14945776032061117315",
@@ -2746,6 +2746,9 @@
     "2077660900509790411"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2084927564095897923",
+    "2084927551466868890",
+    "2084927516402483551",
     "2084855493831557397",
     "2084849491337949315",
     "2084799050935886159",
@@ -2792,10 +2795,7 @@
     "2083784248700567693",
     "2083508559330136332",
     "2083508543765069870",
-    "2083508528036336024",
-    "2083504274416587142",
-    "2083504262479560838",
-    "2083458313329787317"
+    "2083508528036336024"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
