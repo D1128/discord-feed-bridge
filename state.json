@@ -1731,6 +1731,10 @@
     "yt:video:Qi0Ba7yYGcc"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260806-atlassian-rovo/",
+    "https://gigazine.net/news/20260806-reverse-flynn-effect/",
+    "https://gigazine.net/news/20260806-nikita-bier-leaves-leading-product-for-x/",
+    "https://gigazine.net/news/20260806-starbucks-coffee-of-the-day-moca/",
     "https://gigazine.net/news/20260806-esa-pdf-iptv/",
     "https://gigazine.net/news/20260806-oregon-senator-requested-cftc-rein-prediction-market/",
     "https://gigazine.net/news/20260806-life-arose-non-living-matter-twice/",
@@ -1776,13 +1780,14 @@
     "https://gigazine.net/news/20260804-microplastics-placental-barrier-hormone-production/",
     "https://gigazine.net/news/20260804-ai-test-cg/",
     "https://gigazine.net/news/20260804-headline/",
-    "https://gigazine.net/news/20260804-apple-uk-backdoor/",
-    "https://gigazine.net/news/20260804-cancer-break-own-dna/",
-    "https://gigazine.net/news/20260804-google-ai-agents-load-balancing/",
-    "https://gigazine.net/news/20260804-green-cola/",
-    "https://gigazine.net/news/20260804-ai-supervised-remote-exam-58000-students-retake/"
+    "https://gigazine.net/news/20260804-apple-uk-backdoor/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=224892",
+    "https://aismiley.co.jp/?post_type=ai_news&p=225097",
+    "https://aismiley.co.jp/?post_type=ai_news&p=227409",
+    "https://aismiley.co.jp/?post_type=ai_news&p=227093",
+    "https://aismiley.co.jp/?post_type=ai_news&p=227949",
     "https://aismiley.co.jp/?post_type=ai_news&p=228176",
     "https://aismiley.co.jp/?post_type=ai_news&p=227827",
     "https://aismiley.co.jp/?post_type=ai_news&p=227491",
@@ -1827,12 +1832,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=225897",
     "https://aismiley.co.jp/?post_type=ai_news&p=224693",
     "https://aismiley.co.jp/?post_type=ai_news&p=225815",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226528",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225850",
-    "https://aismiley.co.jp/?post_type=ai_news&p=224867",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225326",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226288",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226091"
+    "https://aismiley.co.jp/?post_type=ai_news&p=226528"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189536",
@@ -1939,6 +1939,7 @@
     "yt:video:Bdg9Xx3wccQ"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:NooF9Bm30PI",
     "yt:video:RQkLxcM0qNU",
     "yt:video:rZlVNE4qOiQ",
     "yt:video:gssVu6ooq5I",
@@ -1987,8 +1988,7 @@
     "yt:video:6O3zjugzPZI",
     "yt:video:rbXW-RodoaM",
     "yt:video:y2mFnrBF3vM",
-    "yt:video:bwac9YPO6ag",
-    "yt:video:HBgQSW9tH6Y"
+    "yt:video:bwac9YPO6ag"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:CiUaXKuJTX0",
@@ -2199,6 +2199,7 @@
     "yt:video:xBeCUFPrvuQ"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=268705",
     "https://garumax.com/?p=268599",
     "https://garumax.com/?p=268662",
     "https://garumax.com/?p=267816",
@@ -2247,8 +2248,7 @@
     "https://garumax.com/?p=267488",
     "https://garumax.com/?p=267533",
     "https://garumax.com/?p=267507",
-    "https://garumax.com/?p=267493",
-    "https://garumax.com/?p=267246"
+    "https://garumax.com/?p=267493"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com/blog/wcb-book-design-korean",
@@ -2457,6 +2457,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2085269184808943971",
     "2084962185202315648",
     "2084960688196534296",
     "2084775422701777315",
@@ -2505,8 +2506,7 @@
     "2082881332246659272",
     "2082790021262704752",
     "2082761889243652570",
-    "2082740268701508091",
-    "2081854641562661088"
+    "2082740268701508091"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2084928396098707556",
