@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2131347.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2131335.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2131258.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2131288.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2130427.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130254.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2129941.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2130228.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/yajiuma/2130270.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2130228.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/quickprint-gpt/",
@@ -101,6 +101,7 @@
     "https://www.gigafree.net/media/transcription/Handy.html"
   ],
   "https://ainow.ai/feed/": [
+    "https://ainow.ai/?p=278302",
     "https://ainow.ai/?p=278298",
     "https://ainow.ai/?p=278294",
     "https://ainow.ai/?p=278291",
@@ -149,8 +150,7 @@
     "https://ainow.ai/?p=278125",
     "https://ainow.ai/?p=278130",
     "https://ainow.ai/?p=278121",
-    "https://ainow.ai/?p=278118",
-    "https://ainow.ai/?p=278115"
+    "https://ainow.ai/?p=278118"
   ],
   "https://butsuyoku-gadget.com/feed/": [
     "https://butsuyoku-gadget.com/?p=94008",
