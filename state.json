@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2131747.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2131748.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2131723.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2131610.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2131574.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2130738.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130613.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/special/2130203.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2130545.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2130623.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2130647.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2130545.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/ai/quickprint-gpt/",
@@ -2820,6 +2820,11 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2085856642932125870",
+    "2085857085955453040",
+    "2085857170340692409",
+    "2085857350678946193",
+    "2085857306525462659",
     "2085727528392802551",
     "2085727589914853616",
     "2085727824384761885",
@@ -2864,12 +2869,7 @@
     "2085206511052369955",
     "2085206486272360668",
     "2085206619378569692",
-    "2085206647610515474",
-    "2085206599896109237",
-    "2085132510426718320",
-    "2085132569163772410",
-    "2085132829520974258",
-    "2085132784834875702"
+    "2085206647610515474"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2072829167285207077",
