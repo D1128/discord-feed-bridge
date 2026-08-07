@@ -1731,6 +1731,7 @@
     "yt:video:Qi0Ba7yYGcc"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260807-tontou-spectre-v2/",
     "https://gigazine.net/news/20260807-yoshinoya-beef-teppan-steak/",
     "https://gigazine.net/news/20260807-deepseek-raise-prices/",
     "https://gigazine.net/news/20260807-openai-hugging-face-explain/",
@@ -1779,8 +1780,7 @@
     "https://gigazine.net/news/20260806-soup-fine-tune-llm/",
     "https://gigazine.net/news/20260806-high-low-testosterone-depression/",
     "https://gigazine.net/news/20260806-mow-a-lawn-better/",
-    "https://gigazine.net/news/20260805-maple-preview/",
-    "https://gigazine.net/news/20260805-hughesnet-bankruptcy-starlink/"
+    "https://gigazine.net/news/20260805-maple-preview/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=227453",
@@ -1939,6 +1939,8 @@
     "yt:video:YiAeCTkIjVA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:IUl6t7UJOV8",
+    "yt:video:SgZb8hKog1A",
     "yt:video:NooF9Bm30PI",
     "yt:video:RQkLxcM0qNU",
     "yt:video:rZlVNE4qOiQ",
@@ -1986,9 +1988,7 @@
     "yt:video:OONNF36I3MA",
     "yt:video:c9ROH4vVpvg",
     "yt:video:6O3zjugzPZI",
-    "yt:video:rbXW-RodoaM",
-    "yt:video:y2mFnrBF3vM",
-    "yt:video:bwac9YPO6ag"
+    "yt:video:rbXW-RodoaM"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:CiUaXKuJTX0",
@@ -2199,6 +2199,7 @@
     "yt:video:w0yrRW3BkpI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=268820",
     "https://garumax.com/?p=268789",
     "https://garumax.com/?p=268802",
     "https://garumax.com/?p=268742",
@@ -2247,8 +2248,7 @@
     "https://garumax.com/?p=267578",
     "https://garumax.com/?p=267374",
     "https://garumax.com/?p=267341",
-    "https://garumax.com/?p=267561",
-    "https://garumax.com/?p=267488"
+    "https://garumax.com/?p=267561"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com/blog/pubvoice",
@@ -2510,6 +2510,7 @@
     "2083328264559530180"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2085653171624608035",
     "2085292041492160603",
     "2084928396098707556",
     "2084578087036149830",
@@ -2558,8 +2559,7 @@
     "2068827804544995788",
     "2068528331096559951",
     "2068144048934641951",
-    "2067745170985287830",
-    "2067569010086944904"
+    "2067745170985287830"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2085644617022832945",
