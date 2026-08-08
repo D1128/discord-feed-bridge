@@ -321,6 +321,7 @@
     "https://magazine.techacademy.jp/magazine/?p=87264"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCcdd3kS52T9Zyo-SWfj86bA": [
+    "yt:video:mrPf9YpKnL8",
     "yt:video:xuFgueSH1R8",
     "yt:video:OwnfnaTEEBY",
     "yt:video:KPqDb8TYzP0",
@@ -369,8 +370,7 @@
     "yt:video:6KGGGWFnfH4",
     "yt:video:IdEwbj6oQO0",
     "yt:video:izaVG80sq7o",
-    "yt:video:LxaNS5ksVjc",
-    "yt:video:nIRvS4jmHDI"
+    "yt:video:LxaNS5ksVjc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCJsEBx7hV04Q02Yz9iAgXuQ": [
     "yt:video:Q8U0D-WD5HU",
@@ -2820,6 +2820,15 @@
   ],
   "https://nitter.net/search/rss?f=tweets&q=Pixel10Pro%20lang%3Aja": [],
   "https://nitter.net/AIMIRAI46487/rss": [
+    "2086044761803432284",
+    "2086044739233849479",
+    "2086044881173250532",
+    "2086044847191060891",
+    "2086045287425208630",
+    "2086045262188105903",
+    "2086045671426228295",
+    "2086045710911447325",
+    "2086045525019902041",
     "2085931805543374849",
     "2085932010577764819",
     "2085931979061752304",
@@ -2860,16 +2869,7 @@
     "2085500269597716805",
     "2085500241462399309",
     "2085513332724015476",
-    "2085500150882160760",
-    "2085346425391788491",
-    "2085346394383208732",
-    "2085346576881561608",
-    "2085346549031452698",
-    "2085289676613861814",
-    "2085289888610689419",
-    "2085289922471362734",
-    "2085289855479926947",
-    "2085290098783060171"
+    "2085500150882160760"
   ],
   "https://nitter.net/chatgpt_ai_bard/rss": [
     "2072829167285207077",
