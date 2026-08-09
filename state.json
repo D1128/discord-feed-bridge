@@ -1137,6 +1137,7 @@
     "yt:video:neYOOLOXYDw"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/business/articles/2608/10/news028.html",
     "https://www.itmedia.co.jp/news/article/2608/10/2000000467/",
     "https://www.itmedia.co.jp/business/articles/2608/10/news013.html",
     "https://www.itmedia.co.jp/business/articles/2608/10/news009.html",
@@ -1185,8 +1186,7 @@
     "https://www.itmedia.co.jp/business/articles/2608/06/news038.html",
     "https://www.itmedia.co.jp/mobile/articles/2608/06/news044.html",
     "https://www.itmedia.co.jp/business/articles/2608/06/news010.html",
-    "https://www.itmedia.co.jp/business/articles/2608/06/news026.html",
-    "https://monoist.itmedia.co.jp/mn/articles/2608/06/news005.html"
+    "https://www.itmedia.co.jp/business/articles/2608/06/news026.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1242,6 +1242,7 @@
     "https://smhn.info/?p=289244"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=118694",
     "https://daily-gadget.net/?p=118689",
     "https://daily-gadget.net/?p=118683",
     "https://daily-gadget.net/?p=118678",
@@ -1290,8 +1291,7 @@
     "https://daily-gadget.net/?p=118446",
     "https://daily-gadget.net/?p=118422",
     "https://daily-gadget.net/?p=118426",
-    "https://daily-gadget.net/?p=118431",
-    "https://daily-gadget.net/?p=118417"
+    "https://daily-gadget.net/?p=118431"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=67319",
@@ -2750,6 +2750,8 @@
     "2078308677979893916"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2086584599120069034",
+    "2086584587095056835",
     "2086569962160750841",
     "2086461359869559195",
     "2086440302752264225",
@@ -2797,9 +2799,7 @@
     "2085655718309601395",
     "2085655706347487275",
     "2085523907126477284",
-    "2085523891469115585",
-    "2085523827849830533",
-    "2085557899896742103"
+    "2085523891469115585"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
