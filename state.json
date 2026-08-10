@@ -1731,6 +1731,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260810-gigazine-user-game/",
     "https://gigazine.net/news/20260810-chip-tycoon/",
     "https://gigazine.net/news/20260810-birth-order-disease-risk/",
     "https://gigazine.net/news/20260809-over19-wf2026s/",
@@ -1779,8 +1780,7 @@
     "https://gigazine.net/news/20260807-france-bans-spam-call/",
     "https://gigazine.net/news/20260807-google-gemma-translator/",
     "https://gigazine.net/news/20260807-chatgpt-default-luna/",
-    "https://gigazine.net/news/20260807-gta6-extended-trailer-netflix-paywall/",
-    "https://gigazine.net/news/20260807-amd-acquire-taalas/"
+    "https://gigazine.net/news/20260807-gta6-extended-trailer-netflix-paywall/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=227453",
@@ -2459,6 +2459,12 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2086380568040910955",
+    "2086088547493359971",
+    "2086097016577491305",
+    "2086099453996613690",
+    "2086209135042023842",
+    "2086215954770645203",
     "2086101270864236655",
     "2086028552198320157",
     "2086013896071287213",
@@ -2502,13 +2508,7 @@
     "2083331948098044304",
     "2084208813494993176",
     "2084210231870132584",
-    "2084208764664570182",
-    "2084214856518189333",
-    "2084204795624095848",
-    "2084170963600445861",
-    "2084170273356722384",
-    "2084172497327665557",
-    "2083530830974980507"
+    "2084208764664570182"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2086379456956948948",
