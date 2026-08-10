@@ -1731,6 +1731,8 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260810-burgerking-dirty-the-one-pounder/",
+    "https://gigazine.net/news/20260810-headline/",
     "https://gigazine.net/news/20260810-wildberries-bombard/",
     "https://gigazine.net/news/20260810-ai-religion-spiralism/",
     "https://gigazine.net/news/20260810-apple-tests-cxmt/",
@@ -1778,9 +1780,7 @@
     "https://gigazine.net/news/20260807-desktop-mate-widgets-calc/",
     "https://gigazine.net/news/20260807-unprecedented-images-sun-explain-mysteries/",
     "https://gigazine.net/news/20260807-headline/",
-    "https://gigazine.net/news/20260807-surround-audio-system/",
-    "https://gigazine.net/news/20260807-phone-detecting-run-as-snatching/",
-    "https://gigazine.net/news/20260807-tontou-spectre-v2/"
+    "https://gigazine.net/news/20260807-surround-audio-system/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=227453",
@@ -1939,6 +1939,7 @@
     "yt:video:JJ52DxpMDd4"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:3DTaXcbOfeU",
     "yt:video:WHk16fvUcUw",
     "yt:video:Mav4yhZZ2Fo",
     "yt:video:IUl6t7UJOV8",
@@ -1987,8 +1988,7 @@
     "yt:video:7kM4EFmOdyM",
     "yt:video:mIQkLA2xNFM",
     "yt:video:dC12NiU8Gi0",
-    "yt:video:OONNF36I3MA",
-    "yt:video:c9ROH4vVpvg"
+    "yt:video:OONNF36I3MA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:CiUaXKuJTX0",
@@ -2459,6 +2459,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2086750653054095565",
     "2086380568040910955",
     "2086088547493359971",
     "2086097016577491305",
@@ -2507,10 +2508,10 @@
     "2084060865456947232",
     "2083331948098044304",
     "2084208813494993176",
-    "2084210231870132584",
-    "2084208764664570182"
+    "2084210231870132584"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2086742851384234014",
     "2086379456956948948",
     "2086016314112373060",
     "2085653171624608035",
@@ -2559,8 +2560,7 @@
     "2069912451538194833",
     "2069549812077482366",
     "2069192960776745159",
-    "2068827804544995788",
-    "2068528331096559951"
+    "2068827804544995788"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2086691051654504529",
