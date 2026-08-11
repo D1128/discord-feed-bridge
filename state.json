@@ -1731,6 +1731,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260811-1panel/",
     "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
     "https://gigazine.net/news/20260811-meta-muse-glimmer/",
     "https://gigazine.net/news/20260811-ebook-summer-sale/",
@@ -1779,8 +1780,7 @@
     "https://gigazine.net/news/20260808-fujisan-clip/",
     "https://gigazine.net/news/20260808-sandboxd/",
     "https://gigazine.net/news/20260808-x-original-content-rewards-program/",
-    "https://gigazine.net/news/20260808-pen-mouth-sanwa/",
-    "https://gigazine.net/news/20260808-unpaywall/"
+    "https://gigazine.net/news/20260808-pen-mouth-sanwa/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=227453",
@@ -2459,6 +2459,9 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2086797964631003341",
+    "2087026201294762137",
+    "2085709068434637279",
     "2086754402409599170",
     "2086750653054095565",
     "2086380568040910955",
@@ -2505,10 +2508,7 @@
     "2084437000611049943",
     "2084187958455009617",
     "2084127341568287169",
-    "2083886035226775591",
-    "2084060865456947232",
-    "2083331948098044304",
-    "2084208813494993176"
+    "2083886035226775591"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2086742851384234014",
