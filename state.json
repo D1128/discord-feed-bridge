@@ -1731,6 +1731,8 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260812-headline/",
+    "https://gigazine.net/news/20260812-anthropic-claude-riemann-hypothesis/",
     "https://gigazine.net/news/20260812-iphone-18-pro-cost-surge-memory/",
     "https://gigazine.net/news/20260812-ai-stolen-thoughts/",
     "https://gigazine.net/news/20260812-sony-semicon-tsmc-joint-venture/",
@@ -1778,9 +1780,7 @@
     "https://gigazine.net/news/20260810-apple-tests-cxmt/",
     "https://gigazine.net/news/20260810-turkeys-cybersecurity-law/",
     "https://gigazine.net/news/20260810-astra-cyber-capabilities/",
-    "https://gigazine.net/news/20260810-groups-make-better-decisions-reason/",
-    "https://gigazine.net/news/20260810-ai-ram-price/",
-    "https://gigazine.net/news/20260810-cloudflare-kitesurf/"
+    "https://gigazine.net/news/20260810-groups-make-better-decisions-reason/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=227399",
@@ -1835,6 +1835,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=225926"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189704",
     "https://win-tab.net/?p=189650",
     "https://win-tab.net/?p=189596",
     "https://win-tab.net/?p=189576",
@@ -1883,10 +1884,10 @@
     "https://win-tab.net/?p=189153",
     "https://win-tab.net/?p=126147",
     "https://win-tab.net/?p=189133",
-    "https://win-tab.net/?p=189123",
-    "https://win-tab.net/?p=188468"
+    "https://win-tab.net/?p=189123"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
+    "yt:video:cPR949n3IuE",
     "yt:video:kkYOhIQQdmo",
     "yt:video:l2FjR2ysL04",
     "yt:video:UrNXwf2U9oE",
@@ -1935,8 +1936,7 @@
     "yt:video:xoUNufIEpAA",
     "yt:video:mIyKrDvNOEA",
     "yt:video:_o46ilA2KOw",
-    "yt:video:RGgY9Bk-cD8",
-    "yt:video:JJ52DxpMDd4"
+    "yt:video:RGgY9Bk-cD8"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
     "yt:video:NZgVF3Z_WWo",
@@ -2459,6 +2459,8 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2087493751526838759",
+    "2087493704923984347",
     "2087212488727330963",
     "2087091513482268890",
     "2086797964631003341",
@@ -2506,9 +2508,7 @@
     "2084518177736945881",
     "2084296498314121495",
     "2084597213288964385",
-    "2084573420403195961",
-    "2084437000611049943",
-    "2084187958455009617"
+    "2084573420403195961"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2087468885356249253",
