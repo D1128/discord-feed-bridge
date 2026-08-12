@@ -1137,6 +1137,7 @@
     "yt:video:hylYwo6sxF0"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/article/2608/12/2000000506/",
     "https://monoist.itmedia.co.jp/mn/articles/2608/12/news065.html",
     "https://www.itmedia.co.jp/news/article/2608/12/2000000502/",
     "https://www.itmedia.co.jp/aiplus/article/2608/12/2000000503/",
@@ -1185,8 +1186,7 @@
     "https://www.itmedia.co.jp/pcuser/articles/2608/09/news007.html",
     "https://www.itmedia.co.jp/mobile/articles/2608/08/news007.html",
     "https://www.itmedia.co.jp/news/article/2608/08/2000000461/",
-    "https://www.itmedia.co.jp/mobile/articles/2608/08/news013.html",
-    "https://www.itmedia.co.jp/business/articles/2608/08/news001.html"
+    "https://www.itmedia.co.jp/mobile/articles/2608/08/news013.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1242,6 +1242,7 @@
     "https://smhn.info/?p=289808"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=118755",
     "https://daily-gadget.net/?p=118749",
     "https://daily-gadget.net/?p=118744",
     "https://daily-gadget.net/?p=118738",
@@ -1290,8 +1291,7 @@
     "https://daily-gadget.net/?p=118493",
     "https://daily-gadget.net/?p=118473",
     "https://daily-gadget.net/?p=118476",
-    "https://daily-gadget.net/?p=118465",
-    "https://daily-gadget.net/?p=118469"
+    "https://daily-gadget.net/?p=118465"
   ],
   "https://sumahodigest.com/?feed=rss2": [
     "https://sumahodigest.com/?p=67319",
@@ -2750,6 +2750,8 @@
     "2078308561587961903"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2087411292680441967",
+    "2087411280558915711",
     "2087369771067322770",
     "2087369758996058442",
     "2087320860013330638",
@@ -2797,9 +2799,7 @@
     "2086440113870127243",
     "2086399584339886256",
     "2086399572348432845",
-    "2086400691594314020",
-    "2086374626985382074",
-    "2086318536457367638"
+    "2086400691594314020"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
