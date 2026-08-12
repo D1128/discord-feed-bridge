@@ -1731,6 +1731,13 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260812-anthropic-claude-digital-watermark/",
+    "https://gigazine.net/news/20260812-gpt-5-6-cyber/",
+    "https://gigazine.net/news/20260812-uber-serve-robotics-selling-entire-stake/",
+    "https://gigazine.net/news/20260812-google-gemini-1b-mau/",
+    "https://gigazine.net/news/20260812-windows-update/",
+    "https://gigazine.net/news/20260812-nvidia-nemotron-3-5-lightning/",
+    "https://gigazine.net/news/20260812-spacexai-grok-bot/",
     "https://gigazine.net/news/20260812-alibaba-charge-qwen/",
     "https://gigazine.net/news/20260812-denmark-requires-oral-defenses-students-ai/",
     "https://gigazine.net/news/20260812-vegetable-biodiversity-diets/",
@@ -1773,16 +1780,14 @@
     "https://gigazine.net/news/20260809-over19-wf2026s/",
     "https://gigazine.net/news/20260809-going-religious-services-mental-health/",
     "https://gigazine.net/news/20260809-cancer-fighting-chewing-gum/",
-    "https://gigazine.net/news/20260809-brain-free-energy-principle/",
-    "https://gigazine.net/news/20260809-phantom-twist-drone/",
-    "https://gigazine.net/news/20260809-transmute/",
-    "https://gigazine.net/news/20260809-yamazen-dustbox-estw-40/",
-    "https://gigazine.net/news/20260809-hhkb-studio/",
-    "https://gigazine.net/news/20260809-regressive-jpeg/",
-    "https://gigazine.net/news/20260809-cio-smartcoby-pro-slim-ss/",
-    "https://gigazine.net/news/20260809-missing-underscore/"
+    "https://gigazine.net/news/20260809-brain-free-energy-principle/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=228204",
+    "https://aismiley.co.jp/?post_type=ai_news&p=227436",
+    "https://aismiley.co.jp/?post_type=ai_news&p=229081",
+    "https://aismiley.co.jp/?post_type=ai_news&p=227466",
+    "https://aismiley.co.jp/?post_type=ai_news&p=227510",
     "https://aismiley.co.jp/?post_type=ai_news&p=227453",
     "https://aismiley.co.jp/?post_type=ai_news&p=228137",
     "https://aismiley.co.jp/?post_type=ai_news&p=225282",
@@ -1827,12 +1832,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=226002",
     "https://aismiley.co.jp/?post_type=ai_news&p=226872",
     "https://aismiley.co.jp/?post_type=ai_news&p=226348",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226350",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226205",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226769",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226482",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226861",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226548"
+    "https://aismiley.co.jp/?post_type=ai_news&p=226350"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189650",
@@ -2199,6 +2199,7 @@
     "yt:video:aBQLzMHOl88"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=269055",
     "https://garumax.com/?p=269022",
     "https://garumax.com/?p=269004",
     "https://garumax.com/?p=268973",
@@ -2247,8 +2248,7 @@
     "https://garumax.com/?p=267858",
     "https://garumax.com/?p=267877",
     "https://garumax.com/?p=267846",
-    "https://garumax.com/?p=267827",
-    "https://garumax.com/?p=267692"
+    "https://garumax.com/?p=267827"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com/blog/pubvoice",
@@ -2299,6 +2299,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64726",
     "https://androplus.jp/?p=64717",
     "https://androplus.jp/?p=64686",
     "https://androplus.jp/?p=64658",
@@ -2347,8 +2348,7 @@
     "https://androplus.jp/?p=64204",
     "https://androplus.jp/?p=64181",
     "https://androplus.jp/?p=64183",
-    "https://androplus.jp/?p=64193",
-    "https://androplus.jp/?p=64166"
+    "https://androplus.jp/?p=64193"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
