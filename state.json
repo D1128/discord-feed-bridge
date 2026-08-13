@@ -1138,6 +1138,7 @@
     "yt:video:jakyBijDjhQ"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/article/2608/14/2000000536/",
     "https://www.itmedia.co.jp/business/articles/2608/14/news044.html",
     "https://www.itmedia.co.jp/news/article/2608/13/2000000532/",
     "https://www.itmedia.co.jp/news/article/2608/13/2000000530/",
@@ -1186,8 +1187,7 @@
     "https://www.itmedia.co.jp/pcuser/articles/2608/11/news013.html",
     "https://www.itmedia.co.jp/mobile/articles/2608/11/news011.html",
     "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
-    "https://www.itmedia.co.jp/business/articles/2608/11/news006.html",
-    "https://www.itmedia.co.jp/business/articles/2608/11/news004.html"
+    "https://www.itmedia.co.jp/business/articles/2608/11/news006.html"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1295,6 +1295,7 @@
     "https://daily-gadget.net/?p=118530"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=67469",
     "https://sumahodigest.com/?p=67461",
     "https://sumahodigest.com/?p=67465",
     "https://sumahodigest.com/?p=67458",
@@ -1343,8 +1344,7 @@
     "https://sumahodigest.com/?p=67247",
     "https://sumahodigest.com/?p=67188",
     "https://sumahodigest.com/?p=67191",
-    "https://sumahodigest.com/?p=67195",
-    "https://sumahodigest.com/?p=67199"
+    "https://sumahodigest.com/?p=67195"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/8599973812317551770",
@@ -2752,6 +2752,8 @@
     "2079867172126630392"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2088038168478310687",
+    "2088038156323131636",
     "2088023303860670742",
     "2088023290745078065",
     "2087891753638703415",
@@ -2799,9 +2801,7 @@
     "2087085942410748136",
     "2087071496414089302",
     "2087072644986499150",
-    "2087072633007563156",
-    "2087048468087046145",
-    "2087048456175276526"
+    "2087072633007563156"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
