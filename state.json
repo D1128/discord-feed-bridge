@@ -1732,6 +1732,8 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260813-headline/",
+    "https://gigazine.net/news/20260813-tldv-data-hack/",
     "https://gigazine.net/news/20260813-ai-erase-female-characters-kids-stories/",
     "https://gigazine.net/news/20260813-mistral-ai-third-party-open-model/",
     "https://gigazine.net/news/20260813-curry-ex/",
@@ -1779,9 +1781,7 @@
     "https://gigazine.net/news/20260812-gpt-5-6-cyber/",
     "https://gigazine.net/news/20260812-uber-serve-robotics-selling-entire-stake/",
     "https://gigazine.net/news/20260812-google-gemini-1b-mau/",
-    "https://gigazine.net/news/20260812-windows-update/",
-    "https://gigazine.net/news/20260812-nvidia-nemotron-3-5-lightning/",
-    "https://gigazine.net/news/20260812-spacexai-grok-bot/"
+    "https://gigazine.net/news/20260812-windows-update/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=229349",
@@ -2148,6 +2148,7 @@
     "yt:video:fSYtSppHI_E"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
+    "yt:video:EzkBjPHnkTs",
     "yt:video:L-SFan8kRVo",
     "yt:video:zl7Aa4AYT0E",
     "yt:video:PXicBX82apI",
@@ -2196,8 +2197,7 @@
     "yt:video:EJ-NSOLKUkw",
     "yt:video:r6Fhde5qXZk",
     "yt:video:zWNylNTZ4kg",
-    "yt:video:Jp4NYfzCWLU",
-    "yt:video:KhztBLfkaRw"
+    "yt:video:Jp4NYfzCWLU"
   ],
   "https://garumax.com/feed": [
     "https://garumax.com/?p=269200",
