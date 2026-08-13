@@ -1731,6 +1731,9 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260813-deepseek-v4-pro-0813/",
+    "https://gigazine.net/news/20260813-ai-government-cyberattack/",
+    "https://gigazine.net/news/20260813-lfm2-5-vl-3b/",
     "https://gigazine.net/news/20260813-twitch-amazon-ai-training/",
     "https://gigazine.net/news/20260811-ebook-summer-sale/",
     "https://gigazine.net/news/20260813-claude-ai-watermark-mad/",
@@ -1777,12 +1780,10 @@
     "https://gigazine.net/news/20260812-spacexai-grok-bot/",
     "https://gigazine.net/news/20260812-alibaba-charge-qwen/",
     "https://gigazine.net/news/20260812-denmark-requires-oral-defenses-students-ai/",
-    "https://gigazine.net/news/20260812-vegetable-biodiversity-diets/",
-    "https://gigazine.net/news/20260811-housefoods-chikyuu-no-curry-massaman/",
-    "https://gigazine.net/news/20260811-weight-loss-drugs-hair-loss-risk/",
-    "https://gigazine.net/news/20260811-transcribe-cpp/"
+    "https://gigazine.net/news/20260812-vegetable-biodiversity-diets/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=229349",
     "https://aismiley.co.jp/?post_type=ai_news&p=227391",
     "https://aismiley.co.jp/?post_type=ai_news&p=228279",
     "https://aismiley.co.jp/?post_type=ai_news&p=227399",
@@ -1831,8 +1832,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=226192",
     "https://aismiley.co.jp/?post_type=ai_news&p=226741",
     "https://aismiley.co.jp/?post_type=ai_news&p=226785",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226832",
-    "https://aismiley.co.jp/?post_type=ai_news&p=227204"
+    "https://aismiley.co.jp/?post_type=ai_news&p=226832"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189723",
@@ -2199,6 +2199,7 @@
     "yt:video:KhztBLfkaRw"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=269200",
     "https://garumax.com/?p=269245",
     "https://garumax.com/?p=269231",
     "https://garumax.com/?p=268930",
@@ -2247,8 +2248,7 @@
     "https://garumax.com/?p=268191",
     "https://garumax.com/?p=268128",
     "https://garumax.com/?p=267989",
-    "https://garumax.com/?p=268004",
-    "https://garumax.com/?p=265638"
+    "https://garumax.com/?p=268004"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com/blog/coderdojo",
