@@ -1731,6 +1731,13 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260813-google-pixel-watch-5/",
+    "https://gigazine.net/news/20260813-pixel-tag/",
+    "https://gigazine.net/news/20260813-apple-pay-publishers-improve-ai-siri/",
+    "https://gigazine.net/news/20260813-google-sl2t/",
+    "https://gigazine.net/news/20260813-google-pixel-11/",
+    "https://gigazine.net/news/20260813-drill-free-cavity-care-kids/",
+    "https://gigazine.net/news/20260813-alibaba-qwen-3-8-open/",
     "https://gigazine.net/news/20260813-pua/",
     "https://gigazine.net/news/20260813-microsoft-maia-300-ai-chip-fall/",
     "https://gigazine.net/news/20260813-long-covid-dopamine-pet/",
@@ -1773,16 +1780,11 @@
     "https://gigazine.net/news/20260811-china-ai-chinese-training-data/",
     "https://gigazine.net/news/20260811-meta-muse-glimmer/",
     "https://gigazine.net/news/20260811-ebook-summer-sale/",
-    "https://gigazine.net/news/20260811-nasal-spray-stroke/",
-    "https://gigazine.net/news/20260810-steam-machine-pc/",
-    "https://gigazine.net/news/20260810-microsoft-edge-manifest-v3/",
-    "https://gigazine.net/news/20260810-claude-fable-5-biology-safeguard/",
-    "https://gigazine.net/news/20260810-sk-hynix-38b/",
-    "https://gigazine.net/news/20260810-a7-russia-network/",
-    "https://gigazine.net/news/20260810-burgerking-dirty-the-one-pounder/",
-    "https://gigazine.net/news/20260810-headline/"
+    "https://gigazine.net/news/20260811-nasal-spray-stroke/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=227391",
+    "https://aismiley.co.jp/?post_type=ai_news&p=228279",
     "https://aismiley.co.jp/?post_type=ai_news&p=227399",
     "https://aismiley.co.jp/?post_type=ai_news&p=227445",
     "https://aismiley.co.jp/?post_type=ai_news&p=227769",
@@ -1830,11 +1832,10 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=226741",
     "https://aismiley.co.jp/?post_type=ai_news&p=226785",
     "https://aismiley.co.jp/?post_type=ai_news&p=226832",
-    "https://aismiley.co.jp/?post_type=ai_news&p=227204",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226202",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225926"
+    "https://aismiley.co.jp/?post_type=ai_news&p=227204"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189723",
     "https://win-tab.net/?p=189710",
     "https://win-tab.net/?p=189704",
     "https://win-tab.net/?p=189650",
@@ -1883,8 +1884,7 @@
     "https://win-tab.net/?p=189166",
     "https://win-tab.net/?p=188499",
     "https://win-tab.net/?p=189153",
-    "https://win-tab.net/?p=126147",
-    "https://win-tab.net/?p=189133"
+    "https://win-tab.net/?p=126147"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:cPR949n3IuE",
@@ -2512,6 +2512,7 @@
     "2084573420403195961"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2087705701158449279",
     "2087468885356249253",
     "2087105742603997658",
     "2086742851384234014",
@@ -2560,8 +2561,7 @@
     "2071508216387629361",
     "2071160676404351322",
     "2070782685639799193",
-    "2069912451538194833",
-    "2069549812077482366"
+    "2069912451538194833"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2087664184280641767",
