@@ -1732,6 +1732,8 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260813-pixel-11-camera-look/",
+    "https://gigazine.net/news/20260813-traffic-bot-percent/",
     "https://gigazine.net/news/20260813-headline/",
     "https://gigazine.net/news/20260813-tldv-data-hack/",
     "https://gigazine.net/news/20260813-ai-erase-female-characters-kids-stories/",
@@ -1779,9 +1781,7 @@
     "https://gigazine.net/news/20260812-chatgpt-desktop-linux/",
     "https://gigazine.net/news/20260812-anthropic-claude-digital-watermark/",
     "https://gigazine.net/news/20260812-gpt-5-6-cyber/",
-    "https://gigazine.net/news/20260812-uber-serve-robotics-selling-entire-stake/",
-    "https://gigazine.net/news/20260812-google-gemini-1b-mau/",
-    "https://gigazine.net/news/20260812-windows-update/"
+    "https://gigazine.net/news/20260812-uber-serve-robotics-selling-entire-stake/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=229349",
@@ -1836,6 +1836,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=226832"
   ],
   "https://win-tab.net/feed/": [
+    "https://win-tab.net/?p=189733",
     "https://win-tab.net/?p=189723",
     "https://win-tab.net/?p=189710",
     "https://win-tab.net/?p=189704",
@@ -1884,8 +1885,7 @@
     "https://win-tab.net/?p=168753",
     "https://win-tab.net/?p=189166",
     "https://win-tab.net/?p=188499",
-    "https://win-tab.net/?p=189153",
-    "https://win-tab.net/?p=126147"
+    "https://win-tab.net/?p=189153"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC9V4eJBNx_hOieGG51NZ6nA": [
     "yt:video:cPR949n3IuE",
