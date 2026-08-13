@@ -1731,6 +1731,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260813-pua/",
     "https://gigazine.net/news/20260813-microsoft-maia-300-ai-chip-fall/",
     "https://gigazine.net/news/20260813-long-covid-dopamine-pet/",
     "https://gigazine.net/news/20260812-spy-cameras-navy-drones-secretly-sent-data-china/",
@@ -1779,8 +1780,7 @@
     "https://gigazine.net/news/20260810-sk-hynix-38b/",
     "https://gigazine.net/news/20260810-a7-russia-network/",
     "https://gigazine.net/news/20260810-burgerking-dirty-the-one-pounder/",
-    "https://gigazine.net/news/20260810-headline/",
-    "https://gigazine.net/news/20260810-wildberries-bombard/"
+    "https://gigazine.net/news/20260810-headline/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=227399",
@@ -2251,6 +2251,7 @@
     "https://garumax.com/?p=267892"
   ],
   "https://www.webcreatorbox.com/feed/": [
+    "https://www.webcreatorbox.com/blog/coderdojo",
     "https://www.webcreatorbox.com/blog/pubvoice",
     "https://www.webcreatorbox.com/blog/wcb-book-design-korean",
     "https://www.webcreatorbox.com/blog/refactoring",
