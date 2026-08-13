@@ -1138,6 +1138,7 @@
     "yt:video:jakyBijDjhQ"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/article/2608/13/2000000532/",
     "https://www.itmedia.co.jp/news/article/2608/13/2000000530/",
     "https://www.itmedia.co.jp/pcuser/articles/2608/13/news079.html",
     "https://www.itmedia.co.jp/mobile/articles/2608/13/news085.html",
@@ -1186,8 +1187,7 @@
     "https://www.itmedia.co.jp/news/article/2608/11/2000000474/",
     "https://www.itmedia.co.jp/business/articles/2608/11/news006.html",
     "https://www.itmedia.co.jp/business/articles/2608/11/news004.html",
-    "https://www.itmedia.co.jp/news/article/2608/10/2000000490/",
-    "https://www.itmedia.co.jp/mobile/articles/2608/10/news087.html"
+    "https://www.itmedia.co.jp/news/article/2608/10/2000000490/"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1243,6 +1243,7 @@
     "https://smhn.info/?p=289767"
   ],
   "https://daily-gadget.net/feed/": [
+    "https://daily-gadget.net/?p=118800",
     "https://daily-gadget.net/?p=118796",
     "https://daily-gadget.net/?p=118791",
     "https://daily-gadget.net/?p=118787",
@@ -1291,10 +1292,10 @@
     "https://daily-gadget.net/?p=118530",
     "https://daily-gadget.net/?p=118536",
     "https://daily-gadget.net/?p=118540",
-    "https://daily-gadget.net/?p=118509",
-    "https://daily-gadget.net/?p=118510"
+    "https://daily-gadget.net/?p=118509"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=67447",
     "https://sumahodigest.com/?p=67417",
     "https://sumahodigest.com/?p=67421",
     "https://sumahodigest.com/?p=67425",
@@ -1343,8 +1344,7 @@
     "https://sumahodigest.com/?p=67203",
     "https://sumahodigest.com/?p=67209",
     "https://sumahodigest.com/?p=67216",
-    "https://sumahodigest.com/?p=67220",
-    "https://sumahodigest.com/?p=67224"
+    "https://sumahodigest.com/?p=67220"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/8599973812317551770",
@@ -1628,6 +1628,7 @@
     "yt:video:D9jGXdmZyTI"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCL68L-bhupBuuVhAfCN8VlQ": [
+    "yt:video:3ud_wpduTbQ",
     "yt:video:1IWdvy5UK5U",
     "yt:video:q45JkcDzfmc",
     "yt:video:T4to0WagVcQ",
@@ -1676,8 +1677,7 @@
     "yt:video:beg84aZwwp8",
     "yt:video:SCv8fZQCJV0",
     "yt:video:wvBuzExJBpU",
-    "yt:video:qTe9kDJ_g3w",
-    "yt:video:Z2SA3M86s_4"
+    "yt:video:qTe9kDJ_g3w"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8FwuifT73FtnO93ZUNSoLg": [
     "yt:video:FZlpIEf2lSc",
