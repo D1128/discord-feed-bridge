@@ -1733,6 +1733,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260816-darktable/",
     "https://gigazine.net/news/20260816-alibaba-qwen-3-billion-downloads/",
     "https://gigazine.net/news/20260816-spacex-officially-closes-cursor-acquisition/",
     "https://gigazine.net/news/20260816-cyberpower-st425jp/",
@@ -1781,8 +1782,7 @@
     "https://gigazine.net/news/20260813-mistral-ai-third-party-open-model/",
     "https://gigazine.net/news/20260813-curry-ex/",
     "https://gigazine.net/news/20260813-deepseek-v4-pro-0813/",
-    "https://gigazine.net/news/20260813-ai-government-cyberattack/",
-    "https://gigazine.net/news/20260813-lfm2-5-vl-3b/"
+    "https://gigazine.net/news/20260813-ai-government-cyberattack/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=228634",
@@ -1941,6 +1941,7 @@
     "yt:video:_o46ilA2KOw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:-PjBlRPhNpE",
     "yt:video:kNueZzsF33A",
     "yt:video:BKtBIO53Qjs",
     "yt:video:BiRYYnxpoWs",
@@ -1989,8 +1990,7 @@
     "yt:video:aJ8BD9TRY-Q",
     "yt:video:Zd2wOWf6FWg",
     "yt:video:NrIkf_wW-gA",
-    "yt:video:tRBDhv4SaDE",
-    "yt:video:JPLXElaUM6g"
+    "yt:video:tRBDhv4SaDE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:PLYRVfLSqUo",
@@ -2201,6 +2201,7 @@
     "yt:video:7aQWb6orUgs"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=269444",
     "https://garumax.com/?p=269180",
     "https://garumax.com/?p=269158",
     "https://garumax.com/?p=267552",
@@ -2249,8 +2250,7 @@
     "https://garumax.com/?p=268399",
     "https://garumax.com/?p=268432",
     "https://garumax.com/?p=268273",
-    "https://garumax.com/?p=268259",
-    "https://garumax.com/?p=262890"
+    "https://garumax.com/?p=268259"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com/blog/coderdojo",
