@@ -1733,6 +1733,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260817-asus-oxiis-e250g1/",
     "https://gigazine.net/news/20260817-haagen-dazs-crispy-sand-peanuts-butter-caramel/",
     "https://gigazine.net/news/20260817-data-centers-economy-town/",
     "https://gigazine.net/news/20260817-fair-use-anime/",
@@ -1781,8 +1782,7 @@
     "https://gigazine.net/news/20260814-hogwarts-legacy-2/",
     "https://gigazine.net/news/20260814-google-gemini-3-7-flash/",
     "https://gigazine.net/news/20260814-chatgpt-computer-history/",
-    "https://gigazine.net/news/20260814-poop-transplant-treat-food-allergies/",
-    "https://gigazine.net/news/20260814-apple-sends-notification-alerting-spyware/"
+    "https://gigazine.net/news/20260814-poop-transplant-treat-food-allergies/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=228150",
@@ -2462,6 +2462,10 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2089264357456887839",
+    "2089278443712381029",
+    "2089132600468377891",
+    "2089143654183309338",
     "2089264255426232414",
     "2088927999802462675",
     "2088479655485645112",
@@ -2507,13 +2511,10 @@
     "2085359421375570273",
     "2085306637901091126",
     "2085253941139476786",
-    "2085302253750267985",
-    "2085269184808943971",
-    "2084962185202315648",
-    "2084960688196534296",
-    "2084775422701777315"
+    "2085302253750267985"
   ],
   "https://nitter.net/ninjacodeee/rss": [
+    "2089286109595385956",
     "2088922966725713921",
     "2088557810657165810",
     "2088194667599073715",
@@ -2562,8 +2563,7 @@
     "2073354056505131140",
     "2072973622441046262",
     "2072595883330600985",
-    "2072233495452422638",
-    "2071881929549590638"
+    "2072233495452422638"
   ],
   "https://nitter.net/pop_ikeda/rss": [
     "2088855869425635339",
