@@ -1,5 +1,9 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2132998.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2133006.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2133016.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2133004.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2132989.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/readitnow/2132977.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/ubuntu/2132799.html?ref=rss",
@@ -45,11 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2132458.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2132467.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2132469.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2132491.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2132447.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2132449.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/present/2132434.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/nishikawa/2132431.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2132491.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/ocr/ClipTra.html",
@@ -154,6 +154,7 @@
     "https://ainow.ai/?p=278130"
   ],
   "https://butsuyoku-gadget.com/feed/": [
+    "https://butsuyoku-gadget.com/?p=94199",
     "https://butsuyoku-gadget.com/?p=94100",
     "https://butsuyoku-gadget.com/?p=94091",
     "https://butsuyoku-gadget.com/?p=94177",
@@ -202,8 +203,7 @@
     "https://butsuyoku-gadget.com/?p=93638",
     "https://butsuyoku-gadget.com/?p=93651",
     "https://butsuyoku-gadget.com/?p=93587",
-    "https://butsuyoku-gadget.com/?p=93578",
-    "https://butsuyoku-gadget.com/?p=93536"
+    "https://butsuyoku-gadget.com/?p=93578"
   ],
   "https://telektlist.com/feed/": [
     "https://telektlist.com/?p=138173",
