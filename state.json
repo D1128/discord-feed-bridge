@@ -1139,6 +1139,10 @@
     "yt:video:dZFOA7CSHsM"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/news/article/2608/18/2000000576/",
+    "https://www.itmedia.co.jp/news/article/2608/18/2000000577/",
+    "https://www.itmedia.co.jp/news/article/2608/18/2000000578/",
+    "https://www.itmedia.co.jp/news/article/2608/18/2000000579/",
     "https://monoist.itmedia.co.jp/mn/articles/2608/18/news009.html",
     "https://www.itmedia.co.jp/aiplus/article/2608/18/2000000544/",
     "https://www.itmedia.co.jp/news/article/2608/18/2000000573/",
@@ -1184,11 +1188,7 @@
     "https://www.itmedia.co.jp/pcuser/articles/2608/14/news072.html",
     "https://www.itmedia.co.jp/news/article/2608/14/2000000551/",
     "https://www.itmedia.co.jp/news/article/2608/14/2000000546/",
-    "https://www.itmedia.co.jp/news/article/2608/14/2000000543/",
-    "https://www.itmedia.co.jp/pcuser/articles/2608/14/news030.html",
-    "https://www.itmedia.co.jp/news/article/2608/14/2000000540/",
-    "https://www.itmedia.co.jp/news/article/2608/14/2000000539/",
-    "https://monoist.itmedia.co.jp/mn/articles/2608/14/news013.html"
+    "https://www.itmedia.co.jp/news/article/2608/14/2000000543/"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1296,6 +1296,12 @@
     "https://daily-gadget.net/?p=118711"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=67756",
+    "https://sumahodigest.com/?p=67760",
+    "https://sumahodigest.com/?p=67764",
+    "https://sumahodigest.com/?p=67771",
+    "https://sumahodigest.com/?p=67778",
+    "https://sumahodigest.com/?p=67783",
     "https://sumahodigest.com/?p=67752",
     "https://sumahodigest.com/?p=67733",
     "https://sumahodigest.com/?p=67738",
@@ -1339,13 +1345,7 @@
     "https://sumahodigest.com/?p=67557",
     "https://sumahodigest.com/?p=67561",
     "https://sumahodigest.com/?p=67565",
-    "https://sumahodigest.com/?p=67508",
-    "https://sumahodigest.com/?p=67451",
-    "https://sumahodigest.com/?p=67538",
-    "https://sumahodigest.com/?p=67541",
-    "https://sumahodigest.com/?p=67525",
-    "https://sumahodigest.com/?p=67529",
-    "https://sumahodigest.com/?p=67533"
+    "https://sumahodigest.com/?p=67508"
   ],
   "https://yachin29.hatenablog.com/feed": [
     "hatenablog://entry/8599973812317551770",
@@ -1400,6 +1400,11 @@
     "hatenablog://entry/26006613712983757"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=29222",
+    "https://official.gfs.tokyo/blog/?p=29226",
+    "https://official.gfs.tokyo/blog/?p=29230",
+    "https://official.gfs.tokyo/blog/?p=29232",
+    "https://official.gfs.tokyo/blog/?p=29235",
     "https://official.gfs.tokyo/blog/?p=29220",
     "https://official.gfs.tokyo/blog/?p=29225",
     "https://official.gfs.tokyo/blog/?p=29267",
@@ -1444,12 +1449,7 @@
     "https://official.gfs.tokyo/blog/?p=28795",
     "https://official.gfs.tokyo/blog/?p=28799",
     "https://official.gfs.tokyo/blog/?p=28797",
-    "https://official.gfs.tokyo/blog/?p=28803",
-    "https://official.gfs.tokyo/blog/?p=28783",
-    "https://official.gfs.tokyo/blog/?p=28840",
-    "https://official.gfs.tokyo/blog/?p=28773",
-    "https://official.gfs.tokyo/blog/?p=28721",
-    "https://official.gfs.tokyo/blog/?p=28711"
+    "https://official.gfs.tokyo/blog/?p=28803"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:abjchzh34OE",
@@ -2753,6 +2753,9 @@
     "2080177394573615569"
   ],
   "https://nitter.net/masahirochaen/rss": [
+    "2089501825078788374",
+    "2089501813099933921",
+    "2089514322779389970",
     "2089486446981997028",
     "2089486434831110641",
     "2089472377185087614",
@@ -2799,10 +2802,7 @@
     "2088762198613237835",
     "2088762186785230950",
     "2088762210273394732",
-    "2088762245849497610",
-    "2088762234055041162",
-    "2088762222243901830",
-    "2088746833699119232"
+    "2088762245849497610"
   ],
   "https://nitter.net/codejump_com/rss": [
     "2054112171039367254",
