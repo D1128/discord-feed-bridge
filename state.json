@@ -1733,6 +1733,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260818-youtube-count-public-view/",
     "https://gigazine.net/news/20260818-qwen3-8-27b-performance/",
     "https://gigazine.net/news/20260818-army-bonus-gta6/",
     "https://gigazine.net/news/20260818-severe-sunburn-higher-odds-skin-cancer/",
@@ -1781,10 +1782,10 @@
     "https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/",
     "https://gigazine.net/news/20260815-thermodynamic-computing/",
     "https://gigazine.net/news/20260815-us-wait-times-cancer-surgeries-longer/",
-    "https://gigazine.net/news/20260815-insta360-mic-pro-appearance/",
-    "https://gigazine.net/news/20260815-mistery-of-telegram-dc/"
+    "https://gigazine.net/news/20260815-insta360-mic-pro-appearance/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=228625",
     "https://aismiley.co.jp/?post_type=ai_news&p=228630",
     "https://aismiley.co.jp/?post_type=ai_news&p=229514",
     "https://aismiley.co.jp/?post_type=ai_news&p=228150",
@@ -1833,8 +1834,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=227346",
     "https://aismiley.co.jp/?post_type=ai_news&p=225077",
     "https://aismiley.co.jp/?post_type=ai_news&p=224871",
-    "https://aismiley.co.jp/?post_type=ai_news&p=228069",
-    "https://aismiley.co.jp/?post_type=ai_news&p=217204"
+    "https://aismiley.co.jp/?post_type=ai_news&p=228069"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189842",
@@ -2302,6 +2302,8 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64911",
+    "https://androplus.jp/?p=64925",
     "https://androplus.jp/?p=64910",
     "https://androplus.jp/?p=64886",
     "https://androplus.jp/?p=64894",
@@ -2349,9 +2351,7 @@
     "https://androplus.jp/?p=64432",
     "https://androplus.jp/?p=64413",
     "https://androplus.jp/?p=64323",
-    "https://androplus.jp/?p=64384",
-    "https://androplus.jp/?p=64373",
-    "https://androplus.jp/?p=64356"
+    "https://androplus.jp/?p=64384"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
