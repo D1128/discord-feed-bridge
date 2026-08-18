@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2133321.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2133333.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2133342.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/nishikawa/2133158.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2133303.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/semicon/2133231.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2132713.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2132712.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/present/2132658.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/hothot/2132615.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2132666.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2132649.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/topic/readitnow/2132661.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/column/hothot/2132615.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/ocr/ClipTra.html",
@@ -258,6 +258,7 @@
     "https://telektlist.com/?p=137554"
   ],
   "https://codezine.jp/rss/new/20/index.xml": [
+    "https://codezine.jp/article/detail/29331",
     "https://codezine.jp/article/detail/29330",
     "https://codezine.jp/article/detail/29299",
     "https://codezine.jp/article/detail/29329",
@@ -306,8 +307,7 @@
     "https://codezine.jp/article/detail/29274",
     "https://codezine.jp/article/detail/28945",
     "https://codezine.jp/article/detail/29288",
-    "https://codezine.jp/article/detail/29277",
-    "https://codezine.jp/article/detail/29287"
+    "https://codezine.jp/article/detail/29277"
   ],
   "https://techacademy.jp/magazine/feed": [
     "https://magazine.techacademy.jp/magazine/?p=86863",
