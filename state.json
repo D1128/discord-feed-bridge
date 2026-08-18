@@ -1733,6 +1733,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260818-death-from-trebuchet-first-evidence/",
     "https://gigazine.net/news/20260818-single-hot-week-causes-economic-slump/",
     "https://gigazine.net/news/20260818-youtube-count-public-view/",
     "https://gigazine.net/news/20260818-qwen3-8-27b-performance/",
@@ -1781,10 +1782,11 @@
     "https://gigazine.net/news/20260816-tech-company-pay-data-center-cost/",
     "https://gigazine.net/news/20260815-dbgate/",
     "https://gigazine.net/news/20260815-kioxia-exceria-g3-4tb/",
-    "https://gigazine.net/news/20260815-thermodynamic-computing/",
-    "https://gigazine.net/news/20260815-us-wait-times-cancer-surgeries-longer/"
+    "https://gigazine.net/news/20260815-thermodynamic-computing/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=228627",
+    "https://aismiley.co.jp/?post_type=ai_news&p=228866",
     "https://aismiley.co.jp/?post_type=ai_news&p=228625",
     "https://aismiley.co.jp/?post_type=ai_news&p=228630",
     "https://aismiley.co.jp/?post_type=ai_news&p=229514",
@@ -1832,9 +1834,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=228146",
     "https://aismiley.co.jp/?post_type=ai_news&p=228093",
     "https://aismiley.co.jp/?post_type=ai_news&p=227346",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225077",
-    "https://aismiley.co.jp/?post_type=ai_news&p=224871",
-    "https://aismiley.co.jp/?post_type=ai_news&p=228069"
+    "https://aismiley.co.jp/?post_type=ai_news&p=225077"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189842",
