@@ -1,5 +1,6 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/news/2133996.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133929.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133881.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133872.html?ref=rss",
@@ -48,8 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2133076.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133083.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2133022.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2132998.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2133006.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2132998.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/ocr/ClipTra.html",
@@ -426,6 +426,7 @@
     "yt:video:DCVaCgvMMtc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:y7-zm0tL3pI",
     "yt:video:nkiEmK2OOl0",
     "yt:video:16GDf0voh6k",
     "yt:video:Eu4O1_HE3S0",
@@ -474,8 +475,7 @@
     "yt:video:Kqx8-dm9JOU",
     "yt:video:ZLFOBXW1CTg",
     "yt:video:lXWHRmQ4ylE",
-    "yt:video:yI2I8TcZJjs",
-    "yt:video:28CE5PZTegg"
+    "yt:video:yI2I8TcZJjs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:uUaiw8NQzTw",
@@ -520,6 +520,7 @@
     "yt:video:_Lp7bbz9U60"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtiDTuG40ZOarubtFm1fbzg": [
+    "yt:video:Nh1r7P9Pgxo",
     "yt:video:Sus9wM7OMu4",
     "yt:video:HxPbYvcNI_c",
     "yt:video:LnpbqJlORTE",
@@ -568,10 +569,10 @@
     "yt:video:diP_p-YW-Po",
     "yt:video:87-BNgM-KfQ",
     "yt:video:i7ZkCv-H7uo",
-    "yt:video:2QNzFSTh3Rs",
-    "yt:video:AJq6awK9AYc"
+    "yt:video:2QNzFSTh3Rs"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC_kTlZMryHFPMc7QMi4g0VQ": [
+    "yt:video:PwX_xpr677c",
     "yt:video:mNkBf15tCVY",
     "yt:video:px8rTOozyH4",
     "yt:video:RR8_GF-zTvg",
@@ -620,8 +621,7 @@
     "yt:video:JtTZtZpuqtQ",
     "yt:video:Cg0GzdnQTYA",
     "yt:video:cJoBpGdEs_g",
-    "yt:video:Q21stmK4s0c",
-    "yt:video:KJPmqpCwmZk"
+    "yt:video:Q21stmK4s0c"
   ],
   "https://bocek.co.jp/media/feed/": [
     "https://taskhub.jp/magazine/?p=15452",
