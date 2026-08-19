@@ -1733,6 +1733,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260819-hermes-agent-first-use/",
     "https://gigazine.net/news/20260819-cerebras-cs-4/",
     "https://gigazine.net/news/20260819-lucky-pierrot-yakisoba/",
     "https://gigazine.net/news/20260819-lm-studio-bionic-skills/",
@@ -1781,8 +1782,7 @@
     "https://gigazine.net/news/20260818-unprecedented-number-apple-users-received-spyware-alert/",
     "https://gigazine.net/news/20260818-uber-eats-zipline-drone/",
     "https://gigazine.net/news/20260818-google-buy-bankrupt-airline/",
-    "https://gigazine.net/news/20260818-github-down/",
-    "https://gigazine.net/news/20260818-nvidia-sb-energy-openai-ports-pike/"
+    "https://gigazine.net/news/20260818-github-down/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=229666",
@@ -2423,6 +2423,7 @@
     "2080285959342752087"
   ],
   "https://nitter.net/envader_plus/rss": [
+    "2090031025087012964",
     "2085667325114786211",
     "2042465777098637639",
     "2052342692454269117",
