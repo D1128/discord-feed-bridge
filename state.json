@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/hothot/2133898.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/hothot/2133962.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/hothot/2134040.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133949.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133996.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133929.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2133137.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133135.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133080.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133094.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133076.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133083.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/todays_sales/2133022.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2133094.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.net/tool/ocr/ClipTra.html",
@@ -426,6 +426,7 @@
     "yt:video:DCVaCgvMMtc"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UC8UXXTaoP6Xf-zGRLf0R46w": [
+    "yt:video:ZSrBVwBrpdQ",
     "yt:video:y7-zm0tL3pI",
     "yt:video:nkiEmK2OOl0",
     "yt:video:16GDf0voh6k",
@@ -474,8 +475,7 @@
     "yt:video:oiR3v3TGYQI",
     "yt:video:Kqx8-dm9JOU",
     "yt:video:ZLFOBXW1CTg",
-    "yt:video:lXWHRmQ4ylE",
-    "yt:video:yI2I8TcZJjs"
+    "yt:video:lXWHRmQ4ylE"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCLS3KYdyKEoChkXVs7DyMEA": [
     "yt:video:uUaiw8NQzTw",
