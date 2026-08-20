@@ -1734,6 +1734,11 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260820-ornith-1-5/",
+    "https://gigazine.net/news/20260820-saudi-fund-ea-owner-employees-worry/",
+    "https://gigazine.net/news/20260820-amazon-prime-air-drone-delivery-expands-500-cities/",
+    "https://gigazine.net/news/20260820-stripe-acquire-openrouter/",
+    "https://gigazine.net/news/20260820-openai-zero-data-retention-private-safety-processing/",
     "https://gigazine.net/news/20260820-switchbot-ai-mindclip/",
     "https://gigazine.net/news/20260820-beware-management-consultants/",
     "https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction/",
@@ -1778,14 +1783,13 @@
     "https://gigazine.net/news/20260818-bireleys-sawayaka-lemonade/",
     "https://gigazine.net/news/20260818-quake-shareware/",
     "https://gigazine.net/news/20260818-ai-security/",
-    "https://gigazine.net/news/20260818-telegram-pirates/",
-    "https://gigazine.net/news/20260818-anthropic-revenue-run-rate/",
-    "https://gigazine.net/news/20260818-death-from-trebuchet-first-evidence/",
-    "https://gigazine.net/news/20260818-single-hot-week-causes-economic-slump/",
-    "https://gigazine.net/news/20260818-youtube-count-public-view/",
-    "https://gigazine.net/news/20260818-qwen3-8-27b-performance/"
+    "https://gigazine.net/news/20260818-telegram-pirates/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=230267",
+    "https://aismiley.co.jp/?post_type=ai_news&p=228623",
+    "https://aismiley.co.jp/?post_type=ai_news&p=228620",
+    "https://aismiley.co.jp/?post_type=ai_news&p=228613",
     "https://aismiley.co.jp/?post_type=ai_news&p=229858",
     "https://aismiley.co.jp/?post_type=ai_news&p=228457",
     "https://aismiley.co.jp/?post_type=ai_news&p=229666",
@@ -1831,11 +1835,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=227510",
     "https://aismiley.co.jp/?post_type=ai_news&p=227453",
     "https://aismiley.co.jp/?post_type=ai_news&p=228137",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225282",
-    "https://aismiley.co.jp/?post_type=ai_news&p=225290",
-    "https://aismiley.co.jp/?post_type=ai_news&p=227895",
-    "https://aismiley.co.jp/?post_type=ai_news&p=226243",
-    "https://aismiley.co.jp/?post_type=ai_news&p=228247"
+    "https://aismiley.co.jp/?post_type=ai_news&p=225282"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189886",
@@ -2303,6 +2303,7 @@
     "https://www.webcreatorbox.com//blog/design-boost-2025"
   ],
   "https://androplus.org/feed/": [
+    "https://androplus.jp/?p=64969",
     "https://androplus.jp/?p=64006",
     "https://androplus.jp/?p=64944",
     "https://androplus.jp/?p=64951",
@@ -2351,8 +2352,7 @@
     "https://androplus.jp/?p=64502",
     "https://androplus.jp/?p=64449",
     "https://androplus.jp/?p=64455",
-    "https://androplus.jp/?p=64446",
-    "https://androplus.jp/?p=64431"
+    "https://androplus.jp/?p=64446"
   ],
   "https://rsshub.rssforever.com/twitter/user/SuguruKun_ai?includeRts=0": [],
   "https://rsshub.rssforever.com/twitter/user/envader_plus?includeRts=0": [],
