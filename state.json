@@ -1,5 +1,8 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/column/hothot/2134302.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/short-review/2134387.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/news/2134379.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/topic/present/2132433.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/column/semicon/2134111.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2134358.html?ref=rss",
@@ -46,10 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2133608.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133631.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/todays_sales/2133594.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133574.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133479.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133554.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133531.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2133574.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/microsoft-edge/edge-googlechrome-cannot-open-pdf/",
