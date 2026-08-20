@@ -1734,6 +1734,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260820-google-pixel-watch-5-photo/",
     "https://gigazine.net/news/20260820-black-thunder-royal-milktea/",
     "https://gigazine.net/news/20260820-google-pixel-11-review/",
     "https://gigazine.net/news/20260820-pixel-11-pro-fold-photo/",
@@ -1782,8 +1783,7 @@
     "https://gigazine.net/news/20260819-gta6-game-play-movie-map-image-leak/",
     "https://gigazine.net/news/20260819-chatgpt-for-teens/",
     "https://gigazine.net/news/20260819-cursor-github-rival-hosting-platform-origin/",
-    "https://gigazine.net/news/20260819-macos-screen-sharing-vulnerability/",
-    "https://gigazine.net/news/20260819-egpu-dock-chestnut/"
+    "https://gigazine.net/news/20260819-macos-screen-sharing-vulnerability/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
     "https://aismiley.co.jp/?post_type=ai_news&p=230094",
@@ -1942,6 +1942,7 @@
     "yt:video:mIyKrDvNOEA"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCphTq6mefx_15CjD35qgXgA": [
+    "yt:video:Ngtl1TIKMAo",
     "yt:video:0Ea97QyV9qo",
     "yt:video:L2iE6pnMHlA",
     "yt:video:oC9mGxfLu24",
@@ -1990,8 +1991,7 @@
     "yt:video:4Z8uqDJ9XC4",
     "yt:video:o0heAVboJj4",
     "yt:video:LPtRRKDWKFU",
-    "yt:video:B6EL9VMXD2w",
-    "yt:video:iuVwv_Z29U4"
+    "yt:video:B6EL9VMXD2w"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCtu3QGmMXAVjc6UFbTOIVGQ": [
     "yt:video:PLYRVfLSqUo",
@@ -2202,6 +2202,7 @@
     "yt:video:QUkO-3mYwNI"
   ],
   "https://garumax.com/feed": [
+    "https://garumax.com/?p=269745",
     "https://garumax.com/?p=269689",
     "https://garumax.com/?p=269701",
     "https://garumax.com/?p=269685",
@@ -2250,8 +2251,7 @@
     "https://garumax.com/?p=268532",
     "https://garumax.com/?p=268581",
     "https://garumax.com/?p=268415",
-    "https://garumax.com/?p=268534",
-    "https://garumax.com/?p=268552"
+    "https://garumax.com/?p=268534"
   ],
   "https://www.webcreatorbox.com/feed/": [
     "https://www.webcreatorbox.com/blog/coderdojo",
@@ -2464,6 +2464,7 @@
     "2021917249288757703"
   ],
   "https://nitter.net/daily_trial/rss": [
+    "2090306368716841380",
     "2089553105788772503",
     "2089584802018304164",
     "2089355730205978846",
@@ -2512,8 +2513,7 @@
     "2085717327610601884",
     "2085671547080175904",
     "2085559791834005681",
-    "2085435886641258778",
-    "2085543881052164380"
+    "2085435886641258778"
   ],
   "https://nitter.net/ninjacodeee/rss": [
     "2090013150221598888",
