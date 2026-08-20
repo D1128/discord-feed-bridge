@@ -1,5 +1,7 @@
 {
   "https://pc.watch.impress.co.jp/sublink/pc.rdf": [
+    "https://pc.watch.impress.co.jp/docs/topic/present/2132433.html?ref=rss",
+    "https://pc.watch.impress.co.jp/docs/column/semicon/2134111.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2134358.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2134349.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2134346.html?ref=rss",
@@ -47,9 +49,7 @@
     "https://pc.watch.impress.co.jp/docs/news/2133574.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133479.html?ref=rss",
     "https://pc.watch.impress.co.jp/docs/news/2133554.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133531.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133565.html?ref=rss",
-    "https://pc.watch.impress.co.jp/docs/news/2133536.html?ref=rss"
+    "https://pc.watch.impress.co.jp/docs/news/2133531.html?ref=rss"
   ],
   "https://feeds2.feedburner.com/gigafree": [
     "https://www.gigafree.org/microsoft-edge/edge-googlechrome-cannot-open-pdf/",
