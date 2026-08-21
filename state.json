@@ -1140,6 +1140,10 @@
     "yt:video:UbBJLEvKCzc"
   ],
   "https://rss.itmedia.co.jp/rss/1.0/topstory.xml": [
+    "https://www.itmedia.co.jp/aiplus/article/2608/21/2000000666/",
+    "https://www.itmedia.co.jp/news/article/2608/21/2000000669/",
+    "https://www.itmedia.co.jp/news/article/2608/21/2000000670/",
+    "https://www.itmedia.co.jp/business/articles/2608/21/news045.html",
     "https://www.itmedia.co.jp/business/articles/2608/21/news008.html",
     "https://monoist.itmedia.co.jp/mn/articles/2608/21/news010.html",
     "https://www.itmedia.co.jp/news/article/2608/21/2000000668/",
@@ -1185,11 +1189,7 @@
     "https://www.itmedia.co.jp/aiplus/article/2608/19/2000000615/",
     "https://www.itmedia.co.jp/pcuser/articles/2608/19/news058.html",
     "https://www.itmedia.co.jp/news/article/2608/19/2000000613/",
-    "https://www.itmedia.co.jp/news/article/2608/19/2000000607/",
-    "https://built.itmedia.co.jp/bt/articles/2607/28/news011.html",
-    "https://www.itmedia.co.jp/news/article/2608/19/2000000608/",
-    "https://www.itmedia.co.jp/news/article/2608/19/2000000609/",
-    "https://www.itmedia.co.jp/mobile/articles/2608/19/news050.html"
+    "https://www.itmedia.co.jp/news/article/2608/19/2000000607/"
   ],
   "https://ai-market.jp/feed/": [],
   "https://smhn.info/feed": [
@@ -1297,6 +1297,11 @@
     "https://daily-gadget.net/?p=118933"
   ],
   "https://sumahodigest.com/?feed=rss2": [
+    "https://sumahodigest.com/?p=68021",
+    "https://sumahodigest.com/?p=68025",
+    "https://sumahodigest.com/?p=68029",
+    "https://sumahodigest.com/?p=68034",
+    "https://sumahodigest.com/?p=68038",
     "https://sumahodigest.com/?p=68003",
     "https://sumahodigest.com/?p=68007",
     "https://sumahodigest.com/?p=68013",
@@ -1341,14 +1346,10 @@
     "https://sumahodigest.com/?p=67827",
     "https://sumahodigest.com/?p=67810",
     "https://sumahodigest.com/?p=67805",
-    "https://sumahodigest.com/?p=67797",
-    "https://sumahodigest.com/?p=67801",
-    "https://sumahodigest.com/?p=67788",
-    "https://sumahodigest.com/?p=67792",
-    "https://sumahodigest.com/?p=67756",
-    "https://sumahodigest.com/?p=67760"
+    "https://sumahodigest.com/?p=67797"
   ],
   "https://yachin29.hatenablog.com/feed": [
+    "hatenablog://entry/13574176438014105194",
     "hatenablog://entry/17179246901356476760",
     "hatenablog://entry/6802888565228163254",
     "hatenablog://entry/6802418398339733242",
@@ -1397,10 +1398,18 @@
     "hatenablog://entry/14945776032040504532",
     "hatenablog://entry/13574176438026409608",
     "hatenablog://entry/14945776032038032079",
-    "hatenablog://entry/14945776032037722542",
-    "hatenablog://entry/10257846132705116821"
+    "hatenablog://entry/14945776032037722542"
   ],
   "https://official.gfs.tokyo/blog/feed": [
+    "https://official.gfs.tokyo/blog/?p=29481",
+    "https://official.gfs.tokyo/blog/?p=29483",
+    "https://official.gfs.tokyo/blog/?p=29485",
+    "https://official.gfs.tokyo/blog/?p=29487",
+    "https://official.gfs.tokyo/blog/?p=29489",
+    "https://official.gfs.tokyo/blog/?p=29529",
+    "https://official.gfs.tokyo/blog/?p=29533",
+    "https://official.gfs.tokyo/blog/?p=29538",
+    "https://official.gfs.tokyo/blog/?p=29542",
     "https://official.gfs.tokyo/blog/?p=29395",
     "https://official.gfs.tokyo/blog/?p=29399",
     "https://official.gfs.tokyo/blog/?p=29406",
@@ -1441,16 +1450,7 @@
     "https://official.gfs.tokyo/blog/?p=29140",
     "https://official.gfs.tokyo/blog/?p=29144",
     "https://official.gfs.tokyo/blog/?p=29148",
-    "https://official.gfs.tokyo/blog/?p=29152",
-    "https://official.gfs.tokyo/blog/?p=29018",
-    "https://official.gfs.tokyo/blog/?p=29028",
-    "https://official.gfs.tokyo/blog/?p=29040",
-    "https://official.gfs.tokyo/blog/?p=29086",
-    "https://official.gfs.tokyo/blog/?p=29025",
-    "https://official.gfs.tokyo/blog/?p=29036",
-    "https://official.gfs.tokyo/blog/?p=29012",
-    "https://official.gfs.tokyo/blog/?p=29027",
-    "https://official.gfs.tokyo/blog/?p=29016"
+    "https://official.gfs.tokyo/blog/?p=29152"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCVx34dwwm34Rs9rxyHDZzIg": [
     "yt:video:-NKAjNLw3II",
