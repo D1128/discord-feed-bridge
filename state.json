@@ -1735,6 +1735,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260821-harmful-cat-behaviors-internet-cute/",
     "https://gigazine.net/news/20260821-googlebook-event/",
     "https://gigazine.net/news/20260821-pokemon-center-data-breach/",
     "https://gigazine.net/news/20260821-grok-build-web-mobile/",
@@ -1783,10 +1784,11 @@
     "https://gigazine.net/news/20260819-hermes-agent-first-use/",
     "https://gigazine.net/news/20260819-cerebras-cs-4/",
     "https://gigazine.net/news/20260819-lucky-pierrot-yakisoba/",
-    "https://gigazine.net/news/20260819-lm-studio-bionic-skills/",
-    "https://gigazine.net/news/20260819-young-americans-increasingly-wary-ai/"
+    "https://gigazine.net/news/20260819-lm-studio-bionic-skills/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=229101",
+    "https://aismiley.co.jp/?post_type=ai_news&p=229076",
     "https://aismiley.co.jp/?post_type=ai_news&p=227978",
     "https://aismiley.co.jp/?post_type=ai_news&p=227549",
     "https://aismiley.co.jp/?post_type=ai_news&p=228193",
@@ -1834,9 +1836,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=228279",
     "https://aismiley.co.jp/?post_type=ai_news&p=227399",
     "https://aismiley.co.jp/?post_type=ai_news&p=227445",
-    "https://aismiley.co.jp/?post_type=ai_news&p=227769",
-    "https://aismiley.co.jp/?post_type=ai_news&p=227858",
-    "https://aismiley.co.jp/?post_type=ai_news&p=228204"
+    "https://aismiley.co.jp/?post_type=ai_news&p=227769"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189927",
