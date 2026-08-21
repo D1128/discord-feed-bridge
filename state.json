@@ -1735,6 +1735,7 @@
     "yt:video:vOVguYR0SSI"
   ],
   "https://gigazine.net/news/rss_2.0/": [
+    "https://gigazine.net/news/20260821-lfm2-5-dspark-faster-inference/",
     "https://gigazine.net/news/20260821-chickenramen-taiwan-mazesoba/",
     "https://gigazine.net/news/20260821-supcon-traffic-police-robot-in-hangzhou/",
     "https://gigazine.net/news/20260821-apple-music-ai-labels/",
@@ -1783,10 +1784,10 @@
     "https://gigazine.net/news/20260820-switchbot-ai-mindclip/",
     "https://gigazine.net/news/20260820-beware-management-consultants/",
     "https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction/",
-    "https://gigazine.net/news/20260820-ev-aggressive-driving-battery-aging/",
-    "https://gigazine.net/news/20260819-anthropic-claude-multiagent-turf-war/"
+    "https://gigazine.net/news/20260820-ev-aggressive-driving-battery-aging/"
   ],
   "https://aismiley.co.jp/ai_news/feed/": [
+    "https://aismiley.co.jp/?post_type=ai_news&p=229637",
     "https://aismiley.co.jp/?post_type=ai_news&p=229864",
     "https://aismiley.co.jp/?post_type=ai_news&p=229177",
     "https://aismiley.co.jp/?post_type=ai_news&p=230579",
@@ -1835,8 +1836,7 @@
     "https://aismiley.co.jp/?post_type=ai_news&p=228634",
     "https://aismiley.co.jp/?post_type=ai_news&p=228632",
     "https://aismiley.co.jp/?post_type=ai_news&p=229349",
-    "https://aismiley.co.jp/?post_type=ai_news&p=227391",
-    "https://aismiley.co.jp/?post_type=ai_news&p=228279"
+    "https://aismiley.co.jp/?post_type=ai_news&p=227391"
   ],
   "https://win-tab.net/feed/": [
     "https://win-tab.net/?p=189927",
@@ -2099,6 +2099,7 @@
     "yt:video:H9sc_WhnfYw"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCXo1SsIDZ_dke2Nr1r3qk6w": [
+    "yt:video:HcjR57-FfLE",
     "yt:video:dLPRqCFh4W4",
     "yt:video:WCuP2AOl-u0",
     "yt:video:F-eRd9thGN8",
@@ -2147,8 +2148,7 @@
     "yt:video:gpFvnm3E4ZQ",
     "yt:video:9ZGNAqsVGHk",
     "yt:video:TtylKH9TH5k",
-    "yt:video:5MEh3IRkw5E",
-    "yt:video:IShvdyZWwNc"
+    "yt:video:5MEh3IRkw5E"
   ],
   "https://www.youtube.com/feeds/videos.xml?channel_id=UCvHpETRVi1tXeRJoYiXHJqw": [
     "yt:video:znB29V30jBk",
